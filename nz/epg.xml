@@ -4200,12 +4200,12 @@
   </programme>
   <programme channel="tv.11" start="20180219060000 +0000" stop="20180219063000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Kanoa, Jesse and Josh are joined by guest host Jeremy Corbett, actor David Duchovny and engineer Peter Beck.</desc>
     <episode-num system="dd_progid">T806418</episode-num>
   </programme>
   <programme channel="tv.11" start="20180219063000 +0000" stop="20180219080000 +0000">
     <title>Married At First Sight Australia</title>
-    <desc>Australia's most controversial social experiment is back. Married at First Sight Australia sees 20 strangers matched by experts to make 10 couples whom meet for the first time on their wedding day.</desc>
+    <desc>New Episode. The experiment heats up as the couples move in together, and two of them begin a secret affair! S5 Ep10</desc>
     <episode-num system="dd_progid">T816136</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
@@ -4312,7 +4312,7 @@
   </programme>
   <programme channel="tv.11" start="20180220002500 +0000" stop="20180220020000 +0000">
     <title>Married At First Sight Australia (Encore)</title>
-    <desc>Australia's most controversial social experiment is back. Married at First Sight Australia sees 20 strangers matched by experts to make 10 couples whom meet for the first time on their wedding day.</desc>
+    <desc>New Episode. The experiment heats up as the couples move in together, and two of them begin a secret affair! S5 Ep10</desc>
     <episode-num system="dd_progid">T816136</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
@@ -4367,7 +4367,7 @@
   </programme>
   <programme channel="tv.11" start="20180220063000 +0000" stop="20180220080500 +0000">
     <title>Married At First Sight Australia</title>
-    <desc>Australia's most controversial social experiment is back. Married at First Sight Australia sees 20 strangers matched by experts to make 10 couples whom meet for the first time on their wedding day.</desc>
+    <desc>New Episode. 'Yes' Week continues as the first couple leaves the experiment, and the experiment broaches unchartered waters as Married at First Sight witnesses its first affair. S5 Ep11</desc>
     <episode-num system="dd_progid">T816137</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
@@ -4472,7 +4472,7 @@
   </programme>
   <programme channel="tv.11" start="20180221003000 +0000" stop="20180221020000 +0000">
     <title>Married At First Sight Australia (Encore)</title>
-    <desc>Australia's most controversial social experiment is back. Married at First Sight Australia sees 20 strangers matched by experts to make 10 couples whom meet for the first time on their wedding day.</desc>
+    <desc>New Episode. 'Yes' Week continues as the first couple leaves the experiment, and the experiment broaches unchartered waters as Married at First Sight witnesses its first affair. S5 Ep11</desc>
     <episode-num system="dd_progid">T816137</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
@@ -4527,8 +4527,11 @@
   </programme>
   <programme channel="tv.11" start="20180221063000 +0000" stop="20180221080500 +0000">
     <title>Married At First Sight Australia</title>
-    <desc>Australia's most controversial social experiment is back. Married at First Sight Australia sees 20 strangers matched by experts to make 10 couples whom meet for the first time on their wedding day.</desc>
+    <desc>New Episode. The couples celebrate the final day of 'Yes' Week with a fiery and emotional second dinner party together, which Dean and Davina use as a venue for a duplicitous tryst. S5 Ep12</desc>
     <episode-num system="dd_progid">T816138</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180221080500 +0000" stop="20180221090500 +0000">
     <title>Swipe Right For Murder</title>
@@ -4626,8 +4629,11 @@
   </programme>
   <programme channel="tv.11" start="20180222003000 +0000" stop="20180222020000 +0000">
     <title>Married At First Sight Australia (Encore)</title>
-    <desc>Australia's most controversial social experiment is back. Married at First Sight Australia sees 20 strangers matched by experts to make 10 couples whom meet for the first time on their wedding day.</desc>
+    <desc>New Episode. The couples celebrate the final day of 'Yes' Week with a fiery and emotional second dinner party together, which Dean and Davina use as a venue for a duplicitous tryst. S5 Ep12</desc>
     <episode-num system="dd_progid">T816138</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180222020000 +0000" stop="20180222023000 +0000">
     <title>Entertainment Tonight</title>
@@ -4847,7 +4853,7 @@
   </programme>
   <programme channel="tv.11" start="20180223080000 +0000" stop="20180223084500 +0000">
     <title>7 Days</title>
-    <desc>Hosted by Jeremy Corbett, with team captains Dai Henwood and Paul Ego, 7 Days sees New Zealand's top comedians pit their wits against the week's news and each other.</desc>
+    <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Cori Gonzalez-Macuer, Mel Bracewell, Bryce Casey and Rhys Mathewson.</desc>
     <episode-num system="dd_progid">T798510</episode-num>
   </programme>
   <programme channel="tv.11" start="20180223084500 +0000" stop="20180223091500 +0000">
@@ -4963,8 +4969,11 @@
   </programme>
   <programme channel="tv.11" start="20180224012500 +0000" stop="20180224015500 +0000">
     <title>Fresh Off The Boat</title>
-    <desc>It's the '90s and hip hop-loving Eddie has moved to suburban Orlando from Washington D.C.'s Chinatown with his parents and brothers. It's culture shock for his immigrant family in this comedy about pu</desc>
-    <episode-num system="dd_progid">T787070</episode-num>
+    <desc>Eddie takes Alison to see a modern remake of Romeo and Juliet for their anniversary, but Alison fears that their relationship has lost its spark. S3 Ep7</desc>
+    <episode-num system="dd_progid">T728420</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -5090,7 +5099,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180224205500 +0000" stop="20180224215000 +0000">
-    <title>The Nation</title>
+    <title>The Nation (Encore)</title>
     <desc>Hosted by Lisa Owen, The Nation is an in-depth weekly current affairs show focusing on the major players and forces that shape New Zealand.</desc>
     <episode-num system="dd_progid">T805450</episode-num>
   </programme>
@@ -5171,7 +5180,7 @@
   </programme>
   <programme channel="tv.11" start="20180225060000 +0000" stop="20180225073000 +0000">
     <title>Married At First Sight Australia</title>
-    <desc>Australia's most controversial social experiment is back. Married at First Sight Australia sees 20 strangers matched by experts to make 10 couples whom meet for the first time on their wedding day.</desc>
+    <desc>New Episode. A bombshell Commitment Ceremony rocks the group. S5 Ep13</desc>
     <episode-num system="dd_progid">T816139</episode-num>
   </programme>
   <programme channel="tv.11" start="20180225073000 +0000" stop="20180225095000 +0000">
@@ -5197,7 +5206,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180225104500 +0000" stop="20180225113500 +0000">
-    <title>Entertainment Tonight Weekend</title>
+    <title>Entertainment Tonight Weekend (Encore)</title>
     <desc>A wrap up of the biggest entertainment stories of the last week.</desc>
     <episode-num system="dd_progid">T807854</episode-num>
     <rating system="Freeview">
@@ -5205,12 +5214,12 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180225113500 +0000" stop="20180225163000 +0000">
-    <title>Informercials</title>
+    <title>Infomercials</title>
     <desc></desc>
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
   <programme channel="tv.11" start="20180225163000 +0000" stop="20180225170000 +0000">
-    <title>Informercials</title>
+    <title>Infomercials</title>
     <desc></desc>
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
@@ -5240,7 +5249,7 @@
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
   <programme channel="tv.11" start="20180225223000 +0000" stop="20180225230000 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <episode-num system="dd_progid">T807920</episode-num>
     <rating system="Freeview">
@@ -5248,7 +5257,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180225230000 +0000" stop="20180225233000 +0000">
-    <title>Family Feud Australia</title>
+    <title>Family Feud Australia (Encore)</title>
     <desc>It's the Australian version of Family Feud. Watch Aussie families battle against each other, answering questions that have been put to 100 people to determine the most popular responses.</desc>
     <episode-num system="dd_progid">T804174</episode-num>
     <rating system="Freeview">
@@ -5256,7 +5265,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180225233000 +0000" stop="20180226002500 +0000">
-    <title>Dr Phil</title>
+    <title>Dr. Phil</title>
     <desc>A story of a doctor and father who has sent money to a woman he met online to get two boxes containing $3.5 million in cash and $3 million in diamonds and jewellery.</desc>
     <episode-num system="dd_progid">T727868</episode-num>
     <rating system="Freeview">
@@ -5264,8 +5273,8 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180226002500 +0000" stop="20180226020000 +0000">
-    <title>Married At First Sight Australia</title>
-    <desc>Australia's most controversial social experiment is back. Married at First Sight Australia sees 20 strangers matched by experts to make 10 couples whom meet for the first time on their wedding day.</desc>
+    <title>Married At First Sight Australia (Encore)</title>
+    <desc>New Episode. A bombshell Commitment Ceremony rocks the group. S5 Ep13</desc>
     <episode-num system="dd_progid">T816139</episode-num>
   </programme>
   <programme channel="tv.11" start="20180226020000 +0000" stop="20180226023000 +0000">
@@ -5309,7 +5318,7 @@
   </programme>
   <programme channel="tv.11" start="20180226063000 +0000" stop="20180226080500 +0000">
     <title>Married At First Sight Australia</title>
-    <desc>Australia's most controversial social experiment is back. Married at First Sight Australia sees 20 strangers matched by experts to make 10 couples whom meet for the first time on their wedding day.</desc>
+    <desc>New Episode. It's been a month since our couples first met as complete strangers at the altar. Now they must move into the next challenging part of the experiment - the husband's homestays. S5 Ep14</desc>
     <episode-num system="dd_progid">T816140</episode-num>
   </programme>
   <programme channel="tv.11" start="20180226080500 +0000" stop="20180226090000 +0000">
@@ -5337,7 +5346,7 @@
     <episode-num system="dd_progid">T805526</episode-num>
   </programme>
   <programme channel="tv.11" start="20180226100000 +0000" stop="20180226111000 +0000">
-    <title>The Nation</title>
+    <title>The Nation (Encore)</title>
     <desc>Hosted by Lisa Owen, The Nation is an in-depth weekly current affairs show focusing on the major players and forces that shape New Zealand.</desc>
     <episode-num system="dd_progid">T805450</episode-num>
   </programme>
@@ -12417,12 +12426,12 @@
   </programme>
   <programme channel="tv.27" start="20180219070000 +0000" stop="20180219073000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Kanoa, Jesse and Josh are joined by guest host Jeremy Corbett, actor David Duchovny and engineer Peter Beck.</desc>
     <episode-num system="dd_progid">T806418</episode-num>
   </programme>
   <programme channel="tv.27" start="20180219073000 +0000" stop="20180219090000 +0000">
     <title>Married At First Sight Australia</title>
-    <desc>Australia's most controversial social experiment is back. Married at First Sight Australia sees 20 strangers matched by experts to make 10 couples whom meet for the first time on their wedding day.</desc>
+    <desc>New Episode. The experiment heats up as the couples move in together, and two of them begin a secret affair! S5 Ep10</desc>
     <episode-num system="dd_progid">T816136</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
@@ -12526,7 +12535,7 @@
   </programme>
   <programme channel="tv.27" start="20180220012500 +0000" stop="20180220030000 +0000">
     <title>Married At First Sight Australia (Encore)</title>
-    <desc>Australia's most controversial social experiment is back. Married at First Sight Australia sees 20 strangers matched by experts to make 10 couples whom meet for the first time on their wedding day.</desc>
+    <desc>New Episode. The experiment heats up as the couples move in together, and two of them begin a secret affair! S5 Ep10</desc>
     <episode-num system="dd_progid">T816136</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
@@ -12581,7 +12590,7 @@
   </programme>
   <programme channel="tv.27" start="20180220073000 +0000" stop="20180220090500 +0000">
     <title>Married At First Sight Australia</title>
-    <desc>Australia's most controversial social experiment is back. Married at First Sight Australia sees 20 strangers matched by experts to make 10 couples whom meet for the first time on their wedding day.</desc>
+    <desc>New Episode. 'Yes' Week continues as the first couple leaves the experiment, and the experiment broaches unchartered waters as Married at First Sight witnesses its first affair. S5 Ep11</desc>
     <episode-num system="dd_progid">T816137</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
@@ -12680,7 +12689,7 @@
   </programme>
   <programme channel="tv.27" start="20180221013000 +0000" stop="20180221030000 +0000">
     <title>Married At First Sight Australia (Encore)</title>
-    <desc>Australia's most controversial social experiment is back. Married at First Sight Australia sees 20 strangers matched by experts to make 10 couples whom meet for the first time on their wedding day.</desc>
+    <desc>New Episode. 'Yes' Week continues as the first couple leaves the experiment, and the experiment broaches unchartered waters as Married at First Sight witnesses its first affair. S5 Ep11</desc>
     <episode-num system="dd_progid">T816137</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
@@ -12735,8 +12744,11 @@
   </programme>
   <programme channel="tv.27" start="20180221073000 +0000" stop="20180221090500 +0000">
     <title>Married At First Sight Australia</title>
-    <desc>Australia's most controversial social experiment is back. Married at First Sight Australia sees 20 strangers matched by experts to make 10 couples whom meet for the first time on their wedding day.</desc>
+    <desc>New Episode. The couples celebrate the final day of 'Yes' Week with a fiery and emotional second dinner party together, which Dean and Davina use as a venue for a duplicitous tryst. S5 Ep12</desc>
     <episode-num system="dd_progid">T816138</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180221090500 +0000" stop="20180221100500 +0000">
     <title>Swipe Right For Murder</title>
@@ -12831,8 +12843,11 @@
   </programme>
   <programme channel="tv.27" start="20180222013000 +0000" stop="20180222030000 +0000">
     <title>Married At First Sight Australia (Encore)</title>
-    <desc>Australia's most controversial social experiment is back. Married at First Sight Australia sees 20 strangers matched by experts to make 10 couples whom meet for the first time on their wedding day.</desc>
+    <desc>New Episode. The couples celebrate the final day of 'Yes' Week with a fiery and emotional second dinner party together, which Dean and Davina use as a venue for a duplicitous tryst. S5 Ep12</desc>
     <episode-num system="dd_progid">T816138</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180222030000 +0000" stop="20180222033000 +0000">
     <title>Entertainment Tonight</title>
@@ -13037,7 +13052,7 @@
   </programme>
   <programme channel="tv.27" start="20180223090000 +0000" stop="20180223094500 +0000">
     <title>7 Days</title>
-    <desc>Hosted by Jeremy Corbett, with team captains Dai Henwood and Paul Ego, 7 Days sees New Zealand's top comedians pit their wits against the week's news and each other.</desc>
+    <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Cori Gonzalez-Macuer, Mel Bracewell, Bryce Casey and Rhys Mathewson.</desc>
     <episode-num system="dd_progid">T798510</episode-num>
   </programme>
   <programme channel="tv.27" start="20180223094500 +0000" stop="20180223101500 +0000">
@@ -13138,8 +13153,8 @@
   </programme>
   <programme channel="tv.27" start="20180224022500 +0000" stop="20180224025500 +0000">
     <title>Fresh Off The Boat</title>
-    <desc>It's the '90s and hip hop-loving Eddie has moved to suburban Orlando from Washington D.C.'s Chinatown with his parents and brothers. It's culture shock for his immigrant family in this comedy about pu</desc>
-    <episode-num system="dd_progid">T787070</episode-num>
+    <desc>Eddie takes Alison to see a modern remake of Romeo and Juliet for their anniversary, but Alison fears that their relationship has lost its spark. S3 Ep7</desc>
+    <episode-num system="dd_progid">T728420</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -13259,7 +13274,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180224215500 +0000" stop="20180224225000 +0000">
-    <title>The Nation</title>
+    <title>The Nation (Encore)</title>
     <desc>Hosted by Lisa Owen, The Nation is an in-depth weekly current affairs show focusing on the major players and forces that shape New Zealand.</desc>
     <episode-num system="dd_progid">T805450</episode-num>
   </programme>
@@ -13340,7 +13355,7 @@
   </programme>
   <programme channel="tv.27" start="20180225070000 +0000" stop="20180225083000 +0000">
     <title>Married At First Sight Australia</title>
-    <desc>Australia's most controversial social experiment is back. Married at First Sight Australia sees 20 strangers matched by experts to make 10 couples whom meet for the first time on their wedding day.</desc>
+    <desc>New Episode. A bombshell Commitment Ceremony rocks the group. S5 Ep13</desc>
     <episode-num system="dd_progid">T816139</episode-num>
   </programme>
   <programme channel="tv.27" start="20180225083000 +0000" stop="20180225105000 +0000">
@@ -13360,7 +13375,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180225114500 +0000" stop="20180225123500 +0000">
-    <title>Entertainment Tonight Weekend</title>
+    <title>Entertainment Tonight Weekend (Encore)</title>
     <desc>A wrap up of the biggest entertainment stories of the last week.</desc>
     <episode-num system="dd_progid">T807854</episode-num>
     <rating system="Freeview">
@@ -13368,12 +13383,12 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180225123500 +0000" stop="20180225173000 +0000">
-    <title>Informercials</title>
+    <title>Infomercials</title>
     <desc></desc>
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
   <programme channel="tv.27" start="20180225173000 +0000" stop="20180225180000 +0000">
-    <title>Informercials</title>
+    <title>Infomercials</title>
     <desc></desc>
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
@@ -13403,7 +13418,7 @@
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
   <programme channel="tv.27" start="20180225233000 +0000" stop="20180226000000 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <episode-num system="dd_progid">T807920</episode-num>
     <rating system="Freeview">
@@ -13411,7 +13426,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180226000000 +0000" stop="20180226003000 +0000">
-    <title>Family Feud Australia</title>
+    <title>Family Feud Australia (Encore)</title>
     <desc>It's the Australian version of Family Feud. Watch Aussie families battle against each other, answering questions that have been put to 100 people to determine the most popular responses.</desc>
     <episode-num system="dd_progid">T804174</episode-num>
     <rating system="Freeview">
@@ -13419,7 +13434,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180226003000 +0000" stop="20180226012500 +0000">
-    <title>Dr Phil</title>
+    <title>Dr. Phil</title>
     <desc>A story of a doctor and father who has sent money to a woman he met online to get two boxes containing $3.5 million in cash and $3 million in diamonds and jewellery.</desc>
     <episode-num system="dd_progid">T727868</episode-num>
     <rating system="Freeview">
@@ -13427,8 +13442,8 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180226012500 +0000" stop="20180226030000 +0000">
-    <title>Married At First Sight Australia</title>
-    <desc>Australia's most controversial social experiment is back. Married at First Sight Australia sees 20 strangers matched by experts to make 10 couples whom meet for the first time on their wedding day.</desc>
+    <title>Married At First Sight Australia (Encore)</title>
+    <desc>New Episode. A bombshell Commitment Ceremony rocks the group. S5 Ep13</desc>
     <episode-num system="dd_progid">T816139</episode-num>
   </programme>
   <programme channel="tv.27" start="20180226030000 +0000" stop="20180226033000 +0000">
@@ -13472,7 +13487,7 @@
   </programme>
   <programme channel="tv.27" start="20180226073000 +0000" stop="20180226090500 +0000">
     <title>Married At First Sight Australia</title>
-    <desc>Australia's most controversial social experiment is back. Married at First Sight Australia sees 20 strangers matched by experts to make 10 couples whom meet for the first time on their wedding day.</desc>
+    <desc>New Episode. It's been a month since our couples first met as complete strangers at the altar. Now they must move into the next challenging part of the experiment - the husband's homestays. S5 Ep14</desc>
     <episode-num system="dd_progid">T816140</episode-num>
   </programme>
   <programme channel="tv.27" start="20180226090500 +0000" stop="20180226100000 +0000">
@@ -16177,8 +16192,8 @@
   </programme>
   <programme channel="tv.51" start="20180219200000 +0000" stop="20180219210000 +0000">
     <title>Top 10</title>
-    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - See Them Play In 2017</desc>
-    <episode-num system="dd_progid">T576083</episode-num>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Demi Lovato</desc>
+    <episode-num system="dd_progid">T576149</episode-num>
   </programme>
   <programme channel="tv.51" start="20180219210000 +0000" stop="20180219230000 +0000">
     <title>All The Hits</title>
@@ -16239,8 +16254,8 @@
   </programme>
   <programme channel="tv.51" start="20180220070000 +0000" stop="20180220080000 +0000">
     <title>Top 10</title>
-    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Biggest Videos Of 2015</desc>
-    <episode-num system="dd_progid">T576082</episode-num>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Demi Lovato</desc>
+    <episode-num system="dd_progid">T576149</episode-num>
   </programme>
   <programme channel="tv.51" start="20180220080000 +0000" stop="20180220093000 +0000">
     <title>All The Hits</title>
@@ -16346,8 +16361,8 @@
   </programme>
   <programme channel="tv.51" start="20180221070000 +0000" stop="20180221080000 +0000">
     <title>Top 10</title>
-    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - See Them Play In 2017</desc>
-    <episode-num system="dd_progid">T576083</episode-num>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Kiwi Classics</desc>
+    <episode-num system="dd_progid">T576084</episode-num>
   </programme>
   <programme channel="tv.51" start="20180221080000 +0000" stop="20180221093000 +0000">
     <title>All The Hits</title>
@@ -16453,8 +16468,8 @@
   </programme>
   <programme channel="tv.51" start="20180222070000 +0000" stop="20180222080000 +0000">
     <title>Top 10</title>
-    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Kiwi Classics</desc>
-    <episode-num system="dd_progid">T576084</episode-num>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Teen Sensations</desc>
+    <episode-num system="dd_progid">T576085</episode-num>
   </programme>
   <programme channel="tv.51" start="20180222080000 +0000" stop="20180222093000 +0000">
     <title>All The Hits</title>
@@ -16560,8 +16575,8 @@
   </programme>
   <programme channel="tv.51" start="20180223070000 +0000" stop="20180223080000 +0000">
     <title>Top 10</title>
-    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Teen Sensations</desc>
-    <episode-num system="dd_progid">T576085</episode-num>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Exotic Locations</desc>
+    <episode-num system="dd_progid">T576086</episode-num>
   </programme>
   <programme channel="tv.51" start="20180223080000 +0000" stop="20180223093000 +0000">
     <title>All The Hits</title>
@@ -16612,9 +16627,12 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180223210000 +0000" stop="20180224000000 +0000">
-    <title>Edge Fat 40, The</title>
-    <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <title>The Edge Fat 40</title>
+    <desc>The Edge Fat 40 is New Zealand's biggest music chart show across TV and Radio - counting down the fattest 40 songs in the country! #theedgetv</desc>
+    <episode-num system="dd_progid">T495242</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.51" start="20180224000000 +0000" stop="20180224030000 +0000">
     <title>All The Hits</title>
@@ -16776,9 +16794,9 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180225200000 +0000" stop="20180225210000 +0000">
-    <title>Top 10</title>
-    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Planes, Trains &amp; Aeroplanes</desc>
-    <episode-num system="dd_progid">T576087</episode-num>
+    <title>Collaberations</title>
+    <desc>Top 10 songs with a daily changing theme. Todays theme.. Collaberations</desc>
+    <episode-num system="dd_progid">T576203</episode-num>
   </programme>
   <programme channel="tv.51" start="20180225210000 +0000" stop="20180225230000 +0000">
     <title>All The Hits</title>
@@ -16838,9 +16856,9 @@
     <episode-num system="dd_progid">T575886</episode-num>
   </programme>
   <programme channel="tv.51" start="20180226070000 +0000" stop="20180226080000 +0000">
-    <title>Top 10</title>
-    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Exotic Locations</desc>
-    <episode-num system="dd_progid">T576086</episode-num>
+    <title>Collaberations</title>
+    <desc>Top 10 songs with a daily changing theme. Todays theme.. Collaberations</desc>
+    <episode-num system="dd_progid">T576203</episode-num>
   </programme>
   <programme channel="tv.51" start="20180226080000 +0000" stop="20180226093000 +0000">
     <title>All The Hits</title>
@@ -24895,36 +24913,36 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180219103000 +0000" stop="20180219113000 +0000">
-    <title>China Holiday Tours</title>
-    <desc>Our amazing China Holiday Tour is back! Discover an exotic world of wonder with our travel itinerary, packed with unforgettable sights, delicious cuisine and relaxing accomodation in mystical China.</desc>
+    <title>Dr Nassif Skincare</title>
+    <desc>The renowned plastic surgeon has developed a line of cosmetic skin care products that address the changes that our skin experiences during the day versus the night.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180219113000 +0000" stop="20180219123000 +0000">
-    <title>Lisa Hoffman Beauty</title>
-    <desc>Award-winning Lisa Hoffman Beauty returns to TVSN! Don't miss our incredible show featuring the sought-after collection of earrings, necklaces and bracelets that hold spherical beads soaked in scent.</desc>
+    <title>VibroSlim Ultra For Toning</title>
+    <desc>Start enjoying the many benefits of vibration technology with the lightest and thinnest vibration platform yet. See why it is the perfect toning equipment for the whole family to enjoy.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180219123000 +0000" stop="20180219133000 +0000">
-    <title>Oil of Morocco Argan Haircare</title>
-    <desc>Lavish your tresses with the natural goodness of certified organic Argan oil! This range of haircare is formulated with natural oils and no sulphates for super-hydration balance and shine.</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.45" start="20180219133000 +0000" stop="20180219143000 +0000">
     <title>Silk Islands Kaftans</title>
     <desc>Silk Islands kaftans are created by hand with love for women to experience pure luxurious comfort. Slip into a kaftan &amp; Feel instantly glamorous in the high quality range of silk materials.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.45" start="20180219133000 +0000" stop="20180219143000 +0000">
+    <title>Carla Oates The Beauty Chef</title>
+    <desc>The secret to glowing skin is in the kitchen! Carla Oates blends certified organic, naturally fermented superfoods to create a powerhouse of nutrients and healthy bacteria.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.45" start="20180219143000 +0000" stop="20180219153000 +0000">
-    <title>Charlie Bears Collectables</title>
-    <desc>Handmade in Southern England, Charlie Bears are collectible plush bears of the highest quality each one's emotive face the result of skilled labour and loving care. A perfectly sweet gift!</desc>
+    <title>Oil of Morocco Argan Haircare</title>
+    <desc>Lavish your tresses with the natural goodness of certified organic Argan oil! This range of haircare is formulated with natural oils and no sulphates for super-hydration balance and shine.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -24944,8 +24962,8 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180219173000 +0000" stop="20180219183000 +0000">
-    <title>Oil of Morocco Argan Haircare</title>
-    <desc>Lavish your tresses with the natural goodness of certified organic Argan oil! This range of haircare is formulated with natural oils and no sulphates for super-hydration balance and shine.</desc>
+    <title>Lisa Hoffman Beauty</title>
+    <desc>Award-winning Lisa Hoffman Beauty returns to TVSN! Don't miss our incredible show featuring the sought-after collection of earrings, necklaces and bracelets that hold spherical beads soaked in scent.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -24958,15 +24976,15 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180219193000 +0000" stop="20180219203000 +0000">
-    <title>Carla Oates The Beauty Chef</title>
-    <desc>The secret to glowing skin is in the kitchen! Carla Oates blends certified organic, naturally fermented superfoods to create a powerhouse of nutrients and healthy bacteria.</desc>
+    <title>VibroSlim Ultra For Toning</title>
+    <desc>Start enjoying the many benefits of vibration technology with the lightest and thinnest vibration platform yet. See why it is the perfect toning equipment for the whole family to enjoy.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180219203000 +0000" stop="20180219213000 +0000">
-    <title>Collectable Cars Holden HR</title>
-    <desc>See it, love it, collect it. From muscle cars to sporting stars, figurines to footy teams, we've got Collectables that pay homage to your passion and celebrate its honour forever.</desc>
+    <title>Carla Oates The Beauty Chef</title>
+    <desc>The secret to glowing skin is in the kitchen! Carla Oates blends certified organic, naturally fermented superfoods to create a powerhouse of nutrients and healthy bacteria.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
