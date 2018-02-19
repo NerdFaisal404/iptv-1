@@ -21711,13 +21711,17 @@
     <title>To Be Advised</title>
     <episode-num system="dd_progid">150794E23423</episode-num>
   </programme>
-  <programme channel="tv.101305050550" start="20180225162500 +0000" stop="20180225165500 +0000">
+  <programme channel="tv.101305050550" start="20180225162500 +0000" stop="20180225170000 +0000">
     <title>To Be Advised</title>
     <episode-num system="dd_progid">150794E23423</episode-num>
   </programme>
-  <programme channel="tv.101305050550" start="20180225165500 +0000" stop="20180225173500 +0000">
-    <title>To Be Advised</title>
-    <episode-num system="dd_progid">150794E23423</episode-num>
+  <programme channel="tv.101305050550" start="20180225170000 +0000" stop="20180225173500 +0000">
+    <title>Harry's Practice</title>
+    <episode-num system="dd_progid">sfbsltaPmtaP</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.101305050550" start="20180225173500 +0000" stop="20180225183000 +0000">
     <title>Meet the Press</title>
@@ -22215,8 +22219,12 @@
     </rating>
   </programme>
   <programme channel="tv.101305050552" start="20180220013000 +0000" stop="20180220030000 +0000">
-    <title>To Be Advised</title>
-    <episode-num system="dd_progid">150794E23423</episode-num>
+    <title>My Kitchen Rules</title>
+    <episode-num system="dd_progid">249751E8244743</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.101305050552" start="20180220030000 +0000" stop="20180220033000 +0000">
     <title>Harry's Practice</title>
@@ -24712,7 +24720,21 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050553" start="20180224063000 +0000" stop="20180224080000 +0000">
+  <programme channel="tv.101305050553" start="20180224063000 +0000" stop="20180224070000 +0000">
+    <title>Storage: Flog The Lot</title>
+    <episode-num system="dd_progid">uLzutdaOltaPmdaM</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050553" start="20180224070000 +0000" stop="20180224073000 +0000">
+    <title>Storage: Flog The Lot</title>
+    <episode-num system="dd_progid">uLzutdaOltaPmdaL</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050553" start="20180224073000 +0000" stop="20180224080000 +0000">
     <title>PyeongChang 2018 Winter Olympics</title>
     <episode-num system="dd_progid">vLCmwteHltaPmd0J</episode-num>
     <subtitles type="teletext"/>
@@ -25101,6 +25123,9 @@
   <programme channel="tv.101305050553" start="20180226103000 +0000" stop="20180226124000 +0000">
     <title>Dirty Harry</title>
     <episode-num system="dd_progid">vLjgr3aNltaPmdeG</episode-num>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
   </programme>
   <programme channel="tv.101305050553" start="20180226124000 +0000" stop="20180226131000 +0000">
     <title>Casino Confidential</title>
@@ -26992,56 +27017,56 @@
   </programme>
   <programme channel="tv.101305050555" start="20180226100000 +0000" stop="20180226102900 +0000">
     <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKztsLPmdaOn6xx</episode-num>
+    <episode-num system="dd_progid">seKztsLPmdaOnPxx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305050555" start="20180226102900 +0000" stop="20180226105800 +0000">
     <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKztsLPmdaOnPxx</episode-num>
+    <episode-num system="dd_progid">seKztsLPmdaOoaxx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305050555" start="20180226105800 +0000" stop="20180226112600 +0000">
     <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKztsLPmdaOoaxx</episode-num>
+    <episode-num system="dd_progid">seKztsLPmdaOoqxx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305050555" start="20180226112600 +0000" stop="20180226115500 +0000">
     <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKztsLPmdaOoqxx</episode-num>
+    <episode-num system="dd_progid">seKztsLPmdaNmaxx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305050555" start="20180226115500 +0000" stop="20180226122300 +0000">
     <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKztsLPmdaOn6xx</episode-num>
+    <episode-num system="dd_progid">seKztsLPmdaOnPxx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305050555" start="20180226122300 +0000" stop="20180226125200 +0000">
     <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKztsLPmdaOnPxx</episode-num>
+    <episode-num system="dd_progid">seKztsLPmdaOoaxx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305050555" start="20180226125200 +0000" stop="20180226131600 +0000">
     <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKztsLPmdaOoaxx</episode-num>
+    <episode-num system="dd_progid">seKztsLPmdaOoqxx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305050555" start="20180226131600 +0000" stop="20180226134000 +0000">
     <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKztsLPmdaOoqxx</episode-num>
+    <episode-num system="dd_progid">seKztsLPmdaNmaxx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
