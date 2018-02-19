@@ -1841,6 +1841,14 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180227130000 +0000" stop="20180227133000 +0000">
+    <title>ABC Late News</title>
+    <episode-num system="dd_progid">NU1826W042S00</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210222" start="20180219124000 +0000" stop="20180219130200 +0000">
     <title>Parks and Recreation</title>
     <episode-num system="dd_progid">ZW1339A010S00</episode-num>
@@ -6668,13 +6676,6 @@
     <episode-num system="dd_progid">ZW1339A016S00</episode-num>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210224" start="20180219121200 +0000" stop="20180219145300 +0000">
-    <title>Station Close</title>
-    <episode-num system="dd_progid">TX1701H001S00</episode-num>
-    <rating system="Freeview">
-      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210224" start="20180219145300 +0000" stop="20180219180000 +0000">
@@ -11755,14 +11756,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20180219125100 +0000" stop="20180219135300 +0000">
-    <title>Fugitive: Black Ops</title>
-    <episode-num system="dd_progid">FUBL_1_10</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204300430" start="20180219135300 +0000" stop="20180219142300 +0000">
     <title>Postcards</title>
     <episode-num system="dd_progid">POVI_2018_2</episode-num>
@@ -13165,13 +13158,6 @@
   <programme channel="tv.101204300430" start="20180227124000 +0000" stop="20180227133500 +0000">
     <title>Cold Case</title>
     <episode-num system="dd_progid">COCA_3_2T6372</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204300433" start="20180219122800 +0000" stop="20180219133200 +0000">
-    <title>Keeping Up With the Kardashians</title>
-    <episode-num system="dd_progid">KEUP_12_7BP07</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -15030,10 +15016,9 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300436" start="20180219124200 +0000" stop="20180219133800 +0000">
-    <title>Public Morals</title>
-    <episode-num system="dd_progid">PUMO_1_3</episode-num>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101204300433" start="20180227130000 +0000" stop="20180227140000 +0000">
+    <title>Keeping Up With the Kardashians</title>
+    <episode-num system="dd_progid">KEUP_12_7BP12</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -16501,13 +16486,6 @@
   <programme channel="tv.101204300436" start="20180227125000 +0000" stop="20180227140000 +0000">
     <title>New Tricks</title>
     <episode-num system="dd_progid">NETR_7_10</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204300437" start="20180219124400 +0000" stop="20180219143000 +0000">
-    <title>Celebrity Big Brother</title>
-    <episode-num system="dd_progid">CEBIBR_1_7</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -18655,14 +18633,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20180219123000 +0000" stop="20180219130000 +0000">
-    <title>Raceday Review - Moe</title>
-    <episode-num system="dd_progid">RV18022A</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305020528" start="20180219130000 +0000" stop="20180219133000 +0000">
     <title>Raceday Review - Sha Tin</title>
     <episode-num system="dd_progid">RV18024A</episode-num>
@@ -20727,9 +20697,9 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20180219100300 +0000" stop="20180219143100 +0000">
-    <title>PyeongChang 2018 Winter Olympics</title>
-    <episode-num system="dd_progid">vLCmwteHltaPmduN</episode-num>
+  <programme channel="tv.101305020528" start="20180227130000 +0000" stop="20180227133000 +0000">
+    <title>Raceday Review - Sha Tin</title>
+    <episode-num system="dd_progid">RV25023A</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -21680,11 +21650,11 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20180219125300 +0000" stop="20180219135100 +0000">
-    <title>Bargain Hunt</title>
-    <episode-num system="dd_progid">q25vt3qOltaPmdiO</episode-num>
+  <programme channel="tv.101305030530" start="20180227130000 +0000" stop="20180227135600 +0000">
+    <title>Time After Time</title>
+    <episode-num system="dd_progid">ve1nqtaOltaPmdaI</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305030532" start="20180219135100 +0000" stop="20180219141900 +0000">
@@ -23438,14 +23408,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20180219100300 +0000" stop="20180219131100 +0000">
-    <title>Gladiator</title>
-    <episode-num system="dd_progid">t2jdu30SmdaPmdqx</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305030533" start="20180219131100 +0000" stop="20180219134000 +0000">
     <title>Cement Heads</title>
     <episode-num system="dd_progid">qLvnsdaOltaPmdaI</episode-num>
@@ -25025,11 +24987,11 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20180219125400 +0000" stop="20180219131900 +0000">
-    <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKztsLPmdaOnqxx</episode-num>
+  <programme channel="tv.101305030533" start="20180227130000 +0000" stop="20180227140000 +0000">
+    <title>Ink Master</title>
+    <episode-num system="dd_progid">suGlttaJltaPmdeP</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305030535" start="20180219131900 +0000" stop="20180219134700 +0000">
@@ -26934,13 +26896,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406030631" start="20180219123000 +0000" stop="20180219130000 +0000">
-    <title>Hogan's Heroes</title>
-    <episode-num system="dd_progid">60229E1176003</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406030631" start="20180219130000 +0000" stop="20180219133000 +0000">
     <title>Home Shopping</title>
     <episode-num system="dd_progid">57596E1476421</episode-num>
@@ -28691,14 +28646,6 @@
     <episode-num system="dd_progid">60350E1526014</episode-num>
     <rating system="Freeview">
       <value>MA</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406030635" start="20180219120200 +0000" stop="20180219130000 +0000">
-    <title>The Project</title>
-    <episode-num system="dd_progid">59797E1500876</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101406030635" start="20180219130000 +0000" stop="20180219140000 +0000">
@@ -36887,13 +36834,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180219125500 +0000" stop="20180219130000 +0000">
-    <title>Lyndey &amp; Herbie's Moveable Feast</title>
-    <episode-num system="dd_progid">837070</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203000304" start="20180219130000 +0000" stop="20180219133000 +0000">
     <title>Food Lab By Ben Milbourne</title>
     <episode-num system="dd_progid">873823</episode-num>
@@ -39596,6 +39536,13 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000304" start="20180227130000 +0000" stop="20180227133000 +0000">
+    <title>Paul Hollywood City Bakes</title>
+    <episode-num system="dd_progid">834350</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000305" start="20180219123000 +0000" stop="20180219130000 +0000">
     <title>From The Western Frontier</title>
     <episode-num system="dd_progid">788452</episode-num>
@@ -42014,6 +41961,13 @@
     <episode-num system="dd_progid">732053</episode-num>
     <rating system="Freeview">
       <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180227130000 +0000" stop="20180227140000 +0000">
+    <title>Volumz</title>
+    <episode-num system="dd_progid">648966</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
 </tv>
