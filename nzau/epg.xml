@@ -15135,7 +15135,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.28" start="20180220073000 +0000" stop="20180220083000 +0000">
+  <programme channel="tv.28" start="20180220073000 +0000" stop="20180220083500 +0000">
     <title>The Eighties</title>
     <desc>'The AIDS virus made a mysterious and lethal step into the spotlight in the 80s, developing into a worldwide pandemic with enormous political and cultural consequences. PGR'</desc>
     <episode-num system="dd_progid">SNZ10988471</episode-num>
@@ -15143,22 +15143,22 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.28" start="20180220083000 +0000" stop="20180220093000 +0000">
+  <programme channel="tv.28" start="20180220083500 +0000" stop="20180220101500 +0000">
     <title>Freestyle Skiing</title>
     <desc>PyeongChang 2018 Olympic Winter Games. Catch the action from the Freestyle Skiing Men's Halfpipe Qualifiers at the Phoenix Snow Park with Stephen Mclvor. G</desc>
-    <episode-num system="dd_progid">SNZ10985731</episode-num>
+    <episode-num system="dd_progid">SNZ37130741</episode-num>
   </programme>
-  <programme channel="tv.28" start="20180220093000 +0000" stop="20180220120000 +0000">
+  <programme channel="tv.28" start="20180220101500 +0000" stop="20180220113000 +0000">
     <title>Ice Hockey</title>
-    <desc>'PyeongChang 2018 Olympic Winter Games. Hosted by Stephen Mclvor, catch the action from Gangneung Hockey Centre for the Ice Hockey Men's Qualifying Playoff. G'</desc>
+    <desc>'PyeongChang 2018 Olympic Winter Games. Hosted by Stephen Mclvor, catch the action from Gangneung Hockey Centre for the Ice Hockey Men's Qualifying Playoff. Slovenia v Norway. G'</desc>
     <episode-num system="dd_progid">SNZ37130746</episode-num>
   </programme>
-  <programme channel="tv.28" start="20180220120000 +0000" stop="20180220124500 +0000">
+  <programme channel="tv.28" start="20180220113000 +0000" stop="20180220123000 +0000">
     <title>Short Track Speed Skating</title>
-    <desc>PyeongChang 2018 Olympic Winter Games. Head to Gangneung Ice Arena with Stephen Mclvor for the Men's Short Track Speed Skating 500m Heat and the Womens 3000m Final. G</desc>
+    <desc>'PyeongChang 2018 Olympic Winter Games. Head to Gangneung Ice Arena with Stephen Mclvor for the ladie's 1000m heats, Men's Short Track Speed Skating 500m Heat and the Womens 3000m Final. G'</desc>
     <episode-num system="dd_progid">SNZ37130751</episode-num>
   </programme>
-  <programme channel="tv.28" start="20180220124500 +0000" stop="20180220140000 +0000">
+  <programme channel="tv.28" start="20180220123000 +0000" stop="20180220140000 +0000">
     <title>Nordic Combined</title>
     <desc>PyeongChang 2018 Olympic Winter Games. Don't miss out on the Nordic Combined Men's Large Hill and Individual 10km hosted by Stephen Mclvor. G</desc>
     <episode-num system="dd_progid">SNZ37130756</episode-num>
@@ -15719,7 +15719,7 @@
   </programme>
   <programme channel="tv.28" start="20180223220000 +0000" stop="20180224003000 +0000">
     <title>The Crowd Goes Wild Omnibus</title>
-    <desc>'Want your sports news delivered with extra cheek, minus the dullness? Join the team as they present the best of the day's sports news. G'</desc>
+    <desc>'Want your sports news delivered with extra cheek, minus the dullness? Join the team as they present the best of the week's sports news. G'</desc>
     <episode-num system="dd_progid">SNZ11060905</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -76853,22 +76853,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180225040000 +0000" stop="20180225050000 +0000">
-    <title>Jayco Herald Sun Tour</title>
-    <episode-num system="dd_progid">913639</episode-num>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000301" start="20180225040000 +0000" stop="20180225050000 +0000">
     <title>Cycling Herald Sun Tour 2018</title>
     <episode-num system="dd_progid">901129</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000301" start="20180225050000 +0000" stop="20180225060000 +0000">
-    <title>Cycling Herald Sun Tour 2018</title>
-    <episode-num system="dd_progid">901130</episode-num>
+  <programme channel="tv.320203000301" start="20180225040000 +0000" stop="20180225050000 +0000">
+    <title>Jayco Herald Sun Tour</title>
+    <episode-num system="dd_progid">913639</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -76876,6 +76869,13 @@
   <programme channel="tv.320203000301" start="20180225050000 +0000" stop="20180225060000 +0000">
     <title>Road National Championships</title>
     <episode-num system="dd_progid">913641</episode-num>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000301" start="20180225050000 +0000" stop="20180225060000 +0000">
+    <title>Cycling Herald Sun Tour 2018</title>
+    <episode-num system="dd_progid">901130</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
