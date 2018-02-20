@@ -1865,9 +1865,9 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20180220121700 +0000" stop="20180220132500 +0000">
-    <title>Q&amp;A</title>
-    <episode-num system="dd_progid">NC1804H003S00</episode-num>
+  <programme channel="tv.101002210220" start="20180228130000 +0000" stop="20180228133000 +0000">
+    <title>ABC Late News</title>
+    <episode-num system="dd_progid">NU1826W043S00</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -8423,13 +8423,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180220120300 +0000" stop="20180220180000 +0000">
-    <title>Station Close</title>
-    <episode-num system="dd_progid">TX1701H001S00</episode-num>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002210224" start="20180220180000 +0000" stop="20180220182200 +0000">
     <title>Grojband</title>
     <episode-num system="dd_progid">ZX8944A026S00</episode-num>
@@ -11814,14 +11807,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20180220124200 +0000" stop="20180220133500 +0000">
-    <title>Cold Case</title>
-    <episode-num system="dd_progid">COCA_3_2T6371</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204200421" start="20180220133500 +0000" stop="20180220142900 +0000">
     <title>20/20</title>
     <episode-num system="dd_progid">TWTW_2018_7</episode-num>
@@ -13229,13 +13214,6 @@
     <title>Soundbreaking</title>
     <episode-num system="dd_progid">SOBR_1_6</episode-num>
     <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204200424" start="20180220125600 +0000" stop="20180220140200 +0000">
-    <title>Keeping Up With the Kardashians</title>
-    <episode-num system="dd_progid">KEUP_12_7BP08</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -15090,13 +15068,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20180220124200 +0000" stop="20180220135000 +0000">
-    <title>New Tricks</title>
-    <episode-num system="dd_progid">NETR_7_8</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204200427" start="20180220135000 +0000" stop="20180220142400 +0000">
     <title>TV Shop - Home Shopping</title>
     <episode-num system="dd_progid">TVSH__A2830PWF21GE</episode-num>
@@ -16495,13 +16466,6 @@
     <title>Cold Case</title>
     <episode-num system="dd_progid">COCA_2_177754</episode-num>
     <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204200428" start="20180220125300 +0000" stop="20180220135100 +0000">
-    <title>Celebrity Big Brother</title>
-    <episode-num system="dd_progid">CEBIBR_1_8</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -18658,14 +18622,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20180220100200 +0000" stop="20180220143000 +0000">
-    <title>PyeongChang 2018 Winter Olympics</title>
-    <episode-num system="dd_progid">vLCmwteHltaPmduI</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305020520" start="20180220143000 +0000" stop="20180220152100 +0000">
     <title>Time After Time</title>
     <episode-num system="dd_progid">ve1nqtaOltaPmdaJ</episode-num>
@@ -19657,9 +19613,9 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180220123000 +0000" stop="20180220133000 +0000">
-    <title>Bargain Hunt</title>
-    <episode-num system="dd_progid">q25vt3qOltaPmdiN</episode-num>
+  <programme channel="tv.101305020520" start="20180228130000 +0000" stop="20180228132800 +0000">
+    <title>Powerless</title>
+    <episode-num system="dd_progid">ueCxrtaOltaPmdaJ</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -23087,14 +23043,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020525" start="20180220123000 +0000" stop="20180220143000 +0000">
-    <title>The Amazing Race</title>
-    <episode-num system="dd_progid">quKsqMmPltaPodaM</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305020525" start="20180220143000 +0000" stop="20180220161500 +0000">
     <title>Trail Street</title>
     <episode-num system="dd_progid">u2SpltaPmteL</episode-num>
@@ -24996,14 +24944,6 @@
     <episode-num system="dd_progid">seCbttaLltaPmdaM</episode-num>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20180220120000 +0000" stop="20180220130000 +0000">
-    <title>After The Last</title>
-    <episode-num system="dd_progid">ATL2002R</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20180220130000 +0000" stop="20180220133000 +0000">
@@ -27014,13 +26954,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020621" start="20180220123000 +0000" stop="20180220130000 +0000">
-    <title>Hogan's Heroes</title>
-    <episode-num system="dd_progid">60229E1176004</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406020621" start="20180220130000 +0000" stop="20180220133000 +0000">
     <title>Home Shopping</title>
     <episode-num system="dd_progid">57596E1476422</episode-num>
@@ -28773,12 +28706,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20180220123400 +0000" stop="20180220133500 +0000">
-    <title>The Project</title>
-    <episode-num system="dd_progid">59797E1500877</episode-num>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101406020621" start="20180228130000 +0000" stop="20180228133000 +0000">
+    <title>Home Shopping</title>
+    <episode-num system="dd_progid">57596E1476428</episode-num>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20180220133500 +0000" stop="20180220143000 +0000">
@@ -34062,15 +33994,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180225040000 +0000" stop="20180225050000 +0000">
-    <title>Cycling Herald Sun Tour 2018</title>
-    <episode-num system="dd_progid">901129</episode-num>
+    <title>Jayco Herald Sun Tour</title>
+    <episode-num system="dd_progid">913639</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180225040000 +0000" stop="20180225050000 +0000">
-    <title>Jayco Herald Sun Tour</title>
-    <episode-num system="dd_progid">913639</episode-num>
+    <title>Cycling Herald Sun Tour 2018</title>
+    <episode-num system="dd_progid">901129</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -36943,13 +36875,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20180220125500 +0000" stop="20180220130000 +0000">
-    <title>Tasty Conversations With Audra Morrice</title>
-    <episode-num system="dd_progid">845541</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203000304" start="20180220130000 +0000" stop="20180220133000 +0000">
     <title>Food Lab By Ben Milbourne</title>
     <episode-num system="dd_progid">873824</episode-num>
@@ -39645,11 +39570,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000305" start="20180220125000 +0000" stop="20180220130000 +0000">
-    <title>Therapeutic Mma So Big Youth Group</title>
-    <episode-num system="dd_progid">862835</episode-num>
+  <programme channel="tv.320203000304" start="20180228130000 +0000" stop="20180228133000 +0000">
+    <title>Paul Hollywood City Bakes</title>
+    <episode-num system="dd_progid">834351</episode-num>
     <rating system="Freeview">
-      <value>M</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20180220130000 +0000" stop="20180220140000 +0000">
@@ -42041,6 +41966,13 @@
     <episode-num system="dd_progid">760349</episode-num>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180228130000 +0000" stop="20180228140000 +0000">
+    <title>Volumz</title>
+    <episode-num system="dd_progid">648974</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
 </tv>
