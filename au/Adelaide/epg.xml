@@ -15423,7 +15423,6 @@
   <programme channel="tv.101204500457" start="20180222091000 +0000" stop="20180222101000 +0000">
     <title>The Wonderful World Of Puppies And Kittens</title>
     <episode-num system="dd_progid">PUKI_1_1</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -15431,6 +15430,7 @@
   <programme channel="tv.101204500457" start="20180222091000 +0000" stop="20180222101000 +0000">
     <title>The Wonderful World Of Puppies And Kittens</title>
     <episode-num system="dd_progid">PUKI_1_1</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -34100,15 +34100,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180225040000 +0000" stop="20180225050000 +0000">
-    <title>Cycling Herald Sun Tour 2018</title>
-    <episode-num system="dd_progid">901129</episode-num>
+    <title>Jayco Herald Sun Tour</title>
+    <episode-num system="dd_progid">913639</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180225040000 +0000" stop="20180225050000 +0000">
-    <title>Jayco Herald Sun Tour</title>
-    <episode-num system="dd_progid">913639</episode-num>
+    <title>Cycling Herald Sun Tour 2018</title>
+    <episode-num system="dd_progid">901129</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
