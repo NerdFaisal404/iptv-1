@@ -26665,7 +26665,7 @@
   </programme>
   <programme channel="tv.101406070681" start="20180225100000 +0000" stop="20180225103000 +0000">
     <title>Bondi Rescue</title>
-    <episode-num system="dd_progid">60305E1425075</episode-num>
+    <episode-num system="dd_progid">60305E1425076</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -28416,10 +28416,11 @@
     </rating>
   </programme>
   <programme channel="tv.101406070685" start="20180225050000 +0000" stop="20180225060000 +0000">
-    <title>To Be Advised</title>
-    <episode-num system="dd_progid">150794E23423</episode-num>
+    <title>Bondi Vet</title>
+    <episode-num system="dd_progid">53337E1355959</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406070685" start="20180225060000 +0000" stop="20180225073000 +0000">
@@ -28507,10 +28508,11 @@
     </rating>
   </programme>
   <programme channel="tv.101406070685" start="20180225160000 +0000" stop="20180225170000 +0000">
-    <title>48 Hours</title>
-    <episode-num system="dd_progid">132348E8261768</episode-num>
+    <title>48 Hours: NCIS</title>
+    <episode-num system="dd_progid">58256E1457032</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101406070685" start="20180225170000 +0000" stop="20180225173000 +0000">
@@ -33532,30 +33534,30 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000301" start="20180221131000 +0000" stop="20180221154000 +0000">
+  <programme channel="tv.320203000301" start="20180221131000 +0000" stop="20180221153000 +0000">
     <title>Mountains May Depart</title>
     <episode-num system="dd_progid">881411</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000301" start="20180221154000 +0000" stop="20180221171500 +0000">
+  <programme channel="tv.320203000301" start="20180221153000 +0000" stop="20180221170000 +0000">
     <title>When We Rise</title>
     <episode-num system="dd_progid">855473</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000301" start="20180221171500 +0000" stop="20180221175000 +0000">
-    <title>The Food Lovers' Guide to Australia</title>
-    <episode-num system="dd_progid">641952</episode-num>
+  <programme channel="tv.320203000301" start="20180221170000 +0000" stop="20180221173000 +0000">
+    <title>Nigella Bites</title>
+    <episode-num system="dd_progid">763349</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000301" start="20180221175000 +0000" stop="20180221180000 +0000">
-    <title>Luke Nguyen's France Bitesize</title>
-    <episode-num system="dd_progid">776406</episode-num>
+  <programme channel="tv.320203000301" start="20180221173000 +0000" stop="20180221180000 +0000">
+    <title>The Food Lovers' Guide to Australia</title>
+    <episode-num system="dd_progid">641952</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -33986,7 +33988,7 @@
     <title>Fair Game</title>
     <episode-num system="dd_progid">852902</episode-num>
     <rating system="Freeview">
-      <value>MA</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180223124000 +0000" stop="20180223131000 +0000">
@@ -34337,6 +34339,20 @@
   <programme channel="tv.320203000301" start="20180225040000 +0000" stop="20180225050000 +0000">
     <title>Cycling Herald Sun Tour 2018</title>
     <episode-num system="dd_progid">901129</episode-num>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000301" start="20180225040000 +0000" stop="20180225050000 +0000">
+    <title>Jayco Herald Sun Tour</title>
+    <episode-num system="dd_progid">913639</episode-num>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000301" start="20180225050000 +0000" stop="20180225060000 +0000">
+    <title>Road National Championships</title>
+    <episode-num system="dd_progid">913641</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -35053,7 +35069,7 @@
   </programme>
   <programme channel="tv.320203000302" start="20180220060000 +0000" stop="20180220062500 +0000">
     <title>VICE News Tonight</title>
-    <episode-num system="dd_progid">895723</episode-num>
+    <episode-num system="dd_progid">895720</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -35081,7 +35097,7 @@
   </programme>
   <programme channel="tv.320203000302" start="20180220083000 +0000" stop="20180220090000 +0000">
     <title>The Feed</title>
-    <episode-num system="dd_progid">908372</episode-num>
+    <episode-num system="dd_progid">S90837220180220</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -35123,7 +35139,7 @@
   </programme>
   <programme channel="tv.320203000302" start="20180220125000 +0000" stop="20180220131500 +0000">
     <title>VICE News Tonight</title>
-    <episode-num system="dd_progid">895724</episode-num>
+    <episode-num system="dd_progid">895719</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -35151,7 +35167,7 @@
   </programme>
   <programme channel="tv.320203000302" start="20180220143500 +0000" stop="20180220150500 +0000">
     <title>The Feed</title>
-    <episode-num system="dd_progid">908586</episode-num>
+    <episode-num system="dd_progid">S90858620180220</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -35322,7 +35338,7 @@
     <title>Front Up</title>
     <episode-num system="dd_progid">912904</episode-num>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180221050000 +0000" stop="20180221053000 +0000">
@@ -35341,7 +35357,7 @@
   </programme>
   <programme channel="tv.320203000302" start="20180221055500 +0000" stop="20180221062500 +0000">
     <title>VICE News Tonight</title>
-    <episode-num system="dd_progid">895724</episode-num>
+    <episode-num system="dd_progid">895718</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -35369,16 +35385,16 @@
   </programme>
   <programme channel="tv.320203000302" start="20180221083000 +0000" stop="20180221090000 +0000">
     <title>The Feed</title>
-    <episode-num system="dd_progid">908373</episode-num>
+    <episode-num system="dd_progid">S90837320180221</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180221090000 +0000" stop="20180221093000 +0000">
-    <title>A Day in Slab City</title>
-    <episode-num system="dd_progid">852843</episode-num>
+    <title>Me Too: Women, Men and Work</title>
+    <episode-num system="dd_progid">895722</episode-num>
     <rating system="Freeview">
-      <value>M</value>
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180221093000 +0000" stop="20180221113000 +0000">
@@ -35425,7 +35441,7 @@
   </programme>
   <programme channel="tv.320203000302" start="20180221144000 +0000" stop="20180221151000 +0000">
     <title>The Feed</title>
-    <episode-num system="dd_progid">908587</episode-num>
+    <episode-num system="dd_progid">S90858720180221</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -35644,7 +35660,7 @@
   </programme>
   <programme channel="tv.320203000302" start="20180222083000 +0000" stop="20180222090000 +0000">
     <title>The Feed</title>
-    <episode-num system="dd_progid">908374</episode-num>
+    <episode-num system="dd_progid">S90837420180222</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -35667,7 +35683,7 @@
     <title>Should I Marry My Cousin?</title>
     <episode-num system="dd_progid">907938</episode-num>
     <rating system="Freeview">
-      <value>M</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180222105000 +0000" stop="20180222112000 +0000">
@@ -35714,7 +35730,7 @@
   </programme>
   <programme channel="tv.320203000302" start="20180222144500 +0000" stop="20180222151500 +0000">
     <title>The Feed</title>
-    <episode-num system="dd_progid">908588</episode-num>
+    <episode-num system="dd_progid">S90858820180222</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -36684,7 +36700,7 @@
   </programme>
   <programme channel="tv.320203000302" start="20180226083000 +0000" stop="20180226090000 +0000">
     <title>The Feed</title>
-    <episode-num system="dd_progid">908375</episode-num>
+    <episode-num system="dd_progid">S90837520180226</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -36958,7 +36974,7 @@
   </programme>
   <programme channel="tv.320203000302" start="20180227083000 +0000" stop="20180227090000 +0000">
     <title>The Feed</title>
-    <episode-num system="dd_progid">908376</episode-num>
+    <episode-num system="dd_progid">S90837620180227</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -39298,7 +39314,7 @@
     <title>Cake Wars Specials</title>
     <episode-num system="dd_progid">898884</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180226092500 +0000" stop="20180226093000 +0000">
@@ -39389,7 +39405,7 @@
     <title>Cake Wars Specials</title>
     <episode-num system="dd_progid">898884</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180226152500 +0000" stop="20180226153000 +0000">
@@ -39501,7 +39517,7 @@
     <title>Cake Wars Specials</title>
     <episode-num system="dd_progid">898884</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180226232500 +0000" stop="20180226233000 +0000">
@@ -40128,14 +40144,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000305" start="20180220195500 +0000" stop="20180220200500 +0000">
+  <programme channel="tv.320203000305" start="20180220195500 +0000" stop="20180220200700 +0000">
     <title>The Time Compass</title>
     <episode-num system="dd_progid">856336</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000305" start="20180220200500 +0000" stop="20180220203000 +0000">
+  <programme channel="tv.320203000305" start="20180220200700 +0000" stop="20180220203000 +0000">
     <title>Kagagi: The Raven</title>
     <episode-num system="dd_progid">780282</episode-num>
     <rating system="Freeview">
@@ -40451,14 +40467,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000305" start="20180221195500 +0000" stop="20180221200500 +0000">
+  <programme channel="tv.320203000305" start="20180221195500 +0000" stop="20180221200700 +0000">
     <title>The Time Compass</title>
     <episode-num system="dd_progid">856337</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000305" start="20180221200500 +0000" stop="20180221203000 +0000">
+  <programme channel="tv.320203000305" start="20180221200700 +0000" stop="20180221203000 +0000">
     <title>Kagagi: The Raven</title>
     <episode-num system="dd_progid">780270</episode-num>
     <rating system="Freeview">
@@ -40760,14 +40776,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000305" start="20180222195500 +0000" stop="20180222200500 +0000">
+  <programme channel="tv.320203000305" start="20180222195500 +0000" stop="20180222200700 +0000">
     <title>The Time Compass</title>
     <episode-num system="dd_progid">856338</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000305" start="20180222200500 +0000" stop="20180222203000 +0000">
+  <programme channel="tv.320203000305" start="20180222200700 +0000" stop="20180222203000 +0000">
     <title>Kagagi: The Raven</title>
     <episode-num system="dd_progid">780271</episode-num>
     <rating system="Freeview">
@@ -41068,14 +41084,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000305" start="20180223195500 +0000" stop="20180223200500 +0000">
+  <programme channel="tv.320203000305" start="20180223195500 +0000" stop="20180223200700 +0000">
     <title>The Time Compass</title>
     <episode-num system="dd_progid">856339</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000305" start="20180223200500 +0000" stop="20180223203000 +0000">
+  <programme channel="tv.320203000305" start="20180223200700 +0000" stop="20180223203000 +0000">
     <title>Kagagi: The Raven</title>
     <episode-num system="dd_progid">780272</episode-num>
     <rating system="Freeview">
@@ -41320,14 +41336,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000305" start="20180224195500 +0000" stop="20180224200500 +0000">
+  <programme channel="tv.320203000305" start="20180224195500 +0000" stop="20180224200700 +0000">
     <title>The Time Compass</title>
     <episode-num system="dd_progid">856340</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000305" start="20180224200500 +0000" stop="20180224203000 +0000">
+  <programme channel="tv.320203000305" start="20180224200700 +0000" stop="20180224203000 +0000">
     <title>Kagagi: The Raven</title>
     <episode-num system="dd_progid">780273</episode-num>
     <rating system="Freeview">
@@ -41497,7 +41513,7 @@
   </programme>
   <programme channel="tv.320203000305" start="20180225110000 +0000" stop="20180225123000 +0000">
     <title>The Guy With The Knife</title>
-    <episode-num system="dd_progid">884173</episode-num>
+    <episode-num system="dd_progid">913433</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -41565,14 +41581,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000305" start="20180225195500 +0000" stop="20180225200500 +0000">
+  <programme channel="tv.320203000305" start="20180225195500 +0000" stop="20180225200700 +0000">
     <title>The Time Compass</title>
     <episode-num system="dd_progid">856341</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000305" start="20180225200500 +0000" stop="20180225203000 +0000">
+  <programme channel="tv.320203000305" start="20180225200700 +0000" stop="20180225203000 +0000">
     <title>Kagagi: The Raven</title>
     <episode-num system="dd_progid">780274</episode-num>
     <rating system="Freeview">
@@ -41888,14 +41904,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000305" start="20180226195500 +0000" stop="20180226200500 +0000">
+  <programme channel="tv.320203000305" start="20180226195500 +0000" stop="20180226200700 +0000">
     <title>The Time Compass</title>
     <episode-num system="dd_progid">856342</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000305" start="20180226200500 +0000" stop="20180226203000 +0000">
+  <programme channel="tv.320203000305" start="20180226200700 +0000" stop="20180226203000 +0000">
     <title>Kagagi: The Raven</title>
     <episode-num system="dd_progid">780275</episode-num>
     <rating system="Freeview">
