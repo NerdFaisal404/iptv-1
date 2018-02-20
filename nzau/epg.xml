@@ -17760,7 +17760,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180222083000 +0000" stop="20180222093000 +0000">
+  <programme channel="tv.37" start="20180222083000 +0000" stop="20180222093500 +0000">
     <title>Trust Me I'm a Doctor</title>
     <desc>Michael Mosley and his team of doctors return to tackle more questions about our health, offering uncomplicated, trustworthy advice on important and topical medical issues.</desc>
     <episode-num system="dd_progid">TDOC03Ep1</episode-num>
@@ -17768,7 +17768,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180222093000 +0000" stop="20180222100000 +0000">
+  <programme channel="tv.37" start="20180222093500 +0000" stop="20180222100500 +0000">
     <title>Shed and Buried</title>
     <desc>Henry Cole and renowned motorcycle restorer Sam Lovegrove hit the road to search out, purchase and make some hard cash from automotive gems lying discarded and abandoned in sheds across the UK.</desc>
     <episode-num system="dd_progid">SHEDB200Ep15</episode-num>
@@ -17776,7 +17776,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180222100000 +0000" stop="20180222103000 +0000">
+  <programme channel="tv.37" start="20180222100500 +0000" stop="20180222103000 +0000">
     <title>American Pickers</title>
     <desc>The guys are in the South and running low on cash. They're desperate for a good pick when they happen upon a massive old junkyard and closed-down family flea market.</desc>
     <episode-num system="dd_progid">APICK01Ep10</episode-num>
@@ -63208,16 +63208,16 @@
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180224125200 +0000" stop="20180224133000 +0000">
-    <title>Creek to Coast</title>
-    <episode-num system="dd_progid">nLnuqMeIltaPmdqG</episode-num>
+    <title>The Great Day Out</title>
+    <episode-num system="dd_progid">rLrpvdeHltaPmdaO</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180224125200 +0000" stop="20180224133000 +0000">
-    <title>The Great Day Out</title>
-    <episode-num system="dd_progid">rLrpvdeHltaPmdaO</episode-num>
+    <title>Creek to Coast</title>
+    <episode-num system="dd_progid">nLnuqMeIltaPmdqG</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
