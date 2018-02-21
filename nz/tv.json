@@ -269,10 +269,10 @@
             "sample_rate": "48000"
         }
     },
-    "tv.sbnint.tv": {
+    "tv.sbnint": {
         "description": "Spreading the message of the cross around the world",
         "name": "SonLife International",
-        "url": "http://iptv.matthuisman.nz/nz/tv.sbnint.tv.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "url": "http://iptv.matthuisman.nz/nz/tv.sbnint.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "logo": "http://sonlifetv.com/images/sbngloballogo.jpg",
         "video": {
             "codec": "h264",

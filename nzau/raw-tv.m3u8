@@ -54,8 +54,8 @@ http://iptv.matthuisman.nz/nz/tv.olympics.3.m3u8
 #EXTINF:-1 tvg-name="018" tvg-id="tv.olympics.4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",Olympic Channel #4
 http://iptv.matthuisman.nz/nz/tv.olympics.4.m3u8
 
-#EXTINF:-1 tvg-name="019" tvg-id="tv.sbnint.tv" tvg-logo="http://sonlifetv.com/images/sbngloballogo.jpg",SonLife International
-http://iptv.matthuisman.nz/nz/tv.sbnint.tv.m3u8
+#EXTINF:-1 tvg-name="019" tvg-id="tv.sbnint" tvg-logo="http://sonlifetv.com/images/sbngloballogo.jpg",SonLife International
+http://iptv.matthuisman.nz/nz/tv.sbnint.m3u8
 
 #EXTINF:-1 tvg-name="001" tvg-id="tv.101305020522" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020522.png",7TWO
 http://iptv.matthuisman.nz/au/Sydney/tv.101305020522.m3u8
@@ -135,5 +135,5 @@ http://iptv.matthuisman.nz/au/Sydney/tv.7misc7.m3u8
 #EXTINF:-1 tvg-name="031" tvg-id="tv.7misc8" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/7misc.png",Seven MISC #8
 http://iptv.matthuisman.nz/au/Sydney/tv.7misc8.m3u8
 
-#EXTINF:-1 tvg-name="032" tvg-id="tv.101406020625" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406020625.png",TEN
+#EXTINF:-1 tvg-name="033" tvg-id="tv.101406020625" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406020625.png",TEN
 http://iptv.matthuisman.nz/au/Sydney/tv.101406020625.m3u8

@@ -93,7 +93,10 @@ http://iptv.matthuisman.nz/au/Hobart/tv.7misc7.m3u8|X-Forwarded-For=52.62.247.23
 #EXTINF:-1 tvg-name="031" tvg-id="tv.7misc8" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/7misc.png",Seven MISC #8
 http://iptv.matthuisman.nz/au/Hobart/tv.7misc8.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
-#EXTINF:-1 tvg-name="032" tvg-id="tv.101406030635" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406030635.png",TEN
+#EXTINF:-1 tvg-name="032" tvg-id="tv.sbnint" tvg-logo="http://sonlifetv.com/images/sbngloballogo.jpg",SonLife International
+http://iptv.matthuisman.nz/au/Hobart/tv.sbnint.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+
+#EXTINF:-1 tvg-name="033" tvg-id="tv.101406030635" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406030635.png",TEN
 http://iptv.matthuisman.nz/au/Hobart/tv.101406030635.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="001" tvg-id="radio.ih.7123" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7123.png" radio="true",ABC Classic 2
