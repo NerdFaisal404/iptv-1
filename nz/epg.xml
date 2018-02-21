@@ -4260,7 +4260,7 @@
   </programme>
   <programme channel="tv.11" start="20180221060000 +0000" stop="20180221063000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Kanoa, Jesse and Josh are joined by guest host Judy Bailey and chat to actor Jason Bateman. Plus, over twenty local newspapers are either being axed or sold off, are we silencing small towns?</desc>
     <episode-num system="dd_progid">T806420</episode-num>
   </programme>
   <programme channel="tv.11" start="20180221063000 +0000" stop="20180221080000 +0000">
@@ -4439,7 +4439,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180222073000 +0000" stop="20180222100000 +0000">
+  <programme channel="tv.11" start="20180222073000 +0000" stop="20180222100500 +0000">
     <title>The Bourne Legacy</title>
     <desc>An expansion of the universe from Robert Ludlum's novels, centered on a new hero whose stakes have been triggered by the events of the previous three films. Starring Jeremy Renner. (2012)</desc>
     <episode-num system="dd_progid">T485287</episode-num>
@@ -4450,12 +4450,12 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180222100000 +0000" stop="20180222102000 +0000">
+  <programme channel="tv.11" start="20180222100500 +0000" stop="20180222102500 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
     <episode-num system="dd_progid">T805524</episode-num>
   </programme>
-  <programme channel="tv.11" start="20180222102000 +0000" stop="20180222111500 +0000">
+  <programme channel="tv.11" start="20180222102500 +0000" stop="20180222112000 +0000">
     <title>Heroes Reborn</title>
     <desc>Luke and Malina unite to rescue Tommy and save mankind in the wake of Noah's vanishing. S1 Ep11</desc>
     <episode-num system="dd_progid">T505279</episode-num>
@@ -4466,7 +4466,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180222111500 +0000" stop="20180222160000 +0000">
+  <programme channel="tv.11" start="20180222112000 +0000" stop="20180222160000 +0000">
     <title>Informercials</title>
     <desc></desc>
     <episode-num system="dd_progid">T1</episode-num>
@@ -5129,7 +5129,7 @@
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
   <programme channel="tv.11" start="20180226223000 +0000" stop="20180226225500 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <episode-num system="dd_progid">T807921</episode-num>
     <rating system="Freeview">
@@ -5137,7 +5137,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180226225500 +0000" stop="20180226232500 +0000">
-    <title>Family Feud Australia</title>
+    <title>Family Feud Australia (Encore)</title>
     <desc>It's the Australian version of Family Feud. Watch Aussie families battle against each other, answering questions that have been put to 100 people to determine the most popular responses.</desc>
     <episode-num system="dd_progid">T804175</episode-num>
     <rating system="Freeview">
@@ -5153,7 +5153,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180227002500 +0000" stop="20180227020000 +0000">
-    <title>Married At First Sight Australia</title>
+    <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. It's been a month since our couples first met as complete strangers at the altar. Now they must move into the next challenging part of the experiment - the husband's homestays. S5 Ep14</desc>
     <episode-num system="dd_progid">T816140</episode-num>
   </programme>
@@ -5280,7 +5280,7 @@
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
   <programme channel="tv.11" start="20180227223000 +0000" stop="20180227225500 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <episode-num system="dd_progid">T807922</episode-num>
     <rating system="Freeview">
@@ -5288,7 +5288,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180227225500 +0000" stop="20180227232500 +0000">
-    <title>Family Feud Australia</title>
+    <title>Family Feud Australia (Encore)</title>
     <desc>It's the Australian version of Family Feud. Watch Aussie families battle against each other, answering questions that have been put to 100 people to determine the most popular responses.</desc>
     <episode-num system="dd_progid">T804176</episode-num>
     <rating system="Freeview">
@@ -5304,7 +5304,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180228002500 +0000" stop="20180228020000 +0000">
-    <title>Married At First Sight Australia</title>
+    <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. It's nearing the end of the groom's homestays and the wives take every opportunity to immerse themselves in their husband's world. But is it all smooth sailing? S5 Ep15</desc>
     <episode-num system="dd_progid">T816141</episode-num>
   </programme>
@@ -5531,6 +5531,9 @@
     <title>The Real Housewives Of Beverly Hills</title>
     <desc>While still in the Big Apple for Fashion Week, Dorit attempts to come clean with Lisa Vanderpump, but Lisa isn't sure she's getting the whole story.</desc>
     <episode-num system="dd_progid">T790677</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180221083000 +0000" stop="20180221092800 +0000">
     <title>Vanderpump Rules</title>
@@ -5632,13 +5635,16 @@
     <desc>Birthday twins and perpetual rivals Stassi and Ariana plan extravagant parties on the same night, but while Ariana shines as the belle of the ball, an embarrassed Stassi runs off in tears.</desc>
     <episode-num system="dd_progid">T790762</episode-num>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.12" start="20180222014000 +0000" stop="20180222023800 +0000">
     <title>The Real Housewives Of Beverly Hills</title>
     <desc>While still in the Big Apple for Fashion Week, Dorit attempts to come clean with Lisa Vanderpump, but Lisa isn't sure she's getting the whole story.</desc>
     <episode-num system="dd_progid">T790677</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180222023800 +0000" stop="20180222024000 +0000">
     <title>The Dish</title>
@@ -6490,7 +6496,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180227073000 +0000" stop="20180227083000 +0000">
+  <programme channel="tv.12" start="20180227073000 +0000" stop="20180227083500 +0000">
     <title>The Real Housewives Of Melbourne</title>
     <desc>The housewives set sail for some fun in the sun on a catamaran off Cabo's coast but, beneath the calm waters, a storm is brewing between Gina and Sally.</desc>
     <episode-num system="dd_progid">T797337</episode-num>
@@ -6498,7 +6504,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20180227083000 +0000" stop="20180227092800 +0000">
+  <programme channel="tv.12" start="20180227083500 +0000" stop="20180227092800 +0000">
     <title>Dating Naked</title>
     <desc>David has doubts about keeping Nadica and is introduced to two new ladies. Later, Natalie must choose between a new dater and another man.</desc>
     <episode-num system="dd_progid">T753038</episode-num>
@@ -12575,7 +12581,7 @@
   </programme>
   <programme channel="tv.27" start="20180221070000 +0000" stop="20180221073000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Kanoa, Jesse and Josh are joined by guest host Judy Bailey and chat to actor Jason Bateman. Plus, over twenty local newspapers are either being axed or sold off, are we silencing small towns?</desc>
     <episode-num system="dd_progid">T806420</episode-num>
   </programme>
   <programme channel="tv.27" start="20180221073000 +0000" stop="20180221090000 +0000">
@@ -12748,7 +12754,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180222083000 +0000" stop="20180222110000 +0000">
+  <programme channel="tv.27" start="20180222083000 +0000" stop="20180222110500 +0000">
     <title>The Bourne Legacy</title>
     <desc>An expansion of the universe from Robert Ludlum's novels, centered on a new hero whose stakes have been triggered by the events of the previous three films. Starring Jeremy Renner. (2012)</desc>
     <episode-num system="dd_progid">T485287</episode-num>
@@ -12756,12 +12762,12 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180222110000 +0000" stop="20180222112000 +0000">
+  <programme channel="tv.27" start="20180222110500 +0000" stop="20180222112500 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
     <episode-num system="dd_progid">T805524</episode-num>
   </programme>
-  <programme channel="tv.27" start="20180222112000 +0000" stop="20180222121500 +0000">
+  <programme channel="tv.27" start="20180222112500 +0000" stop="20180222122000 +0000">
     <title>Heroes Reborn</title>
     <desc>Luke and Malina unite to rescue Tommy and save mankind in the wake of Noah's vanishing. S1 Ep11</desc>
     <episode-num system="dd_progid">T505279</episode-num>
@@ -12769,7 +12775,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180222121500 +0000" stop="20180222170000 +0000">
+  <programme channel="tv.27" start="20180222122000 +0000" stop="20180222170000 +0000">
     <title>Informercials</title>
     <desc></desc>
     <episode-num system="dd_progid">T1</episode-num>
@@ -13393,7 +13399,7 @@
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
   <programme channel="tv.27" start="20180226233000 +0000" stop="20180226235500 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <episode-num system="dd_progid">T807921</episode-num>
     <rating system="Freeview">
@@ -13401,7 +13407,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180226235500 +0000" stop="20180227002500 +0000">
-    <title>Family Feud Australia</title>
+    <title>Family Feud Australia (Encore)</title>
     <desc>It's the Australian version of Family Feud. Watch Aussie families battle against each other, answering questions that have been put to 100 people to determine the most popular responses.</desc>
     <episode-num system="dd_progid">T804175</episode-num>
     <rating system="Freeview">
@@ -13417,7 +13423,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180227012500 +0000" stop="20180227030000 +0000">
-    <title>Married At First Sight Australia</title>
+    <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. It's been a month since our couples first met as complete strangers at the altar. Now they must move into the next challenging part of the experiment - the husband's homestays. S5 Ep14</desc>
     <episode-num system="dd_progid">T816140</episode-num>
   </programme>
@@ -13538,7 +13544,7 @@
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
   <programme channel="tv.27" start="20180227233000 +0000" stop="20180227235500 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <episode-num system="dd_progid">T807922</episode-num>
     <rating system="Freeview">
@@ -13546,7 +13552,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180227235500 +0000" stop="20180228002500 +0000">
-    <title>Family Feud Australia</title>
+    <title>Family Feud Australia (Encore)</title>
     <desc>It's the Australian version of Family Feud. Watch Aussie families battle against each other, answering questions that have been put to 100 people to determine the most popular responses.</desc>
     <episode-num system="dd_progid">T804176</episode-num>
     <rating system="Freeview">
@@ -13562,7 +13568,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180228012500 +0000" stop="20180228030000 +0000">
-    <title>Married At First Sight Australia</title>
+    <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. It's nearing the end of the groom's homestays and the wives take every opportunity to immerse themselves in their husband's world. But is it all smooth sailing? S5 Ep15</desc>
     <episode-num system="dd_progid">T816141</episode-num>
   </programme>
@@ -13786,6 +13792,9 @@
     <title>The Real Housewives Of Beverly Hills</title>
     <desc>While still in the Big Apple for Fashion Week, Dorit attempts to come clean with Lisa Vanderpump, but Lisa isn't sure she's getting the whole story.</desc>
     <episode-num system="dd_progid">T790677</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180221093000 +0000" stop="20180221102800 +0000">
     <title>Vanderpump Rules</title>
@@ -13887,13 +13896,16 @@
     <desc>Birthday twins and perpetual rivals Stassi and Ariana plan extravagant parties on the same night, but while Ariana shines as the belle of the ball, an embarrassed Stassi runs off in tears.</desc>
     <episode-num system="dd_progid">T790762</episode-num>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.30" start="20180222024000 +0000" stop="20180222033800 +0000">
     <title>The Real Housewives Of Beverly Hills</title>
     <desc>While still in the Big Apple for Fashion Week, Dorit attempts to come clean with Lisa Vanderpump, but Lisa isn't sure she's getting the whole story.</desc>
     <episode-num system="dd_progid">T790677</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180222033800 +0000" stop="20180222034000 +0000">
     <title>The Dish</title>
@@ -14745,7 +14757,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180227083000 +0000" stop="20180227093000 +0000">
+  <programme channel="tv.30" start="20180227083000 +0000" stop="20180227093500 +0000">
     <title>The Real Housewives Of Melbourne</title>
     <desc>The housewives set sail for some fun in the sun on a catamaran off Cabo's coast but, beneath the calm waters, a storm is brewing between Gina and Sally.</desc>
     <episode-num system="dd_progid">T797337</episode-num>
@@ -14753,7 +14765,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20180227093000 +0000" stop="20180227102800 +0000">
+  <programme channel="tv.30" start="20180227093500 +0000" stop="20180227102800 +0000">
     <title>Dating Naked</title>
     <desc>David has doubts about keeping Nadica and is introduced to two new ladies. Later, Natalie must choose between a new dater and another man.</desc>
     <episode-num system="dd_progid">T753038</episode-num>
