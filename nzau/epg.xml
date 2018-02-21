@@ -15250,22 +15250,22 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.28" start="20180221083000 +0000" stop="20180221100000 +0000">
+  <programme channel="tv.28" start="20180221083000 +0000" stop="20180221093000 +0000">
     <title>Freestyle Skiing</title>
     <desc>PyeongChang 2018 Olympic Winter Games. Stephen Mclvor takes you to the action at the Phoenix Snow Park as the hopeful Olympians battle it out for gold in the Freestyle Skiing Men's Ski Cross Finals. G</desc>
     <episode-num system="dd_progid">SNZ10985732</episode-num>
   </programme>
-  <programme channel="tv.28" start="20180221100000 +0000" stop="20180221110000 +0000">
+  <programme channel="tv.28" start="20180221093000 +0000" stop="20180221110000 +0000">
     <title>Alpine Skiing</title>
     <desc>PyeongChang 2018 Olympic Winter Games. Join Stephen Mclvor at the Jeongseon Alpine Centre where the women battle it out in the Alpine Skiing Women's Downhill Final. G</desc>
     <episode-num system="dd_progid">SNZ37130881</episode-num>
   </programme>
-  <programme channel="tv.28" start="20180221110000 +0000" stop="20180221134000 +0000">
+  <programme channel="tv.28" start="20180221110000 +0000" stop="20180221140000 +0000">
     <title>Speed Skating</title>
     <desc>PyeongChang 2018 Olympic Winter Games. Watch the Speed Skating with Stephen Mclvor as both the Men's and Women's teams compete for gold in the Sprint Finals at the Gangneung Oval. G</desc>
     <episode-num system="dd_progid">SNZ37130891</episode-num>
   </programme>
-  <programme channel="tv.28" start="20180221134000 +0000" stop="20180221150000 +0000">
+  <programme channel="tv.28" start="20180221140000 +0000" stop="20180221150000 +0000">
     <title>Bobsleigh</title>
     <desc>PyeongChang 2018 Olympic Winter Games. The competition ramps up at the Olympic Sliding Centre for the Final of the Women's Heat 4 Bobsleigh hosted by Stephen Mclvor. G</desc>
     <episode-num system="dd_progid">SNZ37130916</episode-num>
@@ -76701,15 +76701,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180225040000 +0000" stop="20180225050000 +0000">
-    <title>Cycling Herald Sun Tour 2018</title>
-    <episode-num system="dd_progid">901129</episode-num>
+    <title>Jayco Herald Sun Tour</title>
+    <episode-num system="dd_progid">913639</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180225040000 +0000" stop="20180225050000 +0000">
-    <title>Jayco Herald Sun Tour</title>
-    <episode-num system="dd_progid">913639</episode-num>
+    <title>Cycling Herald Sun Tour 2018</title>
+    <episode-num system="dd_progid">901129</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
