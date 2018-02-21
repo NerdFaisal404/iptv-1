@@ -6606,7 +6606,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180228083200 +0000" stop="20180228090100 +0000">
+  <programme channel="tv.101002210222" start="20180228083200 +0000" stop="20180228090000 +0000">
     <title>Spicks and Specks</title>
     <episode-num system="dd_progid">LE0430V029S00</episode-num>
     <subtitles type="teletext"/>
@@ -6622,7 +6622,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180228090100 +0000" stop="20180228092400 +0000">
+  <programme channel="tv.101002210222" start="20180228090000 +0000" stop="20180228092300 +0000">
     <title>Black Books</title>
     <episode-num system="dd_progid">ZY5479A001S00</episode-num>
     <subtitles type="teletext"/>
@@ -6630,7 +6630,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180228092400 +0000" stop="20180228094800 +0000">
+  <programme channel="tv.101002210222" start="20180228092300 +0000" stop="20180228094700 +0000">
     <title>Black Books</title>
     <episode-num system="dd_progid">ZY5479A002S00</episode-num>
     <subtitles type="teletext"/>
@@ -6646,7 +6646,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180228094800 +0000" stop="20180228100000 +0000">
+  <programme channel="tv.101002210222" start="20180228094700 +0000" stop="20180228100000 +0000">
     <title>To Be Advised</title>
     <episode-num system="dd_progid">150794E23423</episode-num>
   </programme>
@@ -11778,6 +11778,9 @@
     <title>Adam Hills: The Last Leg</title>
     <episode-num system="dd_progid">ZW1483A005S00</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
   </programme>
   <programme channel="tv.101002810281" start="20180228124000 +0000" stop="20180228130900 +0000">
     <title>Tonightly with Tom Ballard</title>
@@ -28956,7 +28959,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406050655" start="20180221013000 +0000" stop="20180221022500 +0000">
+  <programme channel="tv.101406050655" start="20180221013000 +0000" stop="20180221022600 +0000">
     <title>Dr. Phil</title>
     <episode-num system="dd_progid">59984E1510922</episode-num>
     <subtitles type="teletext"/>
@@ -28964,7 +28967,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406050655" start="20180221022500 +0000" stop="20180221033400 +0000">
+  <programme channel="tv.101406050655" start="20180221022600 +0000" stop="20180221033400 +0000">
     <title>I'm a Celebrity... Get Me Out of Here!</title>
     <episode-num system="dd_progid">324380E8249489</episode-num>
     <subtitles type="teletext"/>
@@ -28975,6 +28978,7 @@
   <programme channel="tv.101406050655" start="20180221033400 +0000" stop="20180221043100 +0000">
     <title>This Is Us</title>
     <episode-num system="dd_progid">60325E1525420</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -29059,7 +29063,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406050655" start="20180221120900 +0000" stop="20180221130000 +0000">
+  <programme channel="tv.101406050655" start="20180221120900 +0000" stop="20180221130100 +0000">
     <title>Hawaii Five-O</title>
     <episode-num system="dd_progid">59977E1509854</episode-num>
     <subtitles type="teletext"/>
@@ -29067,7 +29071,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406050655" start="20180221130000 +0000" stop="20180221140300 +0000">
+  <programme channel="tv.101406050655" start="20180221130100 +0000" stop="20180221140400 +0000">
     <title>The Project</title>
     <episode-num system="dd_progid">59797E1500878</episode-num>
     <subtitles type="teletext"/>
@@ -29075,7 +29079,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406050655" start="20180221140300 +0000" stop="20180221150000 +0000">
+  <programme channel="tv.101406050655" start="20180221140400 +0000" stop="20180221150000 +0000">
     <title>The Late Show With Stephen Colbert</title>
     <episode-num system="dd_progid">59896E1512120</episode-num>
     <subtitles type="teletext"/>
@@ -29118,14 +29122,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406050655" start="20180221173000 +0000" stop="20180221180300 +0000">
+  <programme channel="tv.101406050655" start="20180221173000 +0000" stop="20180221180400 +0000">
     <title>Home Shopping</title>
     <episode-num system="dd_progid">57656E1447302</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406050655" start="20180221180300 +0000" stop="20180221193000 +0000">
+  <programme channel="tv.101406050655" start="20180221180400 +0000" stop="20180221193000 +0000">
     <title>CBS This Morning</title>
     <episode-num system="dd_progid">60030E1512475</episode-num>
     <subtitles type="teletext"/>
@@ -29902,7 +29906,8 @@
   </programme>
   <programme channel="tv.101406050655" start="20180225013000 +0000" stop="20180225023000 +0000">
     <title>The Longest Melanoma March</title>
-    <episode-num system="dd_progid">370634E8262001</episode-num>
+    <episode-num system="dd_progid">0E1528760</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -33993,7 +33998,7 @@
     <title>Building Giants</title>
     <episode-num system="dd_progid">897903</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180224102500 +0000" stop="20180224112500 +0000">
@@ -34159,15 +34164,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180225050000 +0000" stop="20180225060000 +0000">
-    <title>Road National Championships</title>
-    <episode-num system="dd_progid">913641</episode-num>
+    <title>Cycling Herald Sun Tour 2018</title>
+    <episode-num system="dd_progid">901130</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180225050000 +0000" stop="20180225060000 +0000">
-    <title>Cycling Herald Sun Tour 2018</title>
-    <episode-num system="dd_progid">901130</episode-num>
+    <title>Road National Championships</title>
+    <episode-num system="dd_progid">913641</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -35116,7 +35121,7 @@
   </programme>
   <programme channel="tv.320203000302" start="20180221083000 +0000" stop="20180221090000 +0000">
     <title>The Feed</title>
-    <episode-num system="dd_progid">S90837320180221</episode-num>
+    <episode-num system="dd_progid">908373</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -35172,7 +35177,7 @@
   </programme>
   <programme channel="tv.320203000302" start="20180221144000 +0000" stop="20180221151000 +0000">
     <title>The Feed</title>
-    <episode-num system="dd_progid">S90858720180221</episode-num>
+    <episode-num system="dd_progid">908587</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -35391,7 +35396,7 @@
   </programme>
   <programme channel="tv.320203000302" start="20180222083000 +0000" stop="20180222090000 +0000">
     <title>The Feed</title>
-    <episode-num system="dd_progid">S90837420180222</episode-num>
+    <episode-num system="dd_progid">908374</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -35461,7 +35466,7 @@
   </programme>
   <programme channel="tv.320203000302" start="20180222144500 +0000" stop="20180222151500 +0000">
     <title>The Feed</title>
-    <episode-num system="dd_progid">S90858820180222</episode-num>
+    <episode-num system="dd_progid">908588</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -35630,7 +35635,7 @@
   </programme>
   <programme channel="tv.320203000302" start="20180223043000 +0000" stop="20180223050000 +0000">
     <title>Dateline</title>
-    <episode-num system="dd_progid">735613</episode-num>
+    <episode-num system="dd_progid">782859</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -35719,6 +35724,13 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000302" start="20180223122500 +0000" stop="20180223125000 +0000">
+    <title>Last Chance High</title>
+    <episode-num system="dd_progid">886308</episode-num>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000302" start="20180223122500 +0000" stop="20180223132500 +0000">
     <title>Testing Teachers</title>
     <episode-num system="dd_progid">767732</episode-num>
@@ -35726,18 +35738,32 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180223132500 +0000" stop="20180223135000 +0000">
+  <programme channel="tv.320203000302" start="20180223125000 +0000" stop="20180223131500 +0000">
+    <title>Last Chance High</title>
+    <episode-num system="dd_progid">886309</episode-num>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180223131500 +0000" stop="20180223134000 +0000">
     <title>VICE News Tonight</title>
     <episode-num system="dd_progid">895727</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180223135000 +0000" stop="20180223141500 +0000">
+  <programme channel="tv.320203000302" start="20180223134000 +0000" stop="20180223140500 +0000">
     <title>Desus and Mero</title>
     <episode-num system="dd_progid">895108</episode-num>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180223140500 +0000" stop="20180223150500 +0000">
+    <title>PopAsia</title>
+    <episode-num system="dd_progid">913526</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180223141500 +0000" stop="20180223151500 +0000">
@@ -35747,7 +35773,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180223151500 +0000" stop="20180223160000 +0000">
+  <programme channel="tv.320203000302" start="20180223150500 +0000" stop="20180223160000 +0000">
     <title>NHK World English News</title>
     <episode-num system="dd_progid">695618</episode-num>
     <rating system="Freeview">
@@ -36115,14 +36141,14 @@
   </programme>
   <programme channel="tv.320203000302" start="20180225010000 +0000" stop="20180225020000 +0000">
     <title>Insight</title>
-    <episode-num system="dd_progid">785034</episode-num>
+    <episode-num system="dd_progid">785910</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180225020000 +0000" stop="20180225023000 +0000">
     <title>Front Up</title>
-    <episode-num system="dd_progid">77389</episode-num>
+    <episode-num system="dd_progid">913567</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
