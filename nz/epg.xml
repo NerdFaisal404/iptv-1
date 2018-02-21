@@ -15044,15 +15044,20 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.28" start="20180221023000 +0000" stop="20180221033000 +0000">
-    <title>Curling</title>
-    <desc>PyeongChang 2018 Olympic Winter Games. Join Bernadine Oliver-Kerby as she covers the evening's Curling highlights at the Gangneung Curling Centre. G</desc>
+  <programme channel="tv.28" start="20180221023000 +0000" stop="20180221031500 +0000">
+    <title>Snowboarding</title>
+    <desc>PyeongChang 2018 Olympic Winter Games. Catch the snowboarding action at Phoenix Snow Park. G</desc>
     <episode-num system="dd_progid">SNZ10985732</episode-num>
   </programme>
-  <programme channel="tv.28" start="20180221033000 +0000" stop="20180221043000 +0000">
+  <programme channel="tv.28" start="20180221031500 +0000" stop="20180221034500 +0000">
     <title>Freestyle Skiing</title>
     <desc>PyeongChang 2018 Olympic Winter Games. Bernadine Oliver-Kerby takes you to the action at the Phoenix Snow Park as the Olympians go head-to-head in the Freestyle Skiing Men's Ski Cross Seeding. G</desc>
     <episode-num system="dd_progid">SNZ37130841</episode-num>
+  </programme>
+  <programme channel="tv.28" start="20180221034500 +0000" stop="20180221043000 +0000">
+    <title>Snowboarding</title>
+    <desc>PyeongChang 2018 Olympic Winter Games. Catch the snowboarding action at Phoenix Snow Park. G</desc>
+    <episode-num system="dd_progid">SNZ37257854</episode-num>
   </programme>
   <programme channel="tv.28" start="20180221043000 +0000" stop="20180221050000 +0000">
     <title>Prime News - First At 5.30</title>
@@ -15186,7 +15191,7 @@
   </programme>
   <programme channel="tv.28" start="20180222003500 +0000" stop="20180222013000 +0000">
     <title>The Late Show</title>
-    <desc>'Join Stephen Colbert for a satirical and comedic take on what's new and relevant, with Justin Theroux, US Senator Kirsten Gillibrand and a musical performance by Portugal. The Man. PGR'</desc>
+    <desc>'Join Stephen Colbert for a satirical and comedic take on what's new and relevant, with Chris Gethard, US Senator Kirsten Gillibrand and a musical performance by Portugal. The Man. PGR'</desc>
     <episode-num system="dd_progid">SNZ10983756</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
