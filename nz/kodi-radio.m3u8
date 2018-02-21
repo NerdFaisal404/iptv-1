@@ -287,3 +287,6 @@ http://iptv.matthuisman.nz/nz/radio.ih.7799.aac|X-Forwarded-For=202.89.4.222&Use
 
 #EXTINF:-1 tvg-name="096" tvg-id="radio.ih.7814" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7814.png" radio="true",Our Lounge
 http://iptv.matthuisman.nz/nz/radio.ih.7814.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+
+#EXTINF:-1 tvg-name="097" tvg-id="radio.ih.7819" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7819.png" radio="true",ZM Secret Sound
+http://iptv.matthuisman.nz/nz/radio.ih.7819.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29

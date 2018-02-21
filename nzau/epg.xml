@@ -176,6 +176,10 @@
     <display-name>Olympic Channel #5</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png"/>
   </channel>
+  <channel id="tv.sbnint.tv">
+    <display-name>SonLife International</display-name>
+    <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
+  </channel>
   <channel id="tv.101002210220">
     <display-name>ABC NEWS</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002210220.png"/>
@@ -76625,15 +76629,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180225040000 +0000" stop="20180225050000 +0000">
-    <title>Jayco Herald Sun Tour</title>
-    <episode-num system="dd_progid">913639</episode-num>
+    <title>Cycling Herald Sun Tour 2018</title>
+    <episode-num system="dd_progid">901129</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180225040000 +0000" stop="20180225050000 +0000">
-    <title>Cycling Herald Sun Tour 2018</title>
-    <episode-num system="dd_progid">901129</episode-num>
+    <title>Jayco Herald Sun Tour</title>
+    <episode-num system="dd_progid">913639</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>

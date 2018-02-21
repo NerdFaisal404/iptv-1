@@ -177,6 +177,10 @@
     <display-name>Olympic Channel #5</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png"/>
   </channel>
+  <channel id="tv.sbnint.tv">
+    <display-name>SonLife International</display-name>
+    <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
+  </channel>
   <programme channel="tv.9" start="20180220100000 +0000" stop="20180220111000 +0000">
     <title>Graves</title>
     <desc>New Series, Double Episode: 20 years after leaving the President's job, Richard Graves realises he's done more damage than good. Can he turn it around?</desc>

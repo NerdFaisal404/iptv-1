@@ -181,8 +181,8 @@
         "url": "http://iptv.matthuisman.nz/nz/tv.60.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "video": {
             "codec": "h264",
-            "width": 1280,
-            "height": 720
+            "width": 0,
+            "height": 0
         },
         "audio": {
             "codec": "aac",
@@ -262,6 +262,22 @@
             "codec": "h264",
             "width": 1920,
             "height": 1080
+        },
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        }
+    },
+    "tv.sbnint.tv": {
+        "description": "Spreading the message of the cross around the world",
+        "name": "SonLife International",
+        "url": "http://iptv.matthuisman.nz/nz/tv.sbnint.tv.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "logo": "http://sonlifetv.com/images/sbngloballogo.jpg",
+        "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720
         },
         "audio": {
             "codec": "aac",

@@ -54,6 +54,9 @@ http://iptv.matthuisman.nz/nz/tv.olympics.3.m3u8|X-Forwarded-For=202.89.4.222&Us
 #EXTINF:-1 tvg-name="018" tvg-id="tv.olympics.4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",Olympic Channel #4
 http://iptv.matthuisman.nz/nz/tv.olympics.4.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
+#EXTINF:-1 tvg-name="019" tvg-id="tv.sbnint.tv" tvg-logo="http://sonlifetv.com/images/sbngloballogo.jpg",SonLife International
+http://iptv.matthuisman.nz/nz/tv.sbnint.tv.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+
 #EXTINF:-1 tvg-name="001" tvg-id="tv.101305020522" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020522.png",7TWO
 http://iptv.matthuisman.nz/au/Sydney/tv.101305020522.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 

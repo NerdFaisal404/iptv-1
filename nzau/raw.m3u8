@@ -54,6 +54,9 @@ http://iptv.matthuisman.nz/nz/tv.olympics.3.m3u8
 #EXTINF:-1 tvg-name="018" tvg-id="tv.olympics.4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",Olympic Channel #4
 http://iptv.matthuisman.nz/nz/tv.olympics.4.m3u8
 
+#EXTINF:-1 tvg-name="019" tvg-id="tv.sbnint.tv" tvg-logo="http://sonlifetv.com/images/sbngloballogo.jpg",SonLife International
+http://iptv.matthuisman.nz/nz/tv.sbnint.tv.m3u8
+
 #EXTINF:-1 tvg-name="001" tvg-id="radio.or.1" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.1.png" radio="true",The Rock
 http://iptv.matthuisman.nz/nz/radio.or.1.m3u8
 
@@ -341,6 +344,9 @@ http://iptv.matthuisman.nz/nz/radio.ih.7799.aac
 
 #EXTINF:-1 tvg-name="096" tvg-id="radio.ih.7814" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7814.png" radio="true",Our Lounge
 http://iptv.matthuisman.nz/nz/radio.ih.7814.aac
+
+#EXTINF:-1 tvg-name="097" tvg-id="radio.ih.7819" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7819.png" radio="true",ZM Secret Sound
+http://iptv.matthuisman.nz/nz/radio.ih.7819.aac
 
 #EXTINF:-1 tvg-name="001" tvg-id="tv.101305020522" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020522.png",7TWO
 http://iptv.matthuisman.nz/au/Sydney/tv.101305020522.m3u8
