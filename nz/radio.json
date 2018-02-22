@@ -902,6 +902,20 @@
             "sample_rate": "44100"
         }
     },
+    "radio.ih.7114": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7114.png",
+        "name": "The Wireless 90.4FM",
+        "description": "Nostalgia",
+        "genres": [
+            "Mix & Variety"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.7114.aac",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
     "radio.ih.7159": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7159.png",
         "name": "The Country",
