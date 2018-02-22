@@ -213,20 +213,6 @@
             "sample_rate": "48000"
         }
     },
-    "radio.ih.7442": {
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7442.png",
-        "name": "Dua Lipa Guest DJ",
-        "description": "Dua Lipa with songs from her debut album",
-        "genres": [
-            "Top 40 & Pop"
-        ],
-        "url": "http://iptv.matthuisman.nz/au/Adelaide/radio.ih.7442",
-        "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
-        }
-    },
     "radio.ih.7260": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7260.png",
         "name": "Guzman Y Gomez",

@@ -382,20 +382,6 @@
             "sample_rate": "48000"
         }
     },
-    "radio.ih.7442": {
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7442.png",
-        "name": "Dua Lipa Guest DJ",
-        "description": "Dua Lipa with songs from her debut album",
-        "genres": [
-            "Top 40 & Pop"
-        ],
-        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7442",
-        "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
-        }
-    },
     "radio.ih.7181": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7181.png",
         "name": "Gippsland’s 1242",
@@ -661,20 +647,6 @@
             "Top 40 & Pop"
         ],
         "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7293",
-        "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
-        }
-    },
-    "radio.ih.6714": {
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6714.png",
-        "name": "Talking Lifestyle Radio 1278",
-        "description": "1278 AM | Digital | Online | Mobile",
-        "genres": [
-            "Mix & Variety"
-        ],
-        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6714",
         "audio": {
             "codec": "aac",
             "channels": 2,

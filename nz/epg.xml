@@ -153,34 +153,6 @@
     <display-name>1113 Maori TV On Demand</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.54.png"/>
   </channel>
-  <channel id="tv.redbull.tv">
-    <display-name>Redbull TV</display-name>
-    <icon src=""/>
-  </channel>
-  <channel id="tv.olympics.1">
-    <display-name>Olympic Channel #1</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png"/>
-  </channel>
-  <channel id="tv.olympics.2">
-    <display-name>Olympic Channel #2</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png"/>
-  </channel>
-  <channel id="tv.olympics.3">
-    <display-name>Olympic Channel #3</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png"/>
-  </channel>
-  <channel id="tv.olympics.4">
-    <display-name>Olympic Channel #4</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png"/>
-  </channel>
-  <channel id="tv.olympics.5">
-    <display-name>Olympic Channel #5</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png"/>
-  </channel>
-  <channel id="tv.sbnint">
-    <display-name>SonLife International</display-name>
-    <icon src="http://sonlifetv.com/images/sbngloballogo.jpg"/>
-  </channel>
   <programme channel="tv.9" start="20180221101500 +0000" stop="20180221111000 +0000">
     <title>Queen Sugar</title>
     <desc>Season Final. S1 E13 Charley goes all out to secure an investor. Ralph Angel makes a shocking discovery.</desc>
