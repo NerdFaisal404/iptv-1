@@ -15150,25 +15150,50 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.28" start="20180222083500 +0000" stop="20180222093000 +0000">
-    <title>Alpine Skiing</title>
-    <desc>'PyeongChang 2018 Olympic Winter Games. Head to the Yongpyong Alpine Centre where the Men battle it out in the Slalom Alpine Skiing Run 2 Final, hosted by Stephen Mclvor. G'</desc>
+  <programme channel="tv.28" start="20180222083500 +0000" stop="20180222091500 +0000">
+    <title>Kiwis in action Day 13</title>
+    <desc>'PyeongChang 2018 Olympic Winter Games. Kiwi wrap of men's freestyle skiing halfpipe and the women's big air final. Featuring Beau James Wellls, Nico Porteous, and Zoi Sadowski Synott. G '</desc>
     <episode-num system="dd_progid">SNZ10985733</episode-num>
   </programme>
-  <programme channel="tv.28" start="20180222093000 +0000" stop="20180222123000 +0000">
+  <programme channel="tv.28" start="20180222091500 +0000" stop="20180222100000 +0000">
+    <title>Alpine Skiing</title>
+    <desc>'PyeongChang 2018 Olympic Winter Games. Head to the Yongpyong Alpine Centre where the Men battle it out in the Slalom Alpine Skiing Run 2 Final, hosted by Stephen Mclvor. G'</desc>
+    <episode-num system="dd_progid">SNZ37131026</episode-num>
+  </programme>
+  <programme channel="tv.28" start="20180222100000 +0000" stop="20180222103000 +0000">
+    <title>Alpine Skiing</title>
+    <desc>'PyeongChang 2018 Olympic Winter Games. Head to the Yongpyong Alpine Centre where the Ladies battle it out in the Combined Women's Slalom Alpine Skiing, hosted by Stephen Mclvor. G'</desc>
+    <episode-num system="dd_progid">SNZ37279613</episode-num>
+  </programme>
+  <programme channel="tv.28" start="20180222103000 +0000" stop="20180222111000 +0000">
     <title>Ice Hockey</title>
-    <desc>PyeongChang 2018 Olympic Winter Games. Head to Gangneung Hockey Centre with Stephen Mclvor for the Women's Ice Hockey Final. Which team will take the gold? G</desc>
+    <desc>PyeongChang 2018 Olympic Winter Games. Head to Gangneung Hockey Centre with Stephen Mclvor for the Women's Ice Hockey Final. Which team will take the gold? CAN v USA. G</desc>
     <episode-num system="dd_progid">SNZ37131031</episode-num>
   </programme>
-  <programme channel="tv.28" start="20180222123000 +0000" stop="20180222133000 +0000">
-    <title>Nordic Combined</title>
-    <desc>PyeongChang 2018 Olympic Winter Games. Join Stephen McIvor for the fast-paced action of the Men's Team Nordic Combined. G</desc>
-    <episode-num system="dd_progid">SNZ37131036</episode-num>
+  <programme channel="tv.28" start="20180222111000 +0000" stop="20180222112000 +0000">
+    <title>Victory Ceremony</title>
+    <desc>PyeongChang 2018 Olympic Winter Games. Join Prime for the Snowboard Women's Big Air Victory Ceremony.</desc>
+    <episode-num system="dd_progid">SNZ37279642</episode-num>
   </programme>
-  <programme channel="tv.28" start="20180222133000 +0000" stop="20180222143000 +0000">
+  <programme channel="tv.28" start="20180222112000 +0000" stop="20180222114000 +0000">
+    <title>Ice Hockey</title>
+    <desc>PyeongChang 2018 Olympic Winter Games. Head to Gangneung Hockey Centre with Stephen Mclvor for continued coverage of the Women's Ice Hockey Final. Which team will take the gold? CAN v USA. G</desc>
+    <episode-num system="dd_progid">SNZ37279672</episode-num>
+  </programme>
+  <programme channel="tv.28" start="20180222114000 +0000" stop="20180222120000 +0000">
+    <title>Victory Ceremony</title>
+    <desc>PyeongChang 2018 Olympic Winter Games. Join Prime for the Freestyle Skiing Men's Halfpipe Victory Ceremony.</desc>
+    <episode-num system="dd_progid">SNZ37279687</episode-num>
+  </programme>
+  <programme channel="tv.28" start="20180222120000 +0000" stop="20180222133000 +0000">
     <title>Short Track Speed Skating</title>
     <desc>'PyeongChang 2018 Olympic Winter Games. Catch the fierce competition at the finals of the Short Track Speed Skating Men's 500m, Ladies 100m and Men's 5000m. G'</desc>
     <episode-num system="dd_progid">SNZ37131041</episode-num>
+  </programme>
+  <programme channel="tv.28" start="20180222133000 +0000" stop="20180222143000 +0000">
+    <title>Nordic Combined</title>
+    <desc>PyeongChang 2018 Olympic Winter Games. Join Stephen McIvor for the fast-paced action of the Men's Team Nordic Combined. G</desc>
+    <episode-num system="dd_progid">SNZ37131036</episode-num>
   </programme>
   <programme channel="tv.28" start="20180222143000 +0000" stop="20180222150500 +0000">
     <title>Biathlon</title>
@@ -50333,17 +50358,17 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180228090000 +0000" stop="20180228092900 +0000">
-    <title>Agony</title>
-    <episode-num system="dd_progid">LE1247V002S00</episode-num>
+  <programme channel="tv.101002210222" start="20180228090000 +0000" stop="20180228092300 +0000">
+    <title>Black Books</title>
+    <episode-num system="dd_progid">ZY5479A001S00</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180228090000 +0000" stop="20180228092300 +0000">
-    <title>Black Books</title>
-    <episode-num system="dd_progid">ZY5479A001S00</episode-num>
+  <programme channel="tv.101002210222" start="20180228090000 +0000" stop="20180228092900 +0000">
+    <title>Agony</title>
+    <episode-num system="dd_progid">LE1247V002S00</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -76714,15 +76739,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180225040000 +0000" stop="20180225050000 +0000">
-    <title>Cycling Herald Sun Tour 2018</title>
-    <episode-num system="dd_progid">901129</episode-num>
+    <title>Jayco Herald Sun Tour</title>
+    <episode-num system="dd_progid">913639</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180225040000 +0000" stop="20180225050000 +0000">
-    <title>Jayco Herald Sun Tour</title>
-    <episode-num system="dd_progid">913639</episode-num>
+    <title>Cycling Herald Sun Tour 2018</title>
+    <episode-num system="dd_progid">901129</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
