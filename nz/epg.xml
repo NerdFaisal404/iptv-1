@@ -14836,27 +14836,22 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.28" start="20180223083000 +0000" stop="20180223093000 +0000">
-    <title>Freestyle Skiing</title>
-    <desc>PyeongChang 2018 Olympic Winter Games. Join Stephen Mclvor at the Phoenix Snow Park where the Women battle it out for gold in the Freestyle Skiing Women's Ski Cross Final. G</desc>
-    <episode-num system="dd_progid">SNZ10985734</episode-num>
-  </programme>
-  <programme channel="tv.28" start="20180223093000 +0000" stop="20180223123000 +0000">
+  <programme channel="tv.28" start="20180223083000 +0000" stop="20180223113000 +0000">
     <title>Figure Skating</title>
     <desc>PyeongChang 2018 Olympic Winter Games. Join Stephen Mclvor for day 14 of the Figure Skating where the athletes hope to blow away judges in the Women's Free Programme at Gangneung Ice Arena. G</desc>
-    <episode-num system="dd_progid">SNZ37131156</episode-num>
+    <episode-num system="dd_progid">SNZ10985734</episode-num>
   </programme>
-  <programme channel="tv.28" start="20180223123000 +0000" stop="20180223134500 +0000">
-    <title>Alpine Skiing</title>
-    <desc>'PyeongChang 2018 Olympic Winter Games. Olympians at Jeongseon Alpine Centre battle it out in the Women's Alpine Combined Run 2 Final, hosted by Stephen Mclvor. G'</desc>
-    <episode-num system="dd_progid">SNZ37131161</episode-num>
-  </programme>
-  <programme channel="tv.28" start="20180223134500 +0000" stop="20180223143000 +0000">
+  <programme channel="tv.28" start="20180223113000 +0000" stop="20180223120000 +0000">
     <title>Speed Skating</title>
     <desc>PyeongChang 2018 Olympic Winter Games. Join Stephen Mclvor for the action at the Gangneung Oval as the men take to the ice for the Speed Skating 1000m Final. G</desc>
     <episode-num system="dd_progid">SNZ37131166</episode-num>
   </programme>
-  <programme channel="tv.28" start="20180223143000 +0000" stop="20180223150000 +0000">
+  <programme channel="tv.28" start="20180223120000 +0000" stop="20180223140000 +0000">
+    <title>Ice Hockey</title>
+    <desc>PyeongChang 2018 Olympic Winter Games. Join us for replay coverage of the Men's Semi Final. CZE v OAR.</desc>
+    <episode-num system="dd_progid">SNZ37131161</episode-num>
+  </programme>
+  <programme channel="tv.28" start="20180223140000 +0000" stop="20180223150000 +0000">
     <title>Biathlon</title>
     <desc>PyeongChang 2018 Olympic Winter Games. Head to the Alpensia Biathlon Centre with Stephen Mclvor for the Baithlon Men's 4 x 7.5km relay. G</desc>
     <episode-num system="dd_progid">SNZ37131171</episode-num>
