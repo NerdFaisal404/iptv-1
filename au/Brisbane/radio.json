@@ -1,4 +1,19 @@
 {
+    "radio.ih.6711": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6711.png",
+        "name": "4BC Brisbane",
+        "description": "Brisbane’s favourite news, talk & sport",
+        "genres": [
+            "Sports",
+            "News & Talk"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6711",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
     "radio.ih.6175": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6175.png",
         "name": "4KQ",
