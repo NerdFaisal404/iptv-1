@@ -33296,22 +33296,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180225040000 +0000" stop="20180225050000 +0000">
-    <title>Jayco Herald Sun Tour</title>
-    <episode-num system="dd_progid">913639</episode-num>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000301" start="20180225040000 +0000" stop="20180225050000 +0000">
     <title>Cycling Herald Sun Tour 2018</title>
     <episode-num system="dd_progid">901129</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000301" start="20180225050000 +0000" stop="20180225060000 +0000">
-    <title>Cycling Herald Sun Tour 2018</title>
-    <episode-num system="dd_progid">901130</episode-num>
+  <programme channel="tv.320203000301" start="20180225040000 +0000" stop="20180225050000 +0000">
+    <title>Jayco Herald Sun Tour</title>
+    <episode-num system="dd_progid">913639</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -33319,6 +33312,13 @@
   <programme channel="tv.320203000301" start="20180225050000 +0000" stop="20180225060000 +0000">
     <title>Road National Championships</title>
     <episode-num system="dd_progid">913641</episode-num>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000301" start="20180225050000 +0000" stop="20180225060000 +0000">
+    <title>Cycling Herald Sun Tour 2018</title>
+    <episode-num system="dd_progid">901130</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
