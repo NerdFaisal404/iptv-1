@@ -14959,12 +14959,12 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.28" start="20180223083000 +0000" stop="20180223113000 +0000">
+  <programme channel="tv.28" start="20180223083000 +0000" stop="20180223112000 +0000">
     <title>Figure Skating</title>
     <desc>PyeongChang 2018 Olympic Winter Games. Join Stephen Mclvor for day 14 of the Figure Skating where the athletes hope to blow away judges in the Women's Free Programme at Gangneung Ice Arena. G</desc>
     <episode-num system="dd_progid">SNZ10985734</episode-num>
   </programme>
-  <programme channel="tv.28" start="20180223113000 +0000" stop="20180223120000 +0000">
+  <programme channel="tv.28" start="20180223112000 +0000" stop="20180223120000 +0000">
     <title>Speed Skating</title>
     <desc>PyeongChang 2018 Olympic Winter Games. Join Stephen Mclvor for the action at the Gangneung Oval as the men take to the ice for the Speed Skating 1000m Final. G</desc>
     <episode-num system="dd_progid">SNZ37131166</episode-num>
@@ -75899,15 +75899,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180225040000 +0000" stop="20180225050000 +0000">
-    <title>Cycling Herald Sun Tour 2018</title>
-    <episode-num system="dd_progid">901129</episode-num>
+    <title>Jayco Herald Sun Tour</title>
+    <episode-num system="dd_progid">913639</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180225040000 +0000" stop="20180225050000 +0000">
-    <title>Jayco Herald Sun Tour</title>
-    <episode-num system="dd_progid">913639</episode-num>
+    <title>Cycling Herald Sun Tour 2018</title>
+    <episode-num system="dd_progid">901129</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
