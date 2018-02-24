@@ -14984,17 +14984,22 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.28" start="20180224103000 +0000" stop="20180224110000 +0000">
+  <programme channel="tv.28" start="20180224103000 +0000" stop="20180224114500 +0000">
     <title>Alpine Skiing</title>
     <desc>PyeongChang 2018 Olympic Winter Games. The competition ramps up at the Yongpyong Alpine Centre for the final of the Alpine Skiing Nations Team Event hosted by Stephen Mclvor. G</desc>
     <episode-num system="dd_progid">SNZ10985735</episode-num>
   </programme>
-  <programme channel="tv.28" start="20180224110000 +0000" stop="20180224113000 +0000">
+  <programme channel="tv.28" start="20180224114500 +0000" stop="20180224130000 +0000">
+    <title>Speed Skating</title>
+    <desc>PyeongChang 2018 Olympic Winter Games. Join Stephen Mclvor as both the Men's and Women's Speed Skating teams compete for gold in the Mass Start final at the Gangneung Oval. G</desc>
+    <episode-num system="dd_progid">SNZ37191964</episode-num>
+  </programme>
+  <programme channel="tv.28" start="20180224130000 +0000" stop="20180224140000 +0000">
     <title>Cross Country Skiing</title>
     <desc>PyeongChang 2018 Olympic Winter Games. Stephen Mclvor takes you to the action at the Alpensia Cross-Country Skiing Centre for the Cross Country Skiing Men's 50km final. G</desc>
     <episode-num system="dd_progid">SNZ37191954</episode-num>
   </programme>
-  <programme channel="tv.28" start="20180224113000 +0000" stop="20180224141500 +0000">
+  <programme channel="tv.28" start="20180224140000 +0000" stop="20180224141500 +0000">
     <title>Curling</title>
     <desc>PyeongChang 2018 Olympic Winter Games. Head to the Gangneung Curling Centre with Stephen Mclvor for the Men's Curling final. Who will take out gold? G</desc>
     <episode-num system="dd_progid">SNZ37191959</episode-num>
@@ -75180,15 +75185,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180225040000 +0000" stop="20180225050000 +0000">
-    <title>Cycling Herald Sun Tour 2018</title>
-    <episode-num system="dd_progid">901129</episode-num>
+    <title>Jayco Herald Sun Tour</title>
+    <episode-num system="dd_progid">913639</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180225040000 +0000" stop="20180225050000 +0000">
-    <title>Jayco Herald Sun Tour</title>
-    <episode-num system="dd_progid">913639</episode-num>
+    <title>Cycling Herald Sun Tour 2018</title>
+    <episode-num system="dd_progid">901129</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
