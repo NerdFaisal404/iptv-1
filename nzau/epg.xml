@@ -2150,6 +2150,9 @@
     <title>Home And Away</title>
     <desc>Will Robbo finally get caught? Hunter and Jennifer start a surprise romance; Dean confronts Colby about their shared past.</desc>
     <episode-num system="dd_progid">10487138</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180226050000 +0000" stop="20180226053000 +0000">
     <title>The Big Bang Theory</title>
@@ -2432,6 +2435,9 @@
     <title>Home And Away</title>
     <desc>Will Robbo finally get caught? Hunter and Jennifer start a surprise romance; Dean confronts Colby about their shared past.</desc>
     <episode-num system="dd_progid">10487138</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180227021500 +0000" stop="20180227024500 +0000">
     <title>Shortland Street</title>
@@ -3981,6 +3987,9 @@
     <title>Home And Away</title>
     <desc>Will Robbo finally get caught? Hunter and Jennifer start a surprise romance; Dean confronts Colby about their shared past.</desc>
     <episode-num system="dd_progid">10487138</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180304040000 +0000" stop="20180304043000 +0000">
     <title>The Simpsons</title>
@@ -74936,15 +74945,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180225040000 +0000" stop="20180225050000 +0000">
-    <title>Cycling Herald Sun Tour 2018</title>
-    <episode-num system="dd_progid">901129</episode-num>
+    <title>Jayco Herald Sun Tour</title>
+    <episode-num system="dd_progid">913639</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180225040000 +0000" stop="20180225050000 +0000">
-    <title>Jayco Herald Sun Tour</title>
-    <episode-num system="dd_progid">913639</episode-num>
+    <title>Cycling Herald Sun Tour 2018</title>
+    <episode-num system="dd_progid">901129</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
