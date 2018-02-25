@@ -181,8 +181,8 @@
         "url": "http://iptv.matthuisman.nz/nz/tv.60.m3u8",
         "video": {
             "codec": "h264",
-            "width": 640,
-            "height": 360
+            "width": 960,
+            "height": 540
         },
         "audio": {
             "codec": "aac",
