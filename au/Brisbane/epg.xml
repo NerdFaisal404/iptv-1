@@ -11913,6 +11913,7 @@
   <programme channel="tv.101204000401" start="20180226070000 +0000" stop="20180226075900 +0000">
     <title>Millionaire Hot Seat</title>
     <episode-num system="dd_progid">WHWA__1766</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -11944,6 +11945,7 @@
   <programme channel="tv.101204000401" start="20180226110100 +0000" stop="20180226120700 +0000">
     <title>Travel Guides</title>
     <episode-num system="dd_progid">TRGU_2_4</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -11975,6 +11977,7 @@
   <programme channel="tv.101204000401" start="20180226145300 +0000" stop="20180226152400 +0000">
     <title>Postcards</title>
     <episode-num system="dd_progid">POVI_2018_3</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -12307,7 +12310,7 @@
   </programme>
   <programme channel="tv.101204000401" start="20180228120000 +0000" stop="20180228130000 +0000">
     <title>Botched</title>
-    <episode-num system="dd_progid">BOTC_4_8AK05</episode-num>
+    <episode-num system="dd_progid">BOTC_4_8AK06</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
@@ -13310,6 +13313,7 @@
   <programme channel="tv.101204000407" start="20180226023100 +0000" stop="20180226030100 +0000">
     <title>Postcards</title>
     <episode-num system="dd_progid">POVI_2018_3</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -13895,6 +13899,7 @@
   <programme channel="tv.101204000407" start="20180228183000 +0000" stop="20180228190000 +0000">
     <title>Postcards</title>
     <episode-num system="dd_progid">POVI_2018_3</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -17067,6 +17072,7 @@
   <programme channel="tv.10120400040B" start="20180227100000 +0000" stop="20180227103000 +0000">
     <title>Science of Stupid</title>
     <episode-num system="dd_progid">SCST_3_19</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -17824,7 +17830,7 @@
   </programme>
   <programme channel="tv.10120400040B" start="20180302030000 +0000" stop="20180302040000 +0000">
     <title>Dawson's Creek</title>
-    <episode-num system="dd_progid">DACR_2_222</episode-num>
+    <episode-num system="dd_progid">DACR_2_221</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -20869,7 +20875,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040540" start="20180227013000 +0000" stop="20180227020100 +0000">
+  <programme channel="tv.101305040540" start="20180227013000 +0000" stop="20180227020000 +0000">
     <title>Seven Morning News</title>
     <episode-num system="dd_progid">nLKot3eHltaPmdiO</episode-num>
     <subtitles type="teletext"/>
@@ -20877,9 +20883,13 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040540" start="20180227020100 +0000" stop="20180227032800 +0000">
-    <title>To Be Advised</title>
-    <episode-num system="dd_progid">150794E23423</episode-num>
+  <programme channel="tv.101305040540" start="20180227020000 +0000" stop="20180227032800 +0000">
+    <title>My Kitchen Rules</title>
+    <episode-num system="dd_progid">249751E8259520</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.101305040540" start="20180227032800 +0000" stop="20180227040000 +0000">
     <title>RSPCA Animal Rescue</title>
@@ -23042,14 +23052,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040542" start="20180302025500 +0000" stop="20180302035800 +0000">
+  <programme channel="tv.101305040542" start="20180302025500 +0000" stop="20180302035900 +0000">
     <title>Life On The Edge</title>
     <episode-num system="dd_progid">teCursLPmdaPnPxx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040542" start="20180302035800 +0000" stop="20180302042800 +0000">
+  <programme channel="tv.101305040542" start="20180302035900 +0000" stop="20180302042800 +0000">
     <title>Million Dollar Minute</title>
     <episode-num system="dd_progid">tu1ettqSmdaPm30x</episode-num>
     <subtitles type="teletext"/>
@@ -23065,7 +23075,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040542" start="20180302045900 +0000" stop="20180302053100 +0000">
+  <programme channel="tv.101305040542" start="20180302045900 +0000" stop="20180302053300 +0000">
     <title>RSPCA Animal Rescue</title>
     <episode-num system="dd_progid">quGsuMiSmdaPmdix</episode-num>
     <subtitles type="teletext"/>
@@ -23073,7 +23083,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040542" start="20180302053100 +0000" stop="20180302062900 +0000">
+  <programme channel="tv.101305040542" start="20180302053300 +0000" stop="20180302063100 +0000">
     <title>Auction Squad</title>
     <episode-num system="dd_progid">qvvduMiSmdaPmtax</episode-num>
     <subtitles type="teletext"/>
@@ -23081,14 +23091,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040542" start="20180302062900 +0000" stop="20180302073100 +0000">
+  <programme channel="tv.101305040542" start="20180302063100 +0000" stop="20180302073200 +0000">
     <title>House Doctor: Inside &amp; Out</title>
     <episode-num system="dd_progid">serjtMaOltaPmdaK</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040542" start="20180302073100 +0000" stop="20180302083000 +0000">
+  <programme channel="tv.101305040542" start="20180302073200 +0000" stop="20180302083000 +0000">
     <title>Escape to the Country</title>
     <episode-num system="dd_progid">rvruqMeJltaPmdeL</episode-num>
     <rating system="Freeview">
