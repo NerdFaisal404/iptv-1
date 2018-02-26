@@ -1812,6 +1812,22 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180306130000 +0000" stop="20180306133000 +0000">
+    <title>ABC Late News</title>
+    <episode-num system="dd_progid">NU1826W047S00</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20180306133000 +0000" stop="20180306140000 +0000">
+    <title>7.30</title>
+    <episode-num system="dd_progid">NC1801H038S00</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210222" start="20180226132700 +0000" stop="20180226135500 +0000">
     <title>Red Dwarf</title>
     <episode-num system="dd_progid">ZZ9717A001S00</episode-num>
@@ -6644,6 +6660,14 @@
     <episode-num system="dd_progid">ZW1339A021S00</episode-num>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210222" start="20180306130400 +0000" stop="20180306133300 +0000">
+    <title>Tonightly with Tom Ballard</title>
+    <episode-num system="dd_progid">LE1691H057S00</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101002210224" start="20180226120400 +0000" stop="20180226180000 +0000">
@@ -14992,6 +15016,13 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101204500454" start="20180306133000 +0000" stop="20180306143000 +0000">
+    <title>Keeping Up With the Kardashians</title>
+    <episode-num system="dd_progid">KEUP_12_7BP16</episode-num>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204500457" start="20180226131300 +0000" stop="20180226140900 +0000">
     <title>Public Morals</title>
     <episode-num system="dd_progid">PUMO_1_4</episode-num>
@@ -20453,6 +20484,22 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020528" start="20180306130000 +0000" stop="20180306133000 +0000">
+    <title>Raceday Review - Bendigo</title>
+    <episode-num system="dd_progid">RV06031A</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180306133000 +0000" stop="20180306140000 +0000">
+    <title>Raceday Review: Wangaratta</title>
+    <episode-num system="dd_progid">RV04031A</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305050550" start="20180226132700 +0000" stop="20180226135500 +0000">
     <title>Mixology</title>
     <episode-num system="dd_progid">tu1ytNLPmdaPmqxx</episode-num>
@@ -21821,6 +21868,13 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050550" start="20180306133000 +0000" stop="20180306143000 +0000">
+    <title>Time After Time</title>
+    <episode-num system="dd_progid">ve1nqtaOltaPmdaG</episode-num>
+    <rating system="Freeview">
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101305050552" start="20180226131900 +0000" stop="20180226141700 +0000">
@@ -25313,6 +25367,13 @@
   <programme channel="tv.101305050553" start="20180306130000 +0000" stop="20180306133000 +0000">
     <title>Bar Hunters</title>
     <episode-num system="dd_progid">q2fssdaOltaPmdaN</episode-num>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050553" start="20180306133000 +0000" stop="20180306143000 +0000">
+    <title>Ice Road Truckers</title>
+    <episode-num system="dd_progid">sunfu3aNltaPmdaN</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -33114,6 +33175,13 @@
     <title>To Be Advised</title>
     <episode-num system="dd_progid">150794E23423</episode-num>
   </programme>
+  <programme channel="tv.101406050658" start="20180306133000 +0000" stop="20180306143000 +0000">
+    <title>The Late Late Show with James Corden</title>
+    <episode-num system="dd_progid">59899E1515194</episode-num>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000301" start="20180226123000 +0000" stop="20180226142500 +0000">
     <title>Delicacy</title>
     <episode-num system="dd_progid">645620</episode-num>
@@ -34861,6 +34929,13 @@
   <programme channel="tv.320203000301" start="20180306120000 +0000" stop="20180306130000 +0000">
     <title>Monster</title>
     <episode-num system="dd_progid">879329</episode-num>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000301" start="20180306130000 +0000" stop="20180306140000 +0000">
+    <title>Monster</title>
+    <episode-num system="dd_progid">879330</episode-num>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
@@ -37056,6 +37131,13 @@
     <episode-num system="dd_progid">798946</episode-num>
     <rating system="Freeview">
       <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180306131500 +0000" stop="20180306145500 +0000">
+    <title>Nice People</title>
+    <episode-num system="dd_progid">830155</episode-num>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20180226130000 +0000" stop="20180226133000 +0000">
@@ -39739,6 +39821,20 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000304" start="20180306130000 +0000" stop="20180306133000 +0000">
+    <title>Paul Hollywood City Bakes</title>
+    <episode-num system="dd_progid">834355</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180306133000 +0000" stop="20180306140000 +0000">
+    <title>Unwrapped 2.0</title>
+    <episode-num system="dd_progid">884777</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000305" start="20180226130000 +0000" stop="20180226140000 +0000">
     <title>Volumz</title>
     <episode-num system="dd_progid">645557</episode-num>
@@ -42152,6 +42248,13 @@
   <programme channel="tv.320203000305" start="20180306123000 +0000" stop="20180306130000 +0000">
     <title>Goin' Troppo in The Toppo</title>
     <episode-num system="dd_progid">639225</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180306130000 +0000" stop="20180306140000 +0000">
+    <title>Volumz</title>
+    <episode-num system="dd_progid">673882</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
