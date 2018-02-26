@@ -97,8 +97,10 @@
         "name": "ABC Grandstand",
         "description": "100% pure sport",
         "genres": [
-            "Sports",
-            "Public Radio"
+            "Public Radio",
+            "News & Talk",
+            "Traffic, Weather & News",
+            "Sports"
         ],
         "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7112",
         "audio": {
@@ -312,10 +314,10 @@
         "description": "OUT. LOUD. PROUD",
         "genres": [
             "Top 40 & Pop",
-            "News & Talk",
             "Dance",
             "Popular Artists",
             "Personalities",
+            "EDM",
             "Public Radio"
         ],
         "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7547",
@@ -394,8 +396,9 @@
         "name": "SBS Chill",
         "description": "Chill to relaxing sounds of world music",
         "genres": [
-            "World",
-            "Public Radio"
+            "Public Radio",
+            "Multicultural",
+            "World"
         ],
         "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7029.aac",
         "audio": {
@@ -409,8 +412,9 @@
         "name": "SBS PopAsia",
         "description": "The hottest K-Pop, J-Pop, C-Pop!",
         "genres": [
-            "World",
-            "Public Radio"
+            "Public Radio",
+            "Multicultural",
+            "World"
         ],
         "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7028.aac",
         "audio": {
@@ -424,8 +428,9 @@
         "name": "SBS PopDesi",
         "description": "Non-Stop Desi Pop. Bhangra to Bollywood!",
         "genres": [
-            "World",
-            "Public Radio"
+            "Public Radio",
+            "Multicultural",
+            "World"
         ],
         "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7031.aac",
         "audio": {

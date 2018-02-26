@@ -4187,7 +4187,7 @@
   </programme>
   <programme channel="tv.11" start="20180226060000 +0000" stop="20180226063000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Kanoa, Jesse and Josh are joined by guest host Petra Bagust as they discuss fertility - why do so many Kiwis struggle to conceive and why is it not more talked about?</desc>
     <episode-num system="dd_progid">T806423</episode-num>
   </programme>
   <programme channel="tv.11" start="20180226063000 +0000" stop="20180226080000 +0000">
@@ -4267,7 +4267,7 @@
     <desc></desc>
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
-  <programme channel="tv.11" start="20180226223000 +0000" stop="20180226225500 +0000">
+  <programme channel="tv.11" start="20180226223000 +0000" stop="20180226230000 +0000">
     <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <episode-num system="dd_progid">T807921</episode-num>
@@ -4275,7 +4275,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180226225500 +0000" stop="20180226232500 +0000">
+  <programme channel="tv.11" start="20180226230000 +0000" stop="20180226233000 +0000">
     <title>Family Feud Australia (Encore)</title>
     <desc>It's the Australian version of Family Feud. Watch Aussie families battle against each other, answering questions that have been put to 100 people to determine the most popular responses.</desc>
     <episode-num system="dd_progid">T804175</episode-num>
@@ -4283,7 +4283,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180226232500 +0000" stop="20180227002500 +0000">
+  <programme channel="tv.11" start="20180226233000 +0000" stop="20180227003000 +0000">
     <title>Dr. Phil</title>
     <desc>Dr. Phil launches a global probe to investigate the story of a doctor who sent hundreds of thousands of dollars overseas to a woman to receive two mystery boxes totalling $6.5 million.</desc>
     <episode-num system="dd_progid">T727869</episode-num>
@@ -4291,7 +4291,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180227002500 +0000" stop="20180227020000 +0000">
+  <programme channel="tv.11" start="20180227003000 +0000" stop="20180227020000 +0000">
     <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. It's been a month since our couples first met as complete strangers at the altar. Now they must move into the next challenging part of the experiment - the husband's homestays. S5 Ep14</desc>
     <episode-num system="dd_progid">T816140</episode-num>
@@ -4507,6 +4507,9 @@
     <title>Married At First Sight Australia</title>
     <desc>New Episode. It's the first dinner party since Dean and Davina's affair was revealed and the group wants answers. S5 Ep16</desc>
     <episode-num system="dd_progid">T816142</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180228080500 +0000" stop="20180228090500 +0000">
     <title>Swipe Right For Murder</title>
@@ -4603,6 +4606,9 @@
     <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. It's the first dinner party since Dean and Davina's affair was revealed and the group wants answers. S5 Ep16</desc>
     <episode-num system="dd_progid">T816142</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180301020000 +0000" stop="20180301023000 +0000">
     <title>Entertainment Tonight</title>
@@ -4653,7 +4659,7 @@
   </programme>
   <programme channel="tv.11" start="20180301063000 +0000" stop="20180301070000 +0000">
     <title>All New Modern Family</title>
-    <desc>Modern Family is back with your favourite Pritchett-Dunphy-Tucker clan. Watch as we follow their honest and often-hilarious family lives in this brand new season.</desc>
+    <desc>New Episode. Jay gets the wrong idea when he overhears Gloria on the phone talking about 'spanking', and Mitchell and Cam throw a party to show off Mitchell's new job. S9 Ep14</desc>
     <episode-num system="dd_progid">T788762</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
@@ -4730,7 +4736,7 @@
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
   <programme channel="tv.11" start="20180301223000 +0000" stop="20180301230000 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <episode-num system="dd_progid">T807924</episode-num>
     <rating system="Freeview">
@@ -4738,7 +4744,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180301230000 +0000" stop="20180301233000 +0000">
-    <title>Family Feud Australia</title>
+    <title>Family Feud Australia (Encore)</title>
     <desc>It's the Australian version of Family Feud. Watch Aussie families battle against each other, answering questions that have been put to 100 people to determine the most popular responses.</desc>
     <episode-num system="dd_progid">T804178</episode-num>
     <rating system="Freeview">
@@ -4810,7 +4816,7 @@
   </programme>
   <programme channel="tv.11" start="20180302080000 +0000" stop="20180302084500 +0000">
     <title>7 Days</title>
-    <desc>Hosted by Jeremy Corbett, with team captains Dai Henwood and Paul Ego, 7 Days sees New Zealand's top comedians pit their wits against the week's news and each other.</desc>
+    <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Ben Hurley, Urzila Carlson, Laura Daniel and Eli Matthewson.</desc>
     <episode-num system="dd_progid">T798511</episode-num>
   </programme>
   <programme channel="tv.11" start="20180302084500 +0000" stop="20180302091500 +0000">
@@ -4864,7 +4870,7 @@
     <episode-num system="dd_progid">T243931</episode-num>
   </programme>
   <programme channel="tv.11" start="20180302173000 +0000" stop="20180302182500 +0000">
-    <title>The Project</title>
+    <title>The Project (Encore)</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T806427</episode-num>
   </programme>
@@ -4934,11 +4940,8 @@
   </programme>
   <programme channel="tv.11" start="20180303020000 +0000" stop="20180303023000 +0000">
     <title>The Goldbergs</title>
-    <desc>After Barry starts checking out the best medical schools to become a doctor, Lainey announces she got into a fashion program that doesn't have a medical school. S4 Ep18</desc>
-    <episode-num system="dd_progid">T729008</episode-num>
-    <audio>
-      <stereo>dolby</stereo>
-    </audio>
+    <desc>In a time not too long ago and not very far away, Adam Goldberg is using his parents' video camera to document life in 1980s suburbia.</desc>
+    <episode-num system="dd_progid">T785711</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -5069,7 +5072,7 @@
     <episode-num system="dd_progid">T818308</episode-num>
   </programme>
   <programme channel="tv.11" start="20180303210000 +0000" stop="20180303220500 +0000">
-    <title>Newshub Nation</title>
+    <title>Newshub Nation (Encore)</title>
     <desc>Hosted by Lisa Owen, Newshub Nation is an in-depth weekly current affairs show focusing on the major players and forces that shape New Zealand.</desc>
     <episode-num system="dd_progid">T805451</episode-num>
   </programme>
@@ -5173,7 +5176,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180304103500 +0000" stop="20180304112500 +0000">
-    <title>Entertainment Tonight Weekend</title>
+    <title>Entertainment Tonight Weekend (Encore)</title>
     <desc>A wrap up of the biggest entertainment stories of the last week.</desc>
     <episode-num system="dd_progid">T807855</episode-num>
     <rating system="Freeview">
@@ -5216,7 +5219,7 @@
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
   <programme channel="tv.11" start="20180304223000 +0000" stop="20180304230000 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <episode-num system="dd_progid">T807925</episode-num>
     <rating system="Freeview">
@@ -5224,7 +5227,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180304230000 +0000" stop="20180304233000 +0000">
-    <title>Family Feud Australia</title>
+    <title>Family Feud Australia (Encore)</title>
     <desc>It's the Australian version of Family Feud. Watch Aussie families battle against each other, answering questions that have been put to 100 people to determine the most popular responses.</desc>
     <episode-num system="dd_progid">T804179</episode-num>
     <rating system="Freeview">
@@ -5240,7 +5243,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180305003000 +0000" stop="20180305020000 +0000">
-    <title>Married At First Sight Australia</title>
+    <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. The drama from last night's dinner party spills into tonight's Commitment Ceremony. S5 Ep17</desc>
     <episode-num system="dd_progid">T816143</episode-num>
   </programme>
@@ -5310,7 +5313,7 @@
     <episode-num system="dd_progid">T805531</episode-num>
   </programme>
   <programme channel="tv.11" start="20180305095500 +0000" stop="20180305110500 +0000">
-    <title>Newshub Nation</title>
+    <title>Newshub Nation (Encore)</title>
     <desc>Hosted by Lisa Owen, Newshub Nation is an in-depth weekly current affairs show focusing on the major players and forces that shape New Zealand.</desc>
     <episode-num system="dd_progid">T805451</episode-num>
   </programme>
@@ -5745,7 +5748,7 @@
     </rating>
   </programme>
   <programme channel="tv.12" start="20180228073000 +0000" stop="20180228083000 +0000">
-    <title>Real Housewives Of Beverly Hills 8, The 11</title>
+    <title>The Real Housewives Of Beverly Hills</title>
     <desc>Kyle wants an apology from Lisa but doesn't think she'll get one. Erika comes face to face with Kyle's old friend, Bethenny Frankel, who was critical of Erika's music the last time they met.</desc>
     <episode-num system="dd_progid">T790678</episode-num>
   </programme>
@@ -12382,7 +12385,7 @@
   </programme>
   <programme channel="tv.27" start="20180226070000 +0000" stop="20180226073000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Kanoa, Jesse and Josh are joined by guest host Petra Bagust as they discuss fertility - why do so many Kiwis struggle to conceive and why is it not more talked about?</desc>
     <episode-num system="dd_progid">T806423</episode-num>
   </programme>
   <programme channel="tv.27" start="20180226073000 +0000" stop="20180226090000 +0000">
@@ -12459,7 +12462,7 @@
     <desc></desc>
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
-  <programme channel="tv.27" start="20180226233000 +0000" stop="20180226235500 +0000">
+  <programme channel="tv.27" start="20180226233000 +0000" stop="20180227000000 +0000">
     <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <episode-num system="dd_progid">T807921</episode-num>
@@ -12467,7 +12470,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180226235500 +0000" stop="20180227002500 +0000">
+  <programme channel="tv.27" start="20180227000000 +0000" stop="20180227003000 +0000">
     <title>Family Feud Australia (Encore)</title>
     <desc>It's the Australian version of Family Feud. Watch Aussie families battle against each other, answering questions that have been put to 100 people to determine the most popular responses.</desc>
     <episode-num system="dd_progid">T804175</episode-num>
@@ -12475,7 +12478,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180227002500 +0000" stop="20180227012500 +0000">
+  <programme channel="tv.27" start="20180227003000 +0000" stop="20180227013000 +0000">
     <title>Dr. Phil</title>
     <desc>Dr. Phil launches a global probe to investigate the story of a doctor who sent hundreds of thousands of dollars overseas to a woman to receive two mystery boxes totalling $6.5 million.</desc>
     <episode-num system="dd_progid">T727869</episode-num>
@@ -12483,7 +12486,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180227012500 +0000" stop="20180227030000 +0000">
+  <programme channel="tv.27" start="20180227013000 +0000" stop="20180227030000 +0000">
     <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. It's been a month since our couples first met as complete strangers at the altar. Now they must move into the next challenging part of the experiment - the husband's homestays. S5 Ep14</desc>
     <episode-num system="dd_progid">T816140</episode-num>
@@ -12693,6 +12696,9 @@
     <title>Married At First Sight Australia</title>
     <desc>New Episode. It's the first dinner party since Dean and Davina's affair was revealed and the group wants answers. S5 Ep16</desc>
     <episode-num system="dd_progid">T816142</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180228090500 +0000" stop="20180228100500 +0000">
     <title>Swipe Right For Murder</title>
@@ -12786,6 +12792,9 @@
     <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. It's the first dinner party since Dean and Davina's affair was revealed and the group wants answers. S5 Ep16</desc>
     <episode-num system="dd_progid">T816142</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180301030000 +0000" stop="20180301033000 +0000">
     <title>Entertainment Tonight</title>
@@ -12836,7 +12845,7 @@
   </programme>
   <programme channel="tv.27" start="20180301073000 +0000" stop="20180301080000 +0000">
     <title>All New Modern Family</title>
-    <desc>Modern Family is back with your favourite Pritchett-Dunphy-Tucker clan. Watch as we follow their honest and often-hilarious family lives in this brand new season.</desc>
+    <desc>New Episode. Jay gets the wrong idea when he overhears Gloria on the phone talking about 'spanking', and Mitchell and Cam throw a party to show off Mitchell's new job. S9 Ep14</desc>
     <episode-num system="dd_progid">T788762</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
@@ -12907,7 +12916,7 @@
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
   <programme channel="tv.27" start="20180301233000 +0000" stop="20180302000000 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <episode-num system="dd_progid">T807924</episode-num>
     <rating system="Freeview">
@@ -12915,7 +12924,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180302000000 +0000" stop="20180302003000 +0000">
-    <title>Family Feud Australia</title>
+    <title>Family Feud Australia (Encore)</title>
     <desc>It's the Australian version of Family Feud. Watch Aussie families battle against each other, answering questions that have been put to 100 people to determine the most popular responses.</desc>
     <episode-num system="dd_progid">T804178</episode-num>
     <rating system="Freeview">
@@ -12987,7 +12996,7 @@
   </programme>
   <programme channel="tv.27" start="20180302090000 +0000" stop="20180302094500 +0000">
     <title>7 Days</title>
-    <desc>Hosted by Jeremy Corbett, with team captains Dai Henwood and Paul Ego, 7 Days sees New Zealand's top comedians pit their wits against the week's news and each other.</desc>
+    <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Ben Hurley, Urzila Carlson, Laura Daniel and Eli Matthewson.</desc>
     <episode-num system="dd_progid">T798511</episode-num>
   </programme>
   <programme channel="tv.27" start="20180302094500 +0000" stop="20180302101500 +0000">
@@ -13035,7 +13044,7 @@
     <episode-num system="dd_progid">T243931</episode-num>
   </programme>
   <programme channel="tv.27" start="20180302183000 +0000" stop="20180302192500 +0000">
-    <title>The Project</title>
+    <title>The Project (Encore)</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T806427</episode-num>
   </programme>
@@ -13099,8 +13108,8 @@
   </programme>
   <programme channel="tv.27" start="20180303030000 +0000" stop="20180303033000 +0000">
     <title>The Goldbergs</title>
-    <desc>After Barry starts checking out the best medical schools to become a doctor, Lainey announces she got into a fashion program that doesn't have a medical school. S4 Ep18</desc>
-    <episode-num system="dd_progid">T729008</episode-num>
+    <desc>In a time not too long ago and not very far away, Adam Goldberg is using his parents' video camera to document life in 1980s suburbia.</desc>
+    <episode-num system="dd_progid">T785711</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -13225,7 +13234,7 @@
     <episode-num system="dd_progid">T818308</episode-num>
   </programme>
   <programme channel="tv.27" start="20180303220000 +0000" stop="20180303230500 +0000">
-    <title>Newshub Nation</title>
+    <title>Newshub Nation (Encore)</title>
     <desc>Hosted by Lisa Owen, Newshub Nation is an in-depth weekly current affairs show focusing on the major players and forces that shape New Zealand.</desc>
     <episode-num system="dd_progid">T805451</episode-num>
   </programme>
@@ -13323,7 +13332,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180304113500 +0000" stop="20180304122500 +0000">
-    <title>Entertainment Tonight Weekend</title>
+    <title>Entertainment Tonight Weekend (Encore)</title>
     <desc>A wrap up of the biggest entertainment stories of the last week.</desc>
     <episode-num system="dd_progid">T807855</episode-num>
     <rating system="Freeview">
@@ -13366,7 +13375,7 @@
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
   <programme channel="tv.27" start="20180304233000 +0000" stop="20180305000000 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <episode-num system="dd_progid">T807925</episode-num>
     <rating system="Freeview">
@@ -13374,7 +13383,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180305000000 +0000" stop="20180305003000 +0000">
-    <title>Family Feud Australia</title>
+    <title>Family Feud Australia (Encore)</title>
     <desc>It's the Australian version of Family Feud. Watch Aussie families battle against each other, answering questions that have been put to 100 people to determine the most popular responses.</desc>
     <episode-num system="dd_progid">T804179</episode-num>
     <rating system="Freeview">
@@ -13390,7 +13399,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180305013000 +0000" stop="20180305030000 +0000">
-    <title>Married At First Sight Australia</title>
+    <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. The drama from last night's dinner party spills into tonight's Commitment Ceremony. S5 Ep17</desc>
     <episode-num system="dd_progid">T816143</episode-num>
   </programme>
@@ -13460,7 +13469,7 @@
     <episode-num system="dd_progid">T805531</episode-num>
   </programme>
   <programme channel="tv.27" start="20180305105500 +0000" stop="20180305120500 +0000">
-    <title>Newshub Nation</title>
+    <title>Newshub Nation (Encore)</title>
     <desc>Hosted by Lisa Owen, Newshub Nation is an in-depth weekly current affairs show focusing on the major players and forces that shape New Zealand.</desc>
     <episode-num system="dd_progid">T805451</episode-num>
   </programme>
@@ -13911,7 +13920,7 @@
     </rating>
   </programme>
   <programme channel="tv.30" start="20180228083000 +0000" stop="20180228093000 +0000">
-    <title>Real Housewives Of Beverly Hills 8, The 11</title>
+    <title>The Real Housewives Of Beverly Hills</title>
     <desc>Kyle wants an apology from Lisa but doesn't think she'll get one. Erika comes face to face with Kyle's old friend, Bethenny Frankel, who was critical of Erika's music the last time they met.</desc>
     <episode-num system="dd_progid">T790678</episode-num>
   </programme>
@@ -16463,8 +16472,8 @@
   </programme>
   <programme channel="tv.51" start="20180227070000 +0000" stop="20180227080000 +0000">
     <title>Top 10</title>
-    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Planes, Trains &amp; Aeroplanes</desc>
-    <episode-num system="dd_progid">T576087</episode-num>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Blondes!</desc>
+    <episode-num system="dd_progid">T576088</episode-num>
   </programme>
   <programme channel="tv.51" start="20180227080000 +0000" stop="20180227093000 +0000">
     <title>All The Hits</title>
