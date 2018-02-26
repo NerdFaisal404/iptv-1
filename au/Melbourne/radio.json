@@ -279,8 +279,9 @@
         "name": "ABC News Radio",
         "description": "Australia's only continuous news station",
         "genres": [
-            "News & Talk",
-            "Public Radio"
+            "Public Radio",
+            "Traffic, Weather & News",
+            "News & Talk"
         ],
         "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7110",
         "audio": {
@@ -402,11 +403,9 @@
         "description": "Better Music and More Of It",
         "genres": [
             "Classic Rock",
-            "80s & 90s Hits",
             "Rock",
-            "Hosts and DJs",
-            "Personalities",
-            "Mix & Variety"
+            "Mix & Variety",
+            "80s & 90s Hits"
         ],
         "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6181",
         "audio": {
@@ -487,8 +486,9 @@
         "name": "RN",
         "description": "The ideas network",
         "genres": [
-            "News & Talk",
-            "Public Radio"
+            "Public Radio",
+            "Traffic, Weather & News",
+            "News & Talk"
         ],
         "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7111",
         "audio": {
@@ -519,8 +519,10 @@
         "name": "SBS Arabic24",
         "description": "Australian News in Arabic",
         "genres": [
-            "News & Talk",
-            "Public Radio"
+            "Public Radio",
+            "World",
+            "Multicultural",
+            "News & Talk"
         ],
         "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7030.aac",
         "audio": {
@@ -579,8 +581,10 @@
         "name": "SBS Radio 2",
         "description": "News and information in your language",
         "genres": [
-            "News & Talk",
-            "Public Radio"
+            "Public Radio",
+            "World",
+            "Multicultural",
+            "News & Talk"
         ],
         "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7025.aac",
         "audio": {
@@ -594,8 +598,10 @@
         "name": "SBS Radio 3",
         "description": "News and information in your language",
         "genres": [
-            "News & Talk",
-            "Public Radio"
+            "Public Radio",
+            "Multicultural",
+            "World",
+            "News & Talk"
         ],
         "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7026.aac",
         "audio": {
@@ -609,8 +615,10 @@
         "name": "SBS Radio 4",
         "description": "News and information in your language",
         "genres": [
-            "News & Talk",
-            "Public Radio"
+            "Public Radio",
+            "World",
+            "Multicultural",
+            "News & Talk"
         ],
         "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7027.aac",
         "audio": {

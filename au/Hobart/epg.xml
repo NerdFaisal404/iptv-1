@@ -24354,7 +24354,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20180228110000 +0000" stop="20180228112900 +0000">
+  <programme channel="tv.101305030533" start="20180228110000 +0000" stop="20180228113000 +0000">
     <title>American Dad!</title>
     <episode-num system="dd_progid">qurbrdeMltaPmdeI</episode-num>
     <subtitles type="teletext"/>
@@ -24362,25 +24362,12 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20180228112900 +0000" stop="20180228115700 +0000">
-    <title>Family Guy</title>
-    <episode-num system="dd_progid">r29vwteOltaPmdeK</episode-num>
+  <programme channel="tv.101305030533" start="20180228113000 +0000" stop="20180228125500 +0000">
+    <title>Australian Spartan</title>
+    <episode-num system="dd_progid">370869E8281740</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305030533" start="20180228115700 +0000" stop="20180228122600 +0000">
-    <title>Family Guy</title>
-    <episode-num system="dd_progid">r29vwteOltaPmdeJ</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305030533" start="20180228122600 +0000" stop="20180228125500 +0000">
-    <title>American Dad!</title>
-    <episode-num system="dd_progid">qurbrdePltaPmdaG</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305030533" start="20180228125500 +0000" stop="20180228135000 +0000">
