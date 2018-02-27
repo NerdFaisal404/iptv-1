@@ -4183,7 +4183,7 @@
   </programme>
   <programme channel="tv.11" start="20180227060000 +0000" stop="20180227063000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Kanoa, Jesse and Josh are joined by guest host Lisa Owen as they talk to new National Leader Simon Bridges. Plus, we meet Kiwis who have turned to science to help start a family.</desc>
     <episode-num system="dd_progid">T806424</episode-num>
   </programme>
   <programme channel="tv.11" start="20180227063000 +0000" stop="20180227080500 +0000">
@@ -4499,7 +4499,7 @@
   </programme>
   <programme channel="tv.11" start="20180301063000 +0000" stop="20180301070000 +0000">
     <title>All New Modern Family</title>
-    <desc>New Episode. Jay gets the wrong idea when he overhears Gloria on the phone talking about 'spanking', and Mitchell and Cam throw a party to show off Mitchell's new job. S9 Ep14</desc>
+    <desc>New Episode. Phil thinks that Gloria is upset at Jay for dropping the ball on Valentine's Day, so he convinces Jay to spice things up with a little role playing that doesn't go as planned. S9 Ep14</desc>
     <episode-num system="dd_progid">T788762</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
@@ -4774,6 +4774,9 @@
     <title>Fresh Off The Boat</title>
     <desc>It's the '90s and hip hop-loving Eddie has moved to suburban Orlando from Washington D.C.'s Chinatown with his parents and brothers. It's culture shock for his immigrant family in this comedy about pu</desc>
     <episode-num system="dd_progid">T787070</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -5363,7 +5366,7 @@
     </rating>
   </programme>
   <programme channel="tv.12" start="20180226234000 +0000" stop="20180227003500 +0000">
-    <title>Real Housewives Of New York City, The</title>
+    <title>The Real Housewives Of New York City</title>
     <desc>The conclusion of the reunion special featuring Season 2 reflections. S2 Ep14</desc>
     <episode-num system="dd_progid">T392851</episode-num>
     <rating system="Freeview">
@@ -5422,6 +5425,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817011</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180227063000 +0000" stop="20180227073000 +0000">
     <title>Tabatha's Salon Takeover</title>
@@ -5451,6 +5457,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817011</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180227093000 +0000" stop="20180227102000 +0000">
     <title>Intervention</title>
@@ -5495,6 +5504,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817011</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180227215500 +0000" stop="20180227225000 +0000">
     <title>David Tutera: CELEBrations</title>
@@ -5516,6 +5528,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817011</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180227234500 +0000" stop="20180228004000 +0000">
     <title>The Real Housewives Of New York City</title>
@@ -5537,6 +5552,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817011</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180228013500 +0000" stop="20180228023500 +0000">
     <title>The Real Housewives Of Melbourne</title>
@@ -5590,6 +5608,9 @@
     <title>The Real Housewives Of Beverly Hills</title>
     <desc>Kyle wants an apology from Lisa but doesn't think she'll get one. Erika comes face to face with Kyle's old friend, Bethenny Frankel, who was critical of Erika's music the last time they met.</desc>
     <episode-num system="dd_progid">T790678</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180228083000 +0000" stop="20180228092800 +0000">
     <title>Vanderpump Rules</title>
@@ -5603,6 +5624,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817011</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180228093000 +0000" stop="20180228102000 +0000">
     <title>Intervention</title>
@@ -5655,6 +5679,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817011</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180228225000 +0000" stop="20180228234500 +0000">
     <title>Snapped</title>
@@ -5676,6 +5703,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817011</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180301004500 +0000" stop="20180301014000 +0000">
     <title>Vanderpump Rules</title>
@@ -5689,11 +5719,17 @@
     <title>The Real Housewives Of Beverly Hills</title>
     <desc>Kyle wants an apology from Lisa but doesn't think she'll get one. Erika comes face to face with Kyle's old friend, Bethenny Frankel, who was critical of Erika's music the last time they met.</desc>
     <episode-num system="dd_progid">T790678</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180301023800 +0000" stop="20180301024000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817011</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180301024000 +0000" stop="20180301034000 +0000">
     <title>How Do It Look?</title>
@@ -5731,6 +5767,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817011</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180301063000 +0000" stop="20180301073000 +0000">
     <title>Snapped</title>
@@ -12398,7 +12437,7 @@
   </programme>
   <programme channel="tv.27" start="20180227070000 +0000" stop="20180227073000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Kanoa, Jesse and Josh are joined by guest host Lisa Owen as they talk to new National Leader Simon Bridges. Plus, we meet Kiwis who have turned to science to help start a family.</desc>
     <episode-num system="dd_progid">T806424</episode-num>
   </programme>
   <programme channel="tv.27" start="20180227073000 +0000" stop="20180227090500 +0000">
@@ -12705,7 +12744,7 @@
   </programme>
   <programme channel="tv.27" start="20180301073000 +0000" stop="20180301080000 +0000">
     <title>All New Modern Family</title>
-    <desc>New Episode. Jay gets the wrong idea when he overhears Gloria on the phone talking about 'spanking', and Mitchell and Cam throw a party to show off Mitchell's new job. S9 Ep14</desc>
+    <desc>New Episode. Phil thinks that Gloria is upset at Jay for dropping the ball on Valentine's Day, so he convinces Jay to spice things up with a little role playing that doesn't go as planned. S9 Ep14</desc>
     <episode-num system="dd_progid">T788762</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
@@ -13536,7 +13575,7 @@
     </rating>
   </programme>
   <programme channel="tv.30" start="20180227004000 +0000" stop="20180227013500 +0000">
-    <title>Real Housewives Of New York City, The</title>
+    <title>The Real Housewives Of New York City</title>
     <desc>The conclusion of the reunion special featuring Season 2 reflections. S2 Ep14</desc>
     <episode-num system="dd_progid">T392851</episode-num>
     <rating system="Freeview">
@@ -13595,6 +13634,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817011</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180227073000 +0000" stop="20180227083000 +0000">
     <title>Tabatha's Salon Takeover</title>
@@ -13624,6 +13666,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817011</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180227103000 +0000" stop="20180227112000 +0000">
     <title>Intervention</title>
@@ -13668,6 +13713,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817011</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180227225500 +0000" stop="20180227235000 +0000">
     <title>David Tutera: CELEBrations</title>
@@ -13689,6 +13737,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817011</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180228004500 +0000" stop="20180228014000 +0000">
     <title>The Real Housewives Of New York City</title>
@@ -13710,6 +13761,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817011</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180228023500 +0000" stop="20180228033500 +0000">
     <title>The Real Housewives Of Melbourne</title>
@@ -13763,6 +13817,9 @@
     <title>The Real Housewives Of Beverly Hills</title>
     <desc>Kyle wants an apology from Lisa but doesn't think she'll get one. Erika comes face to face with Kyle's old friend, Bethenny Frankel, who was critical of Erika's music the last time they met.</desc>
     <episode-num system="dd_progid">T790678</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180228093000 +0000" stop="20180228102800 +0000">
     <title>Vanderpump Rules</title>
@@ -13776,6 +13833,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817011</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180228103000 +0000" stop="20180228112000 +0000">
     <title>Intervention</title>
@@ -13828,6 +13888,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817011</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180228235000 +0000" stop="20180301004500 +0000">
     <title>Snapped</title>
@@ -13849,6 +13912,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817011</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180301014500 +0000" stop="20180301024000 +0000">
     <title>Vanderpump Rules</title>
@@ -13862,11 +13928,17 @@
     <title>The Real Housewives Of Beverly Hills</title>
     <desc>Kyle wants an apology from Lisa but doesn't think she'll get one. Erika comes face to face with Kyle's old friend, Bethenny Frankel, who was critical of Erika's music the last time they met.</desc>
     <episode-num system="dd_progid">T790678</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180301033800 +0000" stop="20180301034000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817011</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180301034000 +0000" stop="20180301044000 +0000">
     <title>How Do It Look?</title>
@@ -13904,6 +13976,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817011</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180301073000 +0000" stop="20180301083000 +0000">
     <title>Snapped</title>
@@ -16548,8 +16623,8 @@
   </programme>
   <programme channel="tv.51" start="20180228070000 +0000" stop="20180228080000 +0000">
     <title>Top 10</title>
-    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Blondes!</desc>
-    <episode-num system="dd_progid">T576088</episode-num>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - David Guetta</desc>
+    <episode-num system="dd_progid">T576089</episode-num>
   </programme>
   <programme channel="tv.51" start="20180228080000 +0000" stop="20180228093000 +0000">
     <title>All The Hits</title>
@@ -16655,8 +16730,8 @@
   </programme>
   <programme channel="tv.51" start="20180301070000 +0000" stop="20180301080000 +0000">
     <title>Top 10</title>
-    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - David Guetta</desc>
-    <episode-num system="dd_progid">T576089</episode-num>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - One Direction</desc>
+    <episode-num system="dd_progid">T576090</episode-num>
   </programme>
   <programme channel="tv.51" start="20180301080000 +0000" stop="20180301093000 +0000">
     <title>All The Hits</title>
@@ -16762,8 +16837,8 @@
   </programme>
   <programme channel="tv.51" start="20180302070000 +0000" stop="20180302080000 +0000">
     <title>Top 10</title>
-    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - One Direction</desc>
-    <episode-num system="dd_progid">T576090</episode-num>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Beyonce</desc>
+    <episode-num system="dd_progid">T576091</episode-num>
   </programme>
   <programme channel="tv.51" start="20180302080000 +0000" stop="20180302093000 +0000">
     <title>All The Hits</title>
@@ -16814,9 +16889,9 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180302210000 +0000" stop="20180303000000 +0000">
-    <title>Edge Fat 40, The</title>
+    <title>The Edge Fresh 40</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T817386</episode-num>
   </programme>
   <programme channel="tv.51" start="20180303000000 +0000" stop="20180303030000 +0000">
     <title>All The Hits</title>
@@ -17041,8 +17116,8 @@
   </programme>
   <programme channel="tv.51" start="20180305070000 +0000" stop="20180305080000 +0000">
     <title>Top 10</title>
-    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Beyonce</desc>
-    <episode-num system="dd_progid">T576091</episode-num>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Calvin Harris</desc>
+    <episode-num system="dd_progid">T576092</episode-num>
   </programme>
   <programme channel="tv.51" start="20180305080000 +0000" stop="20180305093000 +0000">
     <title>All The Hits</title>
