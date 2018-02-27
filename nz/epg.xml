@@ -1642,10 +1642,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180226163000 +0000" stop="20180226173000 +0000">
+  <programme channel="tv.10" start="20180226163000 +0000" stop="20180226170000 +0000">
     <title>Infomercial</title>
     <desc></desc>
     <episode-num system="dd_progid">10473193</episode-num>
+  </programme>
+  <programme channel="tv.10" start="20180226170000 +0000" stop="20180226173000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+    <episode-num system="dd_progid">10473172</episode-num>
   </programme>
   <programme channel="tv.10" start="20180226173000 +0000" stop="20180226175500 +0000">
     <title>Sesame Street</title>
@@ -1816,6 +1821,9 @@
     <title>Home And Away</title>
     <desc>Ash pushes everyone away; Roo readies herself to hear the truth; Colby’s secret is revealed.</desc>
     <episode-num system="dd_progid">10487139</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180227050000 +0000" stop="20180227053000 +0000">
     <title>The Big Bang Theory</title>
@@ -2072,6 +2080,9 @@
     <title>Home And Away</title>
     <desc>Ash pushes everyone away; Roo readies herself to hear the truth; Colby’s secret is revealed.</desc>
     <episode-num system="dd_progid">10487139</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180228021500 +0000" stop="20180228024500 +0000">
     <title>Shortland Street</title>
@@ -2273,7 +2284,7 @@
   <programme channel="tv.10" start="20180228163000 +0000" stop="20180228173000 +0000">
     <title>Infomercial</title>
     <desc></desc>
-    <episode-num system="dd_progid">10499711</episode-num>
+    <episode-num system="dd_progid">10499785#1</episode-num>
   </programme>
   <programme channel="tv.10" start="20180228173000 +0000" stop="20180228175500 +0000">
     <title>Sesame Street</title>
