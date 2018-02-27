@@ -15150,7 +15150,7 @@
     <desc>Join the Crowd Goes Wild team as we look back on some of the finest (and potentially not-so-fine) sports news moments. G (R)</desc>
     <episode-num system="dd_progid">SNZ11060904</episode-num>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.28" start="20180228110500 +0000" stop="20180228170000 +0000">
@@ -15227,7 +15227,7 @@
     <desc>Join the Crowd Goes Wild team as we look back on some of the finest (and potentially not-so-fine) sports news moments. G (R)</desc>
     <episode-num system="dd_progid">SNZ11060904</episode-num>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.28" start="20180228205000 +0000" stop="20180228212000 +0000">
@@ -15335,6 +15335,9 @@
     <title>The Crowd Goes Wild</title>
     <desc>Join the Crowd Goes Wild team as we look back on some of the finest (and potentially not-so-fine) sports news moments.</desc>
     <episode-num system="dd_progid">SNZ11060913</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180301063000 +0000" stop="20180301073500 +0000">
     <title>Death In Paradise</title>
@@ -15558,6 +15561,9 @@
     <title>The Crowd Goes Wild</title>
     <desc>Join the Crowd Goes Wild team as we look back on some of the finest (and potentially not-so-fine) sports news moments.</desc>
     <episode-num system="dd_progid">SNZ11060914</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180302063000 +0000" stop="20180302073000 +0000">
     <title>Best Of Top Gear</title>
@@ -15681,7 +15687,7 @@
     <desc>Join the Crowd Goes Wild team as we look back on some of the week's finest (and potentially not-so-fine) sports news moments. G</desc>
     <episode-num system="dd_progid">SNZ11060904</episode-num>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.28" start="20180303003000 +0000" stop="20180303013000 +0000">
@@ -15714,12 +15720,9 @@
     </rating>
   </programme>
   <programme channel="tv.28" start="20180303040000 +0000" stop="20180303043000 +0000">
-    <title>ITM Fishing Classics</title>
-    <desc>'Matt and the team explore a pristine harbour bursting with potential, with stunning underwater footage, frantic big snapper action in the shallows and plenty of laughs along the way. G'</desc>
-    <episode-num system="dd_progid">SNZ10970873</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
+    <title>Horse Racing: Vodafone NZ Derby LIVE</title>
+    <desc>'Auckland Cup Week kicks off in style with the action packed Derby Day. Prime brings you the main event of the day, the New Zealand Derby, live from Auckland's Ellerslie Racecourse. G'</desc>
+    <episode-num system="dd_progid">SNZ11038500</episode-num>
   </programme>
   <programme channel="tv.28" start="20180303043000 +0000" stop="20180303050000 +0000">
     <title>Prime News - First At 5.30</title>
@@ -16125,6 +16128,9 @@
     <title>The Crowd Goes Wild</title>
     <desc>Join the Crowd Goes Wild team as we look back on some of the finest (and potentially not-so-fine) sports news moments.</desc>
     <episode-num system="dd_progid">SNZ11060915</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180305063000 +0000" stop="20180305073000 +0000">
     <title>American Pickers</title>
@@ -16134,7 +16140,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.28" start="20180305073000 +0000" stop="20180305100000 +0000">
+  <programme channel="tv.28" start="20180305073000 +0000" stop="20180305095500 +0000">
     <title>Prime Rocks: The Beach Boys</title>
     <desc>'Endless Harmony: The Beach Boys Story. In this captivating documentary we hear Brian, Mike, Alan, Bruce and the late Carl and Dennis Wilson talk about the inspiration behind their songs. G (R)'</desc>
     <episode-num system="dd_progid">SNZ10622392</episode-num>
@@ -16142,7 +16148,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.28" start="20180305100000 +0000" stop="20180305110000 +0000">
+  <programme channel="tv.28" start="20180305095500 +0000" stop="20180305105500 +0000">
     <title>The Late Show</title>
     <desc>'Join Stephen Colbert for a satirical and comedic take on what's new and relevant, with guest Steve Buscemi. PGR'</desc>
     <episode-num system="dd_progid">SNZ10983764</episode-num>
@@ -16150,12 +16156,12 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.28" start="20180305110000 +0000" stop="20180305130000 +0000">
+  <programme channel="tv.28" start="20180305105500 +0000" stop="20180305125500 +0000">
     <title>English Premier League</title>
     <desc>'Brighton &amp; Hove Albion welcome Arsenal to their home ground, the American Express Community Stadium. Having not had a win against Arsenal since 1982, Brighton will have to stand their ground. G'</desc>
     <episode-num system="dd_progid">SNZ10985582</episode-num>
   </programme>
-  <programme channel="tv.28" start="20180305130000 +0000" stop="20180305170000 +0000">
+  <programme channel="tv.28" start="20180305125500 +0000" stop="20180305170000 +0000">
     <title>Prime</title>
     <desc>'Prime's regular programming returns at 6am with the best drama, factual, lifestyle and comedy shows, plus free-to-air sport! Check out primetv.co.nz for details.'</desc>
     <episode-num system="dd_progid">SNZ37238809</episode-num>
@@ -16337,6 +16343,9 @@
     <title>The Crowd Goes Wild</title>
     <desc>Join the Crowd Goes Wild team as we look back on some of the finest (and potentially not-so-fine) sports news moments.</desc>
     <episode-num system="dd_progid">SNZ11060916</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180306063000 +0000" stop="20180306073500 +0000">
     <title>The Great Australian Bake Off</title>
@@ -16560,6 +16569,9 @@
     <title>The Crowd Goes Wild</title>
     <desc>'Want your sports news delivered with extra cheek, minus the dullness? Join the team as they present the best of the day's sports news.'</desc>
     <episode-num system="dd_progid">SNZ11060917</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180307063000 +0000" stop="20180307070000 +0000">
     <title>The Loggers</title>
@@ -46417,17 +46429,17 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180228090000 +0000" stop="20180228092300 +0000">
-    <title>Black Books</title>
-    <episode-num system="dd_progid">ZY5479A001S00</episode-num>
+  <programme channel="tv.101002210222" start="20180228090000 +0000" stop="20180228092900 +0000">
+    <title>Agony</title>
+    <episode-num system="dd_progid">LE1247V002S00</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20180228090000 +0000" stop="20180228092900 +0000">
-    <title>Agony</title>
-    <episode-num system="dd_progid">LE1247V002S00</episode-num>
+  <programme channel="tv.101002210222" start="20180228090000 +0000" stop="20180228092300 +0000">
+    <title>Black Books</title>
+    <episode-num system="dd_progid">ZY5479A001S00</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -64767,16 +64779,16 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180303060000 +0000" stop="20180303063000 +0000">
-    <title>Counting Cars</title>
-    <episode-num system="dd_progid">qLnbu3aOltaPmdeP</episode-num>
+  <programme channel="tv.101305020523" start="20180303060000 +0000" stop="20180303070000 +0000">
+    <title>American Pickers</title>
+    <episode-num system="dd_progid">qvbjqMuSmdaPmdux</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180303060000 +0000" stop="20180303070000 +0000">
-    <title>American Pickers</title>
-    <episode-num system="dd_progid">qvbjqMuSmdaPmdux</episode-num>
+  <programme channel="tv.101305020523" start="20180303060000 +0000" stop="20180303063000 +0000">
+    <title>Counting Cars</title>
+    <episode-num system="dd_progid">qLnbu3aOltaPmdeP</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -83262,17 +83274,17 @@
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20180304063000 +0000" stop="20180304070000 +0000">
-    <title>Small Business Secrets</title>
-    <episode-num system="dd_progid">905372</episode-num>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000305" start="20180304063000 +0000" stop="20180304070000 +0000">
     <title>Meeting Place</title>
     <episode-num system="dd_progid">854563</episode-num>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180304063000 +0000" stop="20180304070000 +0000">
+    <title>Small Business Secrets</title>
+    <episode-num system="dd_progid">905372</episode-num>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20180304070000 +0000" stop="20180304073000 +0000">
