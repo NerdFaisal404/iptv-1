@@ -41047,17 +41047,17 @@
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20180304063000 +0000" stop="20180304070000 +0000">
-    <title>Meeting Place</title>
-    <episode-num system="dd_progid">854563</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000305" start="20180304063000 +0000" stop="20180304070000 +0000">
     <title>Small Business Secrets</title>
     <episode-num system="dd_progid">905372</episode-num>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180304063000 +0000" stop="20180304070000 +0000">
+    <title>Meeting Place</title>
+    <episode-num system="dd_progid">854563</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20180304070000 +0000" stop="20180304073000 +0000">
