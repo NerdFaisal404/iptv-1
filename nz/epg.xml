@@ -15067,12 +15067,17 @@
     <desc>'Join the Prime News team first at 5.30pm, for all the day's top current events, sports news and to see how the weather is in your region.'</desc>
     <episode-num system="dd_progid">SNZ10890029</episode-num>
   </programme>
-  <programme channel="tv.28" start="20180228050500 +0000" stop="20180228090000 +0000">
+  <programme channel="tv.28" start="20180228050500 +0000" stop="20180228081000 +0000">
     <title>BLACKCAPS vs England LIVE</title>
     <desc>Prime's live coverage of the second ODI between the BLACKCAPS and England continues from Bay Oval in Tauranga.</desc>
     <episode-num system="dd_progid">SNZ10501629</episode-num>
   </programme>
-  <programme channel="tv.28" start="20180228090000 +0000" stop="20180228093500 +0000">
+  <programme channel="tv.28" start="20180228081000 +0000" stop="20180228090000 +0000">
+    <title>How Not To DIY</title>
+    <desc>'From glue disasters to falling through a ceiling or two, Britons have kindly and hilariously filmed their not-so-handy-work to teach the very best lessons of how not to DIY. AO'</desc>
+    <episode-num system="dd_progid">SNZ37337519</episode-num>
+  </programme>
+  <programme channel="tv.28" start="20180228090000 +0000" stop="20180228094000 +0000">
     <title>Qi</title>
     <desc>'Ready for something Quite Interesting? Join Stephen Fry and Alan Davies for the hit show where life's facts are pondered upon. Guests include David Mitchell, Sara Pascoe and Jack Whitehall. PGR (R)'</desc>
     <episode-num system="dd_progid">SNZ10620090</episode-num>
@@ -15080,21 +15085,15 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.28" start="20180228093500 +0000" stop="20180228103500 +0000">
+  <programme channel="tv.28" start="20180228094000 +0000" stop="20180228104000 +0000">
     <title>The Late Show</title>
     <desc>'Join Stephen Colbert for a satirical and comedic take on what's new and relevant, with Kiefer Sutherland, Zoe Lister-Jones and Professor John McWhorter. PGR'</desc>
-    <episode-num system="dd_progid">SNZ10983761</episode-num>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
+    <episode-num system="dd_progid">SNZ37192429</episode-num>
   </programme>
-  <programme channel="tv.28" start="20180228103500 +0000" stop="20180228110500 +0000">
+  <programme channel="tv.28" start="20180228104000 +0000" stop="20180228110500 +0000">
     <title>The Crowd Goes Wild</title>
     <desc>Join the Crowd Goes Wild team as we look back on some of the finest (and potentially not-so-fine) sports news moments. G (R)</desc>
-    <episode-num system="dd_progid">SNZ11060904</episode-num>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
+    <episode-num system="dd_progid">SNZ37192434</episode-num>
   </programme>
   <programme channel="tv.28" start="20180228110500 +0000" stop="20180228170000 +0000">
     <title>Prime</title>
