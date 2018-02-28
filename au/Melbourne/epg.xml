@@ -13055,6 +13055,9 @@
     <title>Married at First Sight</title>
     <episode-num system="dd_progid">MAAT_5_23</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
   </programme>
   <programme channel="tv.101204300430" start="20180307040000 +0000" stop="20180307050000 +0000">
     <title>Nine News Now</title>
@@ -13100,6 +13103,9 @@
     <title>Married at First Sight</title>
     <episode-num system="dd_progid">MAAT_5_24</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
   </programme>
   <programme channel="tv.101204300430" start="20180307100000 +0000" stop="20180307110000 +0000">
     <title>20 to One</title>
@@ -14731,16 +14737,9 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300433" start="20180306100000 +0000" stop="20180306120000 +0000">
+  <programme channel="tv.101204300433" start="20180306100000 +0000" stop="20180306130000 +0000">
     <title>The Bachelor</title>
     <episode-num system="dd_progid">BACH_22_2210</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204300433" start="20180306120000 +0000" stop="20180306130000 +0000">
-    <title>The Bachelor</title>
-    <episode-num system="dd_progid">BACH_22_12</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -14752,16 +14751,9 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300433" start="20180306140000 +0000" stop="20180306160000 +0000">
+  <programme channel="tv.101204300433" start="20180306140000 +0000" stop="20180306170000 +0000">
     <title>The Bachelor</title>
     <episode-num system="dd_progid">BACH_22_2210</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204300433" start="20180306160000 +0000" stop="20180306170000 +0000">
-    <title>The Bachelor</title>
-    <episode-num system="dd_progid">BACH_22_12</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -14943,18 +14935,11 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300433" start="20180307113000 +0000" stop="20180307123000 +0000">
-    <title>Bridezillas</title>
-    <episode-num system="dd_progid">BRID_10_12</episode-num>
+  <programme channel="tv.101204300433" start="20180307113000 +0000" stop="20180307133000 +0000">
+    <title>The Bachelor</title>
+    <episode-num system="dd_progid">BACH_22_12</episode-num>
     <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204300433" start="20180307123000 +0000" stop="20180307133000 +0000">
-    <title>Keeping Up With the Kardashians</title>
-    <episode-num system="dd_progid">KEUP_12_7BP17</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204300436" start="20180227124100 +0000" stop="20180227135200 +0000">
@@ -16222,6 +16207,9 @@
   <programme channel="tv.101204300436" start="20180306143000 +0000" stop="20180306150000 +0000">
     <title>Super Sleeper Pro</title>
     <episode-num system="dd_progid">SUSL1__SSP14992830A</episode-num>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
   </programme>
   <programme channel="tv.101204300436" start="20180306150000 +0000" stop="20180306153000 +0000">
     <title>Four in a Bed</title>
@@ -18564,6 +18552,9 @@
     <title>Top Gear</title>
     <episode-num system="dd_progid">TOGE_25_2</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.101204300437" start="20180307100000 +0000" stop="20180307120000 +0000">
     <title>Faster</title>
@@ -18583,6 +18574,7 @@
   <programme channel="tv.101204300437" start="20180307130000 +0000" stop="20180307133000 +0000">
     <title>Meet the Hockers</title>
     <episode-num system="dd_progid">MEHO_1_2</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -24286,16 +24278,16 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20180303060000 +0000" stop="20180303063000 +0000">
-    <title>Counting Cars</title>
-    <episode-num system="dd_progid">qLnbu3aOltaPmdeP</episode-num>
+  <programme channel="tv.101305030533" start="20180303060000 +0000" stop="20180303070000 +0000">
+    <title>American Pickers</title>
+    <episode-num system="dd_progid">qvbjqMuSmdaPmdux</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20180303060000 +0000" stop="20180303070000 +0000">
-    <title>American Pickers</title>
-    <episode-num system="dd_progid">qvbjqMuSmdaPmdux</episode-num>
+  <programme channel="tv.101305030533" start="20180303060000 +0000" stop="20180303063000 +0000">
+    <title>Counting Cars</title>
+    <episode-num system="dd_progid">qLnbu3aOltaPmdeP</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
