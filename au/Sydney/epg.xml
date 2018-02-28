@@ -1804,6 +1804,14 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180308130000 +0000" stop="20180308133000 +0000">
+    <title>ABC Late News</title>
+    <episode-num system="dd_progid">NU1826W049S00</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20180228122700 +0000" stop="20180228131300 +0000">
     <title>Four Corners</title>
     <episode-num system="dd_progid">NC1803H004S00</episode-num>
@@ -27234,6 +27242,14 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020528" start="20180308130000 +0000" stop="20180308131500 +0000">
+    <title>Trackwork</title>
+    <episode-num system="dd_progid">18TRW06A</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101406020621" start="20180228122800 +0000" stop="20180228130000 +0000">
     <title>Hogan's Heroes</title>
     <episode-num system="dd_progid">60229E1176010</episode-num>
@@ -29005,6 +29021,13 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101406020621" start="20180308130000 +0000" stop="20180308140000 +0000">
+    <title>Highlander</title>
+    <episode-num system="dd_progid">57736E1448719</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.101406020625" start="20180228123100 +0000" stop="20180228133100 +0000">
     <title>The Project</title>
     <episode-num system="dd_progid">59797E1500883</episode-num>
@@ -30662,6 +30685,14 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406020625" start="20180308130000 +0000" stop="20180308140000 +0000">
+    <title>The Project</title>
+    <episode-num system="dd_progid">59797E1500889</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20180228123100 +0000" stop="20180228132900 +0000">
@@ -34884,6 +34915,13 @@
     <episode-num system="dd_progid">S90351220180308</episode-num>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000301" start="20180308130000 +0000" stop="20180308142000 +0000">
+    <title>Diana and The Paparazzi</title>
+    <episode-num system="dd_progid">877541</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180228113000 +0000" stop="20180228130500 +0000">
@@ -39781,6 +39819,13 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000304" start="20180308130000 +0000" stop="20180308133000 +0000">
+    <title>Paul Hollywood City Bakes</title>
+    <episode-num system="dd_progid">834357</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000305" start="20180228120000 +0000" stop="20180228130000 +0000">
     <title>Make It Real (To Me)</title>
     <episode-num system="dd_progid">760349</episode-num>
@@ -42256,6 +42301,13 @@
   <programme channel="tv.320203000305" start="20180308123500 +0000" stop="20180308130000 +0000">
     <title>Haunted: The Other Side</title>
     <episode-num system="dd_progid">831521</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180308130000 +0000" stop="20180308140000 +0000">
+    <title>Volumz</title>
+    <episode-num system="dd_progid">675649</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
