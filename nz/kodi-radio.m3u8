@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://iptv.matthuisman.nz/nz/epg.xml"
 
 #EXTINF:-1 tvg-name="001" tvg-id="radio.or.1" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.1.png" radio="true",The Rock
 http://iptv.matthuisman.nz/nz/radio.or.1.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29

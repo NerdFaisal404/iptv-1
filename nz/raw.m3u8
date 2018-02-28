@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://iptv.matthuisman.nz/nz/epg.xml"
 
 #EXTINF:-1 tvg-name="001" tvg-id="tv.9" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.9.png",TVNZ 1
 http://iptv.matthuisman.nz/nz/tv.9.m3u8
