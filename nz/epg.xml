@@ -4244,7 +4244,7 @@
   </programme>
   <programme channel="tv.11" start="20180228060000 +0000" stop="20180228063000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Kanoa, Jesse and Josh are joined by guest host Jay-Jay Harvey as they discuss fertility in men and what students want changed in their schools.</desc>
     <episode-num system="dd_progid">T806425</episode-num>
   </programme>
   <programme channel="tv.11" start="20180228063000 +0000" stop="20180228080500 +0000">
@@ -4420,7 +4420,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180301073000 +0000" stop="20180301095000 +0000">
+  <programme channel="tv.11" start="20180301073000 +0000" stop="20180301094500 +0000">
     <title>Blade: Trinity</title>
     <desc>Defamed human-vampire hybrid warrior Blade has been framed for countless murders, turning popular sentiment against him. He must team up with a band of rogue vampire hunters to end the war. (2004)</desc>
     <episode-num system="dd_progid">T820889</episode-num>
@@ -4428,12 +4428,12 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180301095000 +0000" stop="20180301102000 +0000">
+  <programme channel="tv.11" start="20180301094500 +0000" stop="20180301101500 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
     <episode-num system="dd_progid">T805529</episode-num>
   </programme>
-  <programme channel="tv.11" start="20180301102000 +0000" stop="20180301112000 +0000">
+  <programme channel="tv.11" start="20180301101500 +0000" stop="20180301111000 +0000">
     <title>Heroes Reborn</title>
     <desc>Erica Kravid's past surfaces as the end of civilization approaches. Meanwhile, Malina scrambles to unite with Tommy and is joined by Luke as Quentin and Phoebe plot against them. S1 Ep12</desc>
     <episode-num system="dd_progid">T505280</episode-num>
@@ -4444,7 +4444,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180301112000 +0000" stop="20180301160000 +0000">
+  <programme channel="tv.11" start="20180301111000 +0000" stop="20180301160000 +0000">
     <title>Infomercials</title>
     <desc></desc>
     <episode-num system="dd_progid">T1</episode-num>
@@ -4899,6 +4899,9 @@
     <title>Married At First Sight Australia</title>
     <desc>New Episode. The drama from last night's dinner party spills into tonight's Commitment Ceremony. S5 Ep17</desc>
     <episode-num system="dd_progid">T816143</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180304073000 +0000" stop="20180304093500 +0000">
     <title>The Huntsman: Winter's War</title>
@@ -4993,6 +4996,9 @@
     <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. The drama from last night's dinner party spills into tonight's Commitment Ceremony. S5 Ep17</desc>
     <episode-num system="dd_progid">T816143</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180305020000 +0000" stop="20180305023000 +0000">
     <title>Entertainment Tonight</title>
@@ -5110,7 +5116,7 @@
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
   <programme channel="tv.11" start="20180305223000 +0000" stop="20180305230000 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <episode-num system="dd_progid">T807926</episode-num>
     <rating system="Freeview">
@@ -5118,7 +5124,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180305230000 +0000" stop="20180305233000 +0000">
-    <title>Family Feud Australia</title>
+    <title>Family Feud Australia (Encore)</title>
     <desc>It's the Australian version of Family Feud. Watch Aussie families battle against each other, answering questions that have been put to 100 people to determine the most popular responses.</desc>
     <episode-num system="dd_progid">T804180</episode-num>
     <rating system="Freeview">
@@ -5134,7 +5140,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180306003000 +0000" stop="20180306020000 +0000">
-    <title>Married At First Sight Australia</title>
+    <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. During the bride's homestays, some couples blossom as they dig deeper into their significant other's lives, but some stumble meeting friends, family and expectations. S5 Ep18</desc>
     <episode-num system="dd_progid">T816144</episode-num>
   </programme>
@@ -5282,7 +5288,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180307002500 +0000" stop="20180307020000 +0000">
-    <title>Married At First Sight Australia</title>
+    <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. The challenges of the bride's homestay week hits home as Dean confesses to Tracey's parents, and Gabrielle and Nasser reach an impasse. S5 Ep19</desc>
     <episode-num system="dd_progid">T816145</episode-num>
   </programme>
@@ -6646,6 +6652,9 @@
     <title>Vanderpump Rules</title>
     <desc>In Big Bear, Jax cheats death when an attempt to show off goes horribly wrong. Raquel questions whether James still harbors romantic feelings for Lala.</desc>
     <episode-num system="dd_progid">T790764</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180307092800 +0000" stop="20180307093000 +0000">
     <title>The Dish</title>
@@ -12532,7 +12541,7 @@
   </programme>
   <programme channel="tv.27" start="20180228070000 +0000" stop="20180228073000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Kanoa, Jesse and Josh are joined by guest host Jay-Jay Harvey as they discuss fertility in men and what students want changed in their schools.</desc>
     <episode-num system="dd_progid">T806425</episode-num>
   </programme>
   <programme channel="tv.27" start="20180228073000 +0000" stop="20180228090500 +0000">
@@ -12702,7 +12711,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180301083000 +0000" stop="20180301105000 +0000">
+  <programme channel="tv.27" start="20180301083000 +0000" stop="20180301104500 +0000">
     <title>Blade: Trinity</title>
     <desc>Defamed human-vampire hybrid warrior Blade has been framed for countless murders, turning popular sentiment against him. He must team up with a band of rogue vampire hunters to end the war. (2004)</desc>
     <episode-num system="dd_progid">T820889</episode-num>
@@ -12710,12 +12719,12 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180301105000 +0000" stop="20180301112000 +0000">
+  <programme channel="tv.27" start="20180301104500 +0000" stop="20180301111500 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
     <episode-num system="dd_progid">T805529</episode-num>
   </programme>
-  <programme channel="tv.27" start="20180301112000 +0000" stop="20180301122000 +0000">
+  <programme channel="tv.27" start="20180301111500 +0000" stop="20180301121000 +0000">
     <title>Heroes Reborn</title>
     <desc>Erica Kravid's past surfaces as the end of civilization approaches. Meanwhile, Malina scrambles to unite with Tommy and is joined by Luke as Quentin and Phoebe plot against them. S1 Ep12</desc>
     <episode-num system="dd_progid">T505280</episode-num>
@@ -12723,7 +12732,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180301122000 +0000" stop="20180301170000 +0000">
+  <programme channel="tv.27" start="20180301121000 +0000" stop="20180301170000 +0000">
     <title>Infomercials</title>
     <desc></desc>
     <episode-num system="dd_progid">T1</episode-num>
@@ -13157,6 +13166,9 @@
     <title>Married At First Sight Australia</title>
     <desc>New Episode. The drama from last night's dinner party spills into tonight's Commitment Ceremony. S5 Ep17</desc>
     <episode-num system="dd_progid">T816143</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180304083000 +0000" stop="20180304103500 +0000">
     <title>The Huntsman: Winter's War</title>
@@ -13245,6 +13257,9 @@
     <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. The drama from last night's dinner party spills into tonight's Commitment Ceremony. S5 Ep17</desc>
     <episode-num system="dd_progid">T816143</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180305030000 +0000" stop="20180305033000 +0000">
     <title>Entertainment Tonight</title>
@@ -13362,7 +13377,7 @@
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
   <programme channel="tv.27" start="20180305233000 +0000" stop="20180306000000 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <episode-num system="dd_progid">T807926</episode-num>
     <rating system="Freeview">
@@ -13370,7 +13385,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180306000000 +0000" stop="20180306003000 +0000">
-    <title>Family Feud Australia</title>
+    <title>Family Feud Australia (Encore)</title>
     <desc>It's the Australian version of Family Feud. Watch Aussie families battle against each other, answering questions that have been put to 100 people to determine the most popular responses.</desc>
     <episode-num system="dd_progid">T804180</episode-num>
     <rating system="Freeview">
@@ -13386,7 +13401,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180306013000 +0000" stop="20180306030000 +0000">
-    <title>Married At First Sight Australia</title>
+    <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. During the bride's homestays, some couples blossom as they dig deeper into their significant other's lives, but some stumble meeting friends, family and expectations. S5 Ep18</desc>
     <episode-num system="dd_progid">T816144</episode-num>
   </programme>
@@ -13531,7 +13546,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180307012500 +0000" stop="20180307030000 +0000">
-    <title>Married At First Sight Australia</title>
+    <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. The challenges of the bride's homestay week hits home as Dean confesses to Tracey's parents, and Gabrielle and Nasser reach an impasse. S5 Ep19</desc>
     <episode-num system="dd_progid">T816145</episode-num>
   </programme>
@@ -14892,6 +14907,9 @@
     <title>Vanderpump Rules</title>
     <desc>In Big Bear, Jax cheats death when an attempt to show off goes horribly wrong. Raquel questions whether James still harbors romantic feelings for Lala.</desc>
     <episode-num system="dd_progid">T790764</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180307102800 +0000" stop="20180307103000 +0000">
     <title>The Dish</title>
