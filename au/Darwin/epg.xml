@@ -29397,20 +29397,20 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406050655" start="20180303090000 +0000" stop="20180303093000 +0000">
-    <title>Bondi Rescue</title>
-    <episode-num system="dd_progid">60305E1425079</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406050655" start="20180303090000 +0000" stop="20180303100000 +0000">
     <title>NCIS</title>
     <episode-num system="dd_progid">59979E1509899</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406050655" start="20180303090000 +0000" stop="20180303093000 +0000">
+    <title>Bondi Rescue</title>
+    <episode-num system="dd_progid">60305E1425079</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406050655" start="20180303100000 +0000" stop="20180303120000 +0000">
@@ -35428,15 +35428,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180303033000 +0000" stop="20180303042000 +0000">
-    <title>Jungletown</title>
-    <episode-num system="dd_progid">882505</episode-num>
+    <title>Noisey</title>
+    <episode-num system="dd_progid">855067</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180303033000 +0000" stop="20180303042000 +0000">
-    <title>Noisey</title>
-    <episode-num system="dd_progid">855067</episode-num>
+    <title>Jungletown</title>
+    <episode-num system="dd_progid">882505</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
