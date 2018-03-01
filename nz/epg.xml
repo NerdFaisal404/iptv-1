@@ -4152,7 +4152,7 @@
   </programme>
   <programme channel="tv.11" start="20180301060000 +0000" stop="20180301063000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Kanoa, Jesse and Josh are joined by guest host Alison Mau as they discuss adoption in New Zealand.</desc>
     <episode-num system="dd_progid">T806426</episode-num>
   </programme>
   <programme channel="tv.11" start="20180301063000 +0000" stop="20180301070000 +0000">
@@ -4258,9 +4258,9 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180302003000 +0000" stop="20180302023000 +0000">
-    <title>Celine</title>
-    <desc>This biopic tells the story of singer C‚line Dion. Impoverished as a child, C‚line Dion rose to stardom, selling more than 200 million albums. (2008)</desc>
-    <episode-num system="dd_progid">T735095</episode-num>
+    <title>Break-Up Nightmare</title>
+    <desc>A woman confronts the administrator of a revenge website after nude photographs of her daughter appear online. (2016)</desc>
+    <episode-num system="dd_progid">T723509</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -4430,7 +4430,7 @@
   </programme>
   <programme channel="tv.11" start="20180303013000 +0000" stop="20180303020000 +0000">
     <title>Fresh Off The Boat</title>
-    <desc>It's the '90s and hip hop-loving Eddie has moved to suburban Orlando from Washington D.C.'s Chinatown with his parents and brothers. It's culture shock for his immigrant family in this comedy about pu</desc>
+    <desc>New Episode. Eddie is awarded a spot in the honour society, and Jessica tries to improve her cop dialogue by signing up for a ride-along. S4 Ep17</desc>
     <episode-num system="dd_progid">T787070</episode-num>
     <audio>
       <stereo>dolby</stereo>
@@ -4441,8 +4441,11 @@
   </programme>
   <programme channel="tv.11" start="20180303020000 +0000" stop="20180303023000 +0000">
     <title>The Goldbergs</title>
-    <desc>In a time not too long ago and not very far away, Adam Goldberg is using his parents' video camera to document life in 1980s suburbia.</desc>
+    <desc>New Episode. Barry joins the football team but is quickly benched due to his lack of playing ability, while Beverly designs jackets and tries to get Murray and Erica to sell them. S5 Ep14</desc>
     <episode-num system="dd_progid">T785711</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -4540,27 +4543,42 @@
   <programme channel="tv.11" start="20180303170000 +0000" stop="20180303173000 +0000">
     <title>Life TV</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T730251</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180303173000 +0000" stop="20180303180000 +0000">
     <title>Brian Houston</title>
-    <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <episode-num system="dd_progid">T770364</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180303180000 +0000" stop="20180303190000 +0000">
     <title>Charles Stanley</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T758586</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180303190000 +0000" stop="20180303193000 +0000">
-    <title>Living Church of God</title>
+    <title>Living Church Of God</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T756558</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180303193000 +0000" stop="20180303200000 +0000">
-    <title>turning point</title>
+    <title>Turning Point With David Jeremiah</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T780960</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180303200000 +0000" stop="20180303203000 +0000">
     <title>R &amp; R</title>
@@ -6389,7 +6407,7 @@
   </programme>
   <programme channel="tv.12" start="20180307073000 +0000" stop="20180307083000 +0000">
     <title>The Real Housewives Of Beverly Hills</title>
-    <desc></desc>
+    <desc>Erika is surprised by her own emotions as her Hollywood journey comes full circle. The women attend Camille's charity event, where Teddi's motives are brought into question.</desc>
     <episode-num system="dd_progid">T790679</episode-num>
   </programme>
   <programme channel="tv.12" start="20180307083000 +0000" stop="20180307092800 +0000">
@@ -6496,7 +6514,7 @@
   </programme>
   <programme channel="tv.12" start="20180308014000 +0000" stop="20180308023800 +0000">
     <title>The Real Housewives Of Beverly Hills</title>
-    <desc></desc>
+    <desc>Erika is surprised by her own emotions as her Hollywood journey comes full circle. The women attend Camille's charity event, where Teddi's motives are brought into question.</desc>
     <episode-num system="dd_progid">T790679</episode-num>
   </programme>
   <programme channel="tv.12" start="20180308023800 +0000" stop="20180308024000 +0000">
@@ -12396,7 +12414,7 @@
   </programme>
   <programme channel="tv.27" start="20180301070000 +0000" stop="20180301073000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Kanoa, Jesse and Josh are joined by guest host Alison Mau as they discuss adoption in New Zealand.</desc>
     <episode-num system="dd_progid">T806426</episode-num>
   </programme>
   <programme channel="tv.27" start="20180301073000 +0000" stop="20180301080000 +0000">
@@ -12496,9 +12514,9 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180302013000 +0000" stop="20180302033000 +0000">
-    <title>Celine</title>
-    <desc>This biopic tells the story of singer C‚line Dion. Impoverished as a child, C‚line Dion rose to stardom, selling more than 200 million albums. (2008)</desc>
-    <episode-num system="dd_progid">T735095</episode-num>
+    <title>Break-Up Nightmare</title>
+    <desc>A woman confronts the administrator of a revenge website after nude photographs of her daughter appear online. (2016)</desc>
+    <episode-num system="dd_progid">T723509</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -12656,7 +12674,7 @@
   </programme>
   <programme channel="tv.27" start="20180303023000 +0000" stop="20180303030000 +0000">
     <title>Fresh Off The Boat</title>
-    <desc>It's the '90s and hip hop-loving Eddie has moved to suburban Orlando from Washington D.C.'s Chinatown with his parents and brothers. It's culture shock for his immigrant family in this comedy about pu</desc>
+    <desc>New Episode. Eddie is awarded a spot in the honour society, and Jessica tries to improve her cop dialogue by signing up for a ride-along. S4 Ep17</desc>
     <episode-num system="dd_progid">T787070</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
@@ -12664,7 +12682,7 @@
   </programme>
   <programme channel="tv.27" start="20180303030000 +0000" stop="20180303033000 +0000">
     <title>The Goldbergs</title>
-    <desc>In a time not too long ago and not very far away, Adam Goldberg is using his parents' video camera to document life in 1980s suburbia.</desc>
+    <desc>New Episode. Barry joins the football team but is quickly benched due to his lack of playing ability, while Beverly designs jackets and tries to get Murray and Erica to sell them. S5 Ep14</desc>
     <episode-num system="dd_progid">T785711</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
@@ -12757,27 +12775,42 @@
   <programme channel="tv.27" start="20180303180000 +0000" stop="20180303183000 +0000">
     <title>Life TV</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T730251</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180303183000 +0000" stop="20180303190000 +0000">
     <title>Brian Houston</title>
-    <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <episode-num system="dd_progid">T770364</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180303190000 +0000" stop="20180303200000 +0000">
     <title>Charles Stanley</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T758586</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180303200000 +0000" stop="20180303203000 +0000">
-    <title>Living Church of God</title>
+    <title>Living Church Of God</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T756558</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180303203000 +0000" stop="20180303210000 +0000">
-    <title>turning point</title>
+    <title>Turning Point With David Jeremiah</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T780960</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180303210000 +0000" stop="20180303213000 +0000">
     <title>R &amp; R</title>
@@ -14585,7 +14618,7 @@
   </programme>
   <programme channel="tv.30" start="20180307083000 +0000" stop="20180307093000 +0000">
     <title>The Real Housewives Of Beverly Hills</title>
-    <desc></desc>
+    <desc>Erika is surprised by her own emotions as her Hollywood journey comes full circle. The women attend Camille's charity event, where Teddi's motives are brought into question.</desc>
     <episode-num system="dd_progid">T790679</episode-num>
   </programme>
   <programme channel="tv.30" start="20180307093000 +0000" stop="20180307102800 +0000">
@@ -14692,7 +14725,7 @@
   </programme>
   <programme channel="tv.30" start="20180308024000 +0000" stop="20180308033800 +0000">
     <title>The Real Housewives Of Beverly Hills</title>
-    <desc></desc>
+    <desc>Erika is surprised by her own emotions as her Hollywood journey comes full circle. The women attend Camille's charity event, where Teddi's motives are brought into question.</desc>
     <episode-num system="dd_progid">T790679</episode-num>
   </programme>
   <programme channel="tv.30" start="20180308033800 +0000" stop="20180308034000 +0000">
