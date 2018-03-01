@@ -12401,6 +12401,7 @@
   <programme channel="tv.101204300430" start="20180304143000 +0000" stop="20180304150000 +0000">
     <title>Dream Job</title>
     <episode-num system="dd_progid">DRJO_1_6</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -12493,7 +12494,6 @@
   <programme channel="tv.101204300430" start="20180305060000 +0000" stop="20180305070000 +0000">
     <title>Millionaire Hot Seat</title>
     <episode-num system="dd_progid">WHWA__1770</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -12533,6 +12533,7 @@
   <programme channel="tv.101204300430" start="20180305110000 +0000" stop="20180305120000 +0000">
     <title>Better Late Than Never</title>
     <episode-num system="dd_progid">BELA102_2_EBLN205</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -13804,6 +13805,7 @@
   <programme channel="tv.101204300433" start="20180303133000 +0000" stop="20180303140000 +0000">
     <title>Open Homes Australia</title>
     <episode-num system="dd_progid">OPHO_1_4</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -13984,6 +13986,7 @@
   <programme channel="tv.101204300433" start="20180304060000 +0000" stop="20180304063000 +0000">
     <title>Open Homes Australia</title>
     <episode-num system="dd_progid">OPHO_1_4</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -14075,7 +14078,6 @@
   <programme channel="tv.101204300433" start="20180304170000 +0000" stop="20180304173000 +0000">
     <title>Postcards</title>
     <episode-num system="dd_progid">POVI_2018_4</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -14133,6 +14135,7 @@
   <programme channel="tv.101204300433" start="20180304223000 +0000" stop="20180304230000 +0000">
     <title>Open Homes Australia</title>
     <episode-num system="dd_progid">OPHO_1_4</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -14147,7 +14150,6 @@
   <programme channel="tv.101204300433" start="20180305000000 +0000" stop="20180305003000 +0000">
     <title>Luxury Homes Revealed</title>
     <episode-num system="dd_progid">LUHO_2_5</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -14155,7 +14157,6 @@
   <programme channel="tv.101204300433" start="20180305003000 +0000" stop="20180305010000 +0000">
     <title>Luxury Homes Revealed</title>
     <episode-num system="dd_progid">LUHO_2_6</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -14163,7 +14164,6 @@
   <programme channel="tv.101204300433" start="20180305010000 +0000" stop="20180305013000 +0000">
     <title>Postcards</title>
     <episode-num system="dd_progid">POVI_2018_4</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -15171,7 +15171,6 @@
   <programme channel="tv.101204300436" start="20180301210000 +0000" stop="20180301220000 +0000">
     <title>Ellen</title>
     <episode-num system="dd_progid">ELLE_15_112</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -17531,6 +17530,7 @@
   <programme channel="tv.101204300437" start="20180304210000 +0000" stop="20180304213000 +0000">
     <title>Brainbuzz</title>
     <episode-num system="dd_progid">BRBU101_1_11</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>C</value>
     </rating>
@@ -17686,7 +17686,8 @@
   </programme>
   <programme channel="tv.101204300437" start="20180305093000 +0000" stop="20180305120000 +0000">
     <title>End of Days</title>
-    <episode-num system="dd_progid">122555E5930499</episode-num>
+    <episode-num system="dd_progid">ENDA1__1</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -20591,7 +20592,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20180301003000 +0000" stop="20180301010100 +0000">
+  <programme channel="tv.101305030530" start="20180301003000 +0000" stop="20180301010000 +0000">
     <title>Seven Morning News</title>
     <episode-num system="dd_progid">nLKot3eHltaPmdiM</episode-num>
     <subtitles type="teletext"/>
@@ -20599,9 +20600,13 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20180301010100 +0000" stop="20180301023100 +0000">
-    <title>To Be Advised</title>
-    <episode-num system="dd_progid">150794E23423</episode-num>
+  <programme channel="tv.101305030530" start="20180301010000 +0000" stop="20180301023100 +0000">
+    <title>My Kitchen Rules</title>
+    <episode-num system="dd_progid">TVlLUjA5EMDIw</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.101305030530" start="20180301023100 +0000" stop="20180301030000 +0000">
     <title>RSPCA Animal Rescue</title>
@@ -21160,7 +21165,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20180304124500 +0000" stop="20180304134500 +0000">
+  <programme channel="tv.101305030530" start="20180304124500 +0000" stop="20180304134600 +0000">
     <title>World's Deadliest Weather</title>
     <episode-num system="dd_progid">vLrxqMaOltaPmdaK</episode-num>
     <subtitles type="teletext"/>
@@ -21168,14 +21173,14 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20180304134500 +0000" stop="20180304141200 +0000">
+  <programme channel="tv.101305030530" start="20180304134600 +0000" stop="20180304141400 +0000">
     <title>Grandfathered</title>
     <episode-num system="dd_progid">rKjbt3aOltaPmdaM</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20180304141200 +0000" stop="20180304150000 +0000">
+  <programme channel="tv.101305030530" start="20180304141400 +0000" stop="20180304150000 +0000">
     <title>Grandfathered</title>
     <episode-num system="dd_progid">rKjbt3aOltaPmdaL</episode-num>
     <rating system="Freeview">
@@ -21183,16 +21188,25 @@
     </rating>
   </programme>
   <programme channel="tv.101305030530" start="20180304150000 +0000" stop="20180304153000 +0000">
-    <title>To Be Advised</title>
-    <episode-num system="dd_progid">150794E23423</episode-num>
+    <title>Home Shopping</title>
+    <episode-num system="dd_progid">q2rqltaPn32G</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.101305030530" start="20180304153000 +0000" stop="20180304160000 +0000">
-    <title>To Be Advised</title>
-    <episode-num system="dd_progid">150794E23423</episode-num>
+    <title>Home Shopping</title>
+    <episode-num system="dd_progid">nLr+rdiSmdaOnMex</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.101305030530" start="20180304160000 +0000" stop="20180304163000 +0000">
-    <title>To Be Advised</title>
-    <episode-num system="dd_progid">150794E23423</episode-num>
+    <title>Home Shopping</title>
+    <episode-num system="dd_progid">q2rqltaPn3uM</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.101305030530" start="20180304163000 +0000" stop="20180304170500 +0000">
     <title>Harry's Practice</title>
@@ -21234,7 +21248,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20180305003000 +0000" stop="20180305010200 +0000">
+  <programme channel="tv.101305030530" start="20180305003000 +0000" stop="20180305010100 +0000">
     <title>Seven Morning News</title>
     <episode-num system="dd_progid">nLKot3eHltaPmdiK</episode-num>
     <subtitles type="teletext"/>
@@ -21242,7 +21256,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20180305010200 +0000" stop="20180305030000 +0000">
+  <programme channel="tv.101305030530" start="20180305010100 +0000" stop="20180305030000 +0000">
     <title>Teen Exorcism</title>
     <episode-num system="dd_progid">quvut3aNltaPmdmI</episode-num>
     <subtitles type="teletext"/>
@@ -21298,7 +21312,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20180305083100 +0000" stop="20180305100500 +0000">
+  <programme channel="tv.101305030530" start="20180305083100 +0000" stop="20180305100600 +0000">
     <title>My Kitchen Rules</title>
     <episode-num system="dd_progid">tv1lu3aGltaPmdiN</episode-num>
     <subtitles type="teletext"/>
@@ -21306,7 +21320,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20180305100500 +0000" stop="20180305120800 +0000">
+  <programme channel="tv.101305030530" start="20180305100600 +0000" stop="20180305120000 +0000">
     <title>The Resident</title>
     <episode-num system="dd_progid">u2vtstaOltaPnMaN</episode-num>
     <subtitles type="teletext"/>
@@ -21314,7 +21328,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20180305120800 +0000" stop="20180305130100 +0000">
+  <programme channel="tv.101305030530" start="20180305120000 +0000" stop="20180305130100 +0000">
     <title>The Blacklist</title>
     <episode-num system="dd_progid">q2OltdaKltaPmdeP</episode-num>
     <subtitles type="teletext"/>
@@ -22756,8 +22770,11 @@
     </rating>
   </programme>
   <programme channel="tv.101305030532" start="20180304190000 +0000" stop="20180304193100 +0000">
-    <title>To Be Advised</title>
-    <episode-num system="dd_progid">150794E23423</episode-num>
+    <title>Home Shopping</title>
+    <episode-num system="dd_progid">nLr+rdiSmdaOnMex</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.101305030532" start="20180304193100 +0000" stop="20180304195900 +0000">
     <title>Harry's Practice</title>
@@ -24457,8 +24474,11 @@
     </rating>
   </programme>
   <programme channel="tv.101305030533" start="20180304190000 +0000" stop="20180304193000 +0000">
-    <title>To Be Advised</title>
-    <episode-num system="dd_progid">150794E23423</episode-num>
+    <title>Home Shopping</title>
+    <episode-num system="dd_progid">nLr+rdiSmdaOn36x</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.101305030533" start="20180304193000 +0000" stop="20180304200000 +0000">
     <title>The Next Level</title>
