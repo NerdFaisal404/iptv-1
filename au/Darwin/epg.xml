@@ -22623,20 +22623,20 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20180304170200 +0000" stop="20180304175600 +0000">
-    <title>The Great Outdoors</title>
-    <episode-num system="dd_progid">rLDOmNLPmdaOmaxx</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305050552" start="20180304170200 +0000" stop="20180304180200 +0000">
     <title>House of Wellness</title>
     <episode-num system="dd_progid">seCxtdaOltaPmdeI</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050552" start="20180304170200 +0000" stop="20180304175600 +0000">
+    <title>The Great Outdoors</title>
+    <episode-num system="dd_progid">rLDOmNLPmdaOmaxx</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305050552" start="20180304175600 +0000" stop="20180304185500 +0000">

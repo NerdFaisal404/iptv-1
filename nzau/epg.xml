@@ -700,8 +700,9 @@
     </rating>
   </programme>
   <programme channel="tv.9" start="20180303200000 +0000" stop="20180303210000 +0000">
-    <title>Q+A 2018</title>
+    <title>Q+A</title>
     <desc/>
+    <episode-num system="dd_progid">10515852</episode-num>
   </programme>
   <programme channel="tv.9" start="20180303210000 +0000" stop="20180303213500 +0000">
     <title>HOMEmade</title>
@@ -962,7 +963,7 @@
   </programme>
   <programme channel="tv.9" start="20180305063000 +0000" stop="20180305070000 +0000">
     <title>Fair Go</title>
-    <desc>Pippa Wetzell, Hadyn Jones and the Fair Go team help New Zealanders who are battling bureaucracy, rip-offs or just simply fighting for their rights.</desc>
+    <desc>Property management is big business, but do landlords really get value for money? We meet a woman who got stuck with a 100-thousand dollar bill after a property manager let her home to criminals.</desc>
     <episode-num system="dd_progid">10511090</episode-num>
   </programme>
   <programme channel="tv.9" start="20180305070000 +0000" stop="20180305073000 +0000">
@@ -2786,6 +2787,9 @@
     <title>Home And Away</title>
     <desc>Jasmine's stalker shows his true colours; Colby confronts Tori over her obsession with Robbo.</desc>
     <episode-num system="dd_progid">10487143</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180305050000 +0000" stop="20180305053000 +0000">
     <title>The Big Bang Theory</title>
@@ -2838,7 +2842,7 @@
     </rating>
   </programme>
   <programme channel="tv.10" start="20180305081500 +0000" stop="20180305084500 +0000">
-    <title>All New Will &amp; Grace</title>
+    <title>Will &amp; Grace</title>
     <desc>Jack's intimacy issues are challenged by a closeted boyfriend. Will and Grace sell their new line of bedding on TV.</desc>
     <episode-num system="dd_progid">10491215</episode-num>
     <audio>
@@ -3057,6 +3061,9 @@
     <title>Home And Away</title>
     <desc>Jasmine's stalker shows his true colours; Colby confronts Tori over her obsession with Robbo.</desc>
     <episode-num system="dd_progid">10487143</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180306021500 +0000" stop="20180306024500 +0000">
     <title>Shortland Street</title>
@@ -3115,6 +3122,9 @@
     <title>Home And Away</title>
     <desc>Will Leah's quick thinking save a dire situation? Three becomes a crowd for Justin, Willow and Dean. Roo struggles to accept her mothers rejection.</desc>
     <episode-num system="dd_progid">10487144</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180306050000 +0000" stop="20180306053000 +0000">
     <title>The Big Bang Theory</title>
@@ -3355,6 +3365,9 @@
     <title>Home And Away</title>
     <desc>Will Leah's quick thinking save a dire situation? Three becomes a crowd for Justin, Willow and Dean. Roo struggles to accept her mothers rejection.</desc>
     <episode-num system="dd_progid">10487144</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180307021000 +0000" stop="20180307024000 +0000">
     <title>Shortland Street</title>
@@ -3413,6 +3426,9 @@
     <title>Home And Away</title>
     <desc>Justin clashes with Dean and Ash; Ash goes above and beyond for Dean; Roo arrives at a huge decision.</desc>
     <episode-num system="dd_progid">10487145</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180307050000 +0000" stop="20180307053000 +0000">
     <title>The Big Bang Theory</title>
@@ -3682,6 +3698,9 @@
     <title>Home And Away</title>
     <desc>Justin clashes with Dean and Ash; Ash goes above and beyond for Dean; Roo arrives at a huge decision.</desc>
     <episode-num system="dd_progid">10487145</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180308021500 +0000" stop="20180308024500 +0000">
     <title>Shortland Street</title>
@@ -3740,6 +3759,9 @@
     <title>Home And Away</title>
     <desc>Hunter fast tracks his relationship with Jennifer; Alf's actions threaten to drive Roo away forever; Raffy supports Coco as she deals with Maggie's illness.</desc>
     <episode-num system="dd_progid">10487146</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180308050000 +0000" stop="20180308053000 +0000">
     <title>The Big Bang Theory</title>
@@ -3998,6 +4020,9 @@
     <title>Home And Away</title>
     <desc>Hunter fast tracks his relationship with Jennifer; Alf's actions threaten to drive Roo away forever; Raffy supports Coco as she deals with Maggie's illness.</desc>
     <episode-num system="dd_progid">10487146</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180309020000 +0000" stop="20180309023000 +0000">
     <title>Shortland Street</title>
@@ -4101,20 +4126,23 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180309073500 +0000" stop="20180309084000 +0000">
-    <title>Take Me Out</title>
-    <desc>New Season: Move over Tinder, crazy cupid Paddy McGuiness lights up the stage in this hilarious dating show! Tonight: rugby player Thom Evans, presenter Roman Kemp, and 5ive's Ritchie Neville.</desc>
-    <episode-num system="dd_progid">10455811</episode-num>
+  <programme channel="tv.10" start="20180309073500 +0000" stop="20180309083500 +0000">
+    <title>Will &amp; Grace</title>
+    <desc>Will and Grace attempt to convince themselves it's okay to sleep with the same man. Jack and Karen get an annoying commercial jingle stuck in their heads and must seek medical attention.</desc>
+    <episode-num system="dd_progid">10491212</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180309084000 +0000" stop="20180309101000 +0000">
+  <programme channel="tv.10" start="20180309083500 +0000" stop="20180309100500 +0000">
     <title>I'm A Celebrity Get Me Out Of Here Austr</title>
     <desc>Celebrities are dropped into the heart of a remote jungle and put through excruciating challenges and emotional turmoil in this gripping, hilarious and shocking reality show.</desc>
     <episode-num system="dd_progid">10498892</episode-num>
   </programme>
-  <programme channel="tv.10" start="20180309101000 +0000" stop="20180309111000 +0000">
+  <programme channel="tv.10" start="20180309100500 +0000" stop="20180309110500 +0000">
     <title>The X-Files</title>
     <desc>S2 E8 Mulder and Scully suspect that darker forces are at play as they investigate a brutal animal attack on a little boy in Connecticut.</desc>
     <episode-num system="dd_progid">10494420</episode-num>
@@ -9167,8 +9195,9 @@
     </rating>
   </programme>
   <programme channel="tv.38" start="20180303210000 +0000" stop="20180303220000 +0000">
-    <title>Q+A 2018</title>
+    <title>Q+A</title>
     <desc/>
+    <episode-num system="dd_progid">10515852</episode-num>
   </programme>
   <programme channel="tv.38" start="20180303220000 +0000" stop="20180303223500 +0000">
     <title>HOMEmade</title>
@@ -9429,7 +9458,7 @@
   </programme>
   <programme channel="tv.38" start="20180305073000 +0000" stop="20180305080000 +0000">
     <title>Fair Go</title>
-    <desc>Pippa Wetzell, Hadyn Jones and the Fair Go team help New Zealanders who are battling bureaucracy, rip-offs or just simply fighting for their rights.</desc>
+    <desc>Property management is big business, but do landlords really get value for money? We meet a woman who got stuck with a 100-thousand dollar bill after a property manager let her home to criminals.</desc>
     <episode-num system="dd_progid">10511090</episode-num>
   </programme>
   <programme channel="tv.38" start="20180305080000 +0000" stop="20180305083000 +0000">
@@ -11119,6 +11148,9 @@
     <title>Home And Away</title>
     <desc>Jasmine's stalker shows his true colours; Colby confronts Tori over her obsession with Robbo.</desc>
     <episode-num system="dd_progid">10487143</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180305060000 +0000" stop="20180305063000 +0000">
     <title>The Big Bang Theory</title>
@@ -11162,7 +11194,7 @@
     </rating>
   </programme>
   <programme channel="tv.14" start="20180305091500 +0000" stop="20180305094500 +0000">
-    <title>All New Will &amp; Grace</title>
+    <title>Will &amp; Grace</title>
     <desc>Jack's intimacy issues are challenged by a closeted boyfriend. Will and Grace sell their new line of bedding on TV.</desc>
     <episode-num system="dd_progid">10491215</episode-num>
     <rating system="Freeview">
@@ -11357,6 +11389,9 @@
     <title>Home And Away</title>
     <desc>Jasmine's stalker shows his true colours; Colby confronts Tori over her obsession with Robbo.</desc>
     <episode-num system="dd_progid">10487143</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180306031500 +0000" stop="20180306034500 +0000">
     <title>Shortland Street</title>
@@ -11403,6 +11438,9 @@
     <title>Home And Away</title>
     <desc>Will Leah's quick thinking save a dire situation? Three becomes a crowd for Justin, Willow and Dean. Roo struggles to accept her mothers rejection.</desc>
     <episode-num system="dd_progid">10487144</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180306060000 +0000" stop="20180306063000 +0000">
     <title>The Big Bang Theory</title>
@@ -11619,6 +11657,9 @@
     <title>Home And Away</title>
     <desc>Will Leah's quick thinking save a dire situation? Three becomes a crowd for Justin, Willow and Dean. Roo struggles to accept her mothers rejection.</desc>
     <episode-num system="dd_progid">10487144</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180307031000 +0000" stop="20180307034000 +0000">
     <title>Shortland Street</title>
@@ -11665,6 +11706,9 @@
     <title>Home And Away</title>
     <desc>Justin clashes with Dean and Ash; Ash goes above and beyond for Dean; Roo arrives at a huge decision.</desc>
     <episode-num system="dd_progid">10487145</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180307060000 +0000" stop="20180307063000 +0000">
     <title>The Big Bang Theory</title>
@@ -11901,6 +11945,9 @@
     <title>Home And Away</title>
     <desc>Justin clashes with Dean and Ash; Ash goes above and beyond for Dean; Roo arrives at a huge decision.</desc>
     <episode-num system="dd_progid">10487145</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180308031500 +0000" stop="20180308034500 +0000">
     <title>Shortland Street</title>
@@ -11947,6 +11994,9 @@
     <title>Home And Away</title>
     <desc>Hunter fast tracks his relationship with Jennifer; Alf's actions threaten to drive Roo away forever; Raffy supports Coco as she deals with Maggie's illness.</desc>
     <episode-num system="dd_progid">10487146</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180308060000 +0000" stop="20180308063000 +0000">
     <title>The Big Bang Theory</title>
@@ -12184,6 +12234,9 @@
     <title>Home And Away</title>
     <desc>Hunter fast tracks his relationship with Jennifer; Alf's actions threaten to drive Roo away forever; Raffy supports Coco as she deals with Maggie's illness.</desc>
     <episode-num system="dd_progid">10487146</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180309030000 +0000" stop="20180309033000 +0000">
     <title>Shortland Street</title>
@@ -12272,15 +12325,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180309083500 +0000" stop="20180309094000 +0000">
-    <title>Take Me Out</title>
-    <desc>New Season: Move over Tinder, crazy cupid Paddy McGuiness lights up the stage in this hilarious dating show! Tonight: rugby player Thom Evans, presenter Roman Kemp, and 5ive's Ritchie Neville.</desc>
-    <episode-num system="dd_progid">10455811</episode-num>
+  <programme channel="tv.14" start="20180309083500 +0000" stop="20180309093500 +0000">
+    <title>Will &amp; Grace</title>
+    <desc>Will and Grace attempt to convince themselves it's okay to sleep with the same man. Jack and Karen get an annoying commercial jingle stuck in their heads and must seek medical attention.</desc>
+    <episode-num system="dd_progid">10491212</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180309094000 +0000" stop="20180309111000 +0000">
+  <programme channel="tv.14" start="20180309093500 +0000" stop="20180309110500 +0000">
     <title>I'm A Celebrity Get Me Out Of Here Austr</title>
     <desc>Celebrities are dropped into the heart of a remote jungle and put through excruciating challenges and emotional turmoil in this gripping, hilarious and shocking reality show.</desc>
     <episode-num system="dd_progid">10498892</episode-num>
@@ -72270,20 +72323,20 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20180303083000 +0000" stop="20180303090000 +0000">
-    <title>Bondi Rescue</title>
-    <episode-num system="dd_progid">60305E1425079</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406020625" start="20180303083000 +0000" stop="20180303093000 +0000">
     <title>NCIS</title>
     <episode-num system="dd_progid">59979E1509899</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406020625" start="20180303083000 +0000" stop="20180303090000 +0000">
+    <title>Bondi Rescue</title>
+    <episode-num system="dd_progid">60305E1425079</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20180303093000 +0000" stop="20180303113000 +0000">
@@ -78307,15 +78360,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180303033000 +0000" stop="20180303042000 +0000">
-    <title>Noisey</title>
-    <episode-num system="dd_progid">855067</episode-num>
+    <title>Jungletown</title>
+    <episode-num system="dd_progid">882505</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180303033000 +0000" stop="20180303042000 +0000">
-    <title>Jungletown</title>
-    <episode-num system="dd_progid">882505</episode-num>
+    <title>Noisey</title>
+    <episode-num system="dd_progid">855067</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -79704,17 +79757,17 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308110000 +0000">
-    <title>RocKwiz</title>
-    <episode-num system="dd_progid">632222</episode-num>
-    <subtitles type="teletext"/>
+  <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308105000 +0000">
+    <title>Noisey</title>
+    <episode-num system="dd_progid">835835</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308105000 +0000">
-    <title>Noisey</title>
-    <episode-num system="dd_progid">835835</episode-num>
+  <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308110000 +0000">
+    <title>RocKwiz</title>
+    <episode-num system="dd_progid">632222</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
