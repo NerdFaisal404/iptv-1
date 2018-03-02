@@ -4276,6 +4276,9 @@
     <title>7 Days</title>
     <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Ben Hurley, Urzila Carlson, Laura Daniel and Eli Matthewson.</desc>
     <episode-num system="dd_progid">T798511</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180302084500 +0000" stop="20180302091500 +0000">
     <title>Fail Army</title>
@@ -4451,11 +4454,14 @@
     <title>Survivor: Ghost Island</title>
     <desc>Premiere. Double Episode. In the Mamanuca Islands of Fiji, 20 new castaways are divided into two tribes and must learn from the mistakes of past players in order to outwit their opponents. S36 Ep2</desc>
     <episode-num system="dd_progid">T784688</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180303075000 +0000" stop="20180303100000 +0000">
+  <programme channel="tv.11" start="20180303075000 +0000" stop="20180303095500 +0000">
     <title>Dumb &amp; Dumber To</title>
     <desc>Jim Carrey and Jeff Daniels reprise their signature roles as Lloyd and Harry. This time around Lloyd and Harry take a road trip to find a child Harry never knew he had. (2014)</desc>
     <episode-num system="dd_progid">T684093</episode-num>
@@ -4466,7 +4472,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180303100000 +0000" stop="20180303122500 +0000">
+  <programme channel="tv.11" start="20180303095500 +0000" stop="20180303122000 +0000">
     <title>Five-Year Engagement, The</title>
     <desc>From the producer of Bridesmaids and the director of Forgetting Sarah Marshall comes an irreverent comedy about an engaged couple who keep getting tripped up on their long walk down the aisle. (2012)</desc>
     <episode-num system="dd_progid">T485291</episode-num>
@@ -4477,7 +4483,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180303122500 +0000" stop="20180303150000 +0000">
+  <programme channel="tv.11" start="20180303122000 +0000" stop="20180303150000 +0000">
     <title>Infomercials</title>
     <desc/>
     <episode-num system="dd_progid">T1</episode-num>
@@ -4585,6 +4591,9 @@
     <title>Gathering Of The Geezers</title>
     <desc>The century batteries Gathering of the Geezers brings together legends from across NZ's vast motorsport world.</desc>
     <episode-num system="dd_progid">T821430</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180304013000 +0000" stop="20180304020000 +0000">
     <title>Muscle Car Garage Series 2 #3</title>
@@ -4775,6 +4784,9 @@
     <title>Married At First Sight Australia</title>
     <desc>New Episode. During the bride's homestays, some couples blossom as they dig deeper into their significant other's lives, but some stumble meeting friends, family and expectations. S5 Ep18</desc>
     <episode-num system="dd_progid">T816144</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180305080000 +0000" stop="20180305085500 +0000">
     <title>9-1-1</title>
@@ -4875,6 +4887,9 @@
     <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. During the bride's homestays, some couples blossom as they dig deeper into their significant other's lives, but some stumble meeting friends, family and expectations. S5 Ep18</desc>
     <episode-num system="dd_progid">T816144</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180306020000 +0000" stop="20180306023000 +0000">
     <title>Entertainment Tonight</title>
@@ -4927,6 +4942,9 @@
     <title>Married At First Sight Australia</title>
     <desc>New Episode. The challenges of the bride's homestay week hits home as Dean confesses to Tracey's parents, and Gabrielle and Nasser reach an impasse. S5 Ep19</desc>
     <episode-num system="dd_progid">T816145</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180306080000 +0000" stop="20180306090000 +0000">
     <title>SVU: Special Victims Unit</title>
@@ -4956,6 +4974,9 @@
     <title>The Blacklist</title>
     <desc>New Episode. Red assists the Task Force in tracking a mysterious Blacklister who carefully develops airtight alibis for murderous clients. S5 Ep14</desc>
     <episode-num system="dd_progid">T785688</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
@@ -5023,6 +5044,9 @@
     <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. The challenges of the bride's homestay week hits home as Dean confesses to Tracey's parents, and Gabrielle and Nasser reach an impasse. S5 Ep19</desc>
     <episode-num system="dd_progid">T816145</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180307020000 +0000" stop="20180307023000 +0000">
     <title>Entertainment Tonight</title>
@@ -5526,6 +5550,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817012</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180302063000 +0000" stop="20180302070000 +0000">
     <title>Beverly Hills Pawn</title>
@@ -5555,6 +5582,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817012</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180302102000 +0000" stop="20180302111000 +0000">
     <title>Intervention</title>
@@ -5591,6 +5621,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817012</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180302215500 +0000" stop="20180302225000 +0000">
     <title>Four Weddings Australia</title>
@@ -5612,6 +5645,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817012</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180302234500 +0000" stop="20180303004000 +0000">
     <title>World Of Dance</title>
@@ -5633,6 +5669,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817012</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180303014000 +0000" stop="20180303024000 +0000">
     <title>Million Dollar Decorators</title>
@@ -5694,6 +5733,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817012</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180303073000 +0000" stop="20180303083000 +0000">
     <title>Keeping Up With The Kardashians</title>
@@ -5784,6 +5826,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817012</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180303210000 +0000" stop="20180303214500 +0000">
     <title>How Do I Look?</title>
@@ -5813,6 +5858,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817012</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180303232000 +0000" stop="20180304001000 +0000">
     <title>60 Days In</title>
@@ -5850,6 +5898,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817012</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180304025000 +0000" stop="20180304035000 +0000">
     <title>How Do I Look?</title>
@@ -5911,6 +5962,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817012</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180304093500 +0000" stop="20180304100000 +0000">
     <title>Sweet Home Oklahoma</title>
@@ -5963,6 +6017,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817012</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180304215500 +0000" stop="20180304225000 +0000">
     <title>David Tutera: CELEBrations</title>
@@ -5984,6 +6041,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817012</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180304234500 +0000" stop="20180305004000 +0000">
     <title>Real Housewives Of New York City, The</title>
@@ -12469,6 +12529,9 @@
     <title>7 Days</title>
     <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Ben Hurley, Urzila Carlson, Laura Daniel and Eli Matthewson.</desc>
     <episode-num system="dd_progid">T798511</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180302094500 +0000" stop="20180302101500 +0000">
     <title>Fail Army</title>
@@ -12630,7 +12693,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180303085000 +0000" stop="20180303110000 +0000">
+  <programme channel="tv.27" start="20180303085000 +0000" stop="20180303105500 +0000">
     <title>Dumb &amp; Dumber To</title>
     <desc>Jim Carrey and Jeff Daniels reprise their signature roles as Lloyd and Harry. This time around Lloyd and Harry take a road trip to find a child Harry never knew he had. (2014)</desc>
     <episode-num system="dd_progid">T684093</episode-num>
@@ -12638,7 +12701,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180303110000 +0000" stop="20180303132500 +0000">
+  <programme channel="tv.27" start="20180303105500 +0000" stop="20180303132000 +0000">
     <title>Five-Year Engagement, The</title>
     <desc>From the producer of Bridesmaids and the director of Forgetting Sarah Marshall comes an irreverent comedy about an engaged couple who keep getting tripped up on their long walk down the aisle. (2012)</desc>
     <episode-num system="dd_progid">T485291</episode-num>
@@ -12646,7 +12709,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180303132500 +0000" stop="20180303160000 +0000">
+  <programme channel="tv.27" start="20180303132000 +0000" stop="20180303160000 +0000">
     <title>Infomercials</title>
     <desc/>
     <episode-num system="dd_progid">T1</episode-num>
@@ -12754,6 +12817,9 @@
     <title>Gathering Of The Geezers</title>
     <desc>The century batteries Gathering of the Geezers brings together legends from across NZ's vast motorsport world.</desc>
     <episode-num system="dd_progid">T821430</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180304023000 +0000" stop="20180304030000 +0000">
     <title>Muscle Car Garage Series 2 #3</title>
@@ -12938,6 +13004,9 @@
     <title>Married At First Sight Australia</title>
     <desc>New Episode. During the bride's homestays, some couples blossom as they dig deeper into their significant other's lives, but some stumble meeting friends, family and expectations. S5 Ep18</desc>
     <episode-num system="dd_progid">T816144</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180305090000 +0000" stop="20180305095500 +0000">
     <title>9-1-1</title>
@@ -13038,6 +13107,9 @@
     <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. During the bride's homestays, some couples blossom as they dig deeper into their significant other's lives, but some stumble meeting friends, family and expectations. S5 Ep18</desc>
     <episode-num system="dd_progid">T816144</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180306030000 +0000" stop="20180306033000 +0000">
     <title>Entertainment Tonight</title>
@@ -13090,6 +13162,9 @@
     <title>Married At First Sight Australia</title>
     <desc>New Episode. The challenges of the bride's homestay week hits home as Dean confesses to Tracey's parents, and Gabrielle and Nasser reach an impasse. S5 Ep19</desc>
     <episode-num system="dd_progid">T816145</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180306090000 +0000" stop="20180306100000 +0000">
     <title>SVU: Special Victims Unit</title>
@@ -13183,6 +13258,9 @@
     <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. The challenges of the bride's homestay week hits home as Dean confesses to Tracey's parents, and Gabrielle and Nasser reach an impasse. S5 Ep19</desc>
     <episode-num system="dd_progid">T816145</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180307030000 +0000" stop="20180307033000 +0000">
     <title>Entertainment Tonight</title>
@@ -13668,6 +13746,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817012</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180302073000 +0000" stop="20180302080000 +0000">
     <title>Beverly Hills Pawn</title>
@@ -13697,6 +13778,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817012</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180302112000 +0000" stop="20180302121000 +0000">
     <title>Intervention</title>
@@ -13733,6 +13817,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817012</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180302225500 +0000" stop="20180302235000 +0000">
     <title>Four Weddings Australia</title>
@@ -13754,6 +13841,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817012</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180303004500 +0000" stop="20180303014000 +0000">
     <title>World Of Dance</title>
@@ -13775,6 +13865,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817012</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180303024000 +0000" stop="20180303034000 +0000">
     <title>Million Dollar Decorators</title>
@@ -13836,6 +13929,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817012</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180303083000 +0000" stop="20180303093000 +0000">
     <title>Keeping Up With The Kardashians</title>
@@ -13926,6 +14022,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817012</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180303220000 +0000" stop="20180303224500 +0000">
     <title>How Do I Look?</title>
@@ -13955,6 +14054,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817012</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180304002000 +0000" stop="20180304011000 +0000">
     <title>60 Days In</title>
@@ -13992,6 +14094,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817012</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180304035000 +0000" stop="20180304045000 +0000">
     <title>How Do I Look?</title>
@@ -14053,6 +14158,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817012</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180304103500 +0000" stop="20180304110000 +0000">
     <title>Sweet Home Oklahoma</title>
@@ -14105,6 +14213,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817012</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180304225500 +0000" stop="20180304235000 +0000">
     <title>David Tutera: CELEBrations</title>
@@ -14126,6 +14237,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817012</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180305004500 +0000" stop="20180305014000 +0000">
     <title>Real Housewives Of New York City, The</title>
@@ -64993,16 +65107,16 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180303060000 +0000" stop="20180303063000 +0000">
-    <title>Counting Cars</title>
-    <episode-num system="dd_progid">qLnbu3aOltaPmdeP</episode-num>
+  <programme channel="tv.101305020523" start="20180303060000 +0000" stop="20180303070000 +0000">
+    <title>American Pickers</title>
+    <episode-num system="dd_progid">qvbjqMuSmdaPmdux</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180303060000 +0000" stop="20180303070000 +0000">
-    <title>American Pickers</title>
-    <episode-num system="dd_progid">qvbjqMuSmdaPmdux</episode-num>
+  <programme channel="tv.101305020523" start="20180303060000 +0000" stop="20180303063000 +0000">
+    <title>Counting Cars</title>
+    <episode-num system="dd_progid">qLnbu3aOltaPmdeP</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -79763,17 +79877,17 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308105000 +0000">
-    <title>Noisey</title>
-    <episode-num system="dd_progid">835835</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308110000 +0000">
     <title>RocKwiz</title>
     <episode-num system="dd_progid">632222</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308105000 +0000">
+    <title>Noisey</title>
+    <episode-num system="dd_progid">835835</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
