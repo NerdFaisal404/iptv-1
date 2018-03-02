@@ -31977,9 +31977,9 @@
     </rating>
   </programme>
   <programme channel="tv.56" start="20180302203000 +0000" stop="20180302210000 +0000">
-    <title>Off the Grid</title>
-    <desc>Experience the challenges and rewards of working for Adventist World Aviation, using aircraft to save lives in remote places. AWA takes a team to the island of Palawan in a storm.</desc>
-    <episode-num system="dd_progid">OFFGRIDx301</episode-num>
+    <title>Missions Today</title>
+    <desc>A team of volunteers go to Ecuador to make a difference and bring humanitarian aid to the local community.</desc>
+    <episode-num system="dd_progid">MISSIONST01x01</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -32065,9 +32065,9 @@
     </rating>
   </programme>
   <programme channel="tv.56" start="20180303033000 +0000" stop="20180303043000 +0000">
-    <title>Answers Creation Hour</title>
-    <desc>The Bible claims to be written by God, through human authors, but can we trust that it is free of error? Bodie Hodge tackles some tough questions about Scripture.</desc>
-    <episode-num system="dd_progid">AIG03x329</episode-num>
+    <title>Creation Ministries</title>
+    <desc>Lucy. The most famous fossil 'ape-man' is presented as a fossil that 'proves' humans evolved from ape-like creatures. Dr John Sanford presents major controversies about Lucy that are rarely taught</desc>
+    <episode-num system="dd_progid">CREATIONMIx23</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -32721,9 +32721,9 @@
     </rating>
   </programme>
   <programme channel="tv.56" start="20180305043000 +0000" stop="20180305050000 +0000">
-    <title>Off the Grid</title>
-    <desc>Experience the challenges and rewards of working for Adventist World Aviation, using aircraft to save lives in remote places. AWA holds a series of meetings to share with those who do not know Jesus</desc>
-    <episode-num system="dd_progid">OFFGRIDx302</episode-num>
+    <title>Missions Today</title>
+    <desc>A team of volunteers go to Belize. Watch an incredible team effort to build a classroom for dozens of eager kids wanting to learn</desc>
+    <episode-num system="dd_progid">MISSIONST01x02</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -43309,16 +43309,16 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180302080000 +0000" stop="20180302090000 +0000">
-    <title>ABC National News</title>
-    <episode-num system="dd_progid">NU1821H045S00</episode-num>
+    <title>ABC News</title>
+    <episode-num system="dd_progid">NU1803T053S00</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180302080000 +0000" stop="20180302090000 +0000">
-    <title>ABC News</title>
-    <episode-num system="dd_progid">NU1803T053S00</episode-num>
-    <subtitles type="teletext"/>
+    <title>ABC National News</title>
+    <episode-num system="dd_progid">NU1821H045S00</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -65109,16 +65109,16 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180303060000 +0000" stop="20180303070000 +0000">
-    <title>American Pickers</title>
-    <episode-num system="dd_progid">qvbjqMuSmdaPmdux</episode-num>
+  <programme channel="tv.101305020523" start="20180303060000 +0000" stop="20180303063000 +0000">
+    <title>Counting Cars</title>
+    <episode-num system="dd_progid">qLnbu3aOltaPmdeP</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180303060000 +0000" stop="20180303063000 +0000">
-    <title>Counting Cars</title>
-    <episode-num system="dd_progid">qLnbu3aOltaPmdeP</episode-num>
+  <programme channel="tv.101305020523" start="20180303060000 +0000" stop="20180303070000 +0000">
+    <title>American Pickers</title>
+    <episode-num system="dd_progid">qvbjqMuSmdaPmdux</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -78516,15 +78516,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180303033000 +0000" stop="20180303042000 +0000">
-    <title>Noisey</title>
-    <episode-num system="dd_progid">855067</episode-num>
+    <title>Jungletown</title>
+    <episode-num system="dd_progid">882505</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180303033000 +0000" stop="20180303042000 +0000">
-    <title>Jungletown</title>
-    <episode-num system="dd_progid">882505</episode-num>
+    <title>Noisey</title>
+    <episode-num system="dd_progid">855067</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -79913,17 +79913,17 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308110000 +0000">
-    <title>RocKwiz</title>
-    <episode-num system="dd_progid">632222</episode-num>
-    <subtitles type="teletext"/>
+  <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308105000 +0000">
+    <title>Noisey</title>
+    <episode-num system="dd_progid">835835</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308105000 +0000">
-    <title>Noisey</title>
-    <episode-num system="dd_progid">835835</episode-num>
+  <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308110000 +0000">
+    <title>RocKwiz</title>
+    <episode-num system="dd_progid">632222</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
