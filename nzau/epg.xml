@@ -39215,31 +39215,13 @@
     <desc>Top Acts Live George Dalaras</desc>
     <episode-num system="dd_progid">EuropeinConcert-Week08</episode-num>
   </programme>
-  <programme channel="tv.41" start="20180303000000 +0000" stop="20180303010000 +0000">
+  <programme channel="tv.41" start="20180303000000 +0000" stop="20180303023000 +0000">
     <title>Council Matters</title>
-    <desc>TBA</desc>
+    <desc>Dunedin City Council Meetings of the 27 February 2018</desc>
     <episode-num system="dd_progid">CouncilMatters-Week9</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
-  </programme>
-  <programme channel="tv.41" start="20180303010000 +0000" stop="20180303013000 +0000">
-    <title>National Geographic - LIVE</title>
-    <desc>National Geographic LIVE documentary series.</desc>
-    <episode-num system="dd_progid">NationalGeographicLIVE-Natio</episode-num>
-  </programme>
-  <programme channel="tv.41" start="20180303013000 +0000" stop="20180303020000 +0000">
-    <title>Americas Heartland</title>
-    <desc/>
-    <episode-num system="dd_progid">AmericasHeartland-Week08</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.41" start="20180303020000 +0000" stop="20180303023000 +0000">
-    <title>Kick Off! Countdown</title>
-    <desc>Kick off! Countdown bring the news, top names, the very latest from the German Bundesliga.</desc>
-    <episode-num system="dd_progid">KickOff!Countdown-Week08</episode-num>
   </programme>
   <programme channel="tv.41" start="20180303023000 +0000" stop="20180303030000 +0000">
     <title>Journeys In Time</title>
@@ -40664,9 +40646,12 @@
     <episode-num system="dd_progid">EuropeinConcert-Week09</episode-num>
   </programme>
   <programme channel="tv.41" start="20180310000000 +0000" stop="20180310010000 +0000">
-    <title>Documentary</title>
-    <desc>TBA</desc>
-    <episode-num system="dd_progid">Documentary-Documentary</episode-num>
+    <title>AFD What do they stand for?</title>
+    <desc>Dw documentary</desc>
+    <episode-num system="dd_progid">AFDWhatdotheystandfor-511520</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.41" start="20180310010000 +0000" stop="20180310013000 +0000">
     <title>National Geographic - LIVE</title>
@@ -64604,16 +64589,16 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180303060000 +0000" stop="20180303070000 +0000">
-    <title>American Pickers</title>
-    <episode-num system="dd_progid">qvbjqMuSmdaPmdux</episode-num>
+  <programme channel="tv.101305020523" start="20180303060000 +0000" stop="20180303063000 +0000">
+    <title>Counting Cars</title>
+    <episode-num system="dd_progid">qLnbu3aOltaPmdeP</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180303060000 +0000" stop="20180303063000 +0000">
-    <title>Counting Cars</title>
-    <episode-num system="dd_progid">qLnbu3aOltaPmdeP</episode-num>
+  <programme channel="tv.101305020523" start="20180303060000 +0000" stop="20180303070000 +0000">
+    <title>American Pickers</title>
+    <episode-num system="dd_progid">qvbjqMuSmdaPmdux</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -79294,17 +79279,17 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308105000 +0000">
-    <title>Noisey</title>
-    <episode-num system="dd_progid">835835</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308110000 +0000">
     <title>RocKwiz</title>
     <episode-num system="dd_progid">632222</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308105000 +0000">
+    <title>Noisey</title>
+    <episode-num system="dd_progid">835835</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>

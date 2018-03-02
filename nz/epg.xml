@@ -39092,31 +39092,13 @@
     <desc>Top Acts Live George Dalaras</desc>
     <episode-num system="dd_progid">EuropeinConcert-Week08</episode-num>
   </programme>
-  <programme channel="tv.41" start="20180303000000 +0000" stop="20180303010000 +0000">
+  <programme channel="tv.41" start="20180303000000 +0000" stop="20180303023000 +0000">
     <title>Council Matters</title>
-    <desc>TBA</desc>
+    <desc>Dunedin City Council Meetings of the 27 February 2018</desc>
     <episode-num system="dd_progid">CouncilMatters-Week9</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
-  </programme>
-  <programme channel="tv.41" start="20180303010000 +0000" stop="20180303013000 +0000">
-    <title>National Geographic - LIVE</title>
-    <desc>National Geographic LIVE documentary series.</desc>
-    <episode-num system="dd_progid">NationalGeographicLIVE-Natio</episode-num>
-  </programme>
-  <programme channel="tv.41" start="20180303013000 +0000" stop="20180303020000 +0000">
-    <title>Americas Heartland</title>
-    <desc></desc>
-    <episode-num system="dd_progid">AmericasHeartland-Week08</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.41" start="20180303020000 +0000" stop="20180303023000 +0000">
-    <title>Kick Off! Countdown</title>
-    <desc>Kick off! Countdown bring the news, top names, the very latest from the German Bundesliga.</desc>
-    <episode-num system="dd_progid">KickOff!Countdown-Week08</episode-num>
   </programme>
   <programme channel="tv.41" start="20180303023000 +0000" stop="20180303030000 +0000">
     <title>Journeys In Time</title>
@@ -40541,9 +40523,12 @@
     <episode-num system="dd_progid">EuropeinConcert-Week09</episode-num>
   </programme>
   <programme channel="tv.41" start="20180310000000 +0000" stop="20180310010000 +0000">
-    <title>Documentary</title>
-    <desc>TBA</desc>
-    <episode-num system="dd_progid">Documentary-Documentary</episode-num>
+    <title>AFD What do they stand for?</title>
+    <desc>Dw documentary</desc>
+    <episode-num system="dd_progid">AFDWhatdotheystandfor-511520</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.41" start="20180310010000 +0000" stop="20180310013000 +0000">
     <title>National Geographic - LIVE</title>
