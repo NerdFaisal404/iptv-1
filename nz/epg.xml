@@ -402,7 +402,7 @@
   </programme>
   <programme channel="tv.9" start="20180303193000 +0000" stop="20180303200000 +0000">
     <title>Slick As Ice 2018 Winter Paralympics</title>
-    <desc></desc>
+    <desc>Witness the pain, dedication and commitment our New Zealand Paralympic snow athletes invest as they head to the 2018 Winter Paralympics in PyeongChang. Made with the support of New Zealand On Air.</desc>
     <episode-num system="dd_progid">10514554</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -561,10 +561,15 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20180304143500 +0000" stop="20180304170000 +0000">
+  <programme channel="tv.9" start="20180304143500 +0000" stop="20180304163000 +0000">
     <title>Infomercial</title>
     <desc></desc>
     <episode-num system="dd_progid">10499718</episode-num>
+  </programme>
+  <programme channel="tv.9" start="20180304163000 +0000" stop="20180304170000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+    <episode-num system="dd_progid">10473123</episode-num>
   </programme>
   <programme channel="tv.9" start="20180304170000 +0000" stop="20180304200000 +0000">
     <title>Breakfast</title>
@@ -19371,7 +19376,7 @@
   </programme>
   <programme channel="tv.55" start="20180304070000 +0000" stop="20180304074500 +0000">
     <title>Slick as Ice</title>
-    <desc></desc>
+    <desc>Witness the pain, dedication and commitment our New Zealand Paralympic snow athletes invest as they head to the 2018 Winter Paralympics in PyeongChang. Made with the support of New Zealand On Air.</desc>
     <episode-num system="dd_progid">10514600</episode-num>
     <rating system="Freeview">
       <value>G</value>
