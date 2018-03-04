@@ -509,15 +509,10 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20180304143500 +0000" stop="20180304163000 +0000">
+  <programme channel="tv.9" start="20180304143500 +0000" stop="20180304170000 +0000">
     <title>Infomercial</title>
     <desc/>
     <episode-num system="dd_progid">10499718</episode-num>
-  </programme>
-  <programme channel="tv.9" start="20180304163000 +0000" stop="20180304170000 +0000">
-    <title>Infomercial</title>
-    <desc/>
-    <episode-num system="dd_progid">10473123</episode-num>
   </programme>
   <programme channel="tv.9" start="20180304170000 +0000" stop="20180304200000 +0000">
     <title>Breakfast</title>
@@ -8828,7 +8823,7 @@
   </programme>
   <programme channel="tv.38" start="20180303203000 +0000" stop="20180303210000 +0000">
     <title>Slick As Ice 2018 Winter Paralympics</title>
-    <desc/>
+    <desc>Witness the pain, dedication and commitment our New Zealand Paralympic snow athletes invest as they head to the 2018 Winter Paralympics in PyeongChang. Made with the support of New Zealand On Air.</desc>
     <episode-num system="dd_progid">10514554</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -19457,7 +19452,7 @@
   </programme>
   <programme channel="tv.55" start="20180305103000 +0000" stop="20180305111000 +0000">
     <title>Slick as Ice</title>
-    <desc/>
+    <desc>Witness the pain, dedication and commitment our New Zealand Paralympic snow athletes invest as they head to the 2018 Winter Paralympics in PyeongChang. Made with the support of New Zealand On Air.</desc>
     <episode-num system="dd_progid">10514600</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -19493,7 +19488,7 @@
   </programme>
   <programme channel="tv.55" start="20180305200000 +0000" stop="20180305204000 +0000">
     <title>Slick As Ice</title>
-    <desc/>
+    <desc>Witness the pain, dedication and commitment our New Zealand Paralympic snow athletes invest as they head to the 2018 Winter Paralympics in PyeongChang. Made with the support of New Zealand On Air.</desc>
     <episode-num system="dd_progid">10514600</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -19875,7 +19870,7 @@
   </programme>
   <programme channel="tv.55" start="20180308231500 +0000" stop="20180308235500 +0000">
     <title>Slick as Ice</title>
-    <desc/>
+    <desc>Witness the pain, dedication and commitment our New Zealand Paralympic snow athletes invest as they head to the 2018 Winter Paralympics in PyeongChang. Made with the support of New Zealand On Air.</desc>
     <episode-num system="dd_progid">10514600#1</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -19893,7 +19888,7 @@
   </programme>
   <programme channel="tv.55" start="20180309025500 +0000" stop="20180309033500 +0000">
     <title>Slick as Ice</title>
-    <desc/>
+    <desc>Witness the pain, dedication and commitment our New Zealand Paralympic snow athletes invest as they head to the 2018 Winter Paralympics in PyeongChang. Made with the support of New Zealand On Air.</desc>
     <episode-num system="dd_progid">10514600#1</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -19963,7 +19958,7 @@
   </programme>
   <programme channel="tv.55" start="20180309102000 +0000" stop="20180309110000 +0000">
     <title>Slick As Ice</title>
-    <desc/>
+    <desc>Witness the pain, dedication and commitment our New Zealand Paralympic snow athletes invest as they head to the 2018 Winter Paralympics in PyeongChang. Made with the support of New Zealand On Air.</desc>
     <episode-num system="dd_progid">10514600</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -78997,17 +78992,17 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308110000 +0000">
-    <title>RocKwiz</title>
-    <episode-num system="dd_progid">632222</episode-num>
-    <subtitles type="teletext"/>
+  <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308105000 +0000">
+    <title>Noisey</title>
+    <episode-num system="dd_progid">835835</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308105000 +0000">
-    <title>Noisey</title>
-    <episode-num system="dd_progid">835835</episode-num>
+  <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308110000 +0000">
+    <title>RocKwiz</title>
+    <episode-num system="dd_progid">632222</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
