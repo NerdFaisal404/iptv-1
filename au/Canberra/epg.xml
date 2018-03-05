@@ -1852,6 +1852,14 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180313130000 +0000" stop="20180313133000 +0000">
+    <title>ABC Late News</title>
+    <episode-num system="dd_progid">NU1826W052S00</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20180305123100 +0000" stop="20180305132600 +0000">
     <title>PGA Tour Golf Highlights</title>
     <episode-num system="dd_progid">ZW1389A017S00</episode-num>
@@ -19886,6 +19894,14 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020520" start="20180313130000 +0000" stop="20180313141500 +0000">
+    <title>PyeongChang 2018 Paralympics</title>
+    <episode-num system="dd_progid">ueCmwteHltaPmdaL</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020522" start="20180305124800 +0000" stop="20180305134600 +0000">
     <title>Bargain Hunt</title>
     <episode-num system="dd_progid">q25vt3qOltaPmdmO</episode-num>
@@ -23551,6 +23567,13 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020523" start="20180313130000 +0000" stop="20180313140000 +0000">
+    <title>Ice Road Truckers</title>
+    <episode-num system="dd_progid">sunfu3aMltaPmdaG</episode-num>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020525" start="20180305125300 +0000" stop="20180305131900 +0000">
     <title>How I Met Your Mother</title>
     <episode-num system="dd_progid">seKzttiSmdaPmdix</episode-num>
@@ -25153,14 +25176,14 @@
   </programme>
   <programme channel="tv.101305020525" start="20180312093000 +0000" stop="20180312095800 +0000">
     <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKzttiSmdaPmdmx</episode-num>
+    <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180312093000 +0000" stop="20180312095800 +0000">
     <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
+    <episode-num system="dd_progid">seKzttiSmdaPmdmx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -27501,6 +27524,14 @@
   <programme channel="tv.101305020528" start="20180313120000 +0000" stop="20180313130000 +0000">
     <title>After The Last</title>
     <episode-num system="dd_progid">ATL1303R</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180313130000 +0000" stop="20180313133000 +0000">
+    <title>Raceday Review - Ballarat</title>
+    <episode-num system="dd_progid">RV12031A</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -40189,6 +40220,13 @@
     <episode-num system="dd_progid">845543</episode-num>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180313130000 +0000" stop="20180313133000 +0000">
+    <title>Duff Till Dawn</title>
+    <episode-num system="dd_progid">778331</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20180305123000 +0000" stop="20180305130000 +0000">
