@@ -35567,17 +35567,17 @@
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180305023500 +0000" stop="20180305030000 +0000">
-    <title>Cyberwar</title>
-    <episode-num system="dd_progid">897180</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000302" start="20180305023500 +0000" stop="20180305030000 +0000">
     <title>Most Expensivest</title>
     <episode-num system="dd_progid">901752</episode-num>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180305023500 +0000" stop="20180305030000 +0000">
+    <title>Cyberwar</title>
+    <episode-num system="dd_progid">897180</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180305030000 +0000" stop="20180305032500 +0000">
