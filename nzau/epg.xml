@@ -78618,17 +78618,17 @@
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180307090000 +0000" stop="20180307093000 +0000">
-    <title>Travel Man</title>
-    <episode-num system="dd_progid">897232</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000302" start="20180307090000 +0000" stop="20180307093000 +0000">
     <title>Gadget Man</title>
     <episode-num system="dd_progid">888563</episode-num>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180307090000 +0000" stop="20180307093000 +0000">
+    <title>Travel Man</title>
+    <episode-num system="dd_progid">897232</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180307093000 +0000" stop="20180307102500 +0000">
