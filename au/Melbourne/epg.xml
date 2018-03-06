@@ -21537,17 +21537,17 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20180311080000 +0000" stop="20180311093000 +0000">
-    <title>My Kitchen Rules</title>
-    <episode-num system="dd_progid">tv1lu3aGltaPmdiJ</episode-num>
+  <programme channel="tv.101305030530" start="20180311080000 +0000" stop="20180311093700 +0000">
+    <title>Australian Spartan</title>
+    <episode-num system="dd_progid">uKbbu3aOltaPmdaM</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20180311080000 +0000" stop="20180311093700 +0000">
-    <title>Australian Spartan</title>
-    <episode-num system="dd_progid">uKbbu3aOltaPmdaM</episode-num>
+  <programme channel="tv.101305030530" start="20180311080000 +0000" stop="20180311093000 +0000">
+    <title>My Kitchen Rules</title>
+    <episode-num system="dd_progid">tv1lu3aGltaPmdiJ</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -24638,15 +24638,15 @@
     </rating>
   </programme>
   <programme channel="tv.101305030533" start="20180308222800 +0000" stop="20180308232900 +0000">
-    <title>Swamp People</title>
-    <episode-num system="dd_progid">uK9nudmSmdaPm3ix</episode-num>
+    <title>American Pickers</title>
+    <episode-num system="dd_progid">qvbjqMuSmdaPmd2x</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305030533" start="20180308222800 +0000" stop="20180308232900 +0000">
-    <title>American Pickers</title>
-    <episode-num system="dd_progid">qvbjqMuSmdaPmd2x</episode-num>
+    <title>Swamp People</title>
+    <episode-num system="dd_progid">uK9nudmSmdaPm3ix</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -27096,14 +27096,14 @@
   </programme>
   <programme channel="tv.101305030535" start="20180312093000 +0000" stop="20180312095800 +0000">
     <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKzttiSmdaPmdmx</episode-num>
+    <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305030535" start="20180312093000 +0000" stop="20180312095800 +0000">
     <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
+    <episode-num system="dd_progid">seKzttiSmdaPmdmx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -27131,14 +27131,14 @@
   </programme>
   <programme channel="tv.101305030535" start="20180312112500 +0000" stop="20180312115400 +0000">
     <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
+    <episode-num system="dd_progid">seKzttiSmdaPmdmx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305030535" start="20180312112500 +0000" stop="20180312115400 +0000">
     <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKzttiSmdaPmdmx</episode-num>
+    <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -35702,17 +35702,17 @@
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180307090000 +0000" stop="20180307093000 +0000">
-    <title>Gadget Man</title>
-    <episode-num system="dd_progid">888563</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000302" start="20180307090000 +0000" stop="20180307093000 +0000">
     <title>Travel Man</title>
     <episode-num system="dd_progid">897232</episode-num>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180307090000 +0000" stop="20180307093000 +0000">
+    <title>Gadget Man</title>
+    <episode-num system="dd_progid">888563</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180307093000 +0000" stop="20180307102500 +0000">
