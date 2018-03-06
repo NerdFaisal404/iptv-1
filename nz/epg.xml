@@ -1069,7 +1069,7 @@
   </programme>
   <programme channel="tv.9" start="20180310200000 +0000" stop="20180310210000 +0000">
     <title>Q+A</title>
-    <desc></desc>
+    <desc>Join the Q+A team to find the answers to the questions that matter.</desc>
     <episode-num system="dd_progid">10515853</episode-num>
   </programme>
   <programme channel="tv.9" start="20180310210000 +0000" stop="20180310213000 +0000">
@@ -1097,6 +1097,9 @@
     <title>Fair Go</title>
     <desc>Property management is big business, but do landlords really get value for money? We meet a woman who got stuck with a 100-thousand dollar bill after a property manager let her home to criminals.</desc>
     <episode-num system="dd_progid">10511090</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180310225500 +0000" stop="20180310235500 +0000">
     <title>Coronation Street</title>
@@ -1648,10 +1651,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180305163000 +0000" stop="20180305173000 +0000">
+  <programme channel="tv.10" start="20180305163000 +0000" stop="20180305170000 +0000">
     <title>Infomercial</title>
     <desc></desc>
     <episode-num system="dd_progid">10499785#1</episode-num>
+  </programme>
+  <programme channel="tv.10" start="20180305170000 +0000" stop="20180305173000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+    <episode-num system="dd_progid">10473172</episode-num>
   </programme>
   <programme channel="tv.10" start="20180305173000 +0000" stop="20180305175500 +0000">
     <title>Sesame Street</title>
@@ -2237,6 +2245,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180307122500 +0000" stop="20180307125000 +0000">
     <title>Shortland Street</title>
@@ -2843,7 +2854,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180309083500 +0000" stop="20180309100500 +0000">
+  <programme channel="tv.10" start="20180309083500 +0000" stop="20180309101000 +0000">
     <title>I'm A Celebrity Get Me Out Of Here Austr</title>
     <desc>Celebrities are dropped into the heart of a remote jungle and put through excruciating challenges and emotional turmoil in this gripping, hilarious and shocking reality show.</desc>
     <episode-num system="dd_progid">10498892</episode-num>
@@ -2851,7 +2862,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180309100500 +0000" stop="20180309110500 +0000">
+  <programme channel="tv.10" start="20180309101000 +0000" stop="20180309110500 +0000">
     <title>The X-Files</title>
     <desc>S2 E8 Mulder and Scully suspect that darker forces are at play as they investigate a brutal animal attack on a little boy in Connecticut.</desc>
     <episode-num system="dd_progid">10494420</episode-num>
@@ -3411,11 +3422,20 @@
     <title>Young Sheldon</title>
     <desc>S1 E4 After choking on a breakfast sausage, Sheldon wrestles with his fear of solid foods and discovers comic books for the first time.</desc>
     <episode-num system="dd_progid">10495292</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180311060000 +0000" stop="20180311073000 +0000">
     <title>Australian Spartan</title>
     <desc>S1 E2 In the second heat, Kiwi teams take on the Aussies in the toughest test of team-work ever devised. Which teams will move onto the next round?</desc>
     <episode-num system="dd_progid">10508989</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180311073000 +0000" stop="20180311092500 +0000">
     <title>Money Monster</title>
@@ -4046,7 +4066,7 @@
       <stereo>dolby</stereo>
     </audio>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20180313053000 +0000" stop="20180313060000 +0000">
@@ -4089,6 +4109,9 @@
     <title>I'm A Celebrity Get Me Out Of Here Austr</title>
     <desc>Celebrities are dropped into the heart of a remote jungle and put through excruciating challenges and emotional turmoil in this gripping, hilarious and shocking reality show.</desc>
     <episode-num system="dd_progid">10498893</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180313103000 +0000" stop="20180313110000 +0000">
     <title>Mom</title>
@@ -9674,7 +9697,7 @@
   </programme>
   <programme channel="tv.38" start="20180310210000 +0000" stop="20180310220000 +0000">
     <title>Q+A</title>
-    <desc></desc>
+    <desc>Join the Q+A team to find the answers to the questions that matter.</desc>
     <episode-num system="dd_progid">10515853</episode-num>
   </programme>
   <programme channel="tv.38" start="20180310220000 +0000" stop="20180310223000 +0000">
@@ -9702,6 +9725,9 @@
     <title>Fair Go</title>
     <desc>Property management is big business, but do landlords really get value for money? We meet a woman who got stuck with a 100-thousand dollar bill after a property manager let her home to criminals.</desc>
     <episode-num system="dd_progid">10511090</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180310235500 +0000" stop="20180311005500 +0000">
     <title>Coronation Street</title>
@@ -10249,10 +10275,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180305173000 +0000" stop="20180305183000 +0000">
+  <programme channel="tv.14" start="20180305173000 +0000" stop="20180305180000 +0000">
     <title>Infomercial</title>
     <desc></desc>
     <episode-num system="dd_progid">10499785#1</episode-num>
+  </programme>
+  <programme channel="tv.14" start="20180305180000 +0000" stop="20180305183000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+    <episode-num system="dd_progid">10473172</episode-num>
   </programme>
   <programme channel="tv.14" start="20180305183000 +0000" stop="20180305185500 +0000">
     <title>Sesame Street</title>
@@ -10766,6 +10797,9 @@
     <title>The Originals</title>
     <desc>S4 E8 Hayley and Klaus travel to the ancestral world and come face to face with Davina. Meanwhile, Elijah and Marcel are forced into an uneasy alliance, and they meet Alaric.</desc>
     <episode-num system="dd_progid">10457983</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180307132500 +0000" stop="20180307135000 +0000">
     <title>Shortland Street</title>
@@ -11309,7 +11343,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180309093500 +0000" stop="20180309110500 +0000">
+  <programme channel="tv.14" start="20180309093500 +0000" stop="20180309111000 +0000">
     <title>I'm A Celebrity Get Me Out Of Here Austr</title>
     <desc>Celebrities are dropped into the heart of a remote jungle and put through excruciating challenges and emotional turmoil in this gripping, hilarious and shocking reality show.</desc>
     <episode-num system="dd_progid">10498892</episode-num>
@@ -11317,7 +11351,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180309110500 +0000" stop="20180309120500 +0000">
+  <programme channel="tv.14" start="20180309111000 +0000" stop="20180309120500 +0000">
     <title>The X-Files</title>
     <desc>S2 E8 Mulder and Scully suspect that darker forces are at play as they investigate a brutal animal attack on a little boy in Connecticut.</desc>
     <episode-num system="dd_progid">10494420</episode-num>
@@ -11793,11 +11827,17 @@
     <title>Young Sheldon</title>
     <desc>S1 E4 After choking on a breakfast sausage, Sheldon wrestles with his fear of solid foods and discovers comic books for the first time.</desc>
     <episode-num system="dd_progid">10495292</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180311070000 +0000" stop="20180311083000 +0000">
     <title>Australian Spartan</title>
     <desc>S1 E2 In the second heat, Kiwi teams take on the Aussies in the toughest test of team-work ever devised. Which teams will move onto the next round?</desc>
     <episode-num system="dd_progid">10508989</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180311083000 +0000" stop="20180311102500 +0000">
     <title>Money Monster</title>
@@ -12356,7 +12396,7 @@
     <desc>S9 E17 The Big Bang Theory hits its 200th episode! After nine years together, the gang finally celebrates Sheldon's birthday with a few special guests - including Batman's Adam West.</desc>
     <episode-num system="dd_progid">10410044</episode-num>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180313063000 +0000" stop="20180313070000 +0000">
@@ -12396,6 +12436,9 @@
     <title>I'm A Celebrity Get Me Out Of Here Austr</title>
     <desc>Celebrities are dropped into the heart of a remote jungle and put through excruciating challenges and emotional turmoil in this gripping, hilarious and shocking reality show.</desc>
     <episode-num system="dd_progid">10498893</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180305105500 +0000" stop="20180305120500 +0000">
     <title>Newshub Nation (Encore)</title>
@@ -19324,6 +19367,7 @@
     <title>Slick As Ice</title>
     <desc>Witness the pain, dedication and commitment our New Zealand Paralympic snow athletes invest as they head to the 2018 Winter Paralympics in PyeongChang. Made with the support of New Zealand On Air.</desc>
     <episode-num system="dd_progid">10514600</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -19332,6 +19376,9 @@
     <title>Formula E Highlights</title>
     <desc>Highlights of Race 5 from the streets of Mexico City, Mexico featuring Kiwi driver Mitch Evans.</desc>
     <episode-num system="dd_progid">10500119</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180305212500 +0000" stop="20180305235000 +0000">
     <title>NBA - Pistons v Magic</title>
@@ -19572,6 +19619,9 @@
     <title>Formula E Highlights</title>
     <desc>Highlights of Race 5 from the streets of Mexico City, Mexico featuring Kiwi driver Mitch Evans.</desc>
     <episode-num system="dd_progid">10500119</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180308003500 +0000" stop="20180308024000 +0000">
     <title>NBA - Thunder v Trail Blazers</title>
@@ -19706,6 +19756,7 @@
     <title>Slick as Ice</title>
     <desc>Witness the pain, dedication and commitment our New Zealand Paralympic snow athletes invest as they head to the 2018 Winter Paralympics in PyeongChang. Made with the support of New Zealand On Air.</desc>
     <episode-num system="dd_progid">10514600#1</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -19724,6 +19775,7 @@
     <title>Slick as Ice</title>
     <desc>Witness the pain, dedication and commitment our New Zealand Paralympic snow athletes invest as they head to the 2018 Winter Paralympics in PyeongChang. Made with the support of New Zealand On Air.</desc>
     <episode-num system="dd_progid">10514600#1</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -19797,6 +19849,7 @@
     <title>Slick As Ice</title>
     <desc>Witness the pain, dedication and commitment our New Zealand Paralympic snow athletes invest as they head to the 2018 Winter Paralympics in PyeongChang. Made with the support of New Zealand On Air.</desc>
     <episode-num system="dd_progid">10514600</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -19814,7 +19867,7 @@
   <programme channel="tv.55" start="20180309170000 +0000" stop="20180309185000 +0000">
     <title>On DUKE today...</title>
     <desc>Here's what's on DUKE today.</desc>
-    <episode-num system="dd_progid">10432293</episode-num>
+    <episode-num system="dd_progid">10432293#1</episode-num>
   </programme>
   <programme channel="tv.55" start="20180309185000 +0000" stop="20180309192000 +0000">
     <title>Formula E Street Racers</title>
@@ -19823,10 +19876,15 @@
   </programme>
   <programme channel="tv.55" start="20180309192000 +0000" stop="20180309212500 +0000">
     <title>Live: Bundesliga</title>
-    <desc>Live coverage of Mainz hosting Schalke 04 Bremen from the Opel Arena in Mainz.</desc>
+    <desc>Live coverage of Mainz hosting Schalke 04 from the Opel Arena in Mainz.</desc>
     <episode-num system="dd_progid">10487841</episode-num>
   </programme>
-  <programme channel="tv.55" start="20180309212500 +0000" stop="20180309235500 +0000">
+  <programme channel="tv.55" start="20180309212500 +0000" stop="20180309214000 +0000">
+    <title>On DUKE today...</title>
+    <desc>Here's what's on DUKE today.</desc>
+    <episode-num system="dd_progid">10432293#1</episode-num>
+  </programme>
+  <programme channel="tv.55" start="20180309214000 +0000" stop="20180309235500 +0000">
     <title>AFL - Sydney v GWS</title>
     <desc>Delayed coverage of last night’s pre-season match between the Sydney Swans and the GWS Giants from Blacktown International Sportspark in Western Sydney.</desc>
     <episode-num system="dd_progid">10509740</episode-num>
@@ -19890,6 +19948,9 @@
     <title>Formula E Highlights</title>
     <desc>Highlights of Race 5 from the streets of Mexico City, Mexico featuring Kiwi driver Mitch Evans.</desc>
     <episode-num system="dd_progid">10500119</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180310205500 +0000" stop="20180310212000 +0000">
     <title>Formula E Street Racers</title>

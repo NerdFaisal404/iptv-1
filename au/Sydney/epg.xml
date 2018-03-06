@@ -11825,15 +11825,15 @@
   </programme>
   <programme channel="tv.101204200421" start="20180306010000 +0000" stop="20180306015900 +0000">
     <title>Ellen</title>
-    <episode-num system="dd_progid">165954E8236651</episode-num>
+    <episode-num system="dd_progid">ELLE_15_82</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180306010000 +0000" stop="20180306015900 +0000">
     <title>Ellen</title>
-    <episode-num system="dd_progid">ELLE_15_82</episode-num>
-    <subtitles type="teletext"/>
+    <episode-num system="dd_progid">165954E8236651</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -22841,16 +22841,16 @@
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180309070000 +0000" stop="20180309073000 +0000">
-    <title>American Restoration</title>
-    <episode-num system="dd_progid">quKfu3aIltaPmdaK</episode-num>
+    <title>Pawn Stars</title>
+    <episode-num system="dd_progid">uf9ouMeOltaPmdaO</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180309070000 +0000" stop="20180309073000 +0000">
-    <title>Pawn Stars</title>
-    <episode-num system="dd_progid">uf9ouMeOltaPmdaO</episode-num>
-    <subtitles type="teletext"/>
+    <title>American Restoration</title>
+    <episode-num system="dd_progid">quKfu3aIltaPmdaK</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>

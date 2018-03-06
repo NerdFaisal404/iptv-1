@@ -11825,15 +11825,15 @@
   </programme>
   <programme channel="tv.101204300430" start="20180306010000 +0000" stop="20180306015900 +0000">
     <title>Ellen</title>
-    <episode-num system="dd_progid">ELLE_15_82</episode-num>
-    <subtitles type="teletext"/>
+    <episode-num system="dd_progid">165954E8236651</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204300430" start="20180306010000 +0000" stop="20180306015900 +0000">
     <title>Ellen</title>
-    <episode-num system="dd_progid">165954E8236651</episode-num>
+    <episode-num system="dd_progid">ELLE_15_82</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -36253,17 +36253,17 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308110000 +0000">
-    <title>RocKwiz</title>
-    <episode-num system="dd_progid">632222</episode-num>
-    <subtitles type="teletext"/>
+  <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308105000 +0000">
+    <title>Noisey</title>
+    <episode-num system="dd_progid">835835</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308105000 +0000">
-    <title>Noisey</title>
-    <episode-num system="dd_progid">835835</episode-num>
+  <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308110000 +0000">
+    <title>RocKwiz</title>
+    <episode-num system="dd_progid">632222</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
