@@ -11792,16 +11792,16 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204000401" start="20180307020000 +0000" stop="20180307030000 +0000">
+  <programme channel="tv.101204000401" start="20180307020000 +0000" stop="20180307025900 +0000">
     <title>Ellen</title>
-    <episode-num system="dd_progid">ELLE_15_105</episode-num>
+    <episode-num system="dd_progid">ELLE_15_87</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204000401" start="20180307020000 +0000" stop="20180307025900 +0000">
+  <programme channel="tv.101204000401" start="20180307020000 +0000" stop="20180307030000 +0000">
     <title>Ellen</title>
-    <episode-num system="dd_progid">ELLE_15_87</episode-num>
+    <episode-num system="dd_progid">ELLE_15_105</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -24517,15 +24517,15 @@
     </rating>
   </programme>
   <programme channel="tv.101305040543" start="20180308193000 +0000" stop="20180308200000 +0000">
-    <title>American Restoration</title>
-    <episode-num system="dd_progid">quKfu3mSmdaPmtax</episode-num>
+    <title>Dream Car Garage</title>
+    <episode-num system="dd_progid">renbrNLPmdaKm6xx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305040543" start="20180308193000 +0000" stop="20180308200000 +0000">
-    <title>Dream Car Garage</title>
-    <episode-num system="dd_progid">renbrNLPmdaKm6xx</episode-num>
+    <title>American Restoration</title>
+    <episode-num system="dd_progid">quKfu3mSmdaPmtax</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -24666,16 +24666,16 @@
     </rating>
   </programme>
   <programme channel="tv.101305040543" start="20180309080000 +0000" stop="20180309083000 +0000">
-    <title>Pawn Stars</title>
-    <episode-num system="dd_progid">uf9ouMeOltaPmdaO</episode-num>
-    <subtitles type="teletext"/>
+    <title>American Restoration</title>
+    <episode-num system="dd_progid">quKfu3aIltaPmdaK</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305040543" start="20180309080000 +0000" stop="20180309083000 +0000">
-    <title>American Restoration</title>
-    <episode-num system="dd_progid">quKfu3aIltaPmdaK</episode-num>
+    <title>Pawn Stars</title>
+    <episode-num system="dd_progid">uf9ouMeOltaPmdaO</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>

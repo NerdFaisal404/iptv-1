@@ -39516,11 +39516,11 @@
     </rating>
   </programme>
   <programme channel="tv.41" start="20180309190000 +0000" stop="20180309193000 +0000">
-    <title>The Moe Show</title>
-    <desc>Moe is a friendly, furry monster who lives in their treehouse on top of Mt Moehau in the Coromandel. The Moe Show follows Moe as he explores New Zealand meeting new friends and making new discoveries</desc>
-    <episode-num system="dd_progid">TheMoeShow-Sat10Mar2018</episode-num>
+    <title>Rural Delivery</title>
+    <desc>Motor Trade Finance proudly brings you the places and faces behind New Zealand's agricultural sector. Made with funding from New Zealand On Air.</desc>
+    <episode-num system="dd_progid">RuralDelivery-511520622000</episode-num>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.41" start="20180309193000 +0000" stop="20180309200000 +0000">
@@ -40124,26 +40124,10 @@
     <desc>Show highlighting local tourism activities.</desc>
     <episode-num system="dd_progid">SouthernAttractions-Southern</episode-num>
   </programme>
-  <programme channel="tv.41" start="20180313030000 +0000" stop="20180313033000 +0000">
-    <title>World of Wildlife</title>
-    <desc>Wildlife documentary series by Sunset and Vine, using archive footage from differing companies and productions.</desc>
-    <episode-num system="dd_progid">WorldofWildlife-Tue13Mar2018</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.41" start="20180313033000 +0000" stop="20180313040000 +0000">
-    <title>Longfin</title>
-    <desc>Natural History Film-making Graduate Documentary.</desc>
-    <episode-num system="dd_progid">Longfin-511520911800</episode-num>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
-  </programme>
-  <programme channel="tv.41" start="20180313040000 +0000" stop="20180313043000 +0000">
-    <title>Euromaxx</title>
-    <desc>DWTV European and world news.</desc>
-    <episode-num system="dd_progid">Euromaxx-Tue13Mar2018</episode-num>
+  <programme channel="tv.41" start="20180313030000 +0000" stop="20180313043000 +0000">
+    <title>Gillions Rub of the Green</title>
+    <desc>Proudly brought to you by Gillions Funeral Services, we cover the Saturday morning Sevens and visit local bowls clubs around the city.</desc>
+    <episode-num system="dd_progid">GillionsRuboftheGreen-Week11</episode-num>
   </programme>
   <programme channel="tv.41" start="20180313043000 +0000" stop="20180313050000 +0000">
     <title>The South Today</title>
@@ -40360,12 +40344,20 @@
     <desc>Show highlighting local tourism activities.</desc>
     <episode-num system="dd_progid">SouthernAttractions-Southern</episode-num>
   </programme>
-  <programme channel="tv.41" start="20180314030000 +0000" stop="20180314040000 +0000">
+  <programme channel="tv.41" start="20180314030000 +0000" stop="20180314033000 +0000">
     <title>World of Wildlife</title>
     <desc>Wildlife documentary series by Sunset and Vine, using archive footage from differing companies and productions.</desc>
     <episode-num system="dd_progid">WorldofWildlife-Wed14Mar2018</episode-num>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.41" start="20180314033000 +0000" stop="20180314040000 +0000">
+    <title>Mystery Bird</title>
+    <desc>Natural History Film-making Graduate Documentary.</desc>
+    <episode-num system="dd_progid">MysteryBird-511520998200</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.41" start="20180314040000 +0000" stop="20180314043000 +0000">
@@ -40383,10 +40375,18 @@
     <desc>Show highlighting local tourism activities.</desc>
     <episode-num system="dd_progid">SouthernAttractions-Southern</episode-num>
   </programme>
-  <programme channel="tv.41" start="20180314060000 +0000" stop="20180314073000 +0000">
+  <programme channel="tv.41" start="20180314060000 +0000" stop="20180314063000 +0000">
     <title>The South Today</title>
     <desc>The Southern Regions news presented by Melissa Barton.</desc>
     <episode-num system="dd_progid">TheSouthToday-Wed14Mar2018</episode-num>
+  </programme>
+  <programme channel="tv.41" start="20180314063000 +0000" stop="20180314073000 +0000">
+    <title>Dennis and the Dictator</title>
+    <desc>DW Doco</desc>
+    <episode-num system="dd_progid">DennisandtheDictator-5115210</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.41" start="20180314073000 +0000" stop="20180314083000 +0000">
     <title>New Zealand Railscene</title>
@@ -40399,9 +40399,9 @@
     <episode-num system="dd_progid">TheSouthToday-Wed14Mar2018</episode-num>
   </programme>
   <programme channel="tv.41" start="20180314090000 +0000" stop="20180314093000 +0000">
-    <title>TNEWS</title>
-    <desc>A New Zealand Tongan community news programme.</desc>
-    <episode-num system="dd_progid">TNEWS-Week10</episode-num>
+    <title>Flying Through Time</title>
+    <desc>Everything you ever wanted to find out about the history of flight.</desc>
+    <episode-num system="dd_progid">FlyingThroughTime-Week11</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
