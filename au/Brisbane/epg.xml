@@ -23127,16 +23127,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040542" start="20180310083000 +0000" stop="20180310090000 +0000">
-    <title>M*A*S*H</title>
-    <episode-num system="dd_progid">tuftscLPmdaPm6xx</episode-num>
+  <programme channel="tv.101305040542" start="20180310083000 +0000" stop="20180310093200 +0000">
+    <title>Mighty Ships</title>
+    <episode-num system="dd_progid">tvrzuMaOltaPmdaJ</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040542" start="20180310083000 +0000" stop="20180310093200 +0000">
-    <title>Mighty Ships</title>
-    <episode-num system="dd_progid">tvrzuMaOltaPmdaJ</episode-num>
+  <programme channel="tv.101305040542" start="20180310083000 +0000" stop="20180310090000 +0000">
+    <title>M*A*S*H</title>
+    <episode-num system="dd_progid">tuftscLPmdaPm6xx</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -35942,17 +35942,17 @@
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180307090000 +0000" stop="20180307093000 +0000">
-    <title>Travel Man</title>
-    <episode-num system="dd_progid">897232</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000302" start="20180307090000 +0000" stop="20180307093000 +0000">
     <title>Gadget Man</title>
     <episode-num system="dd_progid">888563</episode-num>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180307090000 +0000" stop="20180307093000 +0000">
+    <title>Travel Man</title>
+    <episode-num system="dd_progid">897232</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180307093000 +0000" stop="20180307102500 +0000">
