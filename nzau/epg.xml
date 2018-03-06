@@ -4376,7 +4376,7 @@
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T806429</episode-num>
   </programme>
-  <programme channel="tv.11" start="20180306063000 +0000" stop="20180306080000 +0000">
+  <programme channel="tv.11" start="20180306063000 +0000" stop="20180306075500 +0000">
     <title>Married At First Sight Australia</title>
     <desc>New Episode. The challenges of the bride's homestay week hits home as Dean confesses to Tracey's parents, and Gabrielle and Nasser reach an impasse. S5 Ep19</desc>
     <episode-num system="dd_progid">T816145</episode-num>
@@ -4384,7 +4384,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180306080000 +0000" stop="20180306090000 +0000">
+  <programme channel="tv.11" start="20180306075500 +0000" stop="20180306085500 +0000">
     <title>SVU: Special Victims Unit</title>
     <desc>New Episode. An old kidnapping case is reopened when a young woman is found wandering in Central Park, and Carisi's conversation with a reporter lands him in hot water. S19 Ep5</desc>
     <episode-num system="dd_progid">T786970</episode-num>
@@ -4395,7 +4395,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180306090000 +0000" stop="20180306093000 +0000">
+  <programme channel="tv.11" start="20180306085500 +0000" stop="20180306092000 +0000">
     <title>Road Cops</title>
     <desc>The search is on for violent thieves, a bus driver is busted on the open highway, and one motorist gets angry at a roadside police stop. S4 Ep4</desc>
     <episode-num system="dd_progid">T504574</episode-num>
@@ -4403,12 +4403,12 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180306093000 +0000" stop="20180306100000 +0000">
+  <programme channel="tv.11" start="20180306092000 +0000" stop="20180306095500 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
     <episode-num system="dd_progid">T805532</episode-num>
   </programme>
-  <programme channel="tv.11" start="20180306100000 +0000" stop="20180306110000 +0000">
+  <programme channel="tv.11" start="20180306095500 +0000" stop="20180306105000 +0000">
     <title>The Blacklist</title>
     <desc>New Episode. Red assists the Task Force in tracking a mysterious Blacklister who carefully develops airtight alibis for murderous clients. S5 Ep14</desc>
     <episode-num system="dd_progid">T785688</episode-num>
@@ -4419,7 +4419,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180306110000 +0000" stop="20180306160000 +0000">
+  <programme channel="tv.11" start="20180306105000 +0000" stop="20180306160000 +0000">
     <title>Infomercials</title>
     <desc/>
     <episode-num system="dd_progid">T1</episode-num>
@@ -5599,6 +5599,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817013</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180306063000 +0000" stop="20180306073000 +0000">
     <title>Tabatha's Salon Takeover</title>
@@ -5628,6 +5631,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817013</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180306094000 +0000" stop="20180306103000 +0000">
     <title>Intervention</title>
@@ -5672,6 +5678,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817013</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180306215500 +0000" stop="20180306225000 +0000">
     <title>David Tutera: CELEBrations</title>
@@ -5693,6 +5702,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817013</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180306234500 +0000" stop="20180307004000 +0000">
     <title>The Real Housewives Of New York City</title>
@@ -5714,6 +5726,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817013</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180307013500 +0000" stop="20180307024000 +0000">
     <title>The Real Housewives Of Melbourne</title>
@@ -5775,6 +5790,9 @@
     <title>The Real Housewives Of Beverly Hills</title>
     <desc>Erika is surprised by her own emotions as her Hollywood journey comes full circle. The women attend Camille's charity event, where Teddi's motives are brought into question.</desc>
     <episode-num system="dd_progid">T790679</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180307083000 +0000" stop="20180307092800 +0000">
     <title>Vanderpump Rules</title>
@@ -5788,6 +5806,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817013</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180307093000 +0000" stop="20180307102000 +0000">
     <title>Intervention</title>
@@ -5848,6 +5869,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817013</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180307225500 +0000" stop="20180307234500 +0000">
     <title>Snapped</title>
@@ -5869,6 +5893,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817013</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180308004500 +0000" stop="20180308014000 +0000">
     <title>Vanderpump Rules</title>
@@ -5882,11 +5909,17 @@
     <title>The Real Housewives Of Beverly Hills</title>
     <desc>Erika is surprised by her own emotions as her Hollywood journey comes full circle. The women attend Camille's charity event, where Teddi's motives are brought into question.</desc>
     <episode-num system="dd_progid">T790679</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180308023800 +0000" stop="20180308024000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817013</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180308024000 +0000" stop="20180308033500 +0000">
     <title>How Do I Look?</title>
@@ -5932,6 +5965,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817013</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180308063000 +0000" stop="20180308073000 +0000">
     <title>Snapped</title>
@@ -12692,7 +12728,7 @@
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T806429</episode-num>
   </programme>
-  <programme channel="tv.27" start="20180306073000 +0000" stop="20180306090000 +0000">
+  <programme channel="tv.27" start="20180306073000 +0000" stop="20180306085500 +0000">
     <title>Married At First Sight Australia</title>
     <desc>New Episode. The challenges of the bride's homestay week hits home as Dean confesses to Tracey's parents, and Gabrielle and Nasser reach an impasse. S5 Ep19</desc>
     <episode-num system="dd_progid">T816145</episode-num>
@@ -12700,7 +12736,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180306090000 +0000" stop="20180306100000 +0000">
+  <programme channel="tv.27" start="20180306085500 +0000" stop="20180306095500 +0000">
     <title>SVU: Special Victims Unit</title>
     <desc>New Episode. An old kidnapping case is reopened when a young woman is found wandering in Central Park, and Carisi's conversation with a reporter lands him in hot water. S19 Ep5</desc>
     <episode-num system="dd_progid">T786970</episode-num>
@@ -12708,7 +12744,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180306100000 +0000" stop="20180306103000 +0000">
+  <programme channel="tv.27" start="20180306095500 +0000" stop="20180306102000 +0000">
     <title>Road Cops</title>
     <desc>The search is on for violent thieves, a bus driver is busted on the open highway, and one motorist gets angry at a roadside police stop. S4 Ep4</desc>
     <episode-num system="dd_progid">T504574</episode-num>
@@ -12716,12 +12752,12 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180306103000 +0000" stop="20180306110000 +0000">
+  <programme channel="tv.27" start="20180306102000 +0000" stop="20180306105500 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
     <episode-num system="dd_progid">T805532</episode-num>
   </programme>
-  <programme channel="tv.27" start="20180306110000 +0000" stop="20180306120000 +0000">
+  <programme channel="tv.27" start="20180306105500 +0000" stop="20180306115000 +0000">
     <title>The Blacklist</title>
     <desc>New Episode. Red assists the Task Force in tracking a mysterious Blacklister who carefully develops airtight alibis for murderous clients. S5 Ep14</desc>
     <episode-num system="dd_progid">T785688</episode-num>
@@ -12729,7 +12765,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180306120000 +0000" stop="20180306170000 +0000">
+  <programme channel="tv.27" start="20180306115000 +0000" stop="20180306170000 +0000">
     <title>Infomercials</title>
     <desc/>
     <episode-num system="dd_progid">T1</episode-num>
@@ -13870,6 +13906,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817013</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180306073000 +0000" stop="20180306083000 +0000">
     <title>Tabatha's Salon Takeover</title>
@@ -13899,6 +13938,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817013</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180306104000 +0000" stop="20180306113000 +0000">
     <title>Intervention</title>
@@ -13943,6 +13985,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817013</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180306225500 +0000" stop="20180306235000 +0000">
     <title>David Tutera: CELEBrations</title>
@@ -13964,6 +14009,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817013</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180307004500 +0000" stop="20180307014000 +0000">
     <title>The Real Housewives Of New York City</title>
@@ -13985,6 +14033,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817013</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180307023500 +0000" stop="20180307034000 +0000">
     <title>The Real Housewives Of Melbourne</title>
@@ -14046,6 +14097,9 @@
     <title>The Real Housewives Of Beverly Hills</title>
     <desc>Erika is surprised by her own emotions as her Hollywood journey comes full circle. The women attend Camille's charity event, where Teddi's motives are brought into question.</desc>
     <episode-num system="dd_progid">T790679</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180307093000 +0000" stop="20180307102800 +0000">
     <title>Vanderpump Rules</title>
@@ -14059,6 +14113,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817013</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180307103000 +0000" stop="20180307112000 +0000">
     <title>Intervention</title>
@@ -14119,6 +14176,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817013</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180307235500 +0000" stop="20180308004500 +0000">
     <title>Snapped</title>
@@ -14140,6 +14200,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817013</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180308014500 +0000" stop="20180308024000 +0000">
     <title>Vanderpump Rules</title>
@@ -14153,11 +14216,17 @@
     <title>The Real Housewives Of Beverly Hills</title>
     <desc>Erika is surprised by her own emotions as her Hollywood journey comes full circle. The women attend Camille's charity event, where Teddi's motives are brought into question.</desc>
     <episode-num system="dd_progid">T790679</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180308033800 +0000" stop="20180308034000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817013</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180308034000 +0000" stop="20180308043500 +0000">
     <title>How Do I Look?</title>
@@ -14203,6 +14272,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817013</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180308073000 +0000" stop="20180308083000 +0000">
     <title>Snapped</title>
@@ -62408,17 +62480,17 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20180311080000 +0000" stop="20180311093700 +0000">
-    <title>Australian Spartan</title>
-    <episode-num system="dd_progid">uKbbu3aOltaPmdaM</episode-num>
+  <programme channel="tv.101305020520" start="20180311080000 +0000" stop="20180311093000 +0000">
+    <title>My Kitchen Rules</title>
+    <episode-num system="dd_progid">tv1lu3aGltaPmdiJ</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20180311080000 +0000" stop="20180311093000 +0000">
-    <title>My Kitchen Rules</title>
-    <episode-num system="dd_progid">tv1lu3aGltaPmdiJ</episode-num>
+  <programme channel="tv.101305020520" start="20180311080000 +0000" stop="20180311093700 +0000">
+    <title>Australian Spartan</title>
+    <episode-num system="dd_progid">uKbbu3aOltaPmdaM</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -65686,16 +65758,16 @@
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180309070000 +0000" stop="20180309073000 +0000">
-    <title>American Restoration</title>
-    <episode-num system="dd_progid">quKfu3aIltaPmdaK</episode-num>
+    <title>Pawn Stars</title>
+    <episode-num system="dd_progid">uf9ouMeOltaPmdaO</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180309070000 +0000" stop="20180309073000 +0000">
-    <title>Pawn Stars</title>
-    <episode-num system="dd_progid">uf9ouMeOltaPmdaO</episode-num>
-    <subtitles type="teletext"/>
+    <title>American Restoration</title>
+    <episode-num system="dd_progid">quKfu3aIltaPmdaK</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -68087,14 +68159,14 @@
   </programme>
   <programme channel="tv.101305020525" start="20180312093000 +0000" stop="20180312095800 +0000">
     <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKzttiSmdaPmdmx</episode-num>
+    <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180312093000 +0000" stop="20180312095800 +0000">
     <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
+    <episode-num system="dd_progid">seKzttiSmdaPmdmx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -68122,14 +68194,14 @@
   </programme>
   <programme channel="tv.101305020525" start="20180312112500 +0000" stop="20180312115400 +0000">
     <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
+    <episode-num system="dd_progid">seKzttiSmdaPmdmx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180312112500 +0000" stop="20180312115400 +0000">
     <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKzttiSmdaPmdmx</episode-num>
+    <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -79068,17 +79140,17 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308110000 +0000">
-    <title>RocKwiz</title>
-    <episode-num system="dd_progid">632222</episode-num>
-    <subtitles type="teletext"/>
+  <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308105000 +0000">
+    <title>Noisey</title>
+    <episode-num system="dd_progid">835835</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308105000 +0000">
-    <title>Noisey</title>
-    <episode-num system="dd_progid">835835</episode-num>
+  <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308110000 +0000">
+    <title>RocKwiz</title>
+    <episode-num system="dd_progid">632222</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
