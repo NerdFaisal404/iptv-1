@@ -15883,10 +15883,10 @@
   </programme>
   <programme channel="tv.28" start="20180310030000 +0000" stop="20180310033000 +0000">
     <title>Storage Wars</title>
-    <desc>'Barry Strikes Back: Barry Weiss and his cohort, Kenny, share behind-the-scenes moments and commentary from their favourite episodes of the Storage Wars series. (PGR) (R)'</desc>
+    <desc>'Barry Strikes Back: Barry Weiss and his cohort, Kenny, share behind-the-scenes moments and commentary from their favourite episodes of the Storage Wars series. G (R)'</desc>
     <episode-num system="dd_progid">SNZ10677033</episode-num>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.28" start="20180310033000 +0000" stop="20180310040000 +0000">
@@ -15988,6 +15988,9 @@
     <title>Faith In Action</title>
     <desc>Religious programme. G</desc>
     <episode-num system="dd_progid">SNZ11098880</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180310183000 +0000" stop="20180310193000 +0000">
     <title>Hour of Power</title>
