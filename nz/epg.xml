@@ -16000,13 +16000,18 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.28" start="20180310030000 +0000" stop="20180310040000 +0000">
-    <title>Celebrity Antiques Road Trip</title>
-    <desc>Comedians Miles Jupp and Nina Wadia team up with antiques experts Thomas Plant and Catherine Southon on a trip around Berkshire and Buckinghamshire in search of profitable antiques. G</desc>
-    <episode-num system="dd_progid">SNZ10976687</episode-num>
+  <programme channel="tv.28" start="20180310030000 +0000" stop="20180310033000 +0000">
+    <title>Storage Wars</title>
+    <desc>'Barry Strikes Back: Barry Weiss and his cohort, Kenny, share behind-the-scenes moments and commentary from their favourite episodes of the Storage Wars series. (PGR) (R)'</desc>
+    <episode-num system="dd_progid">SNZ10677033</episode-num>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
+  </programme>
+  <programme channel="tv.28" start="20180310033000 +0000" stop="20180310040000 +0000">
+    <title>Horse Racing: New Zealand Stakes LIVE</title>
+    <desc>Head live to Barfoot &amp; Thompson Auckland Cup Day at Ellerslie Racecourse for the excitement of the Bonecrusher New Zealand Stakes. Catch the action as the Group One thoroughbreds go head-to-head.</desc>
+    <episode-num system="dd_progid">SNZ11038501</episode-num>
   </programme>
   <programme channel="tv.28" start="20180310040000 +0000" stop="20180310043000 +0000">
     <title>ITM Fishing Classics</title>
@@ -16093,37 +16098,40 @@
   <programme channel="tv.28" start="20180310173000 +0000" stop="20180310180000 +0000">
     <title>Peter Popoff Ministries</title>
     <desc>Religious programme. G</desc>
-    <episode-num system="dd_progid">SNZ37335236</episode-num>
+    <episode-num system="dd_progid">SNZ11050021</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180310180000 +0000" stop="20180310183000 +0000">
     <title>Faith In Action</title>
     <desc>Religious programme. G</desc>
-    <episode-num system="dd_progid">SNZ37335241</episode-num>
+    <episode-num system="dd_progid">SNZ11098880</episode-num>
   </programme>
   <programme channel="tv.28" start="20180310183000 +0000" stop="20180310193000 +0000">
     <title>Hour of Power</title>
     <desc>Religious programme. G</desc>
-    <episode-num system="dd_progid">SNZ37335246</episode-num>
+    <episode-num system="dd_progid">SNZ11098820</episode-num>
   </programme>
   <programme channel="tv.28" start="20180310193000 +0000" stop="20180310200000 +0000">
     <title>Beyond Today</title>
     <desc>Religious programme. G</desc>
-    <episode-num system="dd_progid">SNZ37335251</episode-num>
+    <episode-num system="dd_progid">SNZ11099091</episode-num>
   </programme>
   <programme channel="tv.28" start="20180310200000 +0000" stop="20180310203000 +0000">
     <title>Impact For Life</title>
     <desc>Religious programme. G</desc>
-    <episode-num system="dd_progid">SNZ37335256</episode-num>
+    <episode-num system="dd_progid">SNZ11098967</episode-num>
   </programme>
   <programme channel="tv.28" start="20180310203000 +0000" stop="20180310210000 +0000">
     <title>Life TV</title>
     <desc>Religious programme. G</desc>
-    <episode-num system="dd_progid">SNZ37335261</episode-num>
+    <episode-num system="dd_progid">SNZ11099039</episode-num>
   </programme>
   <programme channel="tv.28" start="20180310210000 +0000" stop="20180310213000 +0000">
     <title>Running With Fire</title>
     <desc>Religious programme. G</desc>
-    <episode-num system="dd_progid">SNZ37335266</episode-num>
+    <episode-num system="dd_progid">SNZ11099143</episode-num>
   </programme>
   <programme channel="tv.28" start="20180310213000 +0000" stop="20180310230000 +0000">
     <title>Sport Box</title>
