@@ -10395,19 +10395,19 @@
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180309164500 +0000" stop="20180309171500 +0000">
-    <title>Extra</title>
-    <episode-num system="dd_progid">EXTR_24_128</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204600461" start="20180309164500 +0000" stop="20180309171500 +0000">
     <title>Movie Juice</title>
     <episode-num system="dd_progid">MOJU_1_17</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600461" start="20180309164500 +0000" stop="20180309171500 +0000">
+    <title>Extra</title>
+    <episode-num system="dd_progid">EXTR_24_128</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180309171500 +0000" stop="20180309172500 +0000">
@@ -19819,17 +19819,17 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060560" start="20180311110000 +0000" stop="20180311123700 +0000">
-    <title>Australian Spartan</title>
-    <episode-num system="dd_progid">uKbbu3aOltaPmdaM</episode-num>
+  <programme channel="tv.101305060560" start="20180311110000 +0000" stop="20180311123000 +0000">
+    <title>My Kitchen Rules</title>
+    <episode-num system="dd_progid">tv1lu3aGltaPmdiJ</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060560" start="20180311110000 +0000" stop="20180311123000 +0000">
-    <title>My Kitchen Rules</title>
-    <episode-num system="dd_progid">tv1lu3aGltaPmdiJ</episode-num>
+  <programme channel="tv.101305060560" start="20180311110000 +0000" stop="20180311123700 +0000">
+    <title>Australian Spartan</title>
+    <episode-num system="dd_progid">uKbbu3aOltaPmdaM</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -22926,15 +22926,15 @@
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20180308213000 +0000" stop="20180308220000 +0000">
-    <title>American Restoration</title>
-    <episode-num system="dd_progid">quKfu3mSmdaPmtax</episode-num>
+    <title>Dream Car Garage</title>
+    <episode-num system="dd_progid">renbrNLPmdaKm6xx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20180308213000 +0000" stop="20180308220000 +0000">
-    <title>Dream Car Garage</title>
-    <episode-num system="dd_progid">renbrNLPmdaKm6xx</episode-num>
+    <title>American Restoration</title>
+    <episode-num system="dd_progid">quKfu3mSmdaPmtax</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -36114,17 +36114,17 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308105000 +0000">
-    <title>Noisey</title>
-    <episode-num system="dd_progid">835835</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308110000 +0000">
     <title>RocKwiz</title>
     <episode-num system="dd_progid">632222</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308105000 +0000">
+    <title>Noisey</title>
+    <episode-num system="dd_progid">835835</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
