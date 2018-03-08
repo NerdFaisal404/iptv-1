@@ -26670,6 +26670,13 @@
   </programme>
   <programme channel="tv.101305050555" start="20180312100000 +0000" stop="20180312102800 +0000">
     <title>How I Met Your Mother</title>
+    <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050555" start="20180312100000 +0000" stop="20180312102800 +0000">
+    <title>How I Met Your Mother</title>
     <episode-num system="dd_progid">seKzttiSmdaPmdmx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
@@ -26678,13 +26685,6 @@
   <programme channel="tv.101305050555" start="20180312100000 +0000" stop="20180312103000 +0000">
     <title>To Be Advised</title>
     <episode-num system="dd_progid">150794E23423</episode-num>
-  </programme>
-  <programme channel="tv.101305050555" start="20180312100000 +0000" stop="20180312102800 +0000">
-    <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
   </programme>
   <programme channel="tv.101305050555" start="20180312102800 +0000" stop="20180312105700 +0000">
     <title>How I Met Your Mother</title>
@@ -26717,14 +26717,14 @@
   </programme>
   <programme channel="tv.101305050555" start="20180312115500 +0000" stop="20180312122400 +0000">
     <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
+    <episode-num system="dd_progid">seKzttiSmdaPmdmx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305050555" start="20180312115500 +0000" stop="20180312122400 +0000">
     <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKzttiSmdaPmdmx</episode-num>
+    <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
