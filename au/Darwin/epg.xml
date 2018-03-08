@@ -21119,17 +21119,17 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050550" start="20180311083000 +0000" stop="20180311100700 +0000">
-    <title>Australian Spartan</title>
-    <episode-num system="dd_progid">uKbbu3aOltaPmdaM</episode-num>
+  <programme channel="tv.101305050550" start="20180311083000 +0000" stop="20180311100000 +0000">
+    <title>My Kitchen Rules</title>
+    <episode-num system="dd_progid">tv1lu3aGltaPmdiJ</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050550" start="20180311083000 +0000" stop="20180311100000 +0000">
-    <title>My Kitchen Rules</title>
-    <episode-num system="dd_progid">tv1lu3aGltaPmdiJ</episode-num>
+  <programme channel="tv.101305050550" start="20180311083000 +0000" stop="20180311100700 +0000">
+    <title>Australian Spartan</title>
+    <episode-num system="dd_progid">uKbbu3aOltaPmdaM</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -25128,17 +25128,17 @@
     </rating>
   </programme>
   <programme channel="tv.101305050553" start="20180313190000 +0000" stop="20180313193000 +0000">
-    <title>Counting Cars</title>
-    <episode-num system="dd_progid">qLnbu3aNltaPmdeH</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305050553" start="20180313190000 +0000" stop="20180313193000 +0000">
     <title>Bar Hunters</title>
     <episode-num system="dd_progid">q2fssdaOltaPmdaM</episode-num>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050553" start="20180313190000 +0000" stop="20180313193000 +0000">
+    <title>Counting Cars</title>
+    <episode-num system="dd_progid">qLnbu3aNltaPmdeH</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305050553" start="20180313193000 +0000" stop="20180313200000 +0000">
@@ -26597,6 +26597,13 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101305050555" start="20180312100000 +0000" stop="20180312102800 +0000">
+    <title>How I Met Your Mother</title>
+    <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305050555" start="20180312100000 +0000" stop="20180312103000 +0000">
     <title>To Be Advised</title>
     <episode-num system="dd_progid">150794E23423</episode-num>
@@ -26604,13 +26611,6 @@
   <programme channel="tv.101305050555" start="20180312100000 +0000" stop="20180312102800 +0000">
     <title>How I Met Your Mother</title>
     <episode-num system="dd_progid">seKzttiSmdaPmdmx</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305050555" start="20180312100000 +0000" stop="20180312102800 +0000">
-    <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
