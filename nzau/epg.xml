@@ -43650,7 +43650,7 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180308100000 +0000" stop="20180308104400 +0000">
-    <title>Matter Of Fact With Stan Grant</title>
+    <title>Matter of Fact With Stan Grant</title>
     <episode-num system="dd_progid">NC1805H029S00</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -43658,7 +43658,7 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180308100000 +0000" stop="20180308104400 +0000">
-    <title>Matter of Fact With Stan Grant</title>
+    <title>Matter Of Fact With Stan Grant</title>
     <episode-num system="dd_progid">NC1805H029S00</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -43712,7 +43712,7 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180308141500 +0000" stop="20180308150000 +0000">
-    <title>Matter Of Fact With Stan Grant</title>
+    <title>Matter of Fact With Stan Grant</title>
     <episode-num system="dd_progid">NC1805H029S00</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -43720,7 +43720,7 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20180308141500 +0000" stop="20180308150000 +0000">
-    <title>Matter of Fact With Stan Grant</title>
+    <title>Matter Of Fact With Stan Grant</title>
     <episode-num system="dd_progid">NC1805H029S00</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -66923,17 +66923,17 @@
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180313183000 +0000" stop="20180313190000 +0000">
-    <title>Counting Cars</title>
-    <episode-num system="dd_progid">qLnbu3aNltaPmdeH</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020523" start="20180313183000 +0000" stop="20180313190000 +0000">
     <title>Bar Hunters</title>
     <episode-num system="dd_progid">q2fssdaOltaPmdaM</episode-num>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020523" start="20180313183000 +0000" stop="20180313190000 +0000">
+    <title>Counting Cars</title>
+    <episode-num system="dd_progid">qLnbu3aNltaPmdeH</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180313190000 +0000" stop="20180313193000 +0000">
@@ -67356,16 +67356,16 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180315120300 +0000" stop="20180315125900 +0000">
-    <title>Ice Road Truckers</title>
-    <episode-num system="dd_progid">sunfu3aHltaPmdaN</episode-num>
+  <programme channel="tv.101305020523" start="20180315120300 +0000" stop="20180315130000 +0000">
+    <title>Graveyard Carz</title>
+    <episode-num system="dd_progid">rKjbqMaLltaPmdaL</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180315120300 +0000" stop="20180315130000 +0000">
-    <title>Graveyard Carz</title>
-    <episode-num system="dd_progid">rKjbqMaLltaPmdaL</episode-num>
+  <programme channel="tv.101305020523" start="20180315120300 +0000" stop="20180315125900 +0000">
+    <title>Ice Road Truckers</title>
+    <episode-num system="dd_progid">sunfu3aHltaPmdaN</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -68442,6 +68442,13 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020525" start="20180312093000 +0000" stop="20180312095800 +0000">
+    <title>How I Met Your Mother</title>
+    <episode-num system="dd_progid">seKzttiSmdaPmdmx</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020525" start="20180312093000 +0000" stop="20180312100000 +0000">
     <title>To Be Advised</title>
     <episode-num system="dd_progid">150794E23423</episode-num>
@@ -68449,13 +68456,6 @@
   <programme channel="tv.101305020525" start="20180312093000 +0000" stop="20180312095800 +0000">
     <title>How I Met Your Mother</title>
     <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020525" start="20180312093000 +0000" stop="20180312095800 +0000">
-    <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKzttiSmdaPmdmx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -79482,17 +79482,17 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308105000 +0000">
-    <title>Noisey</title>
-    <episode-num system="dd_progid">835835</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308110000 +0000">
     <title>RocKwiz</title>
     <episode-num system="dd_progid">632222</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308105000 +0000">
+    <title>Noisey</title>
+    <episode-num system="dd_progid">835835</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
