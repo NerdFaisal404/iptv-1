@@ -12426,14 +12426,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204000401" start="20180311073000 +0000" stop="20180311080000 +0000">
-    <title>QLD Icons</title>
+    <title>Icons: World Expo 88</title>
     <episode-num system="dd_progid">EX88__1</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204000401" start="20180311073000 +0000" stop="20180311080000 +0000">
-    <title>Icons: World Expo 88</title>
+    <title>QLD Icons</title>
     <episode-num system="dd_progid">EX88__1</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -21533,17 +21533,17 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040540" start="20180311090000 +0000" stop="20180311103700 +0000">
-    <title>Australian Spartan</title>
-    <episode-num system="dd_progid">uKbbu3aOltaPmdaM</episode-num>
+  <programme channel="tv.101305040540" start="20180311090000 +0000" stop="20180311103000 +0000">
+    <title>My Kitchen Rules</title>
+    <episode-num system="dd_progid">tv1lu3aGltaPmdiJ</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040540" start="20180311090000 +0000" stop="20180311103000 +0000">
-    <title>My Kitchen Rules</title>
-    <episode-num system="dd_progid">tv1lu3aGltaPmdiJ</episode-num>
+  <programme channel="tv.101305040540" start="20180311090000 +0000" stop="20180311103700 +0000">
+    <title>Australian Spartan</title>
+    <episode-num system="dd_progid">uKbbu3aOltaPmdaM</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -24624,15 +24624,15 @@
     </rating>
   </programme>
   <programme channel="tv.101305040543" start="20180308193000 +0000" stop="20180308200000 +0000">
-    <title>Dream Car Garage</title>
-    <episode-num system="dd_progid">renbrNLPmdaKm6xx</episode-num>
+    <title>American Restoration</title>
+    <episode-num system="dd_progid">quKfu3mSmdaPmtax</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305040543" start="20180308193000 +0000" stop="20180308200000 +0000">
-    <title>American Restoration</title>
-    <episode-num system="dd_progid">quKfu3mSmdaPmtax</episode-num>
+    <title>Dream Car Garage</title>
+    <episode-num system="dd_progid">renbrNLPmdaKm6xx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -26103,16 +26103,16 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040543" start="20180315130300 +0000" stop="20180315140000 +0000">
-    <title>Graveyard Carz</title>
-    <episode-num system="dd_progid">rKjbqMaLltaPmdaL</episode-num>
+  <programme channel="tv.101305040543" start="20180315130300 +0000" stop="20180315135900 +0000">
+    <title>Ice Road Truckers</title>
+    <episode-num system="dd_progid">sunfu3aHltaPmdaN</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040543" start="20180315130300 +0000" stop="20180315135900 +0000">
-    <title>Ice Road Truckers</title>
-    <episode-num system="dd_progid">sunfu3aHltaPmdaN</episode-num>
+  <programme channel="tv.101305040543" start="20180315130300 +0000" stop="20180315140000 +0000">
+    <title>Graveyard Carz</title>
+    <episode-num system="dd_progid">rKjbqMaLltaPmdaL</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -27189,6 +27189,13 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101305040545" start="20180312103000 +0000" stop="20180312105800 +0000">
+    <title>How I Met Your Mother</title>
+    <episode-num system="dd_progid">seKzttiSmdaPmdmx</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305040545" start="20180312103000 +0000" stop="20180312110000 +0000">
     <title>To Be Advised</title>
     <episode-num system="dd_progid">150794E23423</episode-num>
@@ -27196,13 +27203,6 @@
   <programme channel="tv.101305040545" start="20180312103000 +0000" stop="20180312105800 +0000">
     <title>How I Met Your Mother</title>
     <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305040545" start="20180312103000 +0000" stop="20180312105800 +0000">
-    <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKzttiSmdaPmdmx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -36139,17 +36139,17 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308105000 +0000">
-    <title>Noisey</title>
-    <episode-num system="dd_progid">835835</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308110000 +0000">
     <title>RocKwiz</title>
     <episode-num system="dd_progid">632222</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180308100000 +0000" stop="20180308105000 +0000">
+    <title>Noisey</title>
+    <episode-num system="dd_progid">835835</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
