@@ -395,7 +395,7 @@
   </programme>
   <programme channel="tv.9" start="20180309203000 +0000" stop="20180309210000 +0000">
     <title>Tagata Pasifika</title>
-    <desc>Tagata Pasifika is TVNZ's flagship Pacific news show, telling the stories of Pacific Islanders and its community.</desc>
+    <desc>Our first show back for 2018! Pacific News; Jacinda Ardern in the Pacific; the US Congresswoman from American Samoa; singer Noah Slee and boxer Frank Masoe.</desc>
     <episode-num system="dd_progid">10506769</episode-num>
   </programme>
   <programme channel="tv.9" start="20180309210000 +0000" stop="20180309215500 +0000">
@@ -568,7 +568,7 @@
   </programme>
   <programme channel="tv.9" start="20180310184000 +0000" stop="20180310190500 +0000">
     <title>Tagata Pasifika</title>
-    <desc>Tagata Pasifika is TVNZ's flagship Pacific news show, telling the stories of Pacific Islanders and its community.</desc>
+    <desc>Our first show back for 2018! Pacific News; Jacinda Ardern in the Pacific; the US Congresswoman from American Samoa; singer Noah Slee and boxer Frank Masoe.</desc>
     <episode-num system="dd_progid">10506769</episode-num>
   </programme>
   <programme channel="tv.9" start="20180310190500 +0000" stop="20180310193500 +0000">
@@ -1249,7 +1249,7 @@
   </programme>
   <programme channel="tv.9" start="20180314200000 +0000" stop="20180314210000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Bill Hader and Auli'i Cravalho.</desc>
     <episode-num system="dd_progid">10491802</episode-num>
   </programme>
   <programme channel="tv.9" start="20180314210000 +0000" stop="20180314213000 +0000">
@@ -1299,7 +1299,7 @@
   </programme>
   <programme channel="tv.9" start="20180315010000 +0000" stop="20180315015500 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Bill Hader and Auli'i Cravalho.</desc>
     <episode-num system="dd_progid">10491802</episode-num>
   </programme>
   <programme channel="tv.9" start="20180315015500 +0000" stop="20180315025500 +0000">
@@ -1420,7 +1420,7 @@
   </programme>
   <programme channel="tv.9" start="20180315200000 +0000" stop="20180315210000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Dana Carvey, Ronda Rousey and 21 Savage.</desc>
     <episode-num system="dd_progid">10491803</episode-num>
   </programme>
   <programme channel="tv.9" start="20180315210000 +0000" stop="20180315213000 +0000">
@@ -1470,7 +1470,7 @@
   </programme>
   <programme channel="tv.9" start="20180316010000 +0000" stop="20180316015500 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Dana Carvey, Ronda Rousey and 21 Savage.</desc>
     <episode-num system="dd_progid">10491803</episode-num>
   </programme>
   <programme channel="tv.9" start="20180316015500 +0000" stop="20180316025500 +0000">
@@ -1517,7 +1517,7 @@
     <desc>In a twist, the diners will be scoring the cooks individually so "nobody can hide behind their team" - the game is on!</desc>
     <episode-num system="dd_progid">10504579</episode-num>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.9" start="20180316074000 +0000" stop="20180316084500 +0000">
@@ -2162,6 +2162,9 @@
     <title>Movie Juice</title>
     <desc>Head over to LA for the premiere of ‘A Wrinkle In Time’, Chris Hemsworth gives us all the details on his new role in ‘12 Strong’ plus Colin Firth and Rachel Weisz on the true-story film ‘The Mercy’.</desc>
     <episode-num system="dd_progid">10502381</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180310033000 +0000" stop="20180310050000 +0000">
     <title>Australian Spartan</title>
@@ -2712,6 +2715,9 @@
     <title>Fanimals</title>
     <desc>New: Fanimals is the cutest show on TV2! Join host Jess, ‘Ask Me Anything Vet’ Stacey Tremain (Vet Tales, Kiwi Living) and our Fanimals family every weekday for all you need to know about animals.</desc>
     <episode-num system="dd_progid">10513026</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180312033000 +0000" stop="20180312040000 +0000">
     <title>Friends</title>
@@ -3779,6 +3785,9 @@
     <title>I'm A Celebrity Get Me Out Of Here Austr</title>
     <desc>Celebrities are dropped into the heart of a remote jungle and put through excruciating challenges and emotional turmoil in this gripping, hilarious and shocking reality show.</desc>
     <episode-num system="dd_progid">10498895</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180315094000 +0000" stop="20180315101000 +0000">
     <title>Two And A Half Men</title>
@@ -3802,7 +3811,7 @@
     </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20180315113000 +0000" stop="20180315122000 +0000">
@@ -4046,6 +4055,9 @@
     <title>Home And Away</title>
     <desc>Ben pressures Ziggy to hide his secret from Maggie; Will Hunter put the brakes on with Jennifer? Mason grows closer to Jasmine; Coco surprises Ryder with a kiss.</desc>
     <episode-num system="dd_progid">10487152</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180316050000 +0000" stop="20180316053000 +0000">
     <title>The Big Bang Theory</title>
@@ -9007,7 +9019,7 @@
   </programme>
   <programme channel="tv.38" start="20180309213000 +0000" stop="20180309220000 +0000">
     <title>Tagata Pasifika</title>
-    <desc>Tagata Pasifika is TVNZ's flagship Pacific news show, telling the stories of Pacific Islanders and its community.</desc>
+    <desc>Our first show back for 2018! Pacific News; Jacinda Ardern in the Pacific; the US Congresswoman from American Samoa; singer Noah Slee and boxer Frank Masoe.</desc>
     <episode-num system="dd_progid">10506769</episode-num>
   </programme>
   <programme channel="tv.38" start="20180309220000 +0000" stop="20180309225500 +0000">
@@ -9180,7 +9192,7 @@
   </programme>
   <programme channel="tv.38" start="20180310194000 +0000" stop="20180310200500 +0000">
     <title>Tagata Pasifika</title>
-    <desc>Tagata Pasifika is TVNZ's flagship Pacific news show, telling the stories of Pacific Islanders and its community.</desc>
+    <desc>Our first show back for 2018! Pacific News; Jacinda Ardern in the Pacific; the US Congresswoman from American Samoa; singer Noah Slee and boxer Frank Masoe.</desc>
     <episode-num system="dd_progid">10506769</episode-num>
   </programme>
   <programme channel="tv.38" start="20180310200500 +0000" stop="20180310203500 +0000">
@@ -9861,7 +9873,7 @@
   </programme>
   <programme channel="tv.38" start="20180314210000 +0000" stop="20180314220000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Bill Hader and Auli'i Cravalho.</desc>
     <episode-num system="dd_progid">10491802</episode-num>
   </programme>
   <programme channel="tv.38" start="20180314220000 +0000" stop="20180314223000 +0000">
@@ -9911,7 +9923,7 @@
   </programme>
   <programme channel="tv.38" start="20180315020000 +0000" stop="20180315025500 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Bill Hader and Auli'i Cravalho.</desc>
     <episode-num system="dd_progid">10491802</episode-num>
   </programme>
   <programme channel="tv.38" start="20180315025500 +0000" stop="20180315035500 +0000">
@@ -10032,7 +10044,7 @@
   </programme>
   <programme channel="tv.38" start="20180315210000 +0000" stop="20180315220000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Dana Carvey, Ronda Rousey and 21 Savage.</desc>
     <episode-num system="dd_progid">10491803</episode-num>
   </programme>
   <programme channel="tv.38" start="20180315220000 +0000" stop="20180315223000 +0000">
@@ -10082,7 +10094,7 @@
   </programme>
   <programme channel="tv.38" start="20180316020000 +0000" stop="20180316025500 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Dana Carvey, Ronda Rousey and 21 Savage.</desc>
     <episode-num system="dd_progid">10491803</episode-num>
   </programme>
   <programme channel="tv.38" start="20180316025500 +0000" stop="20180316035500 +0000">
@@ -10129,7 +10141,7 @@
     <desc>In a twist, the diners will be scoring the cooks individually so "nobody can hide behind their team" - the game is on!</desc>
     <episode-num system="dd_progid">10504579</episode-num>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.38" start="20180316084000 +0000" stop="20180316094500 +0000">
@@ -10700,6 +10712,9 @@
     <title>Movie Juice</title>
     <desc>Head over to LA for the premiere of ‘A Wrinkle In Time’, Chris Hemsworth gives us all the details on his new role in ‘12 Strong’ plus Colin Firth and Rachel Weisz on the true-story film ‘The Mercy’.</desc>
     <episode-num system="dd_progid">10502381</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180310043000 +0000" stop="20180310060000 +0000">
     <title>Australian Spartan</title>
@@ -11178,6 +11193,9 @@
     <title>Fanimals</title>
     <desc>New: Fanimals is the cutest show on TV2! Join host Jess, ‘Ask Me Anything Vet’ Stacey Tremain (Vet Tales, Kiwi Living) and our Fanimals family every weekday for all you need to know about animals.</desc>
     <episode-num system="dd_progid">10513026</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180312043000 +0000" stop="20180312050000 +0000">
     <title>Friends</title>
@@ -12110,6 +12128,9 @@
     <title>I'm A Celebrity Get Me Out Of Here Austr</title>
     <desc>Celebrities are dropped into the heart of a remote jungle and put through excruciating challenges and emotional turmoil in this gripping, hilarious and shocking reality show.</desc>
     <episode-num system="dd_progid">10498895</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180315104000 +0000" stop="20180315111000 +0000">
     <title>Two And A Half Men</title>
@@ -12130,7 +12151,7 @@
     <episode-num system="dd_progid">10448562</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180315123000 +0000" stop="20180315132000 +0000">
@@ -12350,6 +12371,9 @@
     <title>Home And Away</title>
     <desc>Ben pressures Ziggy to hide his secret from Maggie; Will Hunter put the brakes on with Jennifer? Mason grows closer to Jasmine; Coco surprises Ryder with a kiss.</desc>
     <episode-num system="dd_progid">10487152</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180316060000 +0000" stop="20180316063000 +0000">
     <title>The Big Bang Theory</title>
