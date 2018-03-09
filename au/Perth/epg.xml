@@ -18993,17 +18993,17 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060560" start="20180311110000 +0000" stop="20180311123000 +0000">
-    <title>My Kitchen Rules</title>
-    <episode-num system="dd_progid">tv1lu3aGltaPmdiJ</episode-num>
+  <programme channel="tv.101305060560" start="20180311110000 +0000" stop="20180311123700 +0000">
+    <title>Australian Spartan</title>
+    <episode-num system="dd_progid">uKbbu3aOltaPmdaM</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060560" start="20180311110000 +0000" stop="20180311123700 +0000">
-    <title>Australian Spartan</title>
-    <episode-num system="dd_progid">uKbbu3aOltaPmdaM</episode-num>
+  <programme channel="tv.101305060560" start="20180311110000 +0000" stop="20180311123000 +0000">
+    <title>My Kitchen Rules</title>
+    <episode-num system="dd_progid">tv1lu3aGltaPmdiJ</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -22831,15 +22831,15 @@
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20180313203100 +0000" stop="20180313213000 +0000">
-    <title>IRT: Deadliest Roads</title>
-    <episode-num system="dd_progid">svjurdaNltaPmdaM</episode-num>
+    <title>Graveyard Carz</title>
+    <episode-num system="dd_progid">rKjbqMaLltaPmdaL</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20180313203100 +0000" stop="20180313213000 +0000">
-    <title>Graveyard Carz</title>
-    <episode-num system="dd_progid">rKjbqMaLltaPmdaL</episode-num>
+    <title>IRT: Deadliest Roads</title>
+    <episode-num system="dd_progid">svjurdaNltaPmdaM</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -24312,6 +24312,13 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101305060565" start="20180312123000 +0000" stop="20180312130000 +0000">
+    <title>How I Met Your Mother</title>
+    <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305060565" start="20180312123000 +0000" stop="20180312125800 +0000">
     <title>How I Met Your Mother</title>
     <episode-num system="dd_progid">seKzttiSmdaPmdmx</episode-num>
@@ -24320,13 +24327,6 @@
     </rating>
   </programme>
   <programme channel="tv.101305060565" start="20180312123000 +0000" stop="20180312125800 +0000">
-    <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305060565" start="20180312123000 +0000" stop="20180312130000 +0000">
     <title>How I Met Your Mother</title>
     <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
     <rating system="Freeview">
@@ -24364,14 +24364,14 @@
   </programme>
   <programme channel="tv.101305060565" start="20180312142500 +0000" stop="20180312145400 +0000">
     <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
+    <episode-num system="dd_progid">seKzttiSmdaPmdmx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305060565" start="20180312142500 +0000" stop="20180312145400 +0000">
     <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKzttiSmdaPmdmx</episode-num>
+    <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
