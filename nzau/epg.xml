@@ -19518,32 +19518,32 @@
   </programme>
   <programme channel="tv.55" start="20180310002500 +0000" stop="20180310033500 +0000">
     <title>Live: Paralympics Alpine Ski</title>
-    <desc>Live coverage of the Alpine Skiing Downhill as Kiwi’s Adam Hall and Corey Peters go for gold at the Jeongseon Alpine Centre in PyeongChang, South Korea.</desc>
+    <desc>Live coverage of the Alpine Skiing Downhill as Kiwi’s Adam Hall and Corey Peters go for gold at the Jeongseon Alpine Centre in PyeongChang, South Korea. Coverage supported by NZ On Air.</desc>
     <episode-num system="dd_progid">10511208</episode-num>
   </programme>
   <programme channel="tv.55" start="20180310033500 +0000" stop="20180310050000 +0000">
     <title>Live: Paralympics Ice Hockey</title>
-    <desc>Live coverage of the Ice Hockey match between Norway and Italy from the Gangneung Hockey Centre in PyeongChang, South Korea. (Joining in progress)</desc>
+    <desc>Live coverage of the Ice Hockey match between Norway and Italy from the Gangneung Hockey Centre in PyeongChang, South Korea. (Joining in progress) Coverage supported by NZ On Air.</desc>
     <episode-num system="dd_progid">10511209</episode-num>
   </programme>
   <programme channel="tv.55" start="20180310050000 +0000" stop="20180310062500 +0000">
     <title>Paralympics - Biathlon</title>
-    <desc>Coverage of today’s Biathlon featuring the Women’s 6km race and the Men’s 7.5km race from the Alpensia Biathlon Centre in PyeongChang, South Korea.</desc>
+    <desc>Coverage of today’s Biathlon featuring the Women’s 6km race and the Men’s 7.5km race from the Alpensia Biathlon Centre in PyeongChang, South Korea. Coverage supported by NZ On Air.</desc>
     <episode-num system="dd_progid">10511257</episode-num>
   </programme>
   <programme channel="tv.55" start="20180310062500 +0000" stop="20180310083500 +0000">
     <title>Live: Paralympics Ice Hockey</title>
-    <desc>Live coverage of the Ice Hockey match between Korean and Japan from the Gangneung Hockey Centre in PyeongChang, South Korea.</desc>
+    <desc>Live coverage of the Ice Hockey match between Korean and Japan from the Gangneung Hockey Centre in PyeongChang, South Korea. Coverage supported by NZ On Air.</desc>
     <episode-num system="dd_progid">10511210</episode-num>
   </programme>
   <programme channel="tv.55" start="20180310083500 +0000" stop="20180310100000 +0000">
     <title>Paralympics - Curling</title>
-    <desc>Coverage of the Wheelchair Curling match between Switzerland and Canada from the Gangneung Curling Centre in PyeongChang, South Korea.</desc>
+    <desc>Coverage of the Wheelchair Curling match between Switzerland and Canada from the Gangneung Curling Centre in PyeongChang, South Korea. Coverage supported by NZ On Air.</desc>
     <episode-num system="dd_progid">10511258</episode-num>
   </programme>
   <programme channel="tv.55" start="20180310100000 +0000" stop="20180310120000 +0000">
     <title>Live: Paralympics Ice Hockey</title>
-    <desc>Live coverage of the Ice Hockey match between Canada and Sweden from the Gangneung Hockey Centre in PyeongChang, South Korea.</desc>
+    <desc>Live coverage of the Ice Hockey match between Canada and Sweden from the Gangneung Hockey Centre in PyeongChang, South Korea. Coverage supported by NZ On Air.</desc>
     <episode-num system="dd_progid">10511211</episode-num>
   </programme>
   <programme channel="tv.55" start="20180310120000 +0000" stop="20180310170000 +0000">
@@ -44736,6 +44736,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180317130000 +0000" stop="20180317131500 +0000">
+    <title>ABC Late News</title>
+    <episode-num system="dd_progid">NU1855H021S00</episode-num>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20180309124000 +0000" stop="20180309132500 +0000">
     <title>Planet America</title>
     <episode-num system="dd_progid">NC1814H006S00</episode-num>
@@ -55872,6 +55879,13 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200421" start="20180317130000 +0000" stop="20180317145000 +0000">
+    <title>Good People</title>
+    <episode-num system="dd_progid">GOPE__1</episode-num>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204200424" start="20180309122800 +0000" stop="20180309132900 +0000">
     <title>Keeping Up With the Kardashians</title>
     <episode-num system="dd_progid">KEUP_12_7BP17</episode-num>
@@ -57735,6 +57749,14 @@
   <programme channel="tv.101204200424" start="20180317123000 +0000" stop="20180317130000 +0000">
     <title>House Hunters International</title>
     <episode-num system="dd_progid">HOHUIN_103_10309H</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200424" start="20180317130000 +0000" stop="20180317133000 +0000">
+    <title>Open Homes Australia</title>
+    <episode-num system="dd_progid">OPHO_1_7</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -61645,17 +61667,17 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20180311080000 +0000" stop="20180311093000 +0000">
-    <title>My Kitchen Rules</title>
-    <episode-num system="dd_progid">tv1lu3aGltaPmdiJ</episode-num>
+  <programme channel="tv.101305020520" start="20180311080000 +0000" stop="20180311093700 +0000">
+    <title>Australian Spartan</title>
+    <episode-num system="dd_progid">uKbbu3aOltaPmdaM</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20180311080000 +0000" stop="20180311093700 +0000">
-    <title>Australian Spartan</title>
-    <episode-num system="dd_progid">uKbbu3aOltaPmdaM</episode-num>
+  <programme channel="tv.101305020520" start="20180311080000 +0000" stop="20180311093000 +0000">
+    <title>My Kitchen Rules</title>
+    <episode-num system="dd_progid">tv1lu3aGltaPmdiJ</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -62681,6 +62703,14 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020520" start="20180317130000 +0000" stop="20180317140100 +0000">
+    <title>PyeongChang 2018 Paralympics</title>
+    <episode-num system="dd_progid">ueCmwteHltaPmdaH</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180309123000 +0000" stop="20180309140200 +0000">
@@ -65901,16 +65931,16 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180315120300 +0000" stop="20180315130000 +0000">
-    <title>Graveyard Carz</title>
-    <episode-num system="dd_progid">rKjbqMaLltaPmdaL</episode-num>
+  <programme channel="tv.101305020523" start="20180315120300 +0000" stop="20180315125900 +0000">
+    <title>Ice Road Truckers</title>
+    <episode-num system="dd_progid">sunfu3aHltaPmdaN</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180315120300 +0000" stop="20180315125900 +0000">
-    <title>Ice Road Truckers</title>
-    <episode-num system="dd_progid">sunfu3aHltaPmdaN</episode-num>
+  <programme channel="tv.101305020523" start="20180315120300 +0000" stop="20180315130000 +0000">
+    <title>Graveyard Carz</title>
+    <episode-num system="dd_progid">rKjbqMaLltaPmdaL</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -70140,6 +70170,14 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020528" start="20180317130000 +0000" stop="20180317131500 +0000">
+    <title>Behind the Scenes</title>
+    <episode-num system="dd_progid">FILLA</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101406020621" start="20180309122800 +0000" stop="20180309133000 +0000">
     <title>CSI: NY</title>
     <episode-num system="dd_progid">60347E1525920</episode-num>
@@ -71925,6 +71963,13 @@
   <programme channel="tv.101406020621" start="20180317120000 +0000" stop="20180317130000 +0000">
     <title>CSI: NY</title>
     <episode-num system="dd_progid">60347E1525925</episode-num>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406020621" start="20180317130000 +0000" stop="20180317140000 +0000">
+    <title>Vanity Fair Confidential</title>
+    <episode-num system="dd_progid">60330E1525620</episode-num>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
@@ -73808,6 +73853,14 @@
   <programme channel="tv.101406020625" start="20180317120000 +0000" stop="20180317130000 +0000">
     <title>48 Hours</title>
     <episode-num system="dd_progid">58256E1456997</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406020625" start="20180317130000 +0000" stop="20180317140000 +0000">
+    <title>48 Hours</title>
+    <episode-num system="dd_progid">58256E1456998</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
@@ -77895,6 +77948,13 @@
     <episode-num system="dd_progid">866302</episode-num>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000301" start="20180317130000 +0000" stop="20180317133000 +0000">
+    <title>Gadget Man</title>
+    <episode-num system="dd_progid">897228</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180309125000 +0000" stop="20180309132000 +0000">
@@ -85197,6 +85257,13 @@
   <programme channel="tv.320203000305" start="20180317123000 +0000" stop="20180317130000 +0000">
     <title>Defining Moments</title>
     <episode-num system="dd_progid">860873</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180317130000 +0000" stop="20180317140000 +0000">
+    <title>Volumz</title>
+    <episode-num system="dd_progid">685953</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
