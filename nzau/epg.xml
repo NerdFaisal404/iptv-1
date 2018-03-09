@@ -65468,17 +65468,17 @@
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180313183000 +0000" stop="20180313190000 +0000">
-    <title>Bar Hunters</title>
-    <episode-num system="dd_progid">q2fssdaOltaPmdaM</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020523" start="20180313183000 +0000" stop="20180313190000 +0000">
     <title>Counting Cars</title>
     <episode-num system="dd_progid">qLnbu3aNltaPmdeH</episode-num>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020523" start="20180313183000 +0000" stop="20180313190000 +0000">
+    <title>Bar Hunters</title>
+    <episode-num system="dd_progid">q2fssdaOltaPmdaM</episode-num>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180313190000 +0000" stop="20180313193000 +0000">
@@ -66943,6 +66943,13 @@
   </programme>
   <programme channel="tv.101305020525" start="20180312093000 +0000" stop="20180312095800 +0000">
     <title>How I Met Your Mother</title>
+    <episode-num system="dd_progid">seKzttiSmdaPmdmx</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020525" start="20180312093000 +0000" stop="20180312095800 +0000">
+    <title>How I Met Your Mother</title>
     <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
@@ -66951,13 +66958,6 @@
   <programme channel="tv.101305020525" start="20180312093000 +0000" stop="20180312100000 +0000">
     <title>How I Met Your Mother</title>
     <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020525" start="20180312093000 +0000" stop="20180312095800 +0000">
-    <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKzttiSmdaPmdmx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -66993,14 +66993,14 @@
   </programme>
   <programme channel="tv.101305020525" start="20180312112500 +0000" stop="20180312115400 +0000">
     <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKzttiSmdaPmdmx</episode-num>
+    <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20180312112500 +0000" stop="20180312115400 +0000">
     <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
+    <episode-num system="dd_progid">seKzttiSmdaPmdmx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
