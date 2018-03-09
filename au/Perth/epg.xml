@@ -19445,17 +19445,17 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060560" start="20180311110000 +0000" stop="20180311123700 +0000">
-    <title>Australian Spartan</title>
-    <episode-num system="dd_progid">uKbbu3aOltaPmdaM</episode-num>
+  <programme channel="tv.101305060560" start="20180311110000 +0000" stop="20180311123000 +0000">
+    <title>My Kitchen Rules</title>
+    <episode-num system="dd_progid">tv1lu3aGltaPmdiJ</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060560" start="20180311110000 +0000" stop="20180311123000 +0000">
-    <title>My Kitchen Rules</title>
-    <episode-num system="dd_progid">tv1lu3aGltaPmdiJ</episode-num>
+  <programme channel="tv.101305060560" start="20180311110000 +0000" stop="20180311123700 +0000">
+    <title>Australian Spartan</title>
+    <episode-num system="dd_progid">uKbbu3aOltaPmdaM</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -24919,14 +24919,14 @@
   </programme>
   <programme channel="tv.101305060565" start="20180312123000 +0000" stop="20180312125800 +0000">
     <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
+    <episode-num system="dd_progid">seKzttiSmdaPmdmx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305060565" start="20180312123000 +0000" stop="20180312125800 +0000">
     <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKzttiSmdaPmdmx</episode-num>
+    <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -27504,17 +27504,19 @@
     </rating>
   </programme>
   <programme channel="tv.101406070681" start="20180315103000 +0000" stop="20180315110000 +0000">
-    <title>Happy Days</title>
-    <episode-num system="dd_progid">134040E8297356</episode-num>
+    <title>Bondi Rescue</title>
+    <episode-num system="dd_progid">60295E1522763</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406070681" start="20180315110000 +0000" stop="20180315113000 +0000">
-    <title>Happy Days</title>
-    <episode-num system="dd_progid">134040E8297357</episode-num>
+    <title>Bondi Rescue</title>
+    <episode-num system="dd_progid">60295E1522764</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406070681" start="20180315113000 +0000" stop="20180315123000 +0000">
