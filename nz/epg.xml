@@ -4238,7 +4238,7 @@
   </programme>
   <programme channel="tv.11" start="20180309060000 +0000" stop="20180309070000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Kanoa, Jesse and Josh are joined by guest host Mikey Havoc and chat to Fall Out Boy. Plus, the stink bugs invading our houses and one man's mission to find his missing dog.</desc>
     <episode-num system="dd_progid">T806432</episode-num>
   </programme>
   <programme channel="tv.11" start="20180309070000 +0000" stop="20180309080000 +0000">
@@ -4253,6 +4253,9 @@
     <title>7 Days</title>
     <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Cori Gonzalez-Macuer, Jeremy Elwood, Justine Smith and Ben Hurley.</desc>
     <episode-num system="dd_progid">T798512</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180309084500 +0000" stop="20180309091500 +0000">
     <title>Fail Army</title>
@@ -4306,7 +4309,7 @@
   </programme>
   <programme channel="tv.11" start="20180309173000 +0000" stop="20180309182500 +0000">
     <title>The Project (Encore)</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Kanoa, Jesse and Josh are joined by guest host Mikey Havoc and chat to Fall Out Boy. Plus, the stink bugs invading our houses and one man's mission to find his missing dog.</desc>
     <episode-num system="dd_progid">T806432</episode-num>
   </programme>
   <programme channel="tv.11" start="20180309182500 +0000" stop="20180309203000 +0000">
@@ -4586,8 +4589,11 @@
     <title>Married At First Sight Australia</title>
     <desc>New Episode. It's the second to last Commitment Ceremony and the experts are hoping to see big advancements, but fallouts and intimacy issues threaten to tear some couples apart. S5 Ep21</desc>
     <episode-num system="dd_progid">T816147</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
-  <programme channel="tv.11" start="20180311073000 +0000" stop="20180311101000 +0000">
+  <programme channel="tv.11" start="20180311073000 +0000" stop="20180311100000 +0000">
     <title>The Amazing Spider-Man</title>
     <desc>After Peter Parker is bitten by a genetically altered spider, he gains new, spider-like powers and ventures out to solve the mystery of his parent's disappearance. Starring Andrew Garfield. (2012)</desc>
     <episode-num system="dd_progid">T761847</episode-num>
@@ -4598,7 +4604,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180311101000 +0000" stop="20180311110500 +0000">
+  <programme channel="tv.11" start="20180311100000 +0000" stop="20180311110000 +0000">
     <title>Chicago Med</title>
     <desc>Two complex cases involving sick babies may have a surprising connection. Meanwhile, an upbeat homeless man is treated and offers valuable insight to the doctors. S2 Ep2</desc>
     <episode-num system="dd_progid">T732788</episode-num>
@@ -4609,7 +4615,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180311110500 +0000" stop="20180311120000 +0000">
+  <programme channel="tv.11" start="20180311110000 +0000" stop="20180311115000 +0000">
     <title>Entertainment Tonight Weekend (Encore)</title>
     <desc>A wrap up of the biggest entertainment stories of the last week.</desc>
     <episode-num system="dd_progid">T807856</episode-num>
@@ -4617,7 +4623,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180311120000 +0000" stop="20180311163000 +0000">
+  <programme channel="tv.11" start="20180311115000 +0000" stop="20180311163000 +0000">
     <title>Infomercials</title>
     <desc></desc>
     <episode-num system="dd_progid">T1</episode-num>
@@ -4680,6 +4686,9 @@
     <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. It's the second to last Commitment Ceremony and the experts are hoping to see big advancements, but fallouts and intimacy issues threaten to tear some couples apart. S5 Ep21</desc>
     <episode-num system="dd_progid">T816147</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180312020000 +0000" stop="20180312023000 +0000">
     <title>Entertainment Tonight</title>
@@ -4724,6 +4733,9 @@
     <title>Married At First Sight Australia</title>
     <desc>New Episode. Both sets of in-laws come together for the first time since their weddings. S5 Ep22</desc>
     <episode-num system="dd_progid">T816148</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180312080000 +0000" stop="20180312090000 +0000">
     <title>9-1-1</title>
@@ -4824,6 +4836,9 @@
     <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. Both sets of in-laws come together for the first time since their weddings. S5 Ep22</desc>
     <episode-num system="dd_progid">T816148</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180313020000 +0000" stop="20180313023000 +0000">
     <title>Entertainment Tonight</title>
@@ -5023,18 +5038,15 @@
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T806435</episode-num>
   </programme>
-  <programme channel="tv.11" start="20180314063000 +0000" stop="20180314080000 +0000">
+  <programme channel="tv.11" start="20180314063000 +0000" stop="20180314075500 +0000">
     <title>Married At First Sight Australia</title>
     <desc>New Episode. At the dinner party to end all dinner parties, Charlene and Patrick unleash hell on the group over the events from boy's night. S5 Ep24</desc>
     <episode-num system="dd_progid">T816150</episode-num>
   </programme>
-  <programme channel="tv.11" start="20180314080000 +0000" stop="20180314090000 +0000">
-    <title>Swipe Right For Murder</title>
-    <desc>New Episode. Clare Wood began seeing 40-year-old George Appleton, whom she met online. Clare made multiple complaints to the police about him, and little did she know he had a violent history. S1 Ep6</desc>
-    <episode-num system="dd_progid">T762892</episode-num>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
+  <programme channel="tv.11" start="20180314075500 +0000" stop="20180314090000 +0000">
+    <title>Weinstein: The Inside Story</title>
+    <desc></desc>
+    <episode-num system="dd_progid">T825768</episode-num>
   </programme>
   <programme channel="tv.11" start="20180314090000 +0000" stop="20180314093000 +0000">
     <title>Towies</title>
@@ -5491,6 +5503,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817014</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180309063000 +0000" stop="20180309070000 +0000">
     <title>Beverly Hills Pawn</title>
@@ -5567,6 +5582,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817014</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180309220000 +0000" stop="20180309225500 +0000">
     <title>Four Weddings Australia</title>
@@ -5588,6 +5606,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817014</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180309235500 +0000" stop="20180310005000 +0000">
     <title>World Of Dance</title>
@@ -5609,6 +5630,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817014</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180310015000 +0000" stop="20180310024500 +0000">
     <title>Million Dollar Decorators</title>
@@ -5670,6 +5694,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817014</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180310073000 +0000" stop="20180310083000 +0000">
     <title>Keeping Up With The Kardashians</title>
@@ -5760,6 +5787,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817014</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180310205500 +0000" stop="20180310214500 +0000">
     <title>How Do I Look?</title>
@@ -5789,6 +5819,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817014</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180310232000 +0000" stop="20180311001000 +0000">
     <title>60 Days In</title>
@@ -5842,6 +5875,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817014</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180311024000 +0000" stop="20180311033500 +0000">
     <title>How Do I Look?</title>
@@ -5903,6 +5939,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817014</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180311093000 +0000" stop="20180311100000 +0000">
     <title>Don't Be Tardy</title>
@@ -5963,6 +6002,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817014</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180311220000 +0000" stop="20180311225500 +0000">
     <title>David Tutera: CELEBrations</title>
@@ -5984,6 +6026,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817014</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180311235000 +0000" stop="20180312004500 +0000">
     <title>The Real Housewives Of New York City</title>
@@ -12542,7 +12587,7 @@
   </programme>
   <programme channel="tv.27" start="20180309070000 +0000" stop="20180309080000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Kanoa, Jesse and Josh are joined by guest host Mikey Havoc and chat to Fall Out Boy. Plus, the stink bugs invading our houses and one man's mission to find his missing dog.</desc>
     <episode-num system="dd_progid">T806432</episode-num>
   </programme>
   <programme channel="tv.27" start="20180309080000 +0000" stop="20180309090000 +0000">
@@ -12557,6 +12602,9 @@
     <title>7 Days</title>
     <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Cori Gonzalez-Macuer, Jeremy Elwood, Justine Smith and Ben Hurley.</desc>
     <episode-num system="dd_progid">T798512</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180309094500 +0000" stop="20180309101500 +0000">
     <title>Fail Army</title>
@@ -12604,7 +12652,7 @@
   </programme>
   <programme channel="tv.27" start="20180309183000 +0000" stop="20180309192500 +0000">
     <title>The Project (Encore)</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Kanoa, Jesse and Josh are joined by guest host Mikey Havoc and chat to Fall Out Boy. Plus, the stink bugs invading our houses and one man's mission to find his missing dog.</desc>
     <episode-num system="dd_progid">T806432</episode-num>
   </programme>
   <programme channel="tv.27" start="20180309192500 +0000" stop="20180309213000 +0000">
@@ -12872,8 +12920,11 @@
     <title>Married At First Sight Australia</title>
     <desc>New Episode. It's the second to last Commitment Ceremony and the experts are hoping to see big advancements, but fallouts and intimacy issues threaten to tear some couples apart. S5 Ep21</desc>
     <episode-num system="dd_progid">T816147</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
-  <programme channel="tv.27" start="20180311083000 +0000" stop="20180311111000 +0000">
+  <programme channel="tv.27" start="20180311083000 +0000" stop="20180311110000 +0000">
     <title>The Amazing Spider-Man</title>
     <desc>After Peter Parker is bitten by a genetically altered spider, he gains new, spider-like powers and ventures out to solve the mystery of his parent's disappearance. Starring Andrew Garfield. (2012)</desc>
     <episode-num system="dd_progid">T761847</episode-num>
@@ -12881,7 +12932,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180311111000 +0000" stop="20180311120500 +0000">
+  <programme channel="tv.27" start="20180311110000 +0000" stop="20180311120000 +0000">
     <title>Chicago Med</title>
     <desc>Two complex cases involving sick babies may have a surprising connection. Meanwhile, an upbeat homeless man is treated and offers valuable insight to the doctors. S2 Ep2</desc>
     <episode-num system="dd_progid">T732788</episode-num>
@@ -12889,7 +12940,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180311120500 +0000" stop="20180311130000 +0000">
+  <programme channel="tv.27" start="20180311120000 +0000" stop="20180311125000 +0000">
     <title>Entertainment Tonight Weekend (Encore)</title>
     <desc>A wrap up of the biggest entertainment stories of the last week.</desc>
     <episode-num system="dd_progid">T807856</episode-num>
@@ -12897,7 +12948,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180311130000 +0000" stop="20180311173000 +0000">
+  <programme channel="tv.27" start="20180311125000 +0000" stop="20180311173000 +0000">
     <title>Infomercials</title>
     <desc></desc>
     <episode-num system="dd_progid">T1</episode-num>
@@ -12960,6 +13011,9 @@
     <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. It's the second to last Commitment Ceremony and the experts are hoping to see big advancements, but fallouts and intimacy issues threaten to tear some couples apart. S5 Ep21</desc>
     <episode-num system="dd_progid">T816147</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180312030000 +0000" stop="20180312033000 +0000">
     <title>Entertainment Tonight</title>
@@ -13004,6 +13058,9 @@
     <title>Married At First Sight Australia</title>
     <desc>New Episode. Both sets of in-laws come together for the first time since their weddings. S5 Ep22</desc>
     <episode-num system="dd_progid">T816148</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180312090000 +0000" stop="20180312100000 +0000">
     <title>9-1-1</title>
@@ -13104,6 +13161,9 @@
     <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. Both sets of in-laws come together for the first time since their weddings. S5 Ep22</desc>
     <episode-num system="dd_progid">T816148</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180313030000 +0000" stop="20180313033000 +0000">
     <title>Entertainment Tonight</title>
@@ -13297,18 +13357,15 @@
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T806435</episode-num>
   </programme>
-  <programme channel="tv.27" start="20180314073000 +0000" stop="20180314090000 +0000">
+  <programme channel="tv.27" start="20180314073000 +0000" stop="20180314085500 +0000">
     <title>Married At First Sight Australia</title>
     <desc>New Episode. At the dinner party to end all dinner parties, Charlene and Patrick unleash hell on the group over the events from boy's night. S5 Ep24</desc>
     <episode-num system="dd_progid">T816150</episode-num>
   </programme>
-  <programme channel="tv.27" start="20180314090000 +0000" stop="20180314100000 +0000">
-    <title>Swipe Right For Murder</title>
-    <desc>New Episode. Clare Wood began seeing 40-year-old George Appleton, whom she met online. Clare made multiple complaints to the police about him, and little did she know he had a violent history. S1 Ep6</desc>
-    <episode-num system="dd_progid">T762892</episode-num>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
+  <programme channel="tv.27" start="20180314085500 +0000" stop="20180314100000 +0000">
+    <title>Weinstein: The Inside Story</title>
+    <desc></desc>
+    <episode-num system="dd_progid">T825768</episode-num>
   </programme>
   <programme channel="tv.27" start="20180314100000 +0000" stop="20180314103000 +0000">
     <title>Towies</title>
@@ -13750,6 +13807,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817014</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180309073000 +0000" stop="20180309080000 +0000">
     <title>Beverly Hills Pawn</title>
@@ -13826,6 +13886,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817014</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180309230000 +0000" stop="20180309235500 +0000">
     <title>Four Weddings Australia</title>
@@ -13847,6 +13910,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817014</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180310005500 +0000" stop="20180310015000 +0000">
     <title>World Of Dance</title>
@@ -13868,6 +13934,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817014</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180310025000 +0000" stop="20180310034500 +0000">
     <title>Million Dollar Decorators</title>
@@ -13929,6 +13998,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817014</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180310083000 +0000" stop="20180310093000 +0000">
     <title>Keeping Up With The Kardashians</title>
@@ -14019,6 +14091,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817014</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180310215500 +0000" stop="20180310224500 +0000">
     <title>How Do I Look?</title>
@@ -14048,6 +14123,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817014</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180311002000 +0000" stop="20180311011000 +0000">
     <title>60 Days In</title>
@@ -14101,6 +14179,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817014</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180311034000 +0000" stop="20180311043500 +0000">
     <title>How Do I Look?</title>
@@ -14162,6 +14243,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817014</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180311103000 +0000" stop="20180311110000 +0000">
     <title>Don't Be Tardy</title>
@@ -14222,6 +14306,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817014</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180311230000 +0000" stop="20180311235500 +0000">
     <title>David Tutera: CELEBrations</title>
@@ -14243,6 +14330,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817014</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180312005000 +0000" stop="20180312014500 +0000">
     <title>The Real Housewives Of New York City</title>
@@ -25526,29 +25616,29 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180309123000 +0000" stop="20180309133000 +0000">
-    <title>SONY Xperia Smart Phone</title>
-    <desc>Your smartphone follows you everywhere! That?s why Xperia? XA has been designed to fit into your life. With a stunning full-width display, a smooth, curved form and a size ideal for everyone's palm.</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.45" start="20180309133000 +0000" stop="20180309143000 +0000">
-    <title>Charlie Lapson Diamonesque</title>
-    <desc>USA fashion designer Charlie Lapson brings his style expertise to Diamonesque for an explosive collaboration! Join us for a sparkling session of fine Simulated Diamond jewellery.</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.45" start="20180309143000 +0000" stop="20180309153000 +0000">
     <title>SKINN by Dimitri James</title>
     <desc>SKINN: Intelligent inspired and innovative skincare! Your best in show for beauty joins us today to unveil the latest tips and hints in keeping your skin looking its finest this summer!</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.45" start="20180309133000 +0000" stop="20180309143000 +0000">
+    <title>SKIM GUARD RFID Protection</title>
+    <desc>Stop people from reading your credit cards, passport, and other sensitive information with the Skim Guard RFID Protection! Guard against identity theft with RFID blocking technology and feel safe.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.45" start="20180309143000 +0000" stop="20180309153000 +0000">
+    <title>SONY Xperia Smart Phone</title>
+    <desc>Your smartphone follows you everywhere! That?s why Xperia? XA has been designed to fit into your life. With a stunning full-width display, a smooth, curved form and a size ideal for everyone's palm.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.45" start="20180309153000 +0000" stop="20180309163000 +0000">
-    <title>Cafe Latte Fashion</title>
-    <desc>Café Latte is for the woman who wants versatile key pieces that complement her existing wardrobe. We bring you simple and classic staple items that are ready to go with your everyday favourites.</desc>
+    <title>White Magic Cleaning Solutions</title>
+    <desc>Spin away to a cleaner home with the white magic mop to eliminate all those messy drips. Tune in for all the features &amp; benefits.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -25568,22 +25658,22 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180309183000 +0000" stop="20180309193000 +0000">
-    <title>White Magic Cleaning Solutions</title>
-    <desc>Spin away to a cleaner home with the white magic mop to eliminate all those messy drips. Tune in for all the features &amp; benefits.</desc>
+    <title>Pureairssentials Air Diffusers</title>
+    <desc>Make your home feel magical &amp; enchanting with Pureairesentials Air Purifiers. These unique, compact machines will help provide cleaner air and a healthier living environment for you &amp; your family.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180309193000 +0000" stop="20180309203000 +0000">
-    <title>Pinklily Glamorous Storage</title>
-    <desc>Whether you are storing your favourite stilettos or organising your wardrobe, Pinklily's glamorous range of storage solutions is here to help you create space and order! What more could a girl want.</desc>
+    <title>SKIM GUARD RFID Protection</title>
+    <desc>Stop people from reading your credit cards, passport, and other sensitive information with the Skim Guard RFID Protection! Guard against identity theft with RFID blocking technology and feel safe.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180309203000 +0000" stop="20180309213000 +0000">
-    <title>VibroSlim Ultra For Toning</title>
-    <desc>Start enjoying the many benefits of vibration technology with the lightest and thinnest vibration platform yet. See why it is the perfect toning equipment for the whole family to enjoy.</desc>
+    <title>Philips TURBO Airfryer</title>
+    <desc>For convenient cooking, Philips makes light work of your kitchen tasks. Join us now for the amazing Philips TURBO Airfryer and discover healthy frying and delicious meals with this powerful appliance.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -25680,8 +25770,8 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180310103000 +0000" stop="20180310113000 +0000">
-    <title>SKINN by Dimitri James</title>
-    <desc>SKINN: Intelligent inspired and innovative skincare! Your best in show for beauty joins us today to unveil the latest tips and hints in keeping your skin looking its finest this summer!</desc>
+    <title>SONY Xperia Smart Phone</title>
+    <desc>Your smartphone follows you everywhere! That?s why Xperia? XA has been designed to fit into your life. With a stunning full-width display, a smooth, curved form and a size ideal for everyone's palm.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -25701,22 +25791,22 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180310133000 +0000" stop="20180310143000 +0000">
+    <title>SKINN by Dimitri James</title>
+    <desc>SKINN: Intelligent inspired and innovative skincare! Your best in show for beauty joins us today to unveil the latest tips and hints in keeping your skin looking its finest this summer!</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.45" start="20180310143000 +0000" stop="20180310153000 +0000">
     <title>BOSE Premium Sound</title>
     <desc>Unbelievable, epic audio technology: BOSE is the choice of professionals! Update your home entertainment with this prestigious brand and experience seriously good sound. Shop the range today on TVSN!</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.45" start="20180310143000 +0000" stop="20180310153000 +0000">
+  <programme channel="tv.45" start="20180310153000 +0000" stop="20180310163000 +0000">
     <title>WheyLess A Healthy Lifestyle</title>
     <desc>WheyLess is a nutrient-rich supplement to a healthy diet! Designed to provide energy without rapidly raising blood sugar, this protein shake helps you feel full for longer and avoid snack attacks.</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.45" start="20180310153000 +0000" stop="20180310163000 +0000">
-    <title>EMU Australia Boots</title>
-    <desc>Emu boots are made with water-resistant sheepskin, fine Merino wool, flawless quality leather and velvety-soft suede. Feel the Emu difference!</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -25820,8 +25910,8 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180311063000 +0000" stop="20180311073000 +0000">
-    <title>NEW Kuvings Vacuum Blender</title>
-    <desc>Cook healthier, faster, smarter, easier! Kitchen wishes are granted with our impressive range of modern cooking appliances that make your life easier. Being a domestic goddess was never so easy!</desc>
+    <title>Meridian Orbital Cooker</title>
+    <desc>The next generation in multi-purpose cooktop technology. This amazing cooker has the precision control of induction cooking and will save you time and money in the kitchen!</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -25848,8 +25938,8 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180311103000 +0000" stop="20180311113000 +0000">
-    <title>SBC Beauty</title>
-    <desc>With years of botanical expertise inside each product and a sought-after arnica range, the renowned British brand Simply Beautiful Collection (SBC) is one not to be missed.</desc>
+    <title>BOSE Premium Sound</title>
+    <desc>Unbelievable, epic audio technology: BOSE is the choice of professionals! Update your home entertainment with this prestigious brand and experience seriously good sound. Shop the range today on TVSN!</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -25876,8 +25966,8 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180311143000 +0000" stop="20180311153000 +0000">
-    <title>DermaWand</title>
-    <desc>DermaWand is an at home non-surgical device which helps with the signs of ageing, giving you toned, wrinkle free and younger looking skin.</desc>
+    <title>No!No! Hair Removal</title>
+    <desc>Imagine removing your unwanted hair easily &amp; without the pain of other systems. No!No! hair removal is so effective it's been clinically proven to reduce hair re-growth without the pain.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -25890,8 +25980,8 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180311163000 +0000" stop="20180311173000 +0000">
-    <title>DermaWand</title>
-    <desc>DermaWand is an at home non-surgical device which helps with the signs of ageing, giving you toned, wrinkle free and younger looking skin.</desc>
+    <title>Tefal Ingenio Cookware</title>
+    <desc>Everyday cooking made simple - and safe! Enjoy Tefal Ingenio Cookware's practical range of cookware essentials that comes with a 100% safe, and easy opening and closing removable handle.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -25911,8 +26001,8 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180311193000 +0000" stop="20180311203000 +0000">
-    <title>NEW Kuvings Vacuum Blender</title>
-    <desc>Cook healthier, faster, smarter, easier! Kitchen wishes are granted with our impressive range of modern cooking appliances that make your life easier. Being a domestic goddess was never so easy!</desc>
+    <title>Meridian Orbital Cooker</title>
+    <desc>The next generation in multi-purpose cooktop technology. This amazing cooker has the precision control of induction cooking and will save you time and money in the kitchen!</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -31665,9 +31755,9 @@
     </rating>
   </programme>
   <programme channel="tv.56" start="20180309203000 +0000" stop="20180309210000 +0000">
-    <title>Off the Grid</title>
-    <desc>Experience the challenges and rewards of working for Adventist World Aviation, using aircraft to save lives in remote places. AWA holds a series of meetings to share with those who do not know Jesus</desc>
-    <episode-num system="dd_progid">OFFGRIDx302</episode-num>
+    <title>Missions Today</title>
+    <desc>A team of volunteers go to Belize. Watch an incredible team effort to build a classroom for dozens of eager kids wanting to learn</desc>
+    <episode-num system="dd_progid">MISSIONST01x02</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -31696,7 +31786,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180309230500 +0000" stop="20180309233500 +0000">
+  <programme channel="tv.56" start="20180309230500 +0000" stop="20180309233000 +0000">
     <title>Seeking Understanding</title>
     <desc>The fossil forests of Yellowstone National Park are fascinating and puzzling. How did multiple layers of vertical petrified trees form? Harold Coffin arrived at a remarkable theory</desc>
     <episode-num system="dd_progid">SEEKUSTANDx03</episode-num>
@@ -31704,7 +31794,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180309233500 +0000" stop="20180310000000 +0000">
+  <programme channel="tv.56" start="20180309233000 +0000" stop="20180310000000 +0000">
     <title>The Great Controversy</title>
     <desc>What drove the legendary reformers such as Luther and Huss to sacrifice so much, even their lives? John Bradshaw and the Fountainview musicians share music and powerful reformation stories still rel</desc>
     <episode-num system="dd_progid">GRTCONTROVx05</episode-num>
@@ -31985,9 +32075,9 @@
     </rating>
   </programme>
   <programme channel="tv.56" start="20180310203000 +0000" stop="20180310210000 +0000">
-    <title>Help I'm A Parent</title>
-    <desc></desc>
-    <episode-num system="dd_progid">HIAPARENT01x01</episode-num>
+    <title>Lifestyle Magazine</title>
+    <desc>Professional sports offer the ultimate display of fitness and athletic ability. Today we'll take a look at the unhealthy side of sports with ESPN's sports analyst - Stephen A. Smith</desc>
+    <episode-num system="dd_progid">LIFEMAGx2401</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -32058,7 +32148,7 @@
   </programme>
   <programme channel="tv.56" start="20180311020000 +0000" stop="20180311023000 +0000">
     <title>Chosen</title>
-    <desc></desc>
+    <desc>If you have ever felt unloved, abandoned, and not wanted, discover through the story of Leah that God does love you, and you are important.</desc>
     <episode-num system="dd_progid">JESUS101xC02</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -32129,7 +32219,7 @@
     </rating>
   </programme>
   <programme channel="tv.56" start="20180311070000 +0000" stop="20180311080000 +0000">
-    <title>Documentary</title>
+    <title>Biography</title>
     <desc>The story of John Bunyan, who survived the horrific English Civil War, only to be jailed during an era of religious persecution. From his jail he wrote his great allegory of the Christian life.</desc>
     <episode-num system="dd_progid">HOPESPECIALx42</episode-num>
     <rating system="Freeview">
