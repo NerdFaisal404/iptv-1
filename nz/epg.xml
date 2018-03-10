@@ -4794,6 +4794,9 @@
     <title>Married At First Sight Australia</title>
     <desc>New Episode. Our brides and grooms face revealing one-on-ones with their partner's loved ones, and a boys-only night turns ugly. S5 Ep23</desc>
     <episode-num system="dd_progid">T816149</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180313080000 +0000" stop="20180313090000 +0000">
     <title>SVU: Special Victims Unit</title>
@@ -4893,6 +4896,9 @@
     <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. Our brides and grooms face revealing one-on-ones with their partner's loved ones, and a boys-only night turns ugly. S5 Ep23</desc>
     <episode-num system="dd_progid">T816149</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180314020000 +0000" stop="20180314023000 +0000">
     <title>Entertainment Tonight</title>
@@ -5427,6 +5433,9 @@
     <title>Fish Called Wanda, A</title>
     <desc>In London, four very different people team up to commit armed robbery, then try to doublecross each other for the loot. Starring John Cleese, Jamie Lee Curtis, and Kevin Kline. (1988)</desc>
     <episode-num system="dd_progid">T223215</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
@@ -13152,6 +13161,9 @@
     <title>Married At First Sight Australia</title>
     <desc>New Episode. Our brides and grooms face revealing one-on-ones with their partner's loved ones, and a boys-only night turns ugly. S5 Ep23</desc>
     <episode-num system="dd_progid">T816149</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180313090000 +0000" stop="20180313100000 +0000">
     <title>SVU: Special Victims Unit</title>
@@ -13245,6 +13257,9 @@
     <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. Our brides and grooms face revealing one-on-ones with their partner's loved ones, and a boys-only night turns ugly. S5 Ep23</desc>
     <episode-num system="dd_progid">T816149</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180314030000 +0000" stop="20180314033000 +0000">
     <title>Entertainment Tonight</title>
