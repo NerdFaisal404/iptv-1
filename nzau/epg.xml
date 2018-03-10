@@ -1595,6 +1595,9 @@
     <title>Restoration Man</title>
     <desc>A year and a half after Neil Worrell and Jackie Robinson moved into the old Fisherman’s Church in Brixham, George returns to Devon to see how the restoration changed their lives beyond recognition.</desc>
     <episode-num system="dd_progid">10411247</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180317015000 +0000" stop="20180317025500 +0000">
     <title>The Aussie Property Flippers</title>
@@ -2855,6 +2858,9 @@
     <title>Fanimals</title>
     <desc>Today Jess heads to the SPCA to adopt our cute kittens Micro and Chip, our Ask Me Anything Vet Stacey is here to answer all your canine questions, and you could win on 'Trick for Treat'!</desc>
     <episode-num system="dd_progid">10513027</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180313033000 +0000" stop="20180313040000 +0000">
     <title>Friends</title>
@@ -3834,6 +3840,9 @@
     <title>Chuggington: Little Trainees</title>
     <desc>Follow the humorous adventures of Koko, Wilson and Brewster, three trainee engines each with their own unique personality!</desc>
     <episode-num system="dd_progid">10498032</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180316023500 +0000" stop="20180316030000 +0000">
     <title>Marvel's Guardians Of The Galaxy</title>
@@ -3910,6 +3919,9 @@
     <title>The Crystal Maze</title>
     <desc>Where does reality end and fantasy begin in this mind-boggling game show? Contestants compete in physical, mental and mystery challenges; only the best will make it...</desc>
     <episode-num system="dd_progid">10499257</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180316073500 +0000" stop="20180316083500 +0000">
     <title>Will &amp; Grace</title>
@@ -3955,6 +3967,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180316120500 +0000" stop="20180316123000 +0000">
     <title>Shortland Street</title>
@@ -10282,6 +10297,9 @@
     <title>Restoration Man</title>
     <desc>A year and a half after Neil Worrell and Jackie Robinson moved into the old Fisherman’s Church in Brixham, George returns to Devon to see how the restoration changed their lives beyond recognition.</desc>
     <episode-num system="dd_progid">10411247</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180317025000 +0000" stop="20180317035500 +0000">
     <title>The Aussie Property Flippers</title>
@@ -11391,6 +11409,9 @@
     <title>Fanimals</title>
     <desc>Today Jess heads to the SPCA to adopt our cute kittens Micro and Chip, our Ask Me Anything Vet Stacey is here to answer all your canine questions, and you could win on 'Trick for Treat'!</desc>
     <episode-num system="dd_progid">10513027</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180313043000 +0000" stop="20180313050000 +0000">
     <title>Friends</title>
@@ -12256,6 +12277,9 @@
     <title>Chuggington: Little Trainees</title>
     <desc>Follow the humorous adventures of Koko, Wilson and Brewster, three trainee engines each with their own unique personality!</desc>
     <episode-num system="dd_progid">10498032</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180316033500 +0000" stop="20180316040000 +0000">
     <title>Marvel's Guardians Of The Galaxy</title>
@@ -12320,6 +12344,9 @@
     <title>The Crystal Maze</title>
     <desc>Where does reality end and fantasy begin in this mind-boggling game show? Contestants compete in physical, mental and mystery challenges; only the best will make it...</desc>
     <episode-num system="dd_progid">10499257</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180316083500 +0000" stop="20180316093500 +0000">
     <title>Will &amp; Grace</title>
@@ -65498,17 +65525,17 @@
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180313183000 +0000" stop="20180313190000 +0000">
-    <title>Counting Cars</title>
-    <episode-num system="dd_progid">qLnbu3aNltaPmdeH</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020523" start="20180313183000 +0000" stop="20180313190000 +0000">
     <title>Bar Hunters</title>
     <episode-num system="dd_progid">q2fssdaOltaPmdaM</episode-num>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020523" start="20180313183000 +0000" stop="20180313190000 +0000">
+    <title>Counting Cars</title>
+    <episode-num system="dd_progid">qLnbu3aNltaPmdeH</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180313190000 +0000" stop="20180313193000 +0000">
@@ -65931,16 +65958,16 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180315120300 +0000" stop="20180315125900 +0000">
-    <title>Ice Road Truckers</title>
-    <episode-num system="dd_progid">sunfu3aHltaPmdaN</episode-num>
+  <programme channel="tv.101305020523" start="20180315120300 +0000" stop="20180315130000 +0000">
+    <title>Graveyard Carz</title>
+    <episode-num system="dd_progid">rKjbqMaLltaPmdaL</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180315120300 +0000" stop="20180315130000 +0000">
-    <title>Graveyard Carz</title>
-    <episode-num system="dd_progid">rKjbqMaLltaPmdaL</episode-num>
+  <programme channel="tv.101305020523" start="20180315120300 +0000" stop="20180315125900 +0000">
+    <title>Ice Road Truckers</title>
+    <episode-num system="dd_progid">sunfu3aHltaPmdaN</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
