@@ -54885,6 +54885,9 @@
   <programme channel="tv.101204200421" start="20180313144400 +0000" stop="20180313151300 +0000">
     <title>Surfing Australia TV</title>
     <episode-num system="dd_progid">SUAU_3_2</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.101204200421" start="20180313151300 +0000" stop="20180313153900 +0000">
     <title>Extra</title>
@@ -61417,17 +61420,17 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20180311080000 +0000" stop="20180311093700 +0000">
-    <title>Australian Spartan</title>
-    <episode-num system="dd_progid">uKbbu3aOltaPmdaM</episode-num>
+  <programme channel="tv.101305020520" start="20180311080000 +0000" stop="20180311093000 +0000">
+    <title>My Kitchen Rules</title>
+    <episode-num system="dd_progid">tv1lu3aGltaPmdiJ</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20180311080000 +0000" stop="20180311093000 +0000">
-    <title>My Kitchen Rules</title>
-    <episode-num system="dd_progid">tv1lu3aGltaPmdiJ</episode-num>
+  <programme channel="tv.101305020520" start="20180311080000 +0000" stop="20180311093700 +0000">
+    <title>Australian Spartan</title>
+    <episode-num system="dd_progid">uKbbu3aOltaPmdaM</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>

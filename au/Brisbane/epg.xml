@@ -12256,6 +12256,9 @@
   <programme channel="tv.101204000401" start="20180313154400 +0000" stop="20180313161300 +0000">
     <title>Surfing Australia TV</title>
     <episode-num system="dd_progid">SUAU_3_2</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.101204000401" start="20180313161300 +0000" stop="20180313163900 +0000">
     <title>Extra</title>
@@ -26042,6 +26045,13 @@
   </programme>
   <programme channel="tv.101305040545" start="20180312103000 +0000" stop="20180312105800 +0000">
     <title>How I Met Your Mother</title>
+    <episode-num system="dd_progid">seKzttiSmdaPmdmx</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305040545" start="20180312103000 +0000" stop="20180312105800 +0000">
+    <title>How I Met Your Mother</title>
     <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
@@ -26050,13 +26060,6 @@
   <programme channel="tv.101305040545" start="20180312103000 +0000" stop="20180312110000 +0000">
     <title>How I Met Your Mother</title>
     <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305040545" start="20180312103000 +0000" stop="20180312105800 +0000">
-    <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKzttiSmdaPmdmx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -26092,14 +26095,14 @@
   </programme>
   <programme channel="tv.101305040545" start="20180312122500 +0000" stop="20180312125400 +0000">
     <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKzttiSmdaPmdmx</episode-num>
+    <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305040545" start="20180312122500 +0000" stop="20180312125400 +0000">
     <title>How I Met Your Mother</title>
-    <episode-num system="dd_progid">seKzttiSmdaPmdqx</episode-num>
+    <episode-num system="dd_progid">seKzttiSmdaPmdmx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
