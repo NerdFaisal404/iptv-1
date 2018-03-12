@@ -3124,6 +3124,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180316030000 +0000" stop="20180316033000 +0000">
     <title>Fanimals</title>
@@ -3227,6 +3230,12 @@
     <title>The X-Files</title>
     <desc>S2 E9 While investigating human organ theft, Mulder and Scully uncover a mysterious cult consumed with macabre rituals.</desc>
     <episode-num system="dd_progid">10494421</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180316111500 +0000" stop="20180316114000 +0000">
     <title>Scrubs</title>
@@ -3735,6 +3744,12 @@
     <title>Mike &amp; Molly</title>
     <desc>S6 E3 After Peg suffers a heart attack after an intense argument with Molly, Mike blames his wife, who immediately sets out to make amends.</desc>
     <episode-num system="dd_progid">10421582</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180318013000 +0000" stop="20180318040000 +0000">
     <title>Home And Away</title>
@@ -11610,6 +11625,9 @@
     <title>Marvel's Guardians Of The Galaxy</title>
     <desc>When the Nova Corps catch up with the Guardians and Sam, the fight is taken to Sam’s hometown.</desc>
     <episode-num system="dd_progid">10497144</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180316040000 +0000" stop="20180316043000 +0000">
     <title>Fanimals</title>
@@ -11701,6 +11719,9 @@
     <title>The X-Files</title>
     <desc>S2 E9 While investigating human organ theft, Mulder and Scully uncover a mysterious cult consumed with macabre rituals.</desc>
     <episode-num system="dd_progid">10494421</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180316121500 +0000" stop="20180316124000 +0000">
     <title>Scrubs</title>
@@ -12140,6 +12161,9 @@
     <title>Mike &amp; Molly</title>
     <desc>S6 E3 After Peg suffers a heart attack after an intense argument with Molly, Mike blames his wife, who immediately sets out to make amends.</desc>
     <episode-num system="dd_progid">10421582</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180318023000 +0000" stop="20180318050000 +0000">
     <title>Home And Away</title>
@@ -19331,7 +19355,7 @@
     <episode-num system="dd_progid">10511215#1</episode-num>
   </programme>
   <programme channel="tv.55" start="20180312034500 +0000" stop="20180312042500 +0000">
-    <title>Paralympics - Curling</title>
+    <title>Paralympics - Men's Cross Country</title>
     <desc>Replay of Wheelchair Curling from the Gangneung Curling Centre in PyeongChang, South Korea. Coverage supported by NZ On Air.</desc>
     <episode-num system="dd_progid">10511280</episode-num>
   </programme>
@@ -19485,12 +19509,12 @@
     <desc>Day 4 highlights from the XII Paralympic Winter Games from PyeongChang, South Korea.</desc>
     <episode-num system="dd_progid">10511312</episode-num>
   </programme>
-  <programme channel="tv.55" start="20180314002500 +0000" stop="20180314033000 +0000">
+  <programme channel="tv.55" start="20180314002500 +0000" stop="20180314022500 +0000">
     <title>Live: Paralympics Mens Slalom</title>
     <desc>Live coverage of the Alpine Skiing Slalom as Kiwi Adam Hall has his first run at the Jeongseon Alpine Centre in PyeongChang, South Korea.</desc>
     <episode-num system="dd_progid">10511220</episode-num>
   </programme>
-  <programme channel="tv.55" start="20180314033000 +0000" stop="20180314045500 +0000">
+  <programme channel="tv.55" start="20180314022500 +0000" stop="20180314045500 +0000">
     <title>Paralympics - Curling</title>
     <desc>Coverage of the Wheelchair Curling match between Germany and Great Britain from the Gangneung Curling Centre in PyeongChang, South Korea.</desc>
     <episode-num system="dd_progid">10511265</episode-num>
@@ -19501,7 +19525,7 @@
     <episode-num system="dd_progid">10511221</episode-num>
   </programme>
   <programme channel="tv.55" start="20180314063000 +0000" stop="20180314073000 +0000">
-    <title>Paralympics - Curling</title>
+    <title>Paralympics - X Country</title>
     <desc>Coverage continues of the Wheelchair Curling match between Germany and Great Britain from the Gangneung Curling Centre in PyeongChang, South Korea.</desc>
     <episode-num system="dd_progid">10511266</episode-num>
   </programme>
@@ -19567,7 +19591,7 @@
     <episode-num system="dd_progid">10511313</episode-num>
   </programme>
   <programme channel="tv.55" start="20180315002500 +0000" stop="20180315030000 +0000">
-    <title>Live: Paralympics Curling</title>
+    <title>Live: Paralympics - Curling</title>
     <desc>Live coverage of Wheelchair Curling with Switzerland playing the Neutral Paralympic Athletes from the Gangneung Curling Centre in PyeongChang, South Korea.</desc>
     <episode-num system="dd_progid">10511223</episode-num>
   </programme>
