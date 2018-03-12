@@ -4280,7 +4280,7 @@
   </programme>
   <programme channel="tv.11" start="20180312060000 +0000" stop="20180312063000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Kanoa, Jesse and Josh are joined by guest host Jeremy Corbett and speak to actor Freddie Highmore live in studio. Plus, the dangers of high speed police pursuits and UFO sightings in NZ.</desc>
     <episode-num system="dd_progid">T806433</episode-num>
   </programme>
   <programme channel="tv.11" start="20180312063000 +0000" stop="20180312080000 +0000">
@@ -4449,7 +4449,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180313080000 +0000" stop="20180313090000 +0000">
+  <programme channel="tv.11" start="20180313080000 +0000" stop="20180313085500 +0000">
     <title>SVU: Special Victims Unit</title>
     <desc>New Episode. When a teenage girl is found dead, Rollins goes undercover at a high-end rehab centre where the victim was last seen. Benson tries to overcome her doubts about Sheila. S19 Ep6</desc>
     <episode-num system="dd_progid">T786971</episode-num>
@@ -4460,7 +4460,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180313090000 +0000" stop="20180313093000 +0000">
+  <programme channel="tv.11" start="20180313085500 +0000" stop="20180313092500 +0000">
     <title>Road Cops</title>
     <desc>An out of control driver rams two police cars, the law catches up to a speeding drunk motorcyclist, and trucking chaos shuts down a motorway, but who is to blame? S4 Ep5</desc>
     <episode-num system="dd_progid">T504575</episode-num>
@@ -4468,12 +4468,12 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180313093000 +0000" stop="20180313100000 +0000">
+  <programme channel="tv.11" start="20180313092500 +0000" stop="20180313095500 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
     <episode-num system="dd_progid">T805537</episode-num>
   </programme>
-  <programme channel="tv.11" start="20180313100000 +0000" stop="20180313110000 +0000">
+  <programme channel="tv.11" start="20180313095500 +0000" stop="20180313105500 +0000">
     <title>The Blacklist</title>
     <desc>New Episode. As Liz works a new angle in tracking Tom's killers, Red looks to find a creative solution to a tax issue in his money laundering operation. S5 Ep15</desc>
     <episode-num system="dd_progid">T785689</episode-num>
@@ -4484,7 +4484,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180313110000 +0000" stop="20180313160000 +0000">
+  <programme channel="tv.11" start="20180313105500 +0000" stop="20180313160000 +0000">
     <title>Infomercials</title>
     <desc></desc>
     <episode-num system="dd_progid">T1</episode-num>
@@ -4602,11 +4602,17 @@
     <title>Married At First Sight Australia</title>
     <desc>New Episode. At the dinner party to end all dinner parties, Charlene and Patrick unleash hell on the group over the events from boy's night. S5 Ep24</desc>
     <episode-num system="dd_progid">T816150</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180314075500 +0000" stop="20180314090000 +0000">
     <title>Weinstein: The Inside Story</title>
-    <desc></desc>
+    <desc>Harvey Weinstein was once one of the most successful producers in Hollywood history, but beneath the glitz and glamour, there was a dark story of threats, bullying and allegations of sexual assault.</desc>
     <episode-num system="dd_progid">T825768</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180314090000 +0000" stop="20180314093000 +0000">
     <title>Towies</title>
@@ -4695,6 +4701,9 @@
     <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. At the dinner party to end all dinner parties, Charlene and Patrick unleash hell on the group over the events from boy's night. S5 Ep24</desc>
     <episode-num system="dd_progid">T816150</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180315020000 +0000" stop="20180315023000 +0000">
     <title>Entertainment Tonight</title>
@@ -4902,7 +4911,7 @@
   </programme>
   <programme channel="tv.11" start="20180316080000 +0000" stop="20180316084500 +0000">
     <title>7 Days</title>
-    <desc>Hosted by Jeremy Corbett, with team captains Dai Henwood and Paul Ego, 7 Days sees New Zealand's top comedians pit their wits against the week's news and each other.</desc>
+    <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Urzila Carlson, Chopper, Alice Snedden and Rhys Mathewson.</desc>
     <episode-num system="dd_progid">T798513</episode-num>
   </programme>
   <programme channel="tv.11" start="20180316084500 +0000" stop="20180316091500 +0000">
@@ -5063,7 +5072,7 @@
   </programme>
   <programme channel="tv.11" start="20180317060000 +0000" stop="20180317065500 +0000">
     <title>Survivor: Ghost Island</title>
-    <desc>New Episode. Brand new episode of Survivor Ghost Island fast-tracked from the States. S36 Ep4</desc>
+    <desc>New Episode. The castaways get physical during a classic water challenge, and a pair of players on the outs try to shake things up. S36 Ep4</desc>
     <episode-num system="dd_progid">T784690</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -5358,7 +5367,7 @@
   </programme>
   <programme channel="tv.11" start="20180319063000 +0000" stop="20180319080500 +0000">
     <title>Married At First Sight Australia</title>
-    <desc>Australia's most controversial social experiment is back. Married at First Sight Australia sees 22 strangers matched by experts to make 11 couples whom meet for the first time on their wedding day.</desc>
+    <desc>New Episode. The final week of the experiment presents a new element; the One on Ones, as the final dates kick off before the couples make their decision whether or not to renew their vows. S5 Ep26</desc>
     <episode-num system="dd_progid">T816152</episode-num>
   </programme>
   <programme channel="tv.11" start="20180319080500 +0000" stop="20180319090000 +0000">
@@ -12632,7 +12641,7 @@
   </programme>
   <programme channel="tv.27" start="20180312070000 +0000" stop="20180312073000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Kanoa, Jesse and Josh are joined by guest host Jeremy Corbett and speak to actor Freddie Highmore live in studio. Plus, the dangers of high speed police pursuits and UFO sightings in NZ.</desc>
     <episode-num system="dd_progid">T806433</episode-num>
   </programme>
   <programme channel="tv.27" start="20180312073000 +0000" stop="20180312090000 +0000">
@@ -12801,7 +12810,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180313090000 +0000" stop="20180313100000 +0000">
+  <programme channel="tv.27" start="20180313090000 +0000" stop="20180313095500 +0000">
     <title>SVU: Special Victims Unit</title>
     <desc>New Episode. When a teenage girl is found dead, Rollins goes undercover at a high-end rehab centre where the victim was last seen. Benson tries to overcome her doubts about Sheila. S19 Ep6</desc>
     <episode-num system="dd_progid">T786971</episode-num>
@@ -12809,7 +12818,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180313100000 +0000" stop="20180313103000 +0000">
+  <programme channel="tv.27" start="20180313095500 +0000" stop="20180313102500 +0000">
     <title>Road Cops</title>
     <desc>An out of control driver rams two police cars, the law catches up to a speeding drunk motorcyclist, and trucking chaos shuts down a motorway, but who is to blame? S4 Ep5</desc>
     <episode-num system="dd_progid">T504575</episode-num>
@@ -12817,12 +12826,12 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180313103000 +0000" stop="20180313110000 +0000">
+  <programme channel="tv.27" start="20180313102500 +0000" stop="20180313105500 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
     <episode-num system="dd_progid">T805537</episode-num>
   </programme>
-  <programme channel="tv.27" start="20180313110000 +0000" stop="20180313120000 +0000">
+  <programme channel="tv.27" start="20180313105500 +0000" stop="20180313115500 +0000">
     <title>The Blacklist</title>
     <desc>New Episode. As Liz works a new angle in tracking Tom's killers, Red looks to find a creative solution to a tax issue in his money laundering operation. S5 Ep15</desc>
     <episode-num system="dd_progid">T785689</episode-num>
@@ -12830,7 +12839,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180313120000 +0000" stop="20180313170000 +0000">
+  <programme channel="tv.27" start="20180313115500 +0000" stop="20180313170000 +0000">
     <title>Infomercials</title>
     <desc></desc>
     <episode-num system="dd_progid">T1</episode-num>
@@ -12948,11 +12957,17 @@
     <title>Married At First Sight Australia</title>
     <desc>New Episode. At the dinner party to end all dinner parties, Charlene and Patrick unleash hell on the group over the events from boy's night. S5 Ep24</desc>
     <episode-num system="dd_progid">T816150</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180314085500 +0000" stop="20180314100000 +0000">
     <title>Weinstein: The Inside Story</title>
-    <desc></desc>
+    <desc>Harvey Weinstein was once one of the most successful producers in Hollywood history, but beneath the glitz and glamour, there was a dark story of threats, bullying and allegations of sexual assault.</desc>
     <episode-num system="dd_progid">T825768</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180314100000 +0000" stop="20180314103000 +0000">
     <title>Towies</title>
@@ -13038,6 +13053,9 @@
     <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. At the dinner party to end all dinner parties, Charlene and Patrick unleash hell on the group over the events from boy's night. S5 Ep24</desc>
     <episode-num system="dd_progid">T816150</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180315030000 +0000" stop="20180315033000 +0000">
     <title>Entertainment Tonight</title>
@@ -13239,7 +13257,7 @@
   </programme>
   <programme channel="tv.27" start="20180316090000 +0000" stop="20180316094500 +0000">
     <title>7 Days</title>
-    <desc>Hosted by Jeremy Corbett, with team captains Dai Henwood and Paul Ego, 7 Days sees New Zealand's top comedians pit their wits against the week's news and each other.</desc>
+    <desc>New Episode. Host Jeremy Corbett and team leaders Paul Ego and Dai Henwood are joined by fellow comedians Urzila Carlson, Chopper, Alice Snedden and Rhys Mathewson.</desc>
     <episode-num system="dd_progid">T798513</episode-num>
   </programme>
   <programme channel="tv.27" start="20180316094500 +0000" stop="20180316101500 +0000">
@@ -13385,7 +13403,7 @@
   </programme>
   <programme channel="tv.27" start="20180317070000 +0000" stop="20180317075500 +0000">
     <title>Survivor: Ghost Island</title>
-    <desc>New Episode. Brand new episode of Survivor Ghost Island fast-tracked from the States. S36 Ep4</desc>
+    <desc>New Episode. The castaways get physical during a classic water challenge, and a pair of players on the outs try to shake things up. S36 Ep4</desc>
     <episode-num system="dd_progid">T784690</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -13671,7 +13689,7 @@
   </programme>
   <programme channel="tv.27" start="20180319073000 +0000" stop="20180319090500 +0000">
     <title>Married At First Sight Australia</title>
-    <desc>Australia's most controversial social experiment is back. Married at First Sight Australia sees 22 strangers matched by experts to make 11 couples whom meet for the first time on their wedding day.</desc>
+    <desc>New Episode. The final week of the experiment presents a new element; the One on Ones, as the final dates kick off before the couples make their decision whether or not to renew their vows. S5 Ep26</desc>
     <episode-num system="dd_progid">T816152</episode-num>
   </programme>
   <programme channel="tv.27" start="20180319090500 +0000" stop="20180319100000 +0000">
@@ -16986,9 +17004,9 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180313063000 +0000" stop="20180313070000 +0000">
-    <title>This vs That 51</title>
-    <desc></desc>
-    <episode-num system="dd_progid">T575897</episode-num>
+    <title>This vs That</title>
+    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - Coldplay vs One Republic</desc>
+    <episode-num system="dd_progid">T575887</episode-num>
   </programme>
   <programme channel="tv.51" start="20180313070000 +0000" stop="20180313080000 +0000">
     <title>Top 10</title>
@@ -17093,9 +17111,9 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180314063000 +0000" stop="20180314070000 +0000">
-    <title>This vs That 52</title>
-    <desc></desc>
-    <episode-num system="dd_progid">T575898</episode-num>
+    <title>This vs That</title>
+    <desc>Music vids battle head to head - today, it's Aussie vs USA!</desc>
+    <episode-num system="dd_progid">T575891</episode-num>
   </programme>
   <programme channel="tv.51" start="20180314070000 +0000" stop="20180314080000 +0000">
     <title>Top 10</title>
@@ -17200,9 +17218,9 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180315063000 +0000" stop="20180315070000 +0000">
-    <title>This vs That 53</title>
-    <desc></desc>
-    <episode-num system="dd_progid">T575899</episode-num>
+    <title>This vs That</title>
+    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - Fast vs Slow</desc>
+    <episode-num system="dd_progid">T575865</episode-num>
   </programme>
   <programme channel="tv.51" start="20180315070000 +0000" stop="20180315080000 +0000">
     <title>Top 10</title>
@@ -17307,9 +17325,9 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180316063000 +0000" stop="20180316070000 +0000">
-    <title>This vs That 54</title>
-    <desc></desc>
-    <episode-num system="dd_progid">T575900</episode-num>
+    <title>Party vs Chill</title>
+    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - Party vs Chill</desc>
+    <episode-num system="dd_progid">T575966</episode-num>
   </programme>
   <programme channel="tv.51" start="20180316070000 +0000" stop="20180316080000 +0000">
     <title>Top 10</title>
@@ -17365,9 +17383,9 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180316210000 +0000" stop="20180317000000 +0000">
-    <title>Edge Fat 40, The</title>
+    <title>The Edge Fresh 40</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T817385</episode-num>
   </programme>
   <programme channel="tv.51" start="20180317000000 +0000" stop="20180317030000 +0000">
     <title>All The Hits</title>
@@ -17586,9 +17604,9 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180319063000 +0000" stop="20180319070000 +0000">
-    <title>This vs That 55</title>
-    <desc></desc>
-    <episode-num system="dd_progid">T575901</episode-num>
+    <title>Top 10</title>
+    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - Bieber vs 1D</desc>
+    <episode-num system="dd_progid">T575882</episode-num>
   </programme>
   <programme channel="tv.51" start="20180319070000 +0000" stop="20180319080000 +0000">
     <title>Top 10</title>
