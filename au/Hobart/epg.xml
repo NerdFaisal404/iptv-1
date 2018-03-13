@@ -12503,7 +12503,7 @@
     <title>Dream Job</title>
     <episode-num system="dd_progid">DRJO_1_8</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204300430" start="20180317060000 +0000" stop="20180317063000 +0000">
@@ -23049,15 +23049,15 @@
     </rating>
   </programme>
   <programme channel="tv.101305030532" start="20180316113000 +0000" stop="20180316123000 +0000">
-    <title>Property Ladder</title>
-    <episode-num system="dd_progid">ufjmvtaIltaPmdaL</episode-num>
+    <title>The House That 100k Built</title>
+    <episode-num system="dd_progid">seCuq3aMltaPmdaN</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305030532" start="20180316113000 +0000" stop="20180316123000 +0000">
-    <title>The House That 100k Built</title>
-    <episode-num system="dd_progid">seCuq3aMltaPmdaN</episode-num>
+    <title>Property Ladder</title>
+    <episode-num system="dd_progid">ufjmvtaIltaPmdaL</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -36011,17 +36011,17 @@
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180314090000 +0000" stop="20180314093000 +0000">
-    <title>Travel Man</title>
-    <episode-num system="dd_progid">851715</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000302" start="20180314090000 +0000" stop="20180314093000 +0000">
     <title>Gadget Man</title>
     <episode-num system="dd_progid">896079</episode-num>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180314090000 +0000" stop="20180314093000 +0000">
+    <title>Travel Man</title>
+    <episode-num system="dd_progid">851715</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180314093000 +0000" stop="20180314103000 +0000">
