@@ -790,6 +790,22 @@
             "sample_rate": "44100"
         }
     },
+    "radio.ih.7820": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7820.png",
+        "name": "TE PATU MANAWA",
+        "description": "PALMYS PHATTEST MUSIC",
+        "genres": [
+            "Hip Hop and R&B",
+            "R&B",
+            "Reggae & Island"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.7820.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
     "radio.ih.7072": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7072.png",
         "name": "Chinese Voice",

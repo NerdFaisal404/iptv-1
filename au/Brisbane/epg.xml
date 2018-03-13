@@ -21602,19 +21602,19 @@
     </rating>
   </programme>
   <programme channel="tv.101305040540" start="20180318132100 +0000" stop="20180318142200 +0000">
-    <title>World's Deadliest Weather</title>
-    <episode-num system="dd_progid">vLrxqMaOltaPmdaI</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305040540" start="20180318132100 +0000" stop="20180318142200 +0000">
     <title>Blindspot</title>
     <episode-num system="dd_progid">q2rtudaMltaPmdaM</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305040540" start="20180318132100 +0000" stop="20180318142200 +0000">
+    <title>World's Deadliest Weather</title>
+    <episode-num system="dd_progid">vLrxqMaOltaPmdaI</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305040540" start="20180318142200 +0000" stop="20180318152200 +0000">
@@ -24453,16 +24453,16 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040543" start="20180315130300 +0000" stop="20180315135900 +0000">
-    <title>Ice Road Truckers</title>
-    <episode-num system="dd_progid">sunfu3aHltaPmdaN</episode-num>
+  <programme channel="tv.101305040543" start="20180315130300 +0000" stop="20180315140000 +0000">
+    <title>Graveyard Carz</title>
+    <episode-num system="dd_progid">rKjbqMaLltaPmdaL</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040543" start="20180315130300 +0000" stop="20180315140000 +0000">
-    <title>Graveyard Carz</title>
-    <episode-num system="dd_progid">rKjbqMaLltaPmdaL</episode-num>
+  <programme channel="tv.101305040543" start="20180315130300 +0000" stop="20180315135900 +0000">
+    <title>Ice Road Truckers</title>
+    <episode-num system="dd_progid">sunfu3aHltaPmdaN</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -35674,17 +35674,17 @@
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180314090000 +0000" stop="20180314093000 +0000">
-    <title>Travel Man</title>
-    <episode-num system="dd_progid">851715</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000302" start="20180314090000 +0000" stop="20180314093000 +0000">
     <title>Gadget Man</title>
     <episode-num system="dd_progid">896079</episode-num>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180314090000 +0000" stop="20180314093000 +0000">
+    <title>Travel Man</title>
+    <episode-num system="dd_progid">851715</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180314093000 +0000" stop="20180314103000 +0000">
