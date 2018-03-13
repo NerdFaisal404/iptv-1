@@ -11639,6 +11639,9 @@
     <title>The Checkout</title>
     <episode-num system="dd_progid">LE1718H008S00</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.101002410241" start="20180320103100 +0000" stop="20180320113100 +0000">
     <title>The Human Body: Secrets of Your Life Revealed</title>
@@ -12743,7 +12746,7 @@
     <title>Dream Job</title>
     <episode-num system="dd_progid">DRJO_1_8</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204000401" start="20180318160000 +0000" stop="20180318163000 +0000">
@@ -13007,6 +13010,9 @@
     <title>Married at First Sight</title>
     <episode-num system="dd_progid">MAAT_5_30</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.101204000401" start="20180320050000 +0000" stop="20180320060000 +0000">
     <title>Nine News Now</title>
@@ -13052,10 +13058,16 @@
     <title>Married at First Sight</title>
     <episode-num system="dd_progid">MAAT_5_31</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.101204000401" start="20180320110000 +0000" stop="20180320113000 +0000">
     <title>Date Night</title>
     <episode-num system="dd_progid">DANI1_1_6</episode-num>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
   </programme>
   <programme channel="tv.101204000401" start="20180320113000 +0000" stop="20180320134500 +0000">
     <title>Something Borrowed</title>
@@ -18080,7 +18092,7 @@
   </programme>
   <programme channel="tv.10120400040B" start="20180318144500 +0000" stop="20180318150000 +0000">
     <title>Superjail</title>
-    <episode-num system="dd_progid">SUJA_1_1</episode-num>
+    <episode-num system="dd_progid">SUJA_1_100</episode-num>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
@@ -42893,10 +42905,10 @@
   </programme>
   <programme channel="tv.320203000305" start="20180320090000 +0000" stop="20180320093000 +0000">
     <title>Chappelle's Show</title>
-    <episode-num system="dd_progid">760621</episode-num>
+    <episode-num system="dd_progid">760622</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>MA</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20180320093000 +0000" stop="20180320103000 +0000">
