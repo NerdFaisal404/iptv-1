@@ -21842,19 +21842,19 @@
     </rating>
   </programme>
   <programme channel="tv.101305050550" start="20180318125100 +0000" stop="20180318135200 +0000">
-    <title>World's Deadliest Weather</title>
-    <episode-num system="dd_progid">vLrxqMaOltaPmdaI</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305050550" start="20180318125100 +0000" stop="20180318135200 +0000">
     <title>Blindspot</title>
     <episode-num system="dd_progid">q2rtudaMltaPmdaM</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050550" start="20180318125100 +0000" stop="20180318135200 +0000">
+    <title>World's Deadliest Weather</title>
+    <episode-num system="dd_progid">vLrxqMaOltaPmdaI</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305050550" start="20180318135200 +0000" stop="20180318145200 +0000">
