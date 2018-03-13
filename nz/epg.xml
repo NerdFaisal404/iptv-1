@@ -4237,7 +4237,7 @@
   </programme>
   <programme channel="tv.11" start="20180313060000 +0000" stop="20180313063000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Kanoa, Jesse and Josh are joined by guest host Louise Wallace, 'First Man' Clarke Gayford, and talk to most controversial groom from Married at First Sight Australia, Dean.</desc>
     <episode-num system="dd_progid">T806434</episode-num>
   </programme>
   <programme channel="tv.11" start="20180313063000 +0000" stop="20180313080000 +0000">
@@ -4407,7 +4407,7 @@
   </programme>
   <programme channel="tv.11" start="20180314075500 +0000" stop="20180314090000 +0000">
     <title>Weinstein: The Inside Story</title>
-    <desc>Harvey Weinstein was once one of the most successful producers in Hollywood history, but beneath the glitz and glamour, there was a dark story of threats, bullying and allegations of sexual assault.</desc>
+    <desc>This documentary charts the rise and fall of movie producer Harvey Weinstein, examining how the disgraced Hollywood mogul got away with horrific abuse and harassment for over four decades.</desc>
     <episode-num system="dd_progid">T825768</episode-num>
     <rating system="Freeview">
       <value>AO</value>
@@ -4983,30 +4983,25 @@
     <desc></desc>
     <episode-num system="dd_progid">T445432</episode-num>
   </programme>
-  <programme channel="tv.11" start="20180318000100 +0000" stop="20180318003000 +0000">
-    <title>Formula E Street Racers #9</title>
-    <desc>Street Racers is a feature magazine show about the FIA Formula E Championship. It takes you behind the scenes and presents exclusive interviews and reports on topics related to Formula E racing.</desc>
-    <episode-num system="dd_progid">T800955</episode-num>
-  </programme>
-  <programme channel="tv.11" start="20180318003000 +0000" stop="20180318013000 +0000">
+  <programme channel="tv.11" start="20180318000100 +0000" stop="20180318010000 +0000">
     <title>NZV8 Ute Racing Series Rnd 3 Hampton Downs</title>
-    <desc>The NZV8 Utes series heads to Hampton Downs for the third round of the championship this season.</desc>
+    <desc>The NZV8 Utes heads to Hampton Downs for the third round of the championship this season. The class is seeing increasing fields and entries and Hampton Downs will be vital for drivers to score points.</desc>
     <episode-num system="dd_progid">T803969</episode-num>
   </programme>
-  <programme channel="tv.11" start="20180318013000 +0000" stop="20180318020000 +0000">
-    <title>Muscle Garage Series 2 #5</title>
-    <desc>Teng Tools Muscle Garage is a show about Kiwis and some of our very best muscle car rides! If you're into horsepower, sweet rides and muscle then this is the show for you.</desc>
-    <episode-num system="dd_progid">T817811</episode-num>
+  <programme channel="tv.11" start="20180318010000 +0000" stop="20180318020000 +0000">
+    <title>WRC Rnd 3 Mexico</title>
+    <desc>The FIA World Rally Championship puts drivers and production-based cars against some of the toughest and most varied conditions on the planet.</desc>
+    <episode-num system="dd_progid">T815929</episode-num>
   </programme>
   <programme channel="tv.11" start="20180318020000 +0000" stop="20180318030000 +0000">
     <title>NZ Touring Cars Rnd 6 Hampton Downs</title>
-    <desc>The final round of the 2017/18 season for the BNT V8's and both classes will battle to the wire as the championship wraps up at Hampton Downs.</desc>
+    <desc>The final round of the 2017/18 season for the BNT V8's and both classes will battle to the wire as the championship wraps up at Hampton Downs for the BNT V8 Class.</desc>
     <episode-num system="dd_progid">T802592</episode-num>
   </programme>
   <programme channel="tv.11" start="20180318030000 +0000" stop="20180318040000 +0000">
-    <title>WRC Rnd 3 Mexico</title>
-    <desc>The FIA World Rally Championship pits drivers and production-based cars against some of the toughest and most varied conditions on the planet.</desc>
-    <episode-num system="dd_progid">T815929</episode-num>
+    <title>Indy Car Championship Rnd 1</title>
+    <desc>The Indy Car Series, based on the history, heritage, passion and intense competition of the Indianapolis 500, will entertain race fans and challenge drivers, teams and equipment manufacturers.</desc>
+    <episode-num system="dd_progid">T826148</episode-num>
   </programme>
   <programme channel="tv.11" start="20180318040000 +0000" stop="20180318043000 +0000">
     <title>Bostik Gone Fishin'</title>
@@ -5190,15 +5185,15 @@
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
     <episode-num system="dd_progid">T805541</episode-num>
   </programme>
-  <programme channel="tv.11" start="20180319100000 +0000" stop="20180319111000 +0000">
-    <title>Newshub Nation (Encore)</title>
-    <desc>Hosted by Lisa Owen, Newshub Nation is an in-depth weekly current affairs show focusing on the major players and forces that shape New Zealand.</desc>
-    <episode-num system="dd_progid">T805453</episode-num>
-  </programme>
-  <programme channel="tv.11" start="20180319111000 +0000" stop="20180319114500 +0000">
+  <programme channel="tv.11" start="20180319100000 +0000" stop="20180319103500 +0000">
     <title>The Hui</title>
     <desc>Mihingarangi Forbes presents a compelling mix of current affairs investigations, human interest and arts and culture stories.</desc>
     <episode-num system="dd_progid">T818310</episode-num>
+  </programme>
+  <programme channel="tv.11" start="20180319103500 +0000" stop="20180319114500 +0000">
+    <title>Newshub Nation (Encore)</title>
+    <desc>Hosted by Lisa Owen, Newshub Nation is an in-depth weekly current affairs show focusing on the major players and forces that shape New Zealand.</desc>
+    <episode-num system="dd_progid">T805453</episode-num>
   </programme>
   <programme channel="tv.11" start="20180319114500 +0000" stop="20180319160000 +0000">
     <title>Infomercials</title>
@@ -5473,6 +5468,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817015</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180313063000 +0000" stop="20180313073000 +0000">
     <title>Tabatha's Salon Takeover</title>
@@ -5502,6 +5500,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817015</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180313093000 +0000" stop="20180313102000 +0000">
     <title>Intervention</title>
@@ -5554,6 +5555,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817015</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180313220000 +0000" stop="20180313225500 +0000">
     <title>David Tutera: CELEBrations</title>
@@ -5575,6 +5579,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817015</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180313235000 +0000" stop="20180314004500 +0000">
     <title>The Real Housewives Of New York City</title>
@@ -5596,6 +5603,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817015</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180314014000 +0000" stop="20180314023500 +0000">
     <title>The Real Housewives Of Melbourne</title>
@@ -5657,16 +5667,25 @@
     <title>The Real Housewives Of Beverly Hills</title>
     <desc>Teddi drops a bomb that could damage Lisa Rinna's newfound friendship with Dorit - but when the dust settles, it's Erika who Teddi finds herself at odds with more than ever before.</desc>
     <episode-num system="dd_progid">T790680</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180314083000 +0000" stop="20180314092800 +0000">
     <title>Vanderpump Rules</title>
     <desc>Lisa takes Sandoval and Schwartz on a business trip to Las Vegas to design their new bar, but when the guys focus more on partying than professionalism, Lisa questions the whole partnership.</desc>
     <episode-num system="dd_progid">T790765</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180314092800 +0000" stop="20180314093000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817015</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180314093000 +0000" stop="20180314102000 +0000">
     <title>Intervention</title>
@@ -5727,6 +5746,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817015</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180314225500 +0000" stop="20180314234500 +0000">
     <title>Snapped</title>
@@ -5748,21 +5770,33 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817015</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180315004500 +0000" stop="20180315014000 +0000">
     <title>Vanderpump Rules</title>
     <desc>Lisa takes Sandoval and Schwartz on a business trip to Las Vegas to design their new bar, but when the guys focus more on partying than professionalism, Lisa questions the whole partnership.</desc>
     <episode-num system="dd_progid">T790765</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180315014000 +0000" stop="20180315023300 +0000">
     <title>The Real Housewives Of Beverly Hills</title>
     <desc>Teddi drops a bomb that could damage Lisa Rinna's newfound friendship with Dorit - but when the dust settles, it's Erika who Teddi finds herself at odds with more than ever before.</desc>
     <episode-num system="dd_progid">T790680</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180315023300 +0000" stop="20180315023500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817015</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180315023500 +0000" stop="20180315033000 +0000">
     <title>How Do I Look?</title>
@@ -5808,6 +5842,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817015</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180315063000 +0000" stop="20180315073000 +0000">
     <title>Snapped</title>
@@ -12587,7 +12624,7 @@
   </programme>
   <programme channel="tv.27" start="20180313070000 +0000" stop="20180313073000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Kanoa, Jesse and Josh are joined by guest host Louise Wallace, 'First Man' Clarke Gayford, and talk to most controversial groom from Married at First Sight Australia, Dean.</desc>
     <episode-num system="dd_progid">T806434</episode-num>
   </programme>
   <programme channel="tv.27" start="20180313073000 +0000" stop="20180313090000 +0000">
@@ -12751,7 +12788,7 @@
   </programme>
   <programme channel="tv.27" start="20180314085500 +0000" stop="20180314100000 +0000">
     <title>Weinstein: The Inside Story</title>
-    <desc>Harvey Weinstein was once one of the most successful producers in Hollywood history, but beneath the glitz and glamour, there was a dark story of threats, bullying and allegations of sexual assault.</desc>
+    <desc>This documentary charts the rise and fall of movie producer Harvey Weinstein, examining how the disgraced Hollywood mogul got away with horrific abuse and harassment for over four decades.</desc>
     <episode-num system="dd_progid">T825768</episode-num>
     <rating system="Freeview">
       <value>AO</value>
@@ -13297,30 +13334,25 @@
     <desc></desc>
     <episode-num system="dd_progid">T445432</episode-num>
   </programme>
-  <programme channel="tv.27" start="20180318010100 +0000" stop="20180318013000 +0000">
-    <title>Formula E Street Racers #9</title>
-    <desc>Street Racers is a feature magazine show about the FIA Formula E Championship. It takes you behind the scenes and presents exclusive interviews and reports on topics related to Formula E racing.</desc>
-    <episode-num system="dd_progid">T800955</episode-num>
-  </programme>
-  <programme channel="tv.27" start="20180318013000 +0000" stop="20180318023000 +0000">
+  <programme channel="tv.27" start="20180318010100 +0000" stop="20180318020000 +0000">
     <title>NZV8 Ute Racing Series Rnd 3 Hampton Downs</title>
-    <desc>The NZV8 Utes series heads to Hampton Downs for the third round of the championship this season.</desc>
+    <desc>The NZV8 Utes heads to Hampton Downs for the third round of the championship this season. The class is seeing increasing fields and entries and Hampton Downs will be vital for drivers to score points.</desc>
     <episode-num system="dd_progid">T803969</episode-num>
   </programme>
-  <programme channel="tv.27" start="20180318023000 +0000" stop="20180318030000 +0000">
-    <title>Muscle Garage Series 2 #5</title>
-    <desc>Teng Tools Muscle Garage is a show about Kiwis and some of our very best muscle car rides! If you're into horsepower, sweet rides and muscle then this is the show for you.</desc>
-    <episode-num system="dd_progid">T817811</episode-num>
+  <programme channel="tv.27" start="20180318020000 +0000" stop="20180318030000 +0000">
+    <title>WRC Rnd 3 Mexico</title>
+    <desc>The FIA World Rally Championship puts drivers and production-based cars against some of the toughest and most varied conditions on the planet.</desc>
+    <episode-num system="dd_progid">T815929</episode-num>
   </programme>
   <programme channel="tv.27" start="20180318030000 +0000" stop="20180318040000 +0000">
     <title>NZ Touring Cars Rnd 6 Hampton Downs</title>
-    <desc>The final round of the 2017/18 season for the BNT V8's and both classes will battle to the wire as the championship wraps up at Hampton Downs.</desc>
+    <desc>The final round of the 2017/18 season for the BNT V8's and both classes will battle to the wire as the championship wraps up at Hampton Downs for the BNT V8 Class.</desc>
     <episode-num system="dd_progid">T802592</episode-num>
   </programme>
   <programme channel="tv.27" start="20180318040000 +0000" stop="20180318050000 +0000">
-    <title>WRC Rnd 3 Mexico</title>
-    <desc>The FIA World Rally Championship pits drivers and production-based cars against some of the toughest and most varied conditions on the planet.</desc>
-    <episode-num system="dd_progid">T815929</episode-num>
+    <title>Indy Car Championship Rnd 1</title>
+    <desc>The Indy Car Series, based on the history, heritage, passion and intense competition of the Indianapolis 500, will entertain race fans and challenge drivers, teams and equipment manufacturers.</desc>
+    <episode-num system="dd_progid">T826148</episode-num>
   </programme>
   <programme channel="tv.27" start="20180318050000 +0000" stop="20180318053000 +0000">
     <title>Bostik Gone Fishin'</title>
@@ -13501,15 +13533,15 @@
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
     <episode-num system="dd_progid">T805541</episode-num>
   </programme>
-  <programme channel="tv.27" start="20180319110000 +0000" stop="20180319121000 +0000">
-    <title>Newshub Nation (Encore)</title>
-    <desc>Hosted by Lisa Owen, Newshub Nation is an in-depth weekly current affairs show focusing on the major players and forces that shape New Zealand.</desc>
-    <episode-num system="dd_progid">T805453</episode-num>
-  </programme>
-  <programme channel="tv.27" start="20180319121000 +0000" stop="20180319124500 +0000">
+  <programme channel="tv.27" start="20180319110000 +0000" stop="20180319113500 +0000">
     <title>The Hui</title>
     <desc>Mihingarangi Forbes presents a compelling mix of current affairs investigations, human interest and arts and culture stories.</desc>
     <episode-num system="dd_progid">T818310</episode-num>
+  </programme>
+  <programme channel="tv.27" start="20180319113500 +0000" stop="20180319124500 +0000">
+    <title>Newshub Nation (Encore)</title>
+    <desc>Hosted by Lisa Owen, Newshub Nation is an in-depth weekly current affairs show focusing on the major players and forces that shape New Zealand.</desc>
+    <episode-num system="dd_progid">T805453</episode-num>
   </programme>
   <programme channel="tv.27" start="20180319124500 +0000" stop="20180319170000 +0000">
     <title>Infomercials</title>
@@ -13784,6 +13816,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817015</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180313073000 +0000" stop="20180313083000 +0000">
     <title>Tabatha's Salon Takeover</title>
@@ -13813,6 +13848,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817015</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180313103000 +0000" stop="20180313112000 +0000">
     <title>Intervention</title>
@@ -13865,6 +13903,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817015</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180313230000 +0000" stop="20180313235500 +0000">
     <title>David Tutera: CELEBrations</title>
@@ -13886,6 +13927,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817015</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180314005000 +0000" stop="20180314014500 +0000">
     <title>The Real Housewives Of New York City</title>
@@ -13907,6 +13951,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817015</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180314024000 +0000" stop="20180314033500 +0000">
     <title>The Real Housewives Of Melbourne</title>
@@ -13968,16 +14015,25 @@
     <title>The Real Housewives Of Beverly Hills</title>
     <desc>Teddi drops a bomb that could damage Lisa Rinna's newfound friendship with Dorit - but when the dust settles, it's Erika who Teddi finds herself at odds with more than ever before.</desc>
     <episode-num system="dd_progid">T790680</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180314093000 +0000" stop="20180314102800 +0000">
     <title>Vanderpump Rules</title>
     <desc>Lisa takes Sandoval and Schwartz on a business trip to Las Vegas to design their new bar, but when the guys focus more on partying than professionalism, Lisa questions the whole partnership.</desc>
     <episode-num system="dd_progid">T790765</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180314102800 +0000" stop="20180314103000 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817015</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180314103000 +0000" stop="20180314112000 +0000">
     <title>Intervention</title>
@@ -14038,6 +14094,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817015</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180314235500 +0000" stop="20180315004500 +0000">
     <title>Snapped</title>
@@ -14059,21 +14118,33 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817015</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180315014500 +0000" stop="20180315024000 +0000">
     <title>Vanderpump Rules</title>
     <desc>Lisa takes Sandoval and Schwartz on a business trip to Las Vegas to design their new bar, but when the guys focus more on partying than professionalism, Lisa questions the whole partnership.</desc>
     <episode-num system="dd_progid">T790765</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180315024000 +0000" stop="20180315033300 +0000">
     <title>The Real Housewives Of Beverly Hills</title>
     <desc>Teddi drops a bomb that could damage Lisa Rinna's newfound friendship with Dorit - but when the dust settles, it's Erika who Teddi finds herself at odds with more than ever before.</desc>
     <episode-num system="dd_progid">T790680</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180315033300 +0000" stop="20180315033500 +0000">
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817015</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180315033500 +0000" stop="20180315043000 +0000">
     <title>How Do I Look?</title>
@@ -14119,6 +14190,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817015</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180315073000 +0000" stop="20180315083000 +0000">
     <title>Snapped</title>
@@ -25591,8 +25665,8 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180313103000 +0000" stop="20180313113000 +0000">
-    <title>Wild Bedding</title>
-    <desc>Add life to your Boudoir and bring out your wild side with new Wild Bedding. Turn your bedroom into a jungle underneath super soft, sensual and comfortable sheets.</desc>
+    <title>VibroSlim Ultra For Toning</title>
+    <desc>Start enjoying the many benefits of vibration technology with the lightest and thinnest vibration platform yet. See why it is the perfect toning equipment for the whole family to enjoy.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -25605,15 +25679,15 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180313123000 +0000" stop="20180313133000 +0000">
-    <title>SBC Beauty</title>
-    <desc>With years of botanical expertise inside each product and a sought-after arnica range, the renowned British brand Simply Beautiful Collection (SBC) is one not to be missed.</desc>
+    <title>Wild Bedding</title>
+    <desc>Add life to your Boudoir and bring out your wild side with new Wild Bedding. Turn your bedroom into a jungle underneath super soft, sensual and comfortable sheets.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180313133000 +0000" stop="20180313143000 +0000">
-    <title>SBC Beauty</title>
-    <desc>With years of botanical expertise inside each product and a sought-after arnica range, the renowned British brand Simply Beautiful Collection (SBC) is one not to be missed.</desc>
+    <title>BOSE Premium Sound</title>
+    <desc>Unbelievable, epic audio technology: BOSE is the choice of professionals! Update your home entertainment with this prestigious brand and experience seriously good sound. Shop the range today on TVSN!</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -25633,15 +25707,15 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180313163000 +0000" stop="20180313173000 +0000">
-    <title>Jepara Pallavine Gems</title>
-    <desc>The Jepara Pallavine Gem is a particularly rare and ancient gemstone, a great treasure. Truly?out of this world?</desc>
+    <title>No!No! Hair Removal</title>
+    <desc>Imagine removing your unwanted hair easily &amp; without the pain of other systems. No!No! hair removal is so effective it's been clinically proven to reduce hair re-growth without the pain.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180313173000 +0000" stop="20180313183000 +0000">
-    <title>BOSE Premium Sound</title>
-    <desc>Unbelievable, epic audio technology: BOSE is the choice of professionals! Update your home entertainment with this prestigious brand and experience seriously good sound. Shop the range today on TVSN!</desc>
+    <title>Bamix Swissline SuperBox</title>
+    <desc>Bamix of Switzerland: pioneers of the hand-held food processor! This immersion blender comes with a multi-purpose blade, whisk, beater, mincer, processor, slicer and more - it's your kitchen robot!</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -25661,8 +25735,8 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180313203000 +0000" stop="20180313213000 +0000">
-    <title>Bamix Swissline SuperBox</title>
-    <desc>Bamix of Switzerland: pioneers of the hand-held food processor! This immersion blender comes with a multi-purpose blade, whisk, beater, mincer, processor, slicer and more - it's your kitchen robot!</desc>
+    <title>VibroSlim Ultra For Toning</title>
+    <desc>Start enjoying the many benefits of vibration technology with the lightest and thinnest vibration platform yet. See why it is the perfect toning equipment for the whole family to enjoy.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -25696,14 +25770,14 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180314013000 +0000" stop="20180314023000 +0000">
-    <title>PUR Cosmetics Smart Beauty</title>
+    <title>PUR Cosmetics</title>
     <desc>Pur Minerals: smart beauty! This cosmetics brand formulates high-tech products with gentle, skin-friendly ingredients such as shea butter, vitamin E and breathable minerals.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180314023000 +0000" stop="20180314033000 +0000">
-    <title>Thomas Kinkade Light Painter</title>
+    <title>Thomas Kinkade Painter</title>
     <desc>Embrace imagination and wonder during today's show as we look at incredible artwork by Thomas Kinkade. His art invites us into a safe refuge where faith, family and love matter most.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -25738,7 +25812,7 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180314073000 +0000" stop="20180314083000 +0000">
-    <title>PUR Cosmetics Smart Beauty</title>
+    <title>PUR Cosmetics</title>
     <desc>Pur Minerals: smart beauty! This cosmetics brand formulates high-tech products with gentle, skin-friendly ingredients such as shea butter, vitamin E and breathable minerals.</desc>
     <rating system="Freeview">
       <value>G</value>
