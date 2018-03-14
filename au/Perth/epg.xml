@@ -10710,7 +10710,6 @@
   <programme channel="tv.101204600461" start="20180317093000 +0000" stop="20180317100000 +0000">
     <title>Getaway</title>
     <episode-num system="dd_progid">GETA_2018_5</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -10887,9 +10886,8 @@
   <programme channel="tv.101204600461" start="20180318083000 +0000" stop="20180318090000 +0000">
     <title>The Garden Gurus: WA Waterwise Special</title>
     <episode-num system="dd_progid">WAGU18__1</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180318090000 +0000" stop="20180318093000 +0000">
@@ -10978,7 +10976,7 @@
   </programme>
   <programme channel="tv.101204600461" start="20180318183000 +0000" stop="20180318190000 +0000">
     <title>Global Shop</title>
-    <episode-num system="dd_progid">GLSH_2014_24</episode-num>
+    <episode-num system="dd_progid">GLSH_2014_EURO2830B19940</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -11073,7 +11071,6 @@
   <programme channel="tv.101204600461" start="20180319090000 +0000" stop="20180319100000 +0000">
     <title>Millionaire Hot Seat</title>
     <episode-num system="dd_progid">WHWA__1778</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -11143,7 +11140,7 @@
   </programme>
   <programme channel="tv.101204600461" start="20180319173000 +0000" stop="20180319180000 +0000">
     <title>TV Shop - Home Shopping</title>
-    <episode-num system="dd_progid">TVSH_2016_25</episode-num>
+    <episode-num system="dd_progid">TVSH_2016_A2830RBG09N</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -11158,7 +11155,7 @@
   </programme>
   <programme channel="tv.101204600461" start="20180319183000 +0000" stop="20180319190000 +0000">
     <title>Global Shop</title>
-    <episode-num system="dd_progid">GLSH_2014_24</episode-num>
+    <episode-num system="dd_progid">GLSH_2014_BICW2830B19940</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -11253,7 +11250,6 @@
   <programme channel="tv.101204600461" start="20180320090000 +0000" stop="20180320100000 +0000">
     <title>Millionaire Hot Seat</title>
     <episode-num system="dd_progid">WHWA__1779</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -11279,7 +11275,7 @@
     <episode-num system="dd_progid">MAAT_5_31</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180320130000 +0000" stop="20180320133000 +0000">
@@ -11329,7 +11325,7 @@
   </programme>
   <programme channel="tv.101204600461" start="20180320183000 +0000" stop="20180320190000 +0000">
     <title>Global Shop</title>
-    <episode-num system="dd_progid">GLSH_2014_24</episode-num>
+    <episode-num system="dd_progid">GLSH_2014_EURO2830B19940</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -11401,6 +11397,9 @@
     <title>Married at First Sight</title>
     <episode-num system="dd_progid">MAAT_5_31</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180321070000 +0000" stop="20180321080000 +0000">
     <title>Ellen</title>
@@ -11421,7 +11420,6 @@
   <programme channel="tv.101204600461" start="20180321090000 +0000" stop="20180321100000 +0000">
     <title>Millionaire Hot Seat</title>
     <episode-num system="dd_progid">WHWA__1780</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -11446,6 +11444,9 @@
     <title>Married at First Sight</title>
     <episode-num system="dd_progid">MAAT_5_32</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180321130000 +0000" stop="20180321143000 +0000">
     <title>The Footy Show</title>
@@ -12742,7 +12743,6 @@
   <programme channel="tv.101204600464" start="20180319013000 +0000" stop="20180319020000 +0000">
     <title>Open Homes Australia</title>
     <episode-num system="dd_progid">OPHO_1_7</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -12750,7 +12750,6 @@
   <programme channel="tv.101204600464" start="20180319020000 +0000" stop="20180319023000 +0000">
     <title>Open Homes Australia</title>
     <episode-num system="dd_progid">OPHO_1_8</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -14043,7 +14042,7 @@
   </programme>
   <programme channel="tv.101204600467" start="20180317220000 +0000" stop="20180317223000 +0000">
     <title>TV Shop - Home Shopping</title>
-    <episode-num system="dd_progid">TVSH_2017_32</episode-num>
+    <episode-num system="dd_progid">TVSH__A2830EPH06GER</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -14057,7 +14056,7 @@
   </programme>
   <programme channel="tv.101204600467" start="20180317230000 +0000" stop="20180317233000 +0000">
     <title>Leading the Way</title>
-    <episode-num system="dd_progid">LEWA_2_TV1810</episode-num>
+    <episode-num system="dd_progid">LEWA_2_TV1811</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -14076,11 +14075,25 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20180318003000 +0000" stop="20180318020000 +0000">
+  <programme channel="tv.101204600467" start="20180318003000 +0000" stop="20180318010000 +0000">
     <title>The Incredible Journey Presents</title>
-    <episode-num system="dd_progid">INJO01_1_19</episode-num>
+    <episode-num system="dd_progid">INJO01_1_1119</episode-num>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600467" start="20180318010000 +0000" stop="20180318013000 +0000">
+    <title>TV Shop - Home Shopping</title>
+    <episode-num system="dd_progid">TVSH_2017_A2830RBG09GE</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600467" start="20180318013000 +0000" stop="20180318020000 +0000">
+    <title>TV Shop - Home Shopping</title>
+    <episode-num system="dd_progid">TVSH_2017_A2830TL36GEX</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204600467" start="20180318020000 +0000" stop="20180318040000 +0000">
@@ -14102,7 +14115,6 @@
   <programme channel="tv.101204600467" start="20180318070000 +0000" stop="20180318073000 +0000">
     <title>Getaway</title>
     <episode-num system="dd_progid">GETA_2018_5</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -14162,28 +14174,35 @@
   </programme>
   <programme channel="tv.101204600467" start="20180318170000 +0000" stop="20180318173000 +0000">
     <title>TV Shop - Home Shopping</title>
-    <episode-num system="dd_progid">TVSH_2017_32</episode-num>
+    <episode-num system="dd_progid">TVSH__A2830AP22GE</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20180318173000 +0000" stop="20180318183000 +0000">
+  <programme channel="tv.101204600467" start="20180318173000 +0000" stop="20180318180000 +0000">
+    <title>Miracle Magnetic Duster</title>
+    <episode-num system="dd_progid">MIDU__MMD49952830A%20</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600467" start="20180318180000 +0000" stop="20180318190000 +0000">
     <title>Law &amp; Order: Special Victims Unit</title>
     <episode-num system="dd_progid">LAORSU_1_E0912</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20180318183000 +0000" stop="20180318193000 +0000">
+  <programme channel="tv.101204600467" start="20180318190000 +0000" stop="20180318200000 +0000">
     <title>Law &amp; Order: Special Victims Unit</title>
     <episode-num system="dd_progid">LAORSU_1_E0911</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20180318193000 +0000" stop="20180318203000 +0000">
-    <title>Danger Man</title>
-    <episode-num system="dd_progid">DANG_2_14</episode-num>
+  <programme channel="tv.101204600467" start="20180318200000 +0000" stop="20180318203000 +0000">
+    <title>Getaway</title>
+    <episode-num system="dd_progid">GETA_2018_5</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -14220,7 +14239,7 @@
   </programme>
   <programme channel="tv.101204600467" start="20180318233000 +0000" stop="20180319000000 +0000">
     <title>TV Shop - Home Shopping</title>
-    <episode-num system="dd_progid">TVSH__BA2830PMD2GE%20-%20GEM</episode-num>
+    <episode-num system="dd_progid">TVSH_2017_A2830TL36GEX</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -14235,14 +14254,21 @@
   </programme>
   <programme channel="tv.101204600467" start="20180319010000 +0000" stop="20180319013000 +0000">
     <title>TV Shop - Home Shopping</title>
-    <episode-num system="dd_progid">TVSH_2017_32</episode-num>
+    <episode-num system="dd_progid">TVSH__A2830PWF21GE</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20180319013000 +0000" stop="20180319023000 +0000">
+  <programme channel="tv.101204600467" start="20180319013000 +0000" stop="20180319020000 +0000">
     <title>Danoz</title>
-    <episode-num system="dd_progid">DANO_2014_17</episode-num>
+    <episode-num system="dd_progid">PGEMP</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600467" start="20180319020000 +0000" stop="20180319023000 +0000">
+    <title>Danoz</title>
+    <episode-num system="dd_progid">DGEMP</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -14369,7 +14395,7 @@
   </programme>
   <programme channel="tv.101204600467" start="20180319170000 +0000" stop="20180319173000 +0000">
     <title>TV Shop - Home Shopping</title>
-    <episode-num system="dd_progid">TVSH_2017_32</episode-num>
+    <episode-num system="dd_progid">TVSH__A2830BM07GE</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -14428,7 +14454,7 @@
   </programme>
   <programme channel="tv.101204600467" start="20180319233000 +0000" stop="20180320000000 +0000">
     <title>TV Shop - Home Shopping</title>
-    <episode-num system="dd_progid">TVSH_2017_32</episode-num>
+    <episode-num system="dd_progid">TVSH_2017_A2830ARO09GE</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -14443,14 +14469,21 @@
   </programme>
   <programme channel="tv.101204600467" start="20180320010000 +0000" stop="20180320013000 +0000">
     <title>TV Shop - Home Shopping</title>
-    <episode-num system="dd_progid">TVSH_2017_32</episode-num>
+    <episode-num system="dd_progid">TVSH_2017_A2830BMT08GE</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20180320013000 +0000" stop="20180320023000 +0000">
+  <programme channel="tv.101204600467" start="20180320013000 +0000" stop="20180320020000 +0000">
     <title>Danoz</title>
-    <episode-num system="dd_progid">DANO_2014_32</episode-num>
+    <episode-num system="dd_progid">DANO_2014_DZD44IMPP</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600467" start="20180320020000 +0000" stop="20180320023000 +0000">
+    <title>Danoz</title>
+    <episode-num system="dd_progid">FGEMP%20</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -14568,7 +14601,7 @@
   </programme>
   <programme channel="tv.101204600467" start="20180320170000 +0000" stop="20180320173000 +0000">
     <title>TV Shop - Home Shopping</title>
-    <episode-num system="dd_progid">TVSH_2017_32</episode-num>
+    <episode-num system="dd_progid">TVSH__A2830GYA03GE</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -14626,7 +14659,7 @@
   </programme>
   <programme channel="tv.101204600467" start="20180320233000 +0000" stop="20180321000000 +0000">
     <title>TV Shop - Home Shopping</title>
-    <episode-num system="dd_progid">TVSH_2017_32</episode-num>
+    <episode-num system="dd_progid">TVSH_2017_A2830TL36GEX</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -14639,9 +14672,23 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20180321010000 +0000" stop="20180321023000 +0000">
+  <programme channel="tv.101204600467" start="20180321010000 +0000" stop="20180321013000 +0000">
     <title>TV Shop - Home Shopping</title>
-    <episode-num system="dd_progid">TVSH_2017_32</episode-num>
+    <episode-num system="dd_progid">TVSH_2017_A2830BMT08GE</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600467" start="20180321013000 +0000" stop="20180321020000 +0000">
+    <title>TV Shop - Home Shopping</title>
+    <episode-num system="dd_progid">TVSH_2017_A2830ARO09GE</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600467" start="20180321020000 +0000" stop="20180321023000 +0000">
+    <title>TV Shop - Home Shopping</title>
+    <episode-num system="dd_progid">TVSH__A2830PEZ06GER</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -14728,6 +14775,7 @@
   <programme channel="tv.101204600467" start="20180321134000 +0000" stop="20180321154000 +0000">
     <title>Fatal Honeymoon</title>
     <episode-num system="dd_progid">FAHO1__1</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -15689,6 +15737,7 @@
   <programme channel="tv.101204600468" start="20180316230000 +0000" stop="20180317030000 +0000">
     <title>Kids' WB Saturday</title>
     <episode-num system="dd_progid">KIDSWB_2018_6</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -15939,6 +15988,7 @@
   <programme channel="tv.101204600468" start="20180317230000 +0000" stop="20180318030000 +0000">
     <title>Kids' WB Sunday</title>
     <episode-num system="dd_progid">KIDSWB__6</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -16936,6 +16986,9 @@
     <title>Top Gear</title>
     <episode-num system="dd_progid">TOGE_25_4</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.101204600468" start="20180321130000 +0000" stop="20180321155000 +0000">
     <title>Blood Diamond</title>
@@ -26800,7 +26853,7 @@
     <episode-num system="dd_progid">57850E1450525</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>G</value>
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101406070681" start="20180318060000 +0000" stop="20180318070000 +0000">
@@ -28065,7 +28118,7 @@
     <episode-num system="dd_progid">60294E1522757</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101406070685" start="20180315133000 +0000" stop="20180315143000 +0000">
@@ -30726,7 +30779,7 @@
     <episode-num system="dd_progid">60294E1522757</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101406070688" start="20180317143000 +0000" stop="20180317170000 +0000">
@@ -35631,17 +35684,17 @@
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180314090000 +0000" stop="20180314093000 +0000">
-    <title>Travel Man</title>
-    <episode-num system="dd_progid">851715</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000302" start="20180314090000 +0000" stop="20180314093000 +0000">
     <title>Gadget Man</title>
     <episode-num system="dd_progid">896079</episode-num>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180314090000 +0000" stop="20180314093000 +0000">
+    <title>Travel Man</title>
+    <episode-num system="dd_progid">851715</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180314093000 +0000" stop="20180314103000 +0000">
