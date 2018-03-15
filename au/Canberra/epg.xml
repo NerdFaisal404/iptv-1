@@ -1795,6 +1795,14 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180323130000 +0000" stop="20180323133000 +0000">
+    <title>ABC Late News</title>
+    <episode-num system="dd_progid">NU1826W060S00</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20180315122400 +0000" stop="20180315131300 +0000">
     <title>No Offence</title>
     <episode-num system="dd_progid">ZW0338A005S00</episode-num>
@@ -18581,6 +18589,13 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200428" start="20180323130000 +0000" stop="20180323140000 +0000">
+    <title>WWE Smackdown</title>
+    <episode-num system="dd_progid">WRESSMAC_19_970</episode-num>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020520" start="20180315120100 +0000" stop="20180315130000 +0000">
     <title>Kitchen Nightmares</title>
     <episode-num system="dd_progid">sLGvuMaIltaPmdaG</episode-num>
@@ -27249,6 +27264,14 @@
   <programme channel="tv.101305020528" start="20180323124500 +0000" stop="20180323130000 +0000">
     <title>The Trial Show</title>
     <episode-num system="dd_progid">18TTS04A</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180323130000 +0000" stop="20180323133000 +0000">
+    <title>Raceday Review - Naracoorte</title>
+    <episode-num system="dd_progid">RV23032A</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -40031,6 +40054,13 @@
     <episode-num system="dd_progid">776452</episode-num>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180323130000 +0000" stop="20180323135500 +0000">
+    <title>Cake Wars</title>
+    <episode-num system="dd_progid">884688</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20180315124500 +0000" stop="20180315131000 +0000">

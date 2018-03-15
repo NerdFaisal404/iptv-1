@@ -1795,6 +1795,14 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180323130000 +0000" stop="20180323133000 +0000">
+    <title>ABC Late News</title>
+    <episode-num system="dd_progid">NU1826W060S00</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210222" start="20180315124200 +0000" stop="20180315130300 +0000">
     <title>Parks and Recreation</title>
     <episode-num system="dd_progid">ZW1340A006S00</episode-num>
@@ -18613,6 +18621,13 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.101204300437" start="20180323130000 +0000" stop="20180323140000 +0000">
+    <title>WWE Smackdown</title>
+    <episode-num system="dd_progid">WRESSMAC_19_970</episode-num>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020528" start="20180315124500 +0000" stop="20180315130000 +0000">
     <title>Trackwork</title>
     <episode-num system="dd_progid">18TRW07A</episode-num>
@@ -20688,6 +20703,14 @@
   <programme channel="tv.101305020528" start="20180323124500 +0000" stop="20180323130000 +0000">
     <title>The Trial Show</title>
     <episode-num system="dd_progid">18TTS04A</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20180323130000 +0000" stop="20180323133000 +0000">
+    <title>Raceday Review - Naracoorte</title>
+    <episode-num system="dd_progid">RV23032A</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -29515,17 +29538,17 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406030635" start="20180317090000 +0000" stop="20180317110000 +0000">
-    <title>The Guilt Trip</title>
-    <episode-num system="dd_progid">0E1366577</episode-num>
+  <programme channel="tv.101406030635" start="20180317090000 +0000" stop="20180317100000 +0000">
+    <title>2017 Montreal Comedy Festival</title>
+    <episode-num system="dd_progid">60031E1512718</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406030635" start="20180317090000 +0000" stop="20180317100000 +0000">
-    <title>2017 Montreal Comedy Festival</title>
-    <episode-num system="dd_progid">60031E1512718</episode-num>
+  <programme channel="tv.101406030635" start="20180317090000 +0000" stop="20180317110000 +0000">
+    <title>The Guilt Trip</title>
+    <episode-num system="dd_progid">0E1366577</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -40056,6 +40079,13 @@
     <episode-num system="dd_progid">776452</episode-num>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20180323130000 +0000" stop="20180323135500 +0000">
+    <title>Cake Wars</title>
+    <episode-num system="dd_progid">884688</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20180315124500 +0000" stop="20180315131000 +0000">
