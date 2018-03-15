@@ -15310,6 +15310,9 @@
     <title>Music And The Spoken Word</title>
     <desc>Religious programme. G</desc>
     <episode-num system="dd_progid">SNZ11050109</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180317173000 +0000" stop="20180317180000 +0000">
     <title>Peter Popoff Ministries</title>
@@ -15323,36 +15326,57 @@
     <title>Faith In Action</title>
     <desc>Religious programme. G</desc>
     <episode-num system="dd_progid">SNZ11098881</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180317183000 +0000" stop="20180317193000 +0000">
     <title>Hour of Power</title>
     <desc>Religious programme. G</desc>
     <episode-num system="dd_progid">SNZ11098821</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180317193000 +0000" stop="20180317200000 +0000">
     <title>Beyond Today</title>
     <desc>Religious programme. G</desc>
     <episode-num system="dd_progid">SNZ11099092</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180317200000 +0000" stop="20180317203000 +0000">
     <title>Impact For Life</title>
     <desc>Religious programme. G</desc>
     <episode-num system="dd_progid">SNZ11098968</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180317203000 +0000" stop="20180317210000 +0000">
     <title>Life TV</title>
     <desc>Religious programme. G</desc>
     <episode-num system="dd_progid">SNZ11099043</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180317210000 +0000" stop="20180317213000 +0000">
     <title>Running With Fire</title>
     <desc>Religious programme. G</desc>
     <episode-num system="dd_progid">SNZ11099144</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180317213000 +0000" stop="20180317230000 +0000">
     <title>Sport Box</title>
     <desc>Missed all the water cooler chat this week? Join Prime as we highlight the past week's local and international sports for passionate Kiwi fans. G</desc>
     <episode-num system="dd_progid">SNZ11038443</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180317230000 +0000" stop="20180318000000 +0000">
     <title>Top Gear</title>
@@ -15454,7 +15478,7 @@
   </programme>
   <programme channel="tv.28" start="20180318094000 +0000" stop="20180318114000 +0000">
     <title>English Premier League</title>
-    <desc>English Premier League Delayed Game-Stoke Vs Everton. G</desc>
+    <desc>'Stoke City welcome to Everton at Britannia Stadium. The hosts have not had a strong season so far, but will the home advantage give them what they need to beat Everton? G'</desc>
     <episode-num system="dd_progid">SNZ10985584</episode-num>
   </programme>
   <programme channel="tv.28" start="20180318114000 +0000" stop="20180318125500 +0000">
@@ -19216,8 +19240,8 @@
   </programme>
   <programme channel="tv.55" start="20180316052500 +0000" stop="20180316073000 +0000">
     <title>Paralympics - Biathlon</title>
-    <desc>Replay of Wheelchair Curling from the Gangneung Curling Centre in PyeongChang, South Korea. Coverage supported by NZ On Air.</desc>
-    <episode-num system="dd_progid">10511281</episode-num>
+    <desc>Coverage of the Men’s and Women’s sitting and standing Biathlon from the Alpensia Biathlon Centre.</desc>
+    <episode-num system="dd_progid">10511283</episode-num>
   </programme>
   <programme channel="tv.55" start="20180316073000 +0000" stop="20180316091500 +0000">
     <title>Movie: Don Jon</title>
@@ -19263,10 +19287,15 @@
     <desc>Day 7 highlights from the XII Paralympic Winter Games from PyeongChang, South Korea.</desc>
     <episode-num system="dd_progid">10511315</episode-num>
   </programme>
-  <programme channel="tv.55" start="20180317002500 +0000" stop="20180317030000 +0000">
-    <title>Live: Paralympics - Alpine Ski</title>
+  <programme channel="tv.55" start="20180317002500 +0000" stop="20180317022000 +0000">
+    <title>Live: Paralympics - Slalom</title>
     <desc>Live coverage of the Men’s Alpine Skiing Giant Slalom as Kiwi Corey Peters goes for gold at the Jeongseon Alpine Centre in PyeongChang, South Korea.</desc>
     <episode-num system="dd_progid">10511227</episode-num>
+  </programme>
+  <programme channel="tv.55" start="20180317022000 +0000" stop="20180317030000 +0000">
+    <title>Paralympics - Biathlon</title>
+    <desc></desc>
+    <episode-num system="dd_progid">10511284</episode-num>
   </programme>
   <programme channel="tv.55" start="20180317030000 +0000" stop="20180317050000 +0000">
     <title>Live: Paralympics - Ice Hockey</title>
@@ -19274,7 +19303,7 @@
     <episode-num system="dd_progid">10511228</episode-num>
   </programme>
   <programme channel="tv.55" start="20180317050000 +0000" stop="20180317063000 +0000">
-    <title>Live: Paralympics - Alpine Ski</title>
+    <title>Live: Paralympics - Slalom</title>
     <desc>Live coverage of the second run in the Men’s Alpine Skiing Giant Slalom as Kiwi Corey Peters goes for gold at the Jeongseon Alpine Centre in PyeongChang, South Korea.</desc>
     <episode-num system="dd_progid">10511229</episode-num>
   </programme>
