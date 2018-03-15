@@ -4523,7 +4523,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180317065500 +0000" stop="20180317090500 +0000">
+  <programme channel="tv.11" start="20180317065500 +0000" stop="20180317091000 +0000">
     <title>Back To The Future II</title>
     <desc>Marty McFly and Doc Brown are back! This time they must travel into the future to prevent Marty's kids from getting in danger. Starring Michael J. Fox, Elisabeth Shue, and Christopher Lloyd. (1989)</desc>
     <episode-num system="dd_progid">T104041</episode-num>
@@ -4534,15 +4534,15 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180317090500 +0000" stop="20180317113500 +0000">
-    <title>Fish Called Wanda, A</title>
-    <desc>In London, four very different people team up to commit armed robbery, then try to doublecross each other for the loot. Starring John Cleese, Jamie Lee Curtis, and Kevin Kline. (1988)</desc>
-    <episode-num system="dd_progid">T223215</episode-num>
+  <programme channel="tv.11" start="20180317091000 +0000" stop="20180317113500 +0000">
+    <title>Theory Of Everything, The</title>
+    <desc>Starring Eddie Redmayne and Felicity Jones, this is the extraordinary story of love between the renowned astrophysicist Stephen Hawking, and his tireless first wife Jane. (2014)</desc>
+    <episode-num system="dd_progid">T684111</episode-num>
     <audio>
       <stereo>dolby</stereo>
     </audio>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.11" start="20180317113500 +0000" stop="20180317150000 +0000">
@@ -4556,7 +4556,7 @@
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
   <programme channel="tv.11" start="20180317160000 +0000" stop="20180317163000 +0000">
-    <title>Brian Houston @ Hillsong TV 1082</title>
+    <title>Brian Houston</title>
     <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
     <episode-num system="dd_progid">T770354</episode-num>
     <rating system="Freeview">
@@ -4571,27 +4571,42 @@
   <programme channel="tv.11" start="20180317170000 +0000" stop="20180317173000 +0000">
     <title>Life TV</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T730253</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180317173000 +0000" stop="20180317180000 +0000">
     <title>Brian Houston</title>
-    <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <episode-num system="dd_progid">T770365</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180317180000 +0000" stop="20180317190000 +0000">
     <title>Charles Stanley</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T758588</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180317190000 +0000" stop="20180317193000 +0000">
-    <title>Living Church of God</title>
+    <title>Living Church Of God</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T756560</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180317193000 +0000" stop="20180317200000 +0000">
-    <title>turning point</title>
+    <title>Turning Point With David Jeremiah</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T780962</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180317200000 +0000" stop="20180317203000 +0000">
     <title>R &amp; R</title>
@@ -4604,7 +4619,7 @@
     <episode-num system="dd_progid">T818310</episode-num>
   </programme>
   <programme channel="tv.11" start="20180317210000 +0000" stop="20180317220500 +0000">
-    <title>Newshub Nation</title>
+    <title>Newshub Nation (Encore)</title>
     <desc>Hosted by Lisa Owen, Newshub Nation is an in-depth weekly current affairs show focusing on the major players and forces that shape New Zealand.</desc>
     <episode-num system="dd_progid">T805453</episode-num>
   </programme>
@@ -4674,6 +4689,9 @@
     <title>Married At First Sight Australia</title>
     <desc>New Episode. In the fallout from Charlene's bombshells at last night's Dinner Party, it's an explosive night for the newlyweds' final Commitment Ceremony. S5 Ep25</desc>
     <episode-num system="dd_progid">T816151</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180318073000 +0000" stop="20180318093000 +0000">
     <title>Neighbors 2: Sorority Rising</title>
@@ -4765,6 +4783,9 @@
     <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. In the fallout from Charlene's bombshells at last night's Dinner Party, it's an explosive night for the newlyweds' final Commitment Ceremony. S5 Ep25</desc>
     <episode-num system="dd_progid">T816151</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180319020000 +0000" stop="20180319023000 +0000">
     <title>Entertainment Tonight</title>
@@ -4832,7 +4853,7 @@
     <episode-num system="dd_progid">T805541</episode-num>
   </programme>
   <programme channel="tv.11" start="20180319100000 +0000" stop="20180319103500 +0000">
-    <title>The Hui</title>
+    <title>The Hui (Encore)</title>
     <desc>Mihingarangi Forbes presents a compelling mix of current affairs investigations, human interest and arts and culture stories.</desc>
     <episode-num system="dd_progid">T818310</episode-num>
   </programme>
@@ -5107,7 +5128,7 @@
   </programme>
   <programme channel="tv.11" start="20180321063000 +0000" stop="20180321080500 +0000">
     <title>Married At First Sight Australia</title>
-    <desc>Australia's most controversial social experiment is back. Married at First Sight Australia sees 22 strangers matched by experts to make 11 couples whom meet for the first time on their wedding day.</desc>
+    <desc>New Episode. At the final dinner party, our couples face their biggest challenge yet: The Honesty Box. S5 Ep28</desc>
     <episode-num system="dd_progid">T816154</episode-num>
   </programme>
   <programme channel="tv.11" start="20180321080500 +0000" stop="20180321090500 +0000">
@@ -5200,7 +5221,7 @@
   </programme>
   <programme channel="tv.11" start="20180322003000 +0000" stop="20180322020000 +0000">
     <title>Married At First Sight Australia</title>
-    <desc>Australia's most controversial social experiment is back. Married at First Sight Australia sees 22 strangers matched by experts to make 11 couples whom meet for the first time on their wedding day.</desc>
+    <desc>New Episode. At the final dinner party, our couples face their biggest challenge yet: The Honesty Box. S5 Ep28</desc>
     <episode-num system="dd_progid">T816154</episode-num>
   </programme>
   <programme channel="tv.11" start="20180322020000 +0000" stop="20180322023000 +0000">
@@ -12882,7 +12903,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180317075500 +0000" stop="20180317100500 +0000">
+  <programme channel="tv.27" start="20180317075500 +0000" stop="20180317101000 +0000">
     <title>Back To The Future II</title>
     <desc>Marty McFly and Doc Brown are back! This time they must travel into the future to prevent Marty's kids from getting in danger. Starring Michael J. Fox, Elisabeth Shue, and Christopher Lloyd. (1989)</desc>
     <episode-num system="dd_progid">T104041</episode-num>
@@ -12890,12 +12911,12 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180317100500 +0000" stop="20180317123500 +0000">
-    <title>Fish Called Wanda, A</title>
-    <desc>In London, four very different people team up to commit armed robbery, then try to doublecross each other for the loot. Starring John Cleese, Jamie Lee Curtis, and Kevin Kline. (1988)</desc>
-    <episode-num system="dd_progid">T223215</episode-num>
+  <programme channel="tv.27" start="20180317101000 +0000" stop="20180317123500 +0000">
+    <title>Theory Of Everything, The</title>
+    <desc>Starring Eddie Redmayne and Felicity Jones, this is the extraordinary story of love between the renowned astrophysicist Stephen Hawking, and his tireless first wife Jane. (2014)</desc>
+    <episode-num system="dd_progid">T684111</episode-num>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.27" start="20180317123500 +0000" stop="20180317160000 +0000">
@@ -12909,7 +12930,7 @@
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
   <programme channel="tv.27" start="20180317170000 +0000" stop="20180317173000 +0000">
-    <title>Brian Houston @ Hillsong TV 1082</title>
+    <title>Brian Houston</title>
     <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
     <episode-num system="dd_progid">T770354</episode-num>
     <rating system="Freeview">
@@ -12924,27 +12945,42 @@
   <programme channel="tv.27" start="20180317180000 +0000" stop="20180317183000 +0000">
     <title>Life TV</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T730253</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180317183000 +0000" stop="20180317190000 +0000">
     <title>Brian Houston</title>
-    <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <episode-num system="dd_progid">T770365</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180317190000 +0000" stop="20180317200000 +0000">
     <title>Charles Stanley</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T758588</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180317200000 +0000" stop="20180317203000 +0000">
-    <title>Living Church of God</title>
+    <title>Living Church Of God</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T756560</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180317203000 +0000" stop="20180317210000 +0000">
-    <title>turning point</title>
+    <title>Turning Point With David Jeremiah</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T780962</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180317210000 +0000" stop="20180317213000 +0000">
     <title>R &amp; R</title>
@@ -12957,7 +12993,7 @@
     <episode-num system="dd_progid">T818310</episode-num>
   </programme>
   <programme channel="tv.27" start="20180317220000 +0000" stop="20180317230500 +0000">
-    <title>Newshub Nation</title>
+    <title>Newshub Nation (Encore)</title>
     <desc>Hosted by Lisa Owen, Newshub Nation is an in-depth weekly current affairs show focusing on the major players and forces that shape New Zealand.</desc>
     <episode-num system="dd_progid">T805453</episode-num>
   </programme>
@@ -13027,6 +13063,9 @@
     <title>Married At First Sight Australia</title>
     <desc>New Episode. In the fallout from Charlene's bombshells at last night's Dinner Party, it's an explosive night for the newlyweds' final Commitment Ceremony. S5 Ep25</desc>
     <episode-num system="dd_progid">T816151</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180318083000 +0000" stop="20180318103000 +0000">
     <title>Neighbors 2: Sorority Rising</title>
@@ -13115,6 +13154,9 @@
     <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. In the fallout from Charlene's bombshells at last night's Dinner Party, it's an explosive night for the newlyweds' final Commitment Ceremony. S5 Ep25</desc>
     <episode-num system="dd_progid">T816151</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180319030000 +0000" stop="20180319033000 +0000">
     <title>Entertainment Tonight</title>
@@ -13182,7 +13224,7 @@
     <episode-num system="dd_progid">T805541</episode-num>
   </programme>
   <programme channel="tv.27" start="20180319110000 +0000" stop="20180319113500 +0000">
-    <title>The Hui</title>
+    <title>The Hui (Encore)</title>
     <desc>Mihingarangi Forbes presents a compelling mix of current affairs investigations, human interest and arts and culture stories.</desc>
     <episode-num system="dd_progid">T818310</episode-num>
   </programme>
@@ -13454,7 +13496,7 @@
   </programme>
   <programme channel="tv.27" start="20180321073000 +0000" stop="20180321090500 +0000">
     <title>Married At First Sight Australia</title>
-    <desc>Australia's most controversial social experiment is back. Married at First Sight Australia sees 22 strangers matched by experts to make 11 couples whom meet for the first time on their wedding day.</desc>
+    <desc>New Episode. At the final dinner party, our couples face their biggest challenge yet: The Honesty Box. S5 Ep28</desc>
     <episode-num system="dd_progid">T816154</episode-num>
   </programme>
   <programme channel="tv.27" start="20180321090500 +0000" stop="20180321100500 +0000">
@@ -13544,7 +13586,7 @@
   </programme>
   <programme channel="tv.27" start="20180322013000 +0000" stop="20180322030000 +0000">
     <title>Married At First Sight Australia</title>
-    <desc>Australia's most controversial social experiment is back. Married at First Sight Australia sees 22 strangers matched by experts to make 11 couples whom meet for the first time on their wedding day.</desc>
+    <desc>New Episode. At the final dinner party, our couples face their biggest challenge yet: The Honesty Box. S5 Ep28</desc>
     <episode-num system="dd_progid">T816154</episode-num>
   </programme>
   <programme channel="tv.27" start="20180322030000 +0000" stop="20180322033000 +0000">
@@ -19378,12 +19420,12 @@
     <desc>Live coverage of Wheelchair Curling with Switzerland playing the Neutral Paralympic Athletes from the Gangneung Curling Centre in PyeongChang, South Korea.</desc>
     <episode-num system="dd_progid">10511223</episode-num>
   </programme>
-  <programme channel="tv.55" start="20180315030000 +0000" stop="20180315050000 +0000">
+  <programme channel="tv.55" start="20180315030000 +0000" stop="20180315044500 +0000">
     <title>Live: Paralympics - Ice Hockey</title>
     <desc></desc>
     <episode-num system="dd_progid">10511234</episode-num>
   </programme>
-  <programme channel="tv.55" start="20180315050000 +0000" stop="20180315063000 +0000">
+  <programme channel="tv.55" start="20180315044500 +0000" stop="20180315063000 +0000">
     <title>Paralympics - Curling</title>
     <desc>Coverage of the Curling featuring Slovakia v Canda from PyeongChang, South Korea.</desc>
     <episode-num system="dd_progid">10511269</episode-num>
@@ -19465,10 +19507,15 @@
     <desc>Day 6 highlights from the XII Paralympic Winter Games from PyeongChang, South Korea.</desc>
     <episode-num system="dd_progid">10511314</episode-num>
   </programme>
-  <programme channel="tv.55" start="20180316013000 +0000" stop="20180316073000 +0000">
+  <programme channel="tv.55" start="20180316013000 +0000" stop="20180316052500 +0000">
     <title>Live: Paralympics Snowboard</title>
     <desc>Live coverage of the Snowboard Banked Slalom as Kiwi Carl Murphy goes for gold at the Jeongseon Alpine Centre in PyeongChang, South Korea.</desc>
     <episode-num system="dd_progid">10511225</episode-num>
+  </programme>
+  <programme channel="tv.55" start="20180316052500 +0000" stop="20180316073000 +0000">
+    <title>Paralympics - Biathlon</title>
+    <desc>Replay of Wheelchair Curling from the Gangneung Curling Centre in PyeongChang, South Korea. Coverage supported by NZ On Air.</desc>
+    <episode-num system="dd_progid">10511281</episode-num>
   </programme>
   <programme channel="tv.55" start="20180316073000 +0000" stop="20180316091500 +0000">
     <title>Movie: Don Jon</title>
@@ -25494,7 +25541,7 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180314133000 +0000" stop="20180314143000 +0000">
-    <title>PUR Cosmetics</title>
+    <title>PUR Cosmetics Smart Beauty</title>
     <desc>Pur Minerals: smart beauty! This cosmetics brand formulates high-tech products with gentle, skin-friendly ingredients such as shea butter, vitamin E and breathable minerals.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -25529,7 +25576,7 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180314183000 +0000" stop="20180314193000 +0000">
-    <title>PUR Cosmetics</title>
+    <title>PUR Cosmetics Smart Beauty</title>
     <desc>Pur Minerals: smart beauty! This cosmetics brand formulates high-tech products with gentle, skin-friendly ingredients such as shea butter, vitamin E and breathable minerals.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -25557,7 +25604,7 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180314223000 +0000" stop="20180314233000 +0000">
-    <title>PUR Cosmetics</title>
+    <title>PUR Cosmetics Smart Beauty</title>
     <desc>Pur Minerals: smart beauty! This cosmetics brand formulates high-tech products with gentle, skin-friendly ingredients such as shea butter, vitamin E and breathable minerals.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -25599,7 +25646,7 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180315043000 +0000" stop="20180315053000 +0000">
-    <title>PUR Cosmetics</title>
+    <title>PUR Cosmetics Smart Beauty</title>
     <desc>Pur Minerals: smart beauty! This cosmetics brand formulates high-tech products with gentle, skin-friendly ingredients such as shea butter, vitamin E and breathable minerals.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -25641,22 +25688,22 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180315103000 +0000" stop="20180315113000 +0000">
-    <title>PUR Cosmetics</title>
+    <title>PUR Cosmetics Smart Beauty</title>
     <desc>Pur Minerals: smart beauty! This cosmetics brand formulates high-tech products with gentle, skin-friendly ingredients such as shea butter, vitamin E and breathable minerals.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180315113000 +0000" stop="20180315123000 +0000">
-    <title>Ovenwave Microwave Cooking</title>
-    <desc>Now you can sauté, grill, crisp and bake in your microwave. OvenWave changes the way you cook in the microwave using a non-stick pan for perfectly cooked meals with absolute ease.</desc>
+    <title>No!No! Hair Removal</title>
+    <desc>Imagine removing your unwanted hair easily &amp; without the pain of other systems. No!No! hair removal is so effective it's been clinically proven to reduce hair re-growth without the pain.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180315123000 +0000" stop="20180315133000 +0000">
-    <title>No!No! Hair Removal</title>
-    <desc>Imagine removing your unwanted hair easily &amp; without the pain of other systems. No!No! hair removal is so effective it's been clinically proven to reduce hair re-growth without the pain.</desc>
+    <title>Ovenwave Microwave Cooking</title>
+    <desc>Now you can sauté, grill, crisp and bake in your microwave. OvenWave changes the way you cook in the microwave using a non-stick pan for perfectly cooked meals with absolute ease.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -25669,8 +25716,8 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180315143000 +0000" stop="20180315153000 +0000">
-    <title>No!No! Hair Removal</title>
-    <desc>Imagine removing your unwanted hair easily &amp; without the pain of other systems. No!No! hair removal is so effective it's been clinically proven to reduce hair re-growth without the pain.</desc>
+    <title>Kellys Kloset Jewellery</title>
+    <desc>Kelly's back at TVSN with brand new designs and some of your favourites! Kelly's Kloset Jewellery offers boho style jewellery designs to compliment your fashion, bringing chic and beach designs.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -25683,22 +25730,22 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180315163000 +0000" stop="20180315173000 +0000">
-    <title>Generations 1912 Jewellery</title>
-    <desc>Adore the eternal appeal from the new collection of Generations 1912 Jewellery today on TVSN. Tune in to watch how each piece can enhance everyday or evening wear with it's timeless charm.</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.45" start="20180315173000 +0000" stop="20180315183000 +0000">
     <title>Lily Herbceuticals Skincare</title>
     <desc>Lily Herbceuticals Eastern herbal wisdom with the advances of Western technology. Formulated with powerful ingredients found in nature, Lily provides skincare for any age.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.45" start="20180315173000 +0000" stop="20180315183000 +0000">
+    <title>Thomas Kinkade Painter</title>
+    <desc>Embrace imagination and wonder during today's show as we look at incredible artwork by Thomas Kinkade. His art invites us into a safe refuge where faith, family and love matter most.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.45" start="20180315183000 +0000" stop="20180315193000 +0000">
-    <title>HP Explore And Create</title>
-    <desc>Enjoy more shopping, more entertainment and more brands today on TVSN! Up next is iconic global brand HP with more ways for you to explore and create using the latest in their technological designs.</desc>
+    <title>Cadelle Leather Handbags</title>
+    <desc>Got handbag boredom? You need to watch NOW for Cadelle! This fashion-conscious range of handbags is a goldmine for super-soft leather in exciting colours, prints and textures.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -25711,8 +25758,8 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180315203000 +0000" stop="20180315213000 +0000">
-    <title>Lily Herbceuticals Skincare</title>
-    <desc>Lily Herbceuticals Eastern herbal wisdom with the advances of Western technology. Formulated with powerful ingredients found in nature, Lily provides skincare for any age.</desc>
+    <title>No!No! Hair Removal</title>
+    <desc>Imagine removing your unwanted hair easily &amp; without the pain of other systems. No!No! hair removal is so effective it's been clinically proven to reduce hair re-growth without the pain.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -25725,8 +25772,8 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180315223000 +0000" stop="20180315233000 +0000">
-    <title>Generations 1912 Jewellery</title>
-    <desc>Adore the eternal appeal from the new collection of Generations 1912 Jewellery today on TVSN. Tune in to watch how each piece can enhance everyday or evening wear with it's timeless charm.</desc>
+    <title>PUR Cosmetics Smart Beauty</title>
+    <desc>Pur Minerals: smart beauty! This cosmetics brand formulates high-tech products with gentle, skin-friendly ingredients such as shea butter, vitamin E and breathable minerals.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
