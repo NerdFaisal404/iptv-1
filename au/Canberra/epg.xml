@@ -817,7 +817,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180317173000 +0000" stop="20180317180000 +0000">
+  <programme channel="tv.101002210220" start="20180317173000 +0000" stop="20180317180100 +0000">
     <title>The World This Week</title>
     <episode-num system="dd_progid">NC1817V009S00</episode-num>
     <subtitles type="teletext"/>
@@ -825,7 +825,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20180317180000 +0000" stop="20180317190000 +0000">
+  <programme channel="tv.101002210220" start="20180317180100 +0000" stop="20180317190000 +0000">
     <title>National Press Club Address</title>
     <episode-num system="dd_progid">NC1811C008S00</episode-num>
     <subtitles type="teletext"/>
@@ -12468,6 +12468,7 @@
   <programme channel="tv.101204200421" start="20180318143000 +0000" stop="20180318150000 +0000">
     <title>Dream Job</title>
     <episode-num system="dd_progid">DRJO_1_8</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -13282,7 +13283,7 @@
   </programme>
   <programme channel="tv.101204200424" start="20180315020100 +0000" stop="20180315025900 +0000">
     <title>Raise the Roof</title>
-    <episode-num system="dd_progid">RARO01_1_106H</episode-num>
+    <episode-num system="dd_progid">RARO01_1_105H</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -14192,6 +14193,7 @@
   <programme channel="tv.101204200424" start="20180319003000 +0000" stop="20180319010000 +0000">
     <title>Luxury Homes Revealed</title>
     <episode-num system="dd_progid">LUHO_2_9</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -19431,16 +19433,25 @@
     </rating>
   </programme>
   <programme channel="tv.101305020520" start="20180318150100 +0000" stop="20180318153100 +0000">
-    <title>To Be Advised</title>
-    <episode-num system="dd_progid">150794E23423</episode-num>
+    <title>Home Shopping</title>
+    <episode-num system="dd_progid">q2rqltaPn30G</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.101305020520" start="20180318153100 +0000" stop="20180318160100 +0000">
-    <title>To Be Advised</title>
-    <episode-num system="dd_progid">150794E23423</episode-num>
+    <title>Home Shopping</title>
+    <episode-num system="dd_progid">nLr+rdiSmdaOnMex</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.101305020520" start="20180318160100 +0000" stop="20180318163100 +0000">
-    <title>To Be Advised</title>
-    <episode-num system="dd_progid">150794E23423</episode-num>
+    <title>Home Shopping</title>
+    <episode-num system="dd_progid">q2rqltaPnMqK</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.101305020520" start="20180318163100 +0000" stop="20180318170500 +0000">
     <title>Harry's Practice</title>
@@ -21047,8 +21058,11 @@
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180318190000 +0000" stop="20180318193100 +0000">
-    <title>To Be Advised</title>
-    <episode-num system="dd_progid">150794E23423</episode-num>
+    <title>Home Shopping</title>
+    <episode-num system="dd_progid">nLr+rdiSmdaOnMex</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180318193100 +0000" stop="20180318195900 +0000">
     <title>Harry's Practice</title>
@@ -21146,7 +21160,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180319030300 +0000" stop="20180319033200 +0000">
+  <programme channel="tv.101305020522" start="20180319030300 +0000" stop="20180319033100 +0000">
     <title>Million Dollar Minute</title>
     <episode-num system="dd_progid">tu1ettqSmdaPnd2x</episode-num>
     <subtitles type="teletext"/>
@@ -21154,7 +21168,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180319033200 +0000" stop="20180319040300 +0000">
+  <programme channel="tv.101305020522" start="20180319033100 +0000" stop="20180319040200 +0000">
     <title>Million Dollar Minute</title>
     <episode-num system="dd_progid">tu1ettqSmdaPntax</episode-num>
     <subtitles type="teletext"/>
@@ -21162,7 +21176,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180319040300 +0000" stop="20180319043200 +0000">
+  <programme channel="tv.101305020522" start="20180319040200 +0000" stop="20180319043100 +0000">
     <title>Harry's Practice</title>
     <episode-num system="dd_progid">sfbsltaPmd0N</episode-num>
     <subtitles type="teletext"/>
@@ -21170,7 +21184,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180319043200 +0000" stop="20180319053500 +0000">
+  <programme channel="tv.101305020522" start="20180319043100 +0000" stop="20180319053400 +0000">
     <title>Auction Squad</title>
     <episode-num system="dd_progid">qvvduMmSmdaPmd2x</episode-num>
     <subtitles type="teletext"/>
@@ -21178,7 +21192,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180319053500 +0000" stop="20180319060300 +0000">
+  <programme channel="tv.101305020522" start="20180319053400 +0000" stop="20180319060200 +0000">
     <title>RSPCA Animal Rescue</title>
     <episode-num system="dd_progid">quGsuMiSmdaPmtmx</episode-num>
     <subtitles type="teletext"/>
@@ -21186,7 +21200,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180319060300 +0000" stop="20180319063000 +0000">
+  <programme channel="tv.101305020522" start="20180319060200 +0000" stop="20180319062900 +0000">
     <title>Medical Emergency</title>
     <episode-num system="dd_progid">turfttuSmdaPmtex</episode-num>
     <subtitles type="teletext"/>
@@ -21194,7 +21208,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180319063000 +0000" stop="20180319073000 +0000">
+  <programme channel="tv.101305020522" start="20180319062900 +0000" stop="20180319073000 +0000">
     <title>Escape to the Country</title>
     <episode-num system="dd_progid">rvruqMiOltaPmdqJ</episode-num>
     <rating system="Freeview">
@@ -21216,7 +21230,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180319093400 +0000" stop="20180319113700 +0000">
+  <programme channel="tv.101305020522" start="20180319093400 +0000" stop="20180319113600 +0000">
     <title>Lewis</title>
     <episode-num system="dd_progid">tevxuMySmdaPmdqx</episode-num>
     <subtitles type="teletext"/>
@@ -21224,7 +21238,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180319113700 +0000" stop="20180319123000 +0000">
+  <programme channel="tv.101305020522" start="20180319113600 +0000" stop="20180319123000 +0000">
     <title>Blue Murder</title>
     <episode-num system="dd_progid">q2OvttmSmdaPmdix</episode-num>
     <rating system="Freeview">
@@ -22826,8 +22840,11 @@
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180318190000 +0000" stop="20180318193000 +0000">
-    <title>To Be Advised</title>
-    <episode-num system="dd_progid">150794E23423</episode-num>
+    <title>Home Shopping</title>
+    <episode-num system="dd_progid">nLr+rdiSmdaOn36x</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180318193000 +0000" stop="20180318195700 +0000">
     <title>Temporary Australians</title>
@@ -22886,49 +22903,49 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180319010300 +0000" stop="20180319015900 +0000">
+  <programme channel="tv.101305020523" start="20180319010300 +0000" stop="20180319015800 +0000">
     <title>Godfather Of Pittsburgh</title>
     <episode-num system="dd_progid">rLCer3aOltaPmdaO</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180319015900 +0000" stop="20180319025900 +0000">
+  <programme channel="tv.101305020523" start="20180319015800 +0000" stop="20180319025800 +0000">
     <title>Police Woman</title>
     <episode-num system="dd_progid">ueOxltaPmdeI</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180319025900 +0000" stop="20180319033800 +0000">
+  <programme channel="tv.101305020523" start="20180319025800 +0000" stop="20180319033700 +0000">
     <title>Hardcore Pawn</title>
     <episode-num system="dd_progid">sfbxt30SmdaPmtix</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180319033800 +0000" stop="20180319043700 +0000">
+  <programme channel="tv.101305020523" start="20180319033700 +0000" stop="20180319043600 +0000">
     <title>Grilled</title>
     <episode-num system="dd_progid">qu9srdaOltaPmdaH</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180319043700 +0000" stop="20180319050800 +0000">
+  <programme channel="tv.101305020523" start="20180319043600 +0000" stop="20180319050700 +0000">
     <title>Cajun Pawn Stars</title>
     <episode-num system="dd_progid">qKbbvMaMltaPmdaN</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180319050800 +0000" stop="20180319060600 +0000">
+  <programme channel="tv.101305020523" start="20180319050700 +0000" stop="20180319060500 +0000">
     <title>Ice Road Truckers</title>
     <episode-num system="dd_progid">sunfu3aLltaPmdaN</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180319060600 +0000" stop="20180319070600 +0000">
+  <programme channel="tv.101305020523" start="20180319060500 +0000" stop="20180319070500 +0000">
     <title>MythBusters</title>
     <episode-num system="dd_progid">tv1uscLPmdaPmqxx</episode-num>
     <subtitles type="teletext"/>
@@ -22936,14 +22953,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180319070600 +0000" stop="20180319080600 +0000">
+  <programme channel="tv.101305020523" start="20180319070500 +0000" stop="20180319080500 +0000">
     <title>American Pickers</title>
     <episode-num system="dd_progid">qvbjqMuSmdaPmtux</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180319080600 +0000" stop="20180319083400 +0000">
+  <programme channel="tv.101305020523" start="20180319080500 +0000" stop="20180319083300 +0000">
     <title>Pawn Stars</title>
     <episode-num system="dd_progid">uf9ouMmSmdaPmdmx</episode-num>
     <subtitles type="teletext"/>
@@ -22951,7 +22968,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20180319083400 +0000" stop="20180319100000 +0000">
+  <programme channel="tv.101305020523" start="20180319083300 +0000" stop="20180319100000 +0000">
     <title>The Grand Tour</title>
     <episode-num system="dd_progid">rKjutMaOltaPmdeN</episode-num>
     <subtitles type="teletext"/>
@@ -24442,28 +24459,28 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020525" start="20180318113200 +0000" stop="20180318140100 +0000">
+  <programme channel="tv.101305020525" start="20180318113200 +0000" stop="20180318140400 +0000">
     <title>10</title>
     <episode-num system="dd_progid">vLjgr3aNltaPmdaO</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020525" start="20180318140100 +0000" stop="20180318152800 +0000">
+  <programme channel="tv.101305020525" start="20180318140400 +0000" stop="20180318153100 +0000">
     <title>The Falcon in Hollywood</title>
     <episode-num system="dd_progid">u2SpltaPmdiJ</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020525" start="20180318152800 +0000" stop="20180318173100 +0000">
+  <programme channel="tv.101305020525" start="20180318153100 +0000" stop="20180318173400 +0000">
     <title>The Master Race</title>
     <episode-num system="dd_progid">u2SpltaPmdyG</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020525" start="20180318173100 +0000" stop="20180318190000 +0000">
+  <programme channel="tv.101305020525" start="20180318173400 +0000" stop="20180318190000 +0000">
     <title>The Saint in New York</title>
     <episode-num system="dd_progid">u2SpltaPmd6J</episode-num>
     <rating system="Freeview">
@@ -31906,7 +31923,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20180316183000 +0000" stop="20180316190000 +0000">
+  <programme channel="tv.101406020628" start="20180316183000 +0000" stop="20180316185900 +0000">
     <title>Joseph Prince: New Creation Church</title>
     <episode-num system="dd_progid">59936E1508448</episode-num>
     <subtitles type="teletext"/>
@@ -31914,7 +31931,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20180316190000 +0000" stop="20180316190500 +0000">
+  <programme channel="tv.101406020628" start="20180316185900 +0000" stop="20180316190500 +0000">
     <title>Toasted TV</title>
     <episode-num system="dd_progid">60034E1513602</episode-num>
     <rating system="Freeview">
