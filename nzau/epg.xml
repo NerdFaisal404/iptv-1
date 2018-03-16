@@ -33513,10 +33513,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180321190000 +0000" stop="20180321201000 +0000">
+  <programme channel="tv.56" start="20180321190000 +0000" stop="20180321194500 +0000">
     <title>Go Healthy For Good</title>
     <desc>Games usually mean being with friends and family and having fun. Some games are silly, some serious, but they're usually fun, so why not turn being healthy into a game?</desc>
     <episode-num system="dd_progid">GOHEALTHYx1516</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.56" start="20180321194500 +0000" stop="20180321201000 +0000">
+    <title>Let's Pray</title>
+    <desc>Professor Kenley Hall was confined to his walker and wheelchair until one day, his students offered to give him a special gift - the gift of prayer.</desc>
+    <episode-num system="dd_progid">LETSPRAY01x10</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -33547,7 +33555,7 @@
   </programme>
   <programme channel="tv.56" start="20180321220000 +0000" stop="20180321223000 +0000">
     <title>The Table</title>
-    <desc>At what age for your children should you stop being naked in front of them? An 18% surcharge to men, find out where. And an interview with author and paediatric emergency nurse Sarah Hunstead.</desc>
+    <desc>At what age for your children should you stop being naked in front of them? An 18% surcharge to men? Find out where. And an interview with author and paediatric emergency nurse Sarah Hunstead.</desc>
     <episode-num system="dd_progid">TABLE02x09</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -33593,15 +33601,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180322013000 +0000" stop="20180322021000 +0000">
-    <title>The Programming of Life</title>
-    <desc>A further examination of the theory of origins, and the chemical and biological theory of evolution, asking the difficult questions in order to reveal the truth about undirected natural processes</desc>
-    <episode-num system="dd_progid">CSPECIALx10</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.56" start="20180322021000 +0000" stop="20180322023500 +0000">
+  <programme channel="tv.56" start="20180322013000 +0000" stop="20180322020000 +0000">
     <title>The Evidence</title>
     <desc>Two couples, two struggles, two examples of God's grace in times of sorrow</desc>
     <episode-num system="dd_progid">EVIDENCEx119</episode-num>
@@ -33609,15 +33609,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180322023500 +0000" stop="20180322030500 +0000">
-    <title>Music In My Life</title>
-    <desc>Enjoy the soothing sounds of Kersti Esselwall-Smars from Sweden. Kirsti, a singer, song writer, choir director, and educator, shares about the music in her life.</desc>
-    <episode-num system="dd_progid">MUSICIMLx05</episode-num>
+  <programme channel="tv.56" start="20180322020000 +0000" stop="20180322030000 +0000">
+    <title>My Story, My Song</title>
+    <desc>Join your host Kandus Thorp to hear powerful stories of how God has used music to bless both listeners and performers alike. Today's guest is Glen Streimer</desc>
+    <episode-num system="dd_progid">MSMSONG04x10</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180322030500 +0000" stop="20180322033000 +0000">
+  <programme channel="tv.56" start="20180322030000 +0000" stop="20180322032500 +0000">
     <title>Friends and Heroes</title>
     <desc>Macky finally decides he must leave Rome. Now Portia must decide what she wants her future to be.</desc>
     <episode-num system="dd_progid">FRHEROx339</episode-num>
@@ -33625,7 +33625,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180322033000 +0000" stop="20180322040500 +0000">
+  <programme channel="tv.56" start="20180322032500 +0000" stop="20180322040000 +0000">
     <title>Arnie's Shack</title>
     <desc>Join Arnie and his family and friends at Arnie's Shack for a wonderful variety of songs, stories, and activities, and Balloon Kaboom with Pastor Daron.</desc>
     <episode-num system="dd_progid">ARNIE01x12</episode-num>
@@ -33633,7 +33633,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180322040500 +0000" stop="20180322051000 +0000">
+  <programme channel="tv.56" start="20180322040000 +0000" stop="20180322044500 +0000">
     <title>Go Healthy For Good</title>
     <desc>Games usually mean being with friends and family and having fun. Some games are silly, some serious, but they're usually fun, so why not turn being healthy into a game?</desc>
     <episode-num system="dd_progid">GOHEALTHYx1516</episode-num>
@@ -33641,9 +33641,17 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.56" start="20180322044500 +0000" stop="20180322051000 +0000">
+    <title>Let's Pray</title>
+    <desc>Professor Kenley Hall was confined to his walker and wheelchair until one day, his students offered to give him a special gift - the gift of prayer.</desc>
+    <episode-num system="dd_progid">LETSPRAY01x10</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.56" start="20180322051000 +0000" stop="20180322060000 +0000">
     <title>Disclosure</title>
-    <desc>Today we discuss the man himself, the author of the book of Daniel.</desc>
+    <desc>Shawn Boonstra and David Franklin discuss the author of the book of Daniel, his place in history, and the context in which he wrote.</desc>
     <episode-num system="dd_progid">DISCLOSE01x16</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -33659,7 +33667,7 @@
   </programme>
   <programme channel="tv.56" start="20180322063000 +0000" stop="20180322070000 +0000">
     <title>It Is Written Oceania</title>
-    <desc>Friday, Dec 21, 2012, the world was suppose to come to a dramatic end but that day came and went. What happened?</desc>
+    <desc>Friday, Dec 21, 2012, the world was supposed to come to a dramatic end, but that day came and went. What happened?</desc>
     <episode-num system="dd_progid">IIWOCEANIAx110</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -33674,22 +33682,22 @@
     </rating>
   </programme>
   <programme channel="tv.56" start="20180322073000 +0000" stop="20180322080500 +0000">
-    <title>Creation Astronomy</title>
-    <desc>Spike Psarris examines our solar system, comparing evolutionary models with the reality of the planets and their moons in Earth's solar system.</desc>
-    <episode-num system="dd_progid">CAM02x101</episode-num>
+    <title>The Programming of Life</title>
+    <desc>A further examination of the theory of origins, and the chemical and biological theory of evolution, asking the difficult questions in order to reveal the truth about undirected natural processes</desc>
+    <episode-num system="dd_progid">CSPECIALx10</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180322080500 +0000" stop="20180322084000 +0000">
-    <title>Documentary</title>
-    <desc>A World Without Orphans brings together leading adoption advocates from around the world to discuss the need to move away from placing children in orphanages, and toward placement with families.</desc>
-    <episode-num system="dd_progid">HOPESPECIALx50</episode-num>
+  <programme channel="tv.56" start="20180322080500 +0000" stop="20180322083000 +0000">
+    <title>Lifestyle Magazine</title>
+    <desc>Mike and Gayle Tucker discover how Rebecca Alonzo survived the nightmare of seeing her parents killed in front of her</desc>
+    <episode-num system="dd_progid">LIFEMAGx2208</episode-num>
     <rating system="Freeview">
-      <value>G</value>
+      <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180322084000 +0000" stop="20180322091000 +0000">
+  <programme channel="tv.56" start="20180322083000 +0000" stop="20180322090000 +0000">
     <title>Poverty Cure</title>
     <desc>The best way to reverse the cycle of poverty in an area is to create jobs. And the best way to create jobs is to release entrepreneurs to do what they do best.</desc>
     <episode-num system="dd_progid">POVCURE01x02</episode-num>
@@ -33697,7 +33705,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180322091000 +0000" stop="20180322100500 +0000">
+  <programme channel="tv.56" start="20180322090000 +0000" stop="20180322100000 +0000">
     <title>Cross Connection</title>
     <desc>We find Jesus on the banks of a river, not to preach to the masses as we have known Him to do, but...to be baptized? Following Baptism, Jesus is tempted in the wilderness</desc>
     <episode-num system="dd_progid">CROSSCON01x104</episode-num>
@@ -33705,7 +33713,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180322100500 +0000" stop="20180322104000 +0000">
+  <programme channel="tv.56" start="20180322100000 +0000" stop="20180322104000 +0000">
     <title>New Perceptions</title>
     <desc>Dwight Nelson takes a look at the story of the fishing disciples, as Jesus teaches the disciples a new way to live.</desc>
     <episode-num system="dd_progid">NEWP07x170401</episode-num>
@@ -33746,11 +33754,11 @@
     </rating>
   </programme>
   <programme channel="tv.56" start="20180322133000 +0000" stop="20180322140000 +0000">
-    <title>The Master's Brush</title>
-    <desc>Discover the stories behind the paintings of Christian artist Nathan Greene, and hear of the lives that have been touched as a result of his work</desc>
-    <episode-num system="dd_progid">MBRUSHx11</episode-num>
+    <title>Cliff!</title>
+    <desc>What would you do if someone came and told you that they were suicidal; that they believed that life had no meaning, and was not worth living? What would you say was the meaning and purpose of life?</desc>
+    <episode-num system="dd_progid">CLIFF03x71</episode-num>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.56" start="20180322140000 +0000" stop="20180322143000 +0000">
@@ -33763,7 +33771,7 @@
   </programme>
   <programme channel="tv.56" start="20180322143000 +0000" stop="20180322150000 +0000">
     <title>It Is Written Oceania</title>
-    <desc>Friday, Dec 21, 2012, the world was suppose to come to a dramatic end but that day came and went. What happened?</desc>
+    <desc>Friday, Dec 21, 2012, the world was supposed to come to a dramatic end, but that day came and went. What happened?</desc>
     <episode-num system="dd_progid">IIWOCEANIAx110</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -72934,17 +72942,17 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20180317090000 +0000" stop="20180317100000 +0000">
-    <title>2017 Montreal Comedy Festival</title>
-    <episode-num system="dd_progid">60031E1512718</episode-num>
+  <programme channel="tv.101406020625" start="20180317090000 +0000" stop="20180317110000 +0000">
+    <title>The Guilt Trip</title>
+    <episode-num system="dd_progid">0E1366577</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20180317090000 +0000" stop="20180317110000 +0000">
-    <title>The Guilt Trip</title>
-    <episode-num system="dd_progid">0E1366577</episode-num>
+  <programme channel="tv.101406020625" start="20180317090000 +0000" stop="20180317100000 +0000">
+    <title>2017 Montreal Comedy Festival</title>
+    <episode-num system="dd_progid">60031E1512718</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -77616,17 +77624,17 @@
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180319055500 +0000" stop="20180319063000 +0000">
-    <title>Cold Justice</title>
-    <episode-num system="dd_progid">914053</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000301" start="20180319055500 +0000" stop="20180319063000 +0000">
     <title>Meeting Place</title>
     <episode-num system="dd_progid">850626</episode-num>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000301" start="20180319055500 +0000" stop="20180319063000 +0000">
+    <title>Cold Justice</title>
+    <episode-num system="dd_progid">914053</episode-num>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180319063000 +0000" stop="20180319070000 +0000">

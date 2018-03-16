@@ -27960,17 +27960,17 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406070685" start="20180317120000 +0000" stop="20180317130000 +0000">
-    <title>2017 Montreal Comedy Festival</title>
-    <episode-num system="dd_progid">60031E1512718</episode-num>
+  <programme channel="tv.101406070685" start="20180317120000 +0000" stop="20180317140000 +0000">
+    <title>The Guilt Trip</title>
+    <episode-num system="dd_progid">0E1366577</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406070685" start="20180317120000 +0000" stop="20180317140000 +0000">
-    <title>The Guilt Trip</title>
-    <episode-num system="dd_progid">0E1366577</episode-num>
+  <programme channel="tv.101406070685" start="20180317120000 +0000" stop="20180317130000 +0000">
+    <title>2017 Montreal Comedy Festival</title>
+    <episode-num system="dd_progid">60031E1512718</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -35476,17 +35476,17 @@
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180316034500 +0000" stop="20180316041000 +0000">
-    <title>Black Market: Dispatches</title>
-    <episode-num system="dd_progid">835791</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000302" start="20180316034500 +0000" stop="20180316041000 +0000">
     <title>Black Market</title>
     <episode-num system="dd_progid">835954</episode-num>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000302" start="20180316034500 +0000" stop="20180316041000 +0000">
+    <title>Black Market: Dispatches</title>
+    <episode-num system="dd_progid">835791</episode-num>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20180316041000 +0000" stop="20180316043500 +0000">
