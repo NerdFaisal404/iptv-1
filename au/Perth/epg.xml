@@ -14114,18 +14114,18 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20180321134000 +0000" stop="20180321155000 +0000">
-    <title>Trial &amp; Retribution</title>
-    <episode-num system="dd_progid">TRRE_1_1</episode-num>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204600467" start="20180321134000 +0000" stop="20180321154000 +0000">
     <title>Fatal Honeymoon</title>
     <episode-num system="dd_progid">FAHO1__1</episode-num>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600467" start="20180321134000 +0000" stop="20180321155000 +0000">
+    <title>Trial &amp; Retribution</title>
+    <episode-num system="dd_progid">TRRE_1_1</episode-num>
+    <rating system="Freeview">
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101204600467" start="20180321154000 +0000" stop="20180321163500 +0000">
@@ -33183,16 +33183,16 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000301" start="20180317083000 +0000" stop="20180317092500 +0000">
-    <title>Building Giants</title>
-    <episode-num system="dd_progid">913325</episode-num>
+  <programme channel="tv.320203000301" start="20180317083000 +0000" stop="20180317101500 +0000">
+    <title>Stephen Hawking: A Brief History of Mine</title>
+    <episode-num system="dd_progid">666080</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000301" start="20180317083000 +0000" stop="20180317101500 +0000">
-    <title>Stephen Hawking: A Brief History of Mine</title>
-    <episode-num system="dd_progid">666080</episode-num>
+  <programme channel="tv.320203000301" start="20180317083000 +0000" stop="20180317092500 +0000">
+    <title>Building Giants</title>
+    <episode-num system="dd_progid">913325</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
