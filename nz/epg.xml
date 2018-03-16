@@ -7269,11 +7269,11 @@
     </rating>
   </programme>
   <programme channel="tv.13" start="20180318033000 +0000" stop="20180318040000 +0000">
-    <title>Pete and Pio</title>
-    <desc>Comedian, actor and entertainer Pio Terei teams up with television foodie Pete Peeti to highlight the great Kiwi outdoors. (R)</desc>
-    <episode-num system="dd_progid">000112912</episode-num>
+    <title>Tangaroa with Pio</title>
+    <desc>Pio Terei explores the domain of Tangaroa in fun-filled fishing expeditions around Aotearoa. (R)</desc>
+    <episode-num system="dd_progid">28159</episode-num>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.13" start="20180318040000 +0000" stop="20180318043000 +0000">
@@ -33048,7 +33048,7 @@
   </programme>
   <programme channel="tv.56" start="20180320164500 +0000" stop="20180320171500 +0000">
     <title>Chosen</title>
-    <desc></desc>
+    <desc>Discover from the story of Miriam, that even if you have really messed up in life, God can still use you, and your salvation is assured. So start celebrating victory in your life today.</desc>
     <episode-num system="dd_progid">JESUS101xC03</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -33094,7 +33094,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180320203000 +0000" stop="20180320213000 +0000">
+  <programme channel="tv.56" start="20180320203000 +0000" stop="20180320210000 +0000">
+    <title>Music In My Life</title>
+    <desc>Enjoy the soothing sounds of Kersti Esselwall-Smars from Sweden. Kirsti, a singer, song writer, choir director, and educator, shares about the music in her life.</desc>
+    <episode-num system="dd_progid">MUSICIMLx05</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.56" start="20180320210000 +0000" stop="20180320215500 +0000">
     <title>Cross Connection</title>
     <desc>He lived in the desert, wore rough clothes, and ate bugs for lunch. Join Oleg Kostyuk to explore the life, impact, and mission of John the Baptist</desc>
     <episode-num system="dd_progid">CROSSCON01x103</episode-num>
@@ -33102,7 +33110,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180320213000 +0000" stop="20180320220000 +0000">
+  <programme channel="tv.56" start="20180320215500 +0000" stop="20180320222500 +0000">
     <title>Poverty Cure</title>
     <desc>The best way to reverse the cycle of poverty in an area is to create jobs. And the best way to create jobs is to release entrepreneurs to do what they do best.</desc>
     <episode-num system="dd_progid">POVCURE01x02</episode-num>
@@ -33110,10 +33118,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180320220000 +0000" stop="20180320230000 +0000">
-    <title>God?</title>
-    <desc>Journey with David Asscherick as he unravels some of the mystery about God and answers some very tough questions about life - such as 'What is truth?'</desc>
-    <episode-num system="dd_progid">GOD01x01</episode-num>
+  <programme channel="tv.56" start="20180320222500 +0000" stop="20180320230000 +0000">
+    <title>The Programming of Life</title>
+    <desc>A further examination of the theory of origins, and the chemical and biological theory of evolution, asking the difficult questions in order to reveal the truth about undirected natural processes</desc>
+    <episode-num system="dd_progid">CSPECIALx10</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -33134,20 +33142,20 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180321000000 +0000" stop="20180321013500 +0000">
-    <title>Polycarp - Movie</title>
-    <desc>A young slave girl, Anna, is rescued and adopted by Christians in 2nd Century Smyrna and befriended by their aged bishop, Polycarp. Anna struggles to reconcile her beliefs with those of the Christia</desc>
-    <episode-num system="dd_progid">MOVIESx38</episode-num>
-    <rating system="Freeview">
-      <value>AO</value>
-    </rating>
-  </programme>
-  <programme channel="tv.56" start="20180321013500 +0000" stop="20180321020000 +0000">
-    <title>Happiness By Design</title>
-    <desc>Happiness is an essential ingredient for healthy living. But what is happiness, and what brings happiness? Today Darren Morten explores the connection between movement, or lack of it, and our emotio</desc>
-    <episode-num system="dd_progid">HBDESIGNx04</episode-num>
+  <programme channel="tv.56" start="20180321000000 +0000" stop="20180321013000 +0000">
+    <title>Matthew - Movie</title>
+    <desc>A dramatic visual portrayal of the gospel of Matthew, showing the compassion of Jesus and His willingness to heal all manner of disease.</desc>
+    <episode-num system="dd_progid">MOVIESx50</episode-num>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.56" start="20180321013000 +0000" stop="20180321020000 +0000">
+    <title>Who Is Jesus</title>
+    <desc>Actor Bruce Marchiano shares the insights he learned from playing Jesus in the movie of Matthew's gospel. Today, he introduces us to the disciple Matthew.</desc>
+    <episode-num system="dd_progid">WHOIJx01</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.56" start="20180321020000 +0000" stop="20180321023500 +0000">
@@ -33192,7 +33200,7 @@
   </programme>
   <programme channel="tv.56" start="20180321050000 +0000" stop="20180321053000 +0000">
     <title>Chosen</title>
-    <desc></desc>
+    <desc>Discover from the story of Miriam, that even if you have really messed up in life, God can still use you, and your salvation is assured. So start celebrating victory in your life today.</desc>
     <episode-num system="dd_progid">JESUS101xC03</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -33207,9 +33215,9 @@
     </rating>
   </programme>
   <programme channel="tv.56" start="20180321060000 +0000" stop="20180321063000 +0000">
-    <title>Help I'm A Parent</title>
-    <desc></desc>
-    <episode-num system="dd_progid">HIAPARENT01x02</episode-num>
+    <title>Lifestyle Magazine</title>
+    <desc>Family man and talented actor, Morris Chestnut, shares how he got in shape for his challenging role in the movie The Best Man Holiday. He's here to talk about how to stay fit after 40</desc>
+    <episode-num system="dd_progid">LIFEMAGx2402</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -33240,7 +33248,7 @@
   </programme>
   <programme channel="tv.56" start="20180321082000 +0000" stop="20180321084000 +0000">
     <title>Let's Pray</title>
-    <desc></desc>
+    <desc>A mother, missionary, and marathon runner faces an illness that leaves her paralyzed from the neck down. How did Loretta face the possibility of living the rest of her life in a wheelchair?</desc>
     <episode-num system="dd_progid">LETSPRAY02x17</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -33262,15 +33270,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180321100000 +0000" stop="20180321103000 +0000">
-    <title>Cliff!</title>
-    <desc>What would you do if someone came and told you that they were suicidal; that they believed that life had no meaning, and was not worth living? What would you say was the meaning and purpose of life?</desc>
-    <episode-num system="dd_progid">CLIFF03x71</episode-num>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
-  </programme>
-  <programme channel="tv.56" start="20180321103000 +0000" stop="20180321111000 +0000">
+  <programme channel="tv.56" start="20180321100000 +0000" stop="20180321104000 +0000">
     <title>Dare To Be A Daniel</title>
     <desc>In the book of Daniel, we face tremendous threats, challenges and danger of every kind. Knowing what's behind the scenes, changes everything.</desc>
     <episode-num system="dd_progid">LLUCDDANIEL</episode-num>
@@ -33278,15 +33278,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180321111000 +0000" stop="20180321113500 +0000">
-    <title>Zoo Days</title>
-    <desc>In Zoo Days today, Head Keeper of Asian elephants, Mick Jones, has the unenviable job of introducing female elephant Birma to Upali, the bull elephant, with dangerous consequences</desc>
-    <episode-num system="dd_progid">ZOODAY01x06</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.56" start="20180321113500 +0000" stop="20180321120000 +0000">
+  <programme channel="tv.56" start="20180321104000 +0000" stop="20180321110500 +0000">
     <title>The Master's Brush</title>
     <desc>Discover the stories behind the paintings of Christian artist Nathan Greene, and hear of the lives that have been touched as a result of his work</desc>
     <episode-num system="dd_progid">MBRUSHx11</episode-num>
@@ -33294,7 +33286,23 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180321120000 +0000" stop="20180321130000 +0000">
+  <programme channel="tv.56" start="20180321110500 +0000" stop="20180321113000 +0000">
+    <title>Zoo Days</title>
+    <desc>In Zoo Days today, Head Keeper of Asian elephants, Mick Jones, has the unenviable job of introducing female elephant Birma to Upali, the bull elephant, with dangerous consequences</desc>
+    <episode-num system="dd_progid">ZOODAY01x06</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.56" start="20180321113000 +0000" stop="20180321120500 +0000">
+    <title>The Programming of Life</title>
+    <desc>A further examination of the theory of origins, and the chemical and biological theory of evolution, asking the difficult questions in order to reveal the truth about undirected natural processes</desc>
+    <episode-num system="dd_progid">CSPECIALx10</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.56" start="20180321120500 +0000" stop="20180321130500 +0000">
     <title>God?</title>
     <desc>Journey with David Asscherick as he unravels some of the mystery about God and answers some very tough questions about life - such as 'What is truth?'</desc>
     <episode-num system="dd_progid">GOD01x01</episode-num>
@@ -33302,7 +33310,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180321130000 +0000" stop="20180321132500 +0000">
+  <programme channel="tv.56" start="20180321130500 +0000" stop="20180321133000 +0000">
     <title>Lifestyle Magazine</title>
     <desc>Mike and Gayle Tucker discover how Rebecca Alonzo survived the nightmare of seeing her parents killed in front of her</desc>
     <episode-num system="dd_progid">LIFEMAGx2208</episode-num>
@@ -33310,18 +33318,18 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180321132500 +0000" stop="20180321140000 +0000">
-    <title>Documentary</title>
-    <desc>A World Without Orphans brings together leading adoption advocates from around the world to discuss the need to move away from placing children in orphanages, and toward placement with families.</desc>
-    <episode-num system="dd_progid">HOPESPECIALx50</episode-num>
+  <programme channel="tv.56" start="20180321133000 +0000" stop="20180321140000 +0000">
+    <title>Who Is Jesus</title>
+    <desc>Actor Bruce Marchiano shares the insights he learned from playing Jesus in the movie of Matthew's gospel. Today, he introduces us to the disciple Matthew.</desc>
+    <episode-num system="dd_progid">WHOIJx01</episode-num>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.56" start="20180321140000 +0000" stop="20180321143000 +0000">
-    <title>Beginnings</title>
-    <desc>There is conflict all around our world today. This episode of Beginnings highlights some of the major conflicts that took place in the book of Genesis.</desc>
-    <episode-num system="dd_progid">BEGIN04x02</episode-num>
+    <title>Help in Daily Living</title>
+    <desc>Young people share music and personal accounts of how the Gospel has been made real in their own lives. Today they share the love of Jesus</desc>
+    <episode-num system="dd_progid">HIDL01x11</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
