@@ -878,6 +878,9 @@
     <title>Whanau Living</title>
     <desc>The always delightful Art and Matilda join Stacey in the kitchen, and Nicola Kawana shows us how to detoxify our technology filled lives by introducing purifying plants into our homes.</desc>
     <episode-num system="dd_progid">10510497</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180318213000 +0000" stop="20180318220000 +0000">
     <title>Four In A Bed</title>
@@ -1199,6 +1202,9 @@
     <title>Whanau Living</title>
     <desc>Megan May teaches us some delicious ways to incorporate matcha into our diets. Stacey Morrison and Nicola Kawana take on the traditional ways of our ancestors and forage for kai.</desc>
     <episode-num system="dd_progid">10510499</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180320213000 +0000" stop="20180320220000 +0000">
     <title>Four In A Bed</title>
@@ -2694,7 +2700,7 @@
   <programme channel="tv.10" start="20180318200000 +0000" stop="20180318213000 +0000">
     <title>Infomercial</title>
     <desc/>
-    <episode-num system="dd_progid">10499785</episode-num>
+    <episode-num system="dd_progid">10517061</episode-num>
   </programme>
   <programme channel="tv.10" start="20180318213000 +0000" stop="20180318220000 +0000">
     <title>Neighbours</title>
@@ -2779,6 +2785,9 @@
     <title>Fanimals</title>
     <desc>Today you could win big with our whale of a competition, we make paw print cookies in the kitchen with Jess, and we meet a New Zealand kids who's 'Nuts About Animals'!</desc>
     <episode-num system="dd_progid">10513031</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180319033000 +0000" stop="20180319040000 +0000">
     <title>Friends</title>
@@ -2868,7 +2877,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180319084500 +0000" stop="20180319100000 +0000">
+  <programme channel="tv.10" start="20180319084500 +0000" stop="20180319095000 +0000">
     <title>The Walking Dead</title>
     <desc>Hilltop's leadership faces a difficult dilemma after the arrival of unexpected visitors; Rick comes face to face with an adversary.</desc>
     <episode-num system="dd_progid">10496095</episode-num>
@@ -2879,7 +2888,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180319100000 +0000" stop="20180319103000 +0000">
+  <programme channel="tv.10" start="20180319095000 +0000" stop="20180319102000 +0000">
     <title>Two And A Half Men</title>
     <desc>S1 E12 When Berta is forced to bring her granddaughter to work with her, the boys find themselves a little preoccupied...</desc>
     <episode-num system="dd_progid">321746</episode-num>
@@ -2887,7 +2896,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180319103000 +0000" stop="20180319110000 +0000">
+  <programme channel="tv.10" start="20180319102000 +0000" stop="20180319105000 +0000">
     <title>Mom</title>
     <desc>S2 E7 Christy tries to right the wrongs of her past, but has a blind spot when it comes to Baxter. Bonnie also decides to come clean with Alvin about the terrible things she did to him.</desc>
     <episode-num system="dd_progid">10378223</episode-num>
@@ -2898,7 +2907,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180319110000 +0000" stop="20180319115000 +0000">
+  <programme channel="tv.10" start="20180319105000 +0000" stop="20180319114000 +0000">
     <title>Empire</title>
     <desc>The Lyons fear that the Dubois family is to blame for their latest family crisis, so when no one is willing to give up any information, Cookie takes matters into her own hands.</desc>
     <episode-num system="dd_progid">10445012</episode-num>
@@ -2909,15 +2918,18 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180319115000 +0000" stop="20180319123500 +0000">
+  <programme channel="tv.10" start="20180319114000 +0000" stop="20180319122500 +0000">
     <title>Desperate Housewives</title>
     <desc>Gale Harold returns to Wisteria Lane as Jackson Braddock.</desc>
     <episode-num system="dd_progid">10129335</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180319123500 +0000" stop="20180319130000 +0000">
+  <programme channel="tv.10" start="20180319122500 +0000" stop="20180319125000 +0000">
     <title>Shortland Street</title>
     <desc>Sass sends mixed messages. Vinnie gambles with his future.</desc>
     <episode-num system="dd_progid">10513509</episode-num>
@@ -2929,7 +2941,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20180319130000 +0000" stop="20180319140500 +0000">
+  <programme channel="tv.10" start="20180319125000 +0000" stop="20180319140500 +0000">
     <title>Infomercial</title>
     <desc/>
     <episode-num system="dd_progid">10499791</episode-num>
@@ -3132,6 +3144,9 @@
     <title>Home And Away</title>
     <desc>Justin’s daughter tests his new relationship with Willow. Robbo’s ready to fight for his freedom. Mason pulls out all stops to keep Jasmine in the Bay.</desc>
     <episode-num system="dd_progid">10487155</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180320050000 +0000" stop="20180320053000 +0000">
     <title>The Big Bang Theory</title>
@@ -3339,14 +3354,10 @@
     <desc/>
     <episode-num system="dd_progid">10504880</episode-num>
   </programme>
-  <programme channel="tv.10" start="20180320203000 +0000" stop="20180320210000 +0000">
+  <programme channel="tv.10" start="20180320203000 +0000" stop="20180320213000 +0000">
     <title>Infomercial</title>
     <desc/>
     <episode-num system="dd_progid">10499754</episode-num>
-  </programme>
-  <programme channel="tv.10" start="20180320210000 +0000" stop="20180320213000 +0000">
-    <title>Infomercial 1000</title>
-    <desc/>
   </programme>
   <programme channel="tv.10" start="20180320213000 +0000" stop="20180320220000 +0000">
     <title>Neighbours</title>
@@ -3392,6 +3403,9 @@
     <title>Home And Away</title>
     <desc>Justin’s daughter tests his new relationship with Willow. Robbo’s ready to fight for his freedom. Mason pulls out all stops to keep Jasmine in the Bay.</desc>
     <episode-num system="dd_progid">10487155</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180321021500 +0000" stop="20180321024500 +0000">
     <title>Shortland Street</title>
@@ -3907,7 +3921,7 @@
   <programme channel="tv.10" start="20180322163000 +0000" stop="20180322170000 +0000">
     <title>Infomercial</title>
     <desc/>
-    <episode-num system="dd_progid">10473172</episode-num>
+    <episode-num system="dd_progid">10473193</episode-num>
   </programme>
   <programme channel="tv.10" start="20180322170000 +0000" stop="20180322173000 +0000">
     <title>Impact For Life</title>
@@ -9448,6 +9462,9 @@
     <title>Whanau Living</title>
     <desc>The always delightful Art and Matilda join Stacey in the kitchen, and Nicola Kawana shows us how to detoxify our technology filled lives by introducing purifying plants into our homes.</desc>
     <episode-num system="dd_progid">10510497</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180318223000 +0000" stop="20180318230000 +0000">
     <title>Four In A Bed</title>
@@ -9769,6 +9786,9 @@
     <title>Whanau Living</title>
     <desc>Megan May teaches us some delicious ways to incorporate matcha into our diets. Stacey Morrison and Nicola Kawana take on the traditional ways of our ancestors and forage for kai.</desc>
     <episode-num system="dd_progid">10510499</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180320223000 +0000" stop="20180320230000 +0000">
     <title>Four In A Bed</title>
@@ -11133,7 +11153,7 @@
   <programme channel="tv.14" start="20180318210000 +0000" stop="20180318223000 +0000">
     <title>Infomercial</title>
     <desc/>
-    <episode-num system="dd_progid">10499785</episode-num>
+    <episode-num system="dd_progid">10517061</episode-num>
   </programme>
   <programme channel="tv.14" start="20180318223000 +0000" stop="20180318230000 +0000">
     <title>Neighbours</title>
@@ -11212,6 +11232,9 @@
     <title>Fanimals</title>
     <desc>Today you could win big with our whale of a competition, we make paw print cookies in the kitchen with Jess, and we meet a New Zealand kids who's 'Nuts About Animals'!</desc>
     <episode-num system="dd_progid">10513031</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180319043000 +0000" stop="20180319050000 +0000">
     <title>Friends</title>
@@ -11286,7 +11309,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180319094500 +0000" stop="20180319110000 +0000">
+  <programme channel="tv.14" start="20180319094500 +0000" stop="20180319105000 +0000">
     <title>The Walking Dead</title>
     <desc>Hilltop's leadership faces a difficult dilemma after the arrival of unexpected visitors; Rick comes face to face with an adversary.</desc>
     <episode-num system="dd_progid">10496095</episode-num>
@@ -11294,7 +11317,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180319110000 +0000" stop="20180319113000 +0000">
+  <programme channel="tv.14" start="20180319105000 +0000" stop="20180319112000 +0000">
     <title>Two And A Half Men</title>
     <desc>S1 E12 When Berta is forced to bring her granddaughter to work with her, the boys find themselves a little preoccupied...</desc>
     <episode-num system="dd_progid">321746</episode-num>
@@ -11302,7 +11325,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180319113000 +0000" stop="20180319120000 +0000">
+  <programme channel="tv.14" start="20180319112000 +0000" stop="20180319115000 +0000">
     <title>Mom</title>
     <desc>S2 E7 Christy tries to right the wrongs of her past, but has a blind spot when it comes to Baxter. Bonnie also decides to come clean with Alvin about the terrible things she did to him.</desc>
     <episode-num system="dd_progid">10378223</episode-num>
@@ -11310,7 +11333,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180319120000 +0000" stop="20180319125000 +0000">
+  <programme channel="tv.14" start="20180319115000 +0000" stop="20180319124000 +0000">
     <title>Empire</title>
     <desc>The Lyons fear that the Dubois family is to blame for their latest family crisis, so when no one is willing to give up any information, Cookie takes matters into her own hands.</desc>
     <episode-num system="dd_progid">10445012</episode-num>
@@ -11318,7 +11341,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180319125000 +0000" stop="20180319133500 +0000">
+  <programme channel="tv.14" start="20180319124000 +0000" stop="20180319132500 +0000">
     <title>Desperate Housewives</title>
     <desc>Gale Harold returns to Wisteria Lane as Jackson Braddock.</desc>
     <episode-num system="dd_progid">10129335</episode-num>
@@ -11326,7 +11349,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180319133500 +0000" stop="20180319140000 +0000">
+  <programme channel="tv.14" start="20180319132500 +0000" stop="20180319135000 +0000">
     <title>Shortland Street</title>
     <desc>Sass sends mixed messages. Vinnie gambles with his future.</desc>
     <episode-num system="dd_progid">10513509</episode-num>
@@ -11335,7 +11358,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20180319140000 +0000" stop="20180319150500 +0000">
+  <programme channel="tv.14" start="20180319135000 +0000" stop="20180319150500 +0000">
     <title>Infomercial</title>
     <desc/>
     <episode-num system="dd_progid">10499791</episode-num>
@@ -11520,6 +11543,9 @@
     <title>Home And Away</title>
     <desc>Justin’s daughter tests his new relationship with Willow. Robbo’s ready to fight for his freedom. Mason pulls out all stops to keep Jasmine in the Bay.</desc>
     <episode-num system="dd_progid">10487155</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180320060000 +0000" stop="20180320063000 +0000">
     <title>The Big Bang Theory</title>
@@ -11700,14 +11726,10 @@
     <desc/>
     <episode-num system="dd_progid">10504880</episode-num>
   </programme>
-  <programme channel="tv.14" start="20180320213000 +0000" stop="20180320220000 +0000">
+  <programme channel="tv.14" start="20180320213000 +0000" stop="20180320223000 +0000">
     <title>Infomercial</title>
     <desc/>
     <episode-num system="dd_progid">10499754</episode-num>
-  </programme>
-  <programme channel="tv.14" start="20180320220000 +0000" stop="20180320223000 +0000">
-    <title>Infomercial 1000</title>
-    <desc/>
   </programme>
   <programme channel="tv.14" start="20180320223000 +0000" stop="20180320230000 +0000">
     <title>Neighbours</title>
@@ -11753,6 +11775,9 @@
     <title>Home And Away</title>
     <desc>Justin’s daughter tests his new relationship with Willow. Robbo’s ready to fight for his freedom. Mason pulls out all stops to keep Jasmine in the Bay.</desc>
     <episode-num system="dd_progid">10487155</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180321031500 +0000" stop="20180321034500 +0000">
     <title>Shortland Street</title>
@@ -18228,7 +18253,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180318073000 +0000" stop="20180318093000 +0000">
+  <programme channel="tv.37" start="20180318073000 +0000" stop="20180318094000 +0000">
     <title>Friends with Kids</title>
     <desc>Two best friends decide to have a child together while keeping their relationship platonic, so they can avoid the toll kids can take on romantic relationships.</desc>
     <episode-num system="dd_progid">FRWKD01Ep1</episode-num>
@@ -18236,7 +18261,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180318093000 +0000" stop="20180318103000 +0000">
+  <programme channel="tv.37" start="20180318094000 +0000" stop="20180318105000 +0000">
     <title>Cutest Kittens</title>
     <desc>Cutest Kittens is a joyous celebration of kittens of every conceivable kind, from those that swim to the pampered pets being groomed for photo shoots and public performances.</desc>
     <episode-num system="dd_progid">CKITT01Ep1</episode-num>
@@ -18244,7 +18269,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180318103000 +0000" stop="20180318113000 +0000">
+  <programme channel="tv.37" start="20180318105000 +0000" stop="20180318114500 +0000">
     <title>Baby Animals in the Wild</title>
     <desc>In this series we take a broad range of adorable baby animals and showcase their really wild behaviours in spectacular natural habitats.</desc>
     <episode-num system="dd_progid">BABIW01Ep8</episode-num>
@@ -18252,7 +18277,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180318113000 +0000" stop="20180318120000 +0000">
+  <programme channel="tv.37" start="20180318114500 +0000" stop="20180318121000 +0000">
     <title>Buying the Bayou</title>
     <desc>Ross and Sarah want a new bayou home where they can walk out their front door and onto their fishing boat.</desc>
     <episode-num system="dd_progid">BUYB03Ep6</episode-num>
@@ -18260,7 +18285,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180318120000 +0000" stop="20180318130000 +0000">
+  <programme channel="tv.37" start="20180318121000 +0000" stop="20180318130000 +0000">
     <title>The Hairy Bikers' Asian Adventure</title>
     <desc>They say it’s impossible to eat badly in Thailand and the Hairy Bikers are discovering why. They’re in Bangkok and Thailand’s central plains, where much of the Thai cuisine in the UK comes from.</desc>
     <episode-num system="dd_progid">HBADV01Ep2</episode-num>
@@ -19412,22 +19437,22 @@
   </programme>
   <programme channel="tv.55" start="20180317002500 +0000" stop="20180317022000 +0000">
     <title>Live: Paralympics - Slalom</title>
-    <desc>Live coverage of the Men’s Alpine Skiing Giant Slalom as Kiwi Corey Peters goes for gold at the Jeongseon Alpine Centre in PyeongChang, South Korea.</desc>
+    <desc>Live coverage of the Men’s Alpine Skiing Slalom as Kiwi Adam Hall goes for gold at the Jeongseon Alpine Centre in PyeongChang, South Korea.</desc>
     <episode-num system="dd_progid">10511227</episode-num>
   </programme>
   <programme channel="tv.55" start="20180317022000 +0000" stop="20180317030000 +0000">
     <title>Paralympics - Biathlon</title>
-    <desc/>
+    <desc>Highlights from the final day of action from the Alpensia Biathlon Centre in PyeongChang, South Korea.</desc>
     <episode-num system="dd_progid">10511284</episode-num>
   </programme>
   <programme channel="tv.55" start="20180317030000 +0000" stop="20180317050000 +0000">
     <title>Live: Paralympics - Ice Hockey</title>
-    <desc>Live coverage of the Ice Hockey Bronze Medal from the Gangneung Hockey Centre in PyeongChang, South Korea.</desc>
+    <desc>Live coverage of the Ice Hockey Bronze Medal match between South Korea and Italy from the Gangneung Hockey Centre in PyeongChang, South Korea.</desc>
     <episode-num system="dd_progid">10511228</episode-num>
   </programme>
   <programme channel="tv.55" start="20180317050000 +0000" stop="20180317063000 +0000">
     <title>Live: Paralympics - Slalom</title>
-    <desc>Live coverage of the second run in the Men’s Alpine Skiing Giant Slalom as Kiwi Corey Peters goes for gold at the Jeongseon Alpine Centre in PyeongChang, South Korea.</desc>
+    <desc>Live coverage of the second run in the Men’s Alpine Skiing Slalom as Kiwi Adam Hall goes for gold at the Jeongseon Alpine Centre in PyeongChang, South Korea.</desc>
     <episode-num system="dd_progid">10511229</episode-num>
   </programme>
   <programme channel="tv.55" start="20180317063000 +0000" stop="20180317090000 +0000">
@@ -19470,20 +19495,25 @@
     <desc>Live coverage of the Round 6 race from the streets of Punta del Este in Uruguay, featuring Kiwi driver Mitch Evans.</desc>
     <episode-num system="dd_progid">10500074</episode-num>
   </programme>
-  <programme channel="tv.55" start="20180317203000 +0000" stop="20180317233000 +0000">
+  <programme channel="tv.55" start="20180317203000 +0000" stop="20180317232500 +0000">
     <title>On DUKE today...</title>
     <desc>Here's what's on DUKE today.</desc>
     <episode-num system="dd_progid">10432293#1</episode-num>
   </programme>
-  <programme channel="tv.55" start="20180317233000 +0000" stop="20180318002500 +0000">
+  <programme channel="tv.55" start="20180317232500 +0000" stop="20180318002500 +0000">
     <title>Winter Paralympics Highlights</title>
     <desc>Day 8 highlights from the XII Paralympic Winter Games from PyeongChang, South Korea.</desc>
     <episode-num system="dd_progid">10511316</episode-num>
   </programme>
-  <programme channel="tv.55" start="20180318002500 +0000" stop="20180318020000 +0000">
-    <title>Live: Paralympics - Alpine Ski</title>
+  <programme channel="tv.55" start="20180318002500 +0000" stop="20180318013000 +0000">
+    <title>Live: Paralympics - Slalom</title>
     <desc>Live coverage of the Women’s Alpine Skiing Giant Slalom from the Jeongseon Alpine Centre in PyeongChang, South Korea.</desc>
     <episode-num system="dd_progid">10511230</episode-num>
+  </programme>
+  <programme channel="tv.55" start="20180318013000 +0000" stop="20180318020000 +0000">
+    <title>Paralympics - X Country</title>
+    <desc>Highlights from the Men’s 10km Classic from the Alpensia Biathlon Centre in PyeongChang, South Korea.</desc>
+    <episode-num system="dd_progid">10511285</episode-num>
   </programme>
   <programme channel="tv.55" start="20180318020000 +0000" stop="20180318030500 +0000">
     <title>Live: Paralympics - X Country</title>
@@ -19496,7 +19526,7 @@
     <episode-num system="dd_progid">10511275</episode-num>
   </programme>
   <programme channel="tv.55" start="20180318032500 +0000" stop="20180318043000 +0000">
-    <title>Live: Paralympics - Alpine Ski</title>
+    <title>Live: Paralympics - Slalom</title>
     <desc>Live coverage of the second run in the Women’s Alpine Skiing Giant Slalom from the Jeongseon Alpine Centre in PyeongChang, South Korea.</desc>
     <episode-num system="dd_progid">10511232</episode-num>
   </programme>
@@ -19507,7 +19537,7 @@
   </programme>
   <programme channel="tv.55" start="20180318054500 +0000" stop="20180318080000 +0000">
     <title>Paralympics - Ice Hockey</title>
-    <desc>Coverage of the Ice Hockey Gold Medal match from the Gangneung Hockey Centre in PyeongChang, South Korea.</desc>
+    <desc>Coverage of the Ice Hockey Gold Medal Medal match between Canada and USA from the Gangneung Hockey Centre in PyeongChang, South Korea.</desc>
     <episode-num system="dd_progid">10511277</episode-num>
   </programme>
   <programme channel="tv.55" start="20180318080000 +0000" stop="20180318090000 +0000">
@@ -19710,7 +19740,7 @@
     <desc>When Junior decides to run for class president, Dre steps in to be his campaign manager.</desc>
     <episode-num system="dd_progid">10457209</episode-num>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.55" start="20180320045500 +0000" stop="20180320052500 +0000">
@@ -59250,19 +59280,19 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20180321104000 +0000" stop="20180321125000 +0000">
-    <title>Trial &amp; Retribution</title>
-    <episode-num system="dd_progid">TRRE_1_1</episode-num>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204200427" start="20180321104000 +0000" stop="20180321124000 +0000">
     <title>Fatal Honeymoon</title>
     <episode-num system="dd_progid">FAHO1__1</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200427" start="20180321104000 +0000" stop="20180321125000 +0000">
+    <title>Trial &amp; Retribution</title>
+    <episode-num system="dd_progid">TRRE_1_1</episode-num>
+    <rating system="Freeview">
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101204200427" start="20180321124000 +0000" stop="20180321133500 +0000">
@@ -77504,17 +77534,17 @@
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180319055500 +0000" stop="20180319063000 +0000">
-    <title>Cold Justice</title>
-    <episode-num system="dd_progid">914053</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000301" start="20180319055500 +0000" stop="20180319063000 +0000">
     <title>Meeting Place</title>
     <episode-num system="dd_progid">850626</episode-num>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000301" start="20180319055500 +0000" stop="20180319063000 +0000">
+    <title>Cold Justice</title>
+    <episode-num system="dd_progid">914053</episode-num>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180319063000 +0000" stop="20180319070000 +0000">
