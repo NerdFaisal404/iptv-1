@@ -4328,7 +4328,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180317091000 +0000" stop="20180317113500 +0000">
+  <programme channel="tv.11" start="20180317091000 +0000" stop="20180317114000 +0000">
     <title>Theory Of Everything, The</title>
     <desc>Starring Eddie Redmayne and Felicity Jones, this is the extraordinary story of love between the renowned astrophysicist Stephen Hawking, and his tireless first wife Jane. (2014)</desc>
     <episode-num system="dd_progid">T684111</episode-num>
@@ -4339,7 +4339,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180317113500 +0000" stop="20180317150000 +0000">
+  <programme channel="tv.11" start="20180317114000 +0000" stop="20180317150000 +0000">
     <title>Infomercials</title>
     <desc></desc>
     <episode-num system="dd_progid">T1</episode-num>
@@ -4624,6 +4624,9 @@
     <title>Married At First Sight Australia</title>
     <desc>New Episode. The final week of the experiment presents a new element; the One on Ones, as the final dates kick off before the couples make their decision whether or not to renew their vows. S5 Ep26</desc>
     <episode-num system="dd_progid">T816152</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180319080500 +0000" stop="20180319090000 +0000">
     <title>9-1-1</title>
@@ -4724,6 +4727,9 @@
     <title>Married At First Sight Australia</title>
     <desc>New Episode. The final week of the experiment presents a new element; the One on Ones, as the final dates kick off before the couples make their decision whether or not to renew their vows. S5 Ep26</desc>
     <episode-num system="dd_progid">T816152</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180320020000 +0000" stop="20180320023000 +0000">
     <title>Entertainment Tonight</title>
@@ -4776,6 +4782,9 @@
     <title>Married At First Sight Australia</title>
     <desc>New Episode. The final dates continue and the couples must talk about any outstanding issues before they make the decision whether or not to renew their vows. S5 Ep27</desc>
     <episode-num system="dd_progid">T816153</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180320080500 +0000" stop="20180320090000 +0000">
     <title>SVU: Special Victims Unit</title>
@@ -4805,6 +4814,9 @@
     <title>The Blacklist</title>
     <desc>New Episode. Liz explores her darker impulses in therapy, the team tries to take down Tom's killers within the legal system, and Red takes a different approach to closing in on Ian Garvey. S5 Ep16</desc>
     <episode-num system="dd_progid">T785690</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
@@ -4872,6 +4884,9 @@
     <title>Married At First Sight Australia</title>
     <desc>New Episode. The final dates continue and the couples must talk about any outstanding issues before they make the decision whether or not to renew their vows. S5 Ep27</desc>
     <episode-num system="dd_progid">T816153</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180321020000 +0000" stop="20180321023000 +0000">
     <title>Entertainment Tonight</title>
@@ -5067,7 +5082,7 @@
   </programme>
   <programme channel="tv.11" start="20180322063000 +0000" stop="20180322070000 +0000">
     <title>Modern Family</title>
-    <desc>New episodes of Modern Family are fast-tracked from the States. S9 Ep16</desc>
+    <desc>New Episode. The family goes on a wine tasting trip and stays in Haley's new boss's country house. Plus, Gloria and Mitch are invited to a party at Oprah's house but can't bring anyone else. S9 Ep16</desc>
     <episode-num system="dd_progid">T788764</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
@@ -6334,7 +6349,7 @@
   </programme>
   <programme channel="tv.12" start="20180321073000 +0000" stop="20180321083000 +0000">
     <title>The Real Housewives Of Beverly Hills</title>
-    <desc></desc>
+    <desc>After her explosive encounter with Erika, Teddi worries about seeing her at Lisa Rinna's luncheon.</desc>
     <episode-num system="dd_progid">T790681</episode-num>
   </programme>
   <programme channel="tv.12" start="20180321083000 +0000" stop="20180321092800 +0000">
@@ -6435,7 +6450,7 @@
   </programme>
   <programme channel="tv.12" start="20180322013500 +0000" stop="20180322023300 +0000">
     <title>The Real Housewives Of Beverly Hills</title>
-    <desc></desc>
+    <desc>After her explosive encounter with Erika, Teddi worries about seeing her at Lisa Rinna's luncheon.</desc>
     <episode-num system="dd_progid">T790681</episode-num>
   </programme>
   <programme channel="tv.12" start="20180322023300 +0000" stop="20180322023500 +0000">
@@ -12588,7 +12603,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180317101000 +0000" stop="20180317123500 +0000">
+  <programme channel="tv.27" start="20180317101000 +0000" stop="20180317124000 +0000">
     <title>Theory Of Everything, The</title>
     <desc>Starring Eddie Redmayne and Felicity Jones, this is the extraordinary story of love between the renowned astrophysicist Stephen Hawking, and his tireless first wife Jane. (2014)</desc>
     <episode-num system="dd_progid">T684111</episode-num>
@@ -12596,7 +12611,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180317123500 +0000" stop="20180317160000 +0000">
+  <programme channel="tv.27" start="20180317124000 +0000" stop="20180317160000 +0000">
     <title>Infomercials</title>
     <desc></desc>
     <episode-num system="dd_progid">T1</episode-num>
@@ -12878,6 +12893,9 @@
     <title>Married At First Sight Australia</title>
     <desc>New Episode. The final week of the experiment presents a new element; the One on Ones, as the final dates kick off before the couples make their decision whether or not to renew their vows. S5 Ep26</desc>
     <episode-num system="dd_progid">T816152</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180319090500 +0000" stop="20180319100000 +0000">
     <title>9-1-1</title>
@@ -12978,6 +12996,9 @@
     <title>Married At First Sight Australia</title>
     <desc>New Episode. The final week of the experiment presents a new element; the One on Ones, as the final dates kick off before the couples make their decision whether or not to renew their vows. S5 Ep26</desc>
     <episode-num system="dd_progid">T816152</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180320030000 +0000" stop="20180320033000 +0000">
     <title>Entertainment Tonight</title>
@@ -13030,6 +13051,9 @@
     <title>Married At First Sight Australia</title>
     <desc>New Episode. The final dates continue and the couples must talk about any outstanding issues before they make the decision whether or not to renew their vows. S5 Ep27</desc>
     <episode-num system="dd_progid">T816153</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180320090500 +0000" stop="20180320100000 +0000">
     <title>SVU: Special Victims Unit</title>
@@ -13123,6 +13147,9 @@
     <title>Married At First Sight Australia</title>
     <desc>New Episode. The final dates continue and the couples must talk about any outstanding issues before they make the decision whether or not to renew their vows. S5 Ep27</desc>
     <episode-num system="dd_progid">T816153</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180321030000 +0000" stop="20180321033000 +0000">
     <title>Entertainment Tonight</title>
@@ -13315,7 +13342,7 @@
   </programme>
   <programme channel="tv.27" start="20180322073000 +0000" stop="20180322080000 +0000">
     <title>Modern Family</title>
-    <desc>New episodes of Modern Family are fast-tracked from the States. S9 Ep16</desc>
+    <desc>New Episode. The family goes on a wine tasting trip and stays in Haley's new boss's country house. Plus, Gloria and Mitch are invited to a party at Oprah's house but can't bring anyone else. S9 Ep16</desc>
     <episode-num system="dd_progid">T788764</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
@@ -14567,7 +14594,7 @@
   </programme>
   <programme channel="tv.30" start="20180321083000 +0000" stop="20180321093000 +0000">
     <title>The Real Housewives Of Beverly Hills</title>
-    <desc></desc>
+    <desc>After her explosive encounter with Erika, Teddi worries about seeing her at Lisa Rinna's luncheon.</desc>
     <episode-num system="dd_progid">T790681</episode-num>
   </programme>
   <programme channel="tv.30" start="20180321093000 +0000" stop="20180321102800 +0000">
@@ -14668,7 +14695,7 @@
   </programme>
   <programme channel="tv.30" start="20180322023500 +0000" stop="20180322033300 +0000">
     <title>The Real Housewives Of Beverly Hills</title>
-    <desc></desc>
+    <desc>After her explosive encounter with Erika, Teddi worries about seeing her at Lisa Rinna's luncheon.</desc>
     <episode-num system="dd_progid">T790681</episode-num>
   </programme>
   <programme channel="tv.30" start="20180322033300 +0000" stop="20180322033500 +0000">
@@ -17168,9 +17195,9 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20180320063000 +0000" stop="20180320070000 +0000">
-    <title>This vs That 56</title>
-    <desc></desc>
-    <episode-num system="dd_progid">T575902</episode-num>
+    <title>This vs That</title>
+    <desc>Music videos battling it out! Today it's throwbacks vs freshies, old school vs new school! Was it really better back in the day? Or will the new blood triumph?</desc>
+    <episode-num system="dd_progid">T575890</episode-num>
   </programme>
   <programme channel="tv.51" start="20180320070000 +0000" stop="20180320080000 +0000">
     <title>Top 10</title>
@@ -19258,12 +19285,12 @@
     <desc>Day 6 highlights from the XII Paralympic Winter Games from PyeongChang, South Korea.</desc>
     <episode-num system="dd_progid">10511314</episode-num>
   </programme>
-  <programme channel="tv.55" start="20180316013000 +0000" stop="20180316052500 +0000">
+  <programme channel="tv.55" start="20180316013000 +0000" stop="20180316063000 +0000">
     <title>Live: Paralympics Snowboard</title>
     <desc>Live coverage of the Snowboard Banked Slalom as Kiwi Carl Murphy goes for gold at the Jeongseon Alpine Centre in PyeongChang, South Korea.</desc>
     <episode-num system="dd_progid">10511225</episode-num>
   </programme>
-  <programme channel="tv.55" start="20180316052500 +0000" stop="20180316073000 +0000">
+  <programme channel="tv.55" start="20180316063000 +0000" stop="20180316073000 +0000">
     <title>Paralympics - Biathlon</title>
     <desc>Coverage of the Men’s and Women’s sitting and standing Biathlon from the Alpensia Biathlon Centre.</desc>
     <episode-num system="dd_progid">10511283</episode-num>
@@ -32148,9 +32175,9 @@
     </rating>
   </programme>
   <programme channel="tv.56" start="20180317203000 +0000" stop="20180317210000 +0000">
-    <title>Help I'm A Parent</title>
-    <desc></desc>
-    <episode-num system="dd_progid">HIAPARENT01x02</episode-num>
+    <title>Lifestyle Magazine</title>
+    <desc>Family man and talented actor, Morris Chestnut, shares how he got in shape for his challenging role in the movie The Best Man Holiday. He's here to talk about how to stay fit after 40</desc>
+    <episode-num system="dd_progid">LIFEMAGx2402</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -32189,8 +32216,8 @@
   </programme>
   <programme channel="tv.56" start="20180317233000 +0000" stop="20180318000000 +0000">
     <title>It Is Written Oceania</title>
-    <desc></desc>
-    <episode-num system="dd_progid">IIWOCEANIAx620</episode-num>
+    <desc>Friday, Dec 21, 2012, the world was supposed to come to a dramatic end, but that day came and went. What happened?</desc>
+    <episode-num system="dd_progid">IIWOCEANIAx110</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -32221,7 +32248,7 @@
   </programme>
   <programme channel="tv.56" start="20180318020000 +0000" stop="20180318023000 +0000">
     <title>Chosen</title>
-    <desc></desc>
+    <desc>Discover from the story of Miriam, that even if you have really messed up in life, God can still use you, and your salvation is assured. So start celebrating victory in your life today.</desc>
     <episode-num system="dd_progid">JESUS101xC03</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -32229,7 +32256,7 @@
   </programme>
   <programme channel="tv.56" start="20180318023000 +0000" stop="20180318030000 +0000">
     <title>The Table</title>
-    <desc>Waht are the risks and benefits of co-sleeping as opposed to getting your child to sleep alone? How do you make friends as a parent adult? And an interview with a stay-at-home dad.</desc>
+    <desc>What are the risks and benefits of co-sleeping as opposed to getting your child to sleep alone? How do you make friends as a parent adult? And an interview with a stay-at-home dad.</desc>
     <episode-num system="dd_progid">TABLE02x08</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -32245,7 +32272,7 @@
   </programme>
   <programme channel="tv.56" start="20180318032500 +0000" stop="20180318034500 +0000">
     <title>Let's Pray</title>
-    <desc></desc>
+    <desc>A mother, missionary, and marathon runner faces an illness that leaves her paralyzed from the neck down. How did Loretta face the possibility of living the rest of her life in a wheelchair?</desc>
     <episode-num system="dd_progid">LETSPRAY02x17</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -32253,7 +32280,7 @@
   </programme>
   <programme channel="tv.56" start="20180318034500 +0000" stop="20180318043500 +0000">
     <title>Disclosure</title>
-    <desc>Today we discuss the man himself, the author of the book of Daniel.</desc>
+    <desc>Shawn Boonstra and David Franklin discuss the author of the book of Daniel, his place in history, and the context in which he wrote.</desc>
     <episode-num system="dd_progid">DISCLOSE01x16</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -32275,15 +32302,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180318060000 +0000" stop="20180318063000 +0000">
-    <title>Creation Astronomy</title>
-    <desc>Spike Psarris examines our solar system, comparing evolutionary models with the reality of the planets and their moons in Earth's solar system.</desc>
-    <episode-num system="dd_progid">CAM02x101</episode-num>
+  <programme channel="tv.56" start="20180318060000 +0000" stop="20180318064000 +0000">
+    <title>The Programming of Life</title>
+    <desc>A further examination of the theory of origins, and the chemical and biological theory of evolution, asking the difficult questions in order to reveal the truth about undirected natural processes</desc>
+    <episode-num system="dd_progid">CSPECIALx10</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180318063000 +0000" stop="20180318070000 +0000">
+  <programme channel="tv.56" start="20180318064000 +0000" stop="20180318070500 +0000">
     <title>It Is Written</title>
     <desc>In 1517, one thing that troubled Luther was that the church was not founded on Jesus. Five hundred years later, John Bradshaw, on location in Poland, asks if things have really changed?</desc>
     <episode-num system="dd_progid">IIWJB04x1458</episode-num>
@@ -32291,15 +32318,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180318070000 +0000" stop="20180318081500 +0000">
+  <programme channel="tv.56" start="20180318070500 +0000" stop="20180318082000 +0000">
     <title>The Master Designer</title>
-    <desc>...</desc>
+    <desc>Take a glimpse into the blueprint of creation that reveals a dramatic story. A story of purpose, meaning, significance and ultimately love, all crafted by the Master Designer.</desc>
     <episode-num system="dd_progid">CSPECIALx28</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180318081500 +0000" stop="20180318091500 +0000">
+  <programme channel="tv.56" start="20180318082000 +0000" stop="20180318092000 +0000">
     <title>God?</title>
     <desc>Journey with David Asscherick as he unravels some of the mystery about God and answers some very tough questions about life - such as 'Getting a New Start?'</desc>
     <episode-num system="dd_progid">GOD01x12</episode-num>
@@ -32307,7 +32334,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180318091500 +0000" stop="20180318101500 +0000">
+  <programme channel="tv.56" start="20180318092000 +0000" stop="20180318102000 +0000">
     <title>Celebrating Life In Recovery</title>
     <desc>Their honesty may surprise you and their stories inspire you. Cheri Peters talks to a new set of guests who share their stories of addiction and healing, physically, emotionally, and spiritually.</desc>
     <episode-num system="dd_progid">CLIFEIR06x09</episode-num>
@@ -32315,7 +32342,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180318101500 +0000" stop="20180318111000 +0000">
+  <programme channel="tv.56" start="20180318102000 +0000" stop="20180318111500 +0000">
     <title>Creation Ministries</title>
     <desc>The surface of the earth presents many puzzles for evolutionary scientists, but can be explained by catastrophic runoff late in the Flood. Wonderful facts that make sense and present truth clearly</desc>
     <episode-num system="dd_progid">CREATIONMIx14</episode-num>
@@ -32323,15 +32350,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180318111000 +0000" stop="20180318115500 +0000">
-    <title>The Programming of Life</title>
-    <desc>An examination of the theory of origins, and the chemical and biological theory of evolution, asking the difficult questions in order to reveal the truth about undirected natural processes</desc>
-    <episode-num system="dd_progid">CSPECIALx08</episode-num>
+  <programme channel="tv.56" start="20180318111500 +0000" stop="20180318114500 +0000">
+    <title>My Story, My Song - Concerts</title>
+    <desc>Join your host Kandus Thorp to hear a concert from today's guest Jaime Jorge</desc>
+    <episode-num system="dd_progid">MSMSONG03x26</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180318115500 +0000" stop="20180318123500 +0000">
+  <programme channel="tv.56" start="20180318114500 +0000" stop="20180318123000 +0000">
     <title>Dare To Be A Daniel</title>
     <desc>In the book of Daniel, we face tremendous threats, challenges and danger of every kind. Knowing what's behind the scenes, changes everything.</desc>
     <episode-num system="dd_progid">LLUCDDANIEL</episode-num>
@@ -32339,7 +32366,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180318123500 +0000" stop="20180318130500 +0000">
+  <programme channel="tv.56" start="20180318123000 +0000" stop="20180318130000 +0000">
     <title>Real Family Talk</title>
     <desc>People don't expect to get married and then become unhappy and have their marriage fall apart, but it happens. Willie and Elaine talk about how to stay happily married now and for years to come</desc>
     <episode-num system="dd_progid">RFAMILYT04x68</episode-num>
@@ -32347,15 +32374,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180318130500 +0000" stop="20180318133500 +0000">
+  <programme channel="tv.56" start="20180318130000 +0000" stop="20180318133000 +0000">
     <title>The Table</title>
-    <desc>Waht are the risks and benefits of co-sleeping as opposed to getting your child to sleep alone? How do you make friends as a parent adult? And an interview with a stay-at-home dad.</desc>
+    <desc>What are the risks and benefits of co-sleeping as opposed to getting your child to sleep alone? How do you make friends as a parent adult? And an interview with a stay-at-home dad.</desc>
     <episode-num system="dd_progid">TABLE02x08</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180318133500 +0000" stop="20180318143000 +0000">
+  <programme channel="tv.56" start="20180318133000 +0000" stop="20180318143000 +0000">
     <title>Go Healthy For Good</title>
     <desc>Mobile, wireless, wearable, gaming, and connected health are all tools available in the health and wellness landscape. Surrounded by technology, are we using it to its best advantage for our health?</desc>
     <episode-num system="dd_progid">GOHEALTHYx1515</episode-num>
@@ -32451,20 +32478,20 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180318203000 +0000" stop="20180318210500 +0000">
-    <title>Documentary</title>
-    <desc>A World Without Orphans brings together leading adoption advocates from around the world to discuss the need to move away from placing children in orphanages, and toward placement with families.</desc>
-    <episode-num system="dd_progid">HOPESPECIALx50</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.56" start="20180318210500 +0000" stop="20180318220000 +0000">
-    <title>Revelation Speaks Peace</title>
-    <desc>Shawn Boonstra takes a look at recent world events to see how they fit into Bible history and prophecy, and provides people with the tools to understand Revelation for themselves.</desc>
-    <episode-num system="dd_progid">REVSPPEACE01x02</episode-num>
+  <programme channel="tv.56" start="20180318203000 +0000" stop="20180318210000 +0000">
+    <title>Who Is Jesus</title>
+    <desc>Actor Bruce Marchiano shares the insights he learned from playing Jesus in the movie of Matthew's gospel. Today, he introduces us to the disciple Matthew.</desc>
+    <episode-num system="dd_progid">WHOIJx01</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.56" start="20180318210000 +0000" stop="20180318220000 +0000">
+    <title>God?</title>
+    <desc>Journey with David Asscherick as he unravels some of the mystery about God and answers some very tough questions about life - such as 'What is truth?'</desc>
+    <episode-num system="dd_progid">GOD01x01</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.56" start="20180318220000 +0000" stop="20180318223000 +0000">
@@ -32525,7 +32552,7 @@
   </programme>
   <programme channel="tv.56" start="20180319021000 +0000" stop="20180319023000 +0000">
     <title>Let's Pray</title>
-    <desc></desc>
+    <desc>A mother, missionary, and marathon runner faces an illness that leaves her paralyzed from the neck down. How did Loretta face the possibility of living the rest of her life in a wheelchair?</desc>
     <episode-num system="dd_progid">LETSPRAY02x17</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -32564,9 +32591,9 @@
     </rating>
   </programme>
   <programme channel="tv.56" start="20180319043000 +0000" stop="20180319050000 +0000">
-    <title>Off the Grid</title>
-    <desc>Experience the challenges and rewards of working for Adventist World Aviation. The team see the need for medevac services as a patient must be carried down the rugged mountain side</desc>
-    <episode-num system="dd_progid">OFFGRIDx306</episode-num>
+    <title>Missions Today</title>
+    <desc>Altitude evangelism! Discover how God worked through our mission team to reach precious people high in the Andes Mountains in Cuzco, Peru near the stunning Inca ruins of Machu Picchu</desc>
+    <episode-num system="dd_progid">MISSIONST01x04</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -32587,7 +32614,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180319060000 +0000" stop="20180319062500 +0000">
+  <programme channel="tv.56" start="20180319060000 +0000" stop="20180319063000 +0000">
     <title>7th Street Theatre</title>
     <desc>Replacing Seth and Andi proves to be hard for everyone. But nothing is too hard for God</desc>
     <episode-num system="dd_progid">7THSTREET02x17</episode-num>
@@ -32595,7 +32622,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180319062500 +0000" stop="20180319065500 +0000">
+  <programme channel="tv.56" start="20180319063000 +0000" stop="20180319070000 +0000">
     <title>It Is Written Oceania</title>
     <desc>As the Titanic began sinking in the icy waters that dark April night, there was one man who stood out as a true hero.</desc>
     <episode-num system="dd_progid">IIWOCEANIAx104</episode-num>
@@ -32603,10 +32630,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180319065500 +0000" stop="20180319073000 +0000">
-    <title>The Programming of Life</title>
-    <desc>A further examination of the theory of origins, and the chemical and biological theory of evolution, asking the difficult questions in order to reveal the truth about undirected natural processes</desc>
-    <episode-num system="dd_progid">CSPECIALx10</episode-num>
+  <programme channel="tv.56" start="20180319070000 +0000" stop="20180319073000 +0000">
+    <title>Creation Astronomy</title>
+    <desc>Spike Psarris examines our solar system, comparing evolutionary models with the reality of the planets and their moons in Earth's solar system.</desc>
+    <episode-num system="dd_progid">CAM02x101</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -32619,7 +32646,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180319080000 +0000" stop="20180319083500 +0000">
+  <programme channel="tv.56" start="20180319080000 +0000" stop="20180319084000 +0000">
     <title>Sacred Messages Down Under</title>
     <desc>In 1974, Darwin experienced a devastating storm that could not be predicted by signs in the sky. Everyone needed to be warned by someone who had a knowledge of more than what the naked eye could see</desc>
     <episode-num system="dd_progid">WATVATSIMx09</episode-num>
@@ -32627,7 +32654,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180319083500 +0000" stop="20180319090500 +0000">
+  <programme channel="tv.56" start="20180319084000 +0000" stop="20180319090500 +0000">
     <title>Real Family Talk</title>
     <desc>Is your love-life taking a back seat to life, work, and parenting? Today, Willie and Elaine talk about how to bring back the romance even for busy working and parenting spouses.</desc>
     <episode-num system="dd_progid">RFAMILYT04x70</episode-num>
@@ -32651,20 +32678,20 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180319100000 +0000" stop="20180319113500 +0000">
-    <title>Polycarp - Movie</title>
-    <desc>A young slave girl, Anna, is rescued and adopted by Christians in 2nd Century Smyrna and befriended by their aged bishop, Polycarp. Anna struggles to reconcile her beliefs with those of the Christia</desc>
-    <episode-num system="dd_progid">MOVIESx38</episode-num>
-    <rating system="Freeview">
-      <value>AO</value>
-    </rating>
-  </programme>
-  <programme channel="tv.56" start="20180319113500 +0000" stop="20180319120000 +0000">
-    <title>Get Growing</title>
-    <desc>For the past few years Lynda Hallinan has been living self-sufficiently in the city, growing all her own fresh fruit and veges. She teaches a young couple how to do the same with their own first gar</desc>
-    <episode-num system="dd_progid">GETGROW02x201</episode-num>
+  <programme channel="tv.56" start="20180319100000 +0000" stop="20180319113000 +0000">
+    <title>Matthew - Movie</title>
+    <desc>A dramatic visual portrayal of the gospel of Matthew, showing the compassion of Jesus and His willingness to heal all manner of disease.</desc>
+    <episode-num system="dd_progid">MOVIESx50</episode-num>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.56" start="20180319113000 +0000" stop="20180319120000 +0000">
+    <title>Who Is Jesus</title>
+    <desc>Actor Bruce Marchiano shares the insights he learned from playing Jesus in the movie of Matthew's gospel. Today, he introduces us to the disciple Matthew.</desc>
+    <episode-num system="dd_progid">WHOIJx01</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.56" start="20180319120000 +0000" stop="20180319123000 +0000">
@@ -32693,7 +32720,7 @@
   </programme>
   <programme channel="tv.56" start="20180319141500 +0000" stop="20180319143000 +0000">
     <title>Let's Pray</title>
-    <desc></desc>
+    <desc>Explore the book of Judges with Pastor Chad Stewart, as we talk about selfish prayers</desc>
     <episode-num system="dd_progid">LETSPRAY02x15</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -32733,7 +32760,7 @@
   </programme>
   <programme channel="tv.56" start="20180319170500 +0000" stop="20180319180000 +0000">
     <title>Disclosure</title>
-    <desc>Today we discuss the man himself, the author of the book of Daniel.</desc>
+    <desc>Shawn Boonstra and David Franklin discuss the author of the book of Daniel, his place in history, and the context in which he wrote.</desc>
     <episode-num system="dd_progid">DISCLOSE01x16</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -32772,16 +32799,16 @@
     </rating>
   </programme>
   <programme channel="tv.56" start="20180319200000 +0000" stop="20180319203000 +0000">
-    <title>Creation Astronomy</title>
-    <desc>Spike Psarris examines our solar system, comparing evolutionary models with the reality of the planets and their moons in Earth's solar system.</desc>
-    <episode-num system="dd_progid">CAM02x101</episode-num>
+    <title>Beyond</title>
+    <desc>What's going on? Where are we headed? Is anyone in control? Beyond Disaster explores environmental, social and financial events to find the bigger picture that unites them all.</desc>
+    <episode-num system="dd_progid">BEYONDx01</episode-num>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.56" start="20180319203000 +0000" stop="20180319210000 +0000">
     <title>The Table</title>
-    <desc>Waht are the risks and benefits of co-sleeping as opposed to getting your child to sleep alone? How do you make friends as a parent adult? And an interview with a stay-at-home dad.</desc>
+    <desc>What are the risks and benefits of co-sleeping as opposed to getting your child to sleep alone? How do you make friends as a parent adult? And an interview with a stay-at-home dad.</desc>
     <episode-num system="dd_progid">TABLE02x08</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -32805,10 +32832,10 @@
   </programme>
   <programme channel="tv.56" start="20180319230000 +0000" stop="20180319233000 +0000">
     <title>It Is Written Oceania</title>
-    <desc></desc>
-    <episode-num system="dd_progid">IIWOCEANIAx701</episode-num>
+    <desc>It is generally believed that the Anzacs were an irreligious group. However, many of the men found comfort in scripture, prayer and song, and the mateship of faith of those who trusted in God</desc>
+    <episode-num system="dd_progid">IIWOCEANIAx133</episode-num>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.56" start="20180319233000 +0000" stop="20180320000000 +0000">
@@ -32821,7 +32848,7 @@
   </programme>
   <programme channel="tv.56" start="20180320000000 +0000" stop="20180320011500 +0000">
     <title>The Master Designer</title>
-    <desc>...</desc>
+    <desc>Take a glimpse into the blueprint of creation that reveals a dramatic story. A story of purpose, meaning, significance and ultimately love, all crafted by the Master Designer.</desc>
     <episode-num system="dd_progid">CSPECIALx28</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -32837,7 +32864,7 @@
   </programme>
   <programme channel="tv.56" start="20180320021000 +0000" stop="20180320030000 +0000">
     <title>Disclosure</title>
-    <desc>Today we discuss the man himself, the author of the book of Daniel.</desc>
+    <desc>Shawn Boonstra and David Franklin discuss the author of the book of Daniel, his place in history, and the context in which he wrote.</desc>
     <episode-num system="dd_progid">DISCLOSE01x16</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -32933,7 +32960,7 @@
   </programme>
   <programme channel="tv.56" start="20180320103000 +0000" stop="20180320114500 +0000">
     <title>The Master Designer</title>
-    <desc>...</desc>
+    <desc>Take a glimpse into the blueprint of creation that reveals a dramatic story. A story of purpose, meaning, significance and ultimately love, all crafted by the Master Designer.</desc>
     <episode-num system="dd_progid">CSPECIALx28</episode-num>
     <rating system="Freeview">
       <value>G</value>
