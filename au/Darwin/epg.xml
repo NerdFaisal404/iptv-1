@@ -15796,18 +15796,18 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20180321104000 +0000" stop="20180321124000 +0000">
-    <title>Fatal Honeymoon</title>
-    <episode-num system="dd_progid">FAHO1__1</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204200427" start="20180321104000 +0000" stop="20180321125000 +0000">
     <title>Trial &amp; Retribution</title>
     <episode-num system="dd_progid">TRRE_1_1</episode-num>
     <rating system="Freeview">
       <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200427" start="20180321104000 +0000" stop="20180321124000 +0000">
+    <title>Fatal Honeymoon</title>
+    <episode-num system="dd_progid">FAHO1__1</episode-num>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204200427" start="20180321124000 +0000" stop="20180321133500 +0000">
@@ -33687,17 +33687,17 @@
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180319055500 +0000" stop="20180319063000 +0000">
-    <title>Cold Justice</title>
-    <episode-num system="dd_progid">914053</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000301" start="20180319055500 +0000" stop="20180319063000 +0000">
     <title>Meeting Place</title>
     <episode-num system="dd_progid">850626</episode-num>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000301" start="20180319055500 +0000" stop="20180319063000 +0000">
+    <title>Cold Justice</title>
+    <episode-num system="dd_progid">914053</episode-num>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180319063000 +0000" stop="20180319070000 +0000">
