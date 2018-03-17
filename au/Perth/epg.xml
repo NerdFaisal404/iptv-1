@@ -14147,18 +14147,18 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20180321134000 +0000" stop="20180321155000 +0000">
-    <title>Trial &amp; Retribution</title>
-    <episode-num system="dd_progid">TRRE_1_1</episode-num>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204600467" start="20180321134000 +0000" stop="20180321154000 +0000">
     <title>Fatal Honeymoon</title>
     <episode-num system="dd_progid">FAHO1__1</episode-num>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600467" start="20180321134000 +0000" stop="20180321155000 +0000">
+    <title>Trial &amp; Retribution</title>
+    <episode-num system="dd_progid">TRRE_1_1</episode-num>
+    <rating system="Freeview">
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101204600467" start="20180321154000 +0000" stop="20180321163500 +0000">
