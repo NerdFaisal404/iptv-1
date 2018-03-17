@@ -1356,6 +1356,9 @@
     <title>Whanau Living</title>
     <desc>Kate Hawesby shares her kitchen tips on how she keeps herself and her whānau healthy. Doug Drand up-cycles a wine barrel in a multi-functional kai cooker and Mahi Makiha makes eye-catching candles.</desc>
     <episode-num system="dd_progid">10510501</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180322213000 +0000" stop="20180322220000 +0000">
     <title>Four In A Bed</title>
@@ -1513,6 +1516,7 @@
   <programme channel="tv.9" start="20180323180000 +0000" stop="20180323183000 +0000">
     <title>Rural Delivery</title>
     <desc/>
+    <episode-num system="dd_progid">10517346</episode-num>
   </programme>
   <programme channel="tv.9" start="20180323183000 +0000" stop="20180323200000 +0000">
     <title>Infomercial</title>
@@ -2846,7 +2850,7 @@
       <stereo>dolby</stereo>
     </audio>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20180320053000 +0000" stop="20180320060000 +0000">
@@ -9940,6 +9944,9 @@
     <title>Whanau Living</title>
     <desc>Kate Hawesby shares her kitchen tips on how she keeps herself and her whānau healthy. Doug Drand up-cycles a wine barrel in a multi-functional kai cooker and Mahi Makiha makes eye-catching candles.</desc>
     <episode-num system="dd_progid">10510501</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180322223000 +0000" stop="20180322230000 +0000">
     <title>Four In A Bed</title>
@@ -10097,6 +10104,7 @@
   <programme channel="tv.38" start="20180323190000 +0000" stop="20180323193000 +0000">
     <title>Rural Delivery</title>
     <desc/>
+    <episode-num system="dd_progid">10517346</episode-num>
   </programme>
   <programme channel="tv.38" start="20180323193000 +0000" stop="20180323210000 +0000">
     <title>Infomercial</title>
@@ -11279,7 +11287,7 @@
     <desc>S9 E22 Bernadette and Sheldon spend the night at Apartment 4A playing games. Meanwhile, Leonard and Penny run into Zack.</desc>
     <episode-num system="dd_progid">10410049</episode-num>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20180320063000 +0000" stop="20180320070000 +0000">
@@ -19344,15 +19352,10 @@
     <desc>Day 7 highlights from the XII Paralympic Winter Games from PyeongChang, South Korea.</desc>
     <episode-num system="dd_progid">10511315</episode-num>
   </programme>
-  <programme channel="tv.55" start="20180317002500 +0000" stop="20180317022000 +0000">
+  <programme channel="tv.55" start="20180317002500 +0000" stop="20180317030000 +0000">
     <title>Live: Paralympics - Slalom</title>
     <desc>Live coverage of the Men’s Alpine Skiing Slalom as Kiwi Adam Hall goes for gold at the Jeongseon Alpine Centre in PyeongChang, South Korea.</desc>
     <episode-num system="dd_progid">10511227</episode-num>
-  </programme>
-  <programme channel="tv.55" start="20180317022000 +0000" stop="20180317030000 +0000">
-    <title>Paralympics - Biathlon</title>
-    <desc>Highlights from the final day of action from the Alpensia Biathlon Centre in PyeongChang, South Korea.</desc>
-    <episode-num system="dd_progid">10511284</episode-num>
   </programme>
   <programme channel="tv.55" start="20180317030000 +0000" stop="20180317050000 +0000">
     <title>Live: Paralympics - Ice Hockey</title>
@@ -19420,8 +19423,8 @@
     <episode-num system="dd_progid">10511230</episode-num>
   </programme>
   <programme channel="tv.55" start="20180318013000 +0000" stop="20180318020000 +0000">
-    <title>Paralympics - X Country</title>
-    <desc>Highlights from the Men’s 10km Classic from the Alpensia Biathlon Centre in PyeongChang, South Korea.</desc>
+    <title>Paralympics - Biathlon</title>
+    <desc>Highlights from the Men’s 15km standing from the Alpensia Biathlon Centre in PyeongChang, South Korea.</desc>
     <episode-num system="dd_progid">10511285</episode-num>
   </programme>
   <programme channel="tv.55" start="20180318020000 +0000" stop="20180318030500 +0000">
