@@ -1821,6 +1821,14 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20180326130000 +0000" stop="20180326133000 +0000">
+    <title>ABC Late News</title>
+    <episode-num system="dd_progid">NU1826W061S00</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20180318122200 +0000" stop="20180318132300 +0000">
     <title>Silent Witness</title>
     <episode-num system="dd_progid">ZW1489A002S00</episode-num>
@@ -18745,6 +18753,14 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200428" start="20180326130000 +0000" stop="20180326133000 +0000">
+    <title>Meet the Hockers</title>
+    <episode-num system="dd_progid">MEHO_1_6</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020520" start="20180318122100 +0000" stop="20180318132200 +0000">
     <title>World's Deadliest Weather</title>
     <episode-num system="dd_progid">vLrxqMaOltaPmdaI</episode-num>
@@ -27528,6 +27544,14 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020528" start="20180326130000 +0000" stop="20180326133000 +0000">
+    <title>Raceday Review - Sha Tin</title>
+    <episode-num system="dd_progid">RV25033A</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101406020621" start="20180318123000 +0000" stop="20180318132600 +0000">
     <title>CSI: NY</title>
     <episode-num system="dd_progid">60347E1525924</episode-num>
@@ -30947,6 +30971,14 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406020625" start="20180326130000 +0000" stop="20180326140000 +0000">
+    <title>The Late Show With Stephen Colbert</title>
+    <episode-num system="dd_progid">59896E1512143</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20180318125000 +0000" stop="20180318132200 +0000">
@@ -39943,6 +39975,13 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000304" start="20180326130000 +0000" stop="20180326133000 +0000">
+    <title>Chopped After Hours</title>
+    <episode-num system="dd_progid">804333</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000305" start="20180318123000 +0000" stop="20180318130000 +0000">
     <title>Froth</title>
     <episode-num system="dd_progid">767506</episode-num>
@@ -42386,6 +42425,13 @@
     <episode-num system="dd_progid">746845</episode-num>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20180326130000 +0000" stop="20180326140000 +0000">
+    <title>Volumz</title>
+    <episode-num system="dd_progid">644044</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
 </tv>
