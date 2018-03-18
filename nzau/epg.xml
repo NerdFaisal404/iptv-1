@@ -18138,7 +18138,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180320233000 +0000" stop="20180321003000 +0000">
+  <programme channel="tv.37" start="20180320233000 +0000" stop="20180321002500 +0000">
     <title>Buying &amp; Selling with the Property Brothers</title>
     <desc>Blanca, Teddy, and their three kids live in a tiny home with too few bedrooms and just one bathroom. And they're desperate to find a bigger budget-friendly home that meets their growing needs.</desc>
     <episode-num system="dd_progid">BANS04Ep71</episode-num>
@@ -18146,7 +18146,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180321003000 +0000" stop="20180321013000 +0000">
+  <programme channel="tv.37" start="20180321002500 +0000" stop="20180321013500 +0000">
     <title>The Spice Trail with Kate Humble</title>
     <desc>Kate Humble journeys around the globe on the trail of some of the most coveted spices in the world, to discover how spices shaped our modern world.</desc>
     <episode-num system="dd_progid">STHUM01Ep2</episode-num>
@@ -18154,7 +18154,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180321013000 +0000" stop="20180321023000 +0000">
+  <programme channel="tv.37" start="20180321013500 +0000" stop="20180321023000 +0000">
     <title>Money For Nothing</title>
     <desc>The upcyclers tackle an old road light, a seventies-style sofa and a set of moth-eaten blankets. Will they manage to turn trash into cash?</desc>
     <episode-num system="dd_progid">MOFNO04Ep3</episode-num>
@@ -18170,10 +18170,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180321033000 +0000" stop="20180321043000 +0000">
+  <programme channel="tv.37" start="20180321033000 +0000" stop="20180321040000 +0000">
     <title>Food Safari: Earth</title>
     <desc>Vegetables have a sexy side! Food Safari returns with a brand-new series that explores the endless possibilities of fruits, vegetables, herbs, spices and more. </desc>
     <episode-num system="dd_progid">FSFRE01Ep1</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.37" start="20180321040000 +0000" stop="20180321043000 +0000">
+    <title>Cheese Slices</title>
+    <desc>Cheese Slices takes a delicious look at the world's best-loved cheeses and explores the passion and the skill of the cheese makers who create them.</desc>
+    <episode-num system="dd_progid">CHEE08Ep1</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -18226,10 +18234,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180321103000 +0000" stop="20180321113000 +0000">
+  <programme channel="tv.37" start="20180321103000 +0000" stop="20180321110000 +0000">
     <title>Food Safari: Earth</title>
     <desc>Vegetables have a sexy side! Food Safari returns with a brand-new series that explores the endless possibilities of fruits, vegetables, herbs, spices and more. </desc>
     <episode-num system="dd_progid">FSFRE01Ep1</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.37" start="20180321110000 +0000" stop="20180321113000 +0000">
+    <title>Cheese Slices</title>
+    <desc>Cheese Slices takes a delicious look at the world's best-loved cheeses and explores the passion and the skill of the cheese makers who create them.</desc>
+    <episode-num system="dd_progid">CHEE08Ep1</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -18314,10 +18330,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20180321203000 +0000" stop="20180321213000 +0000">
+  <programme channel="tv.37" start="20180321203000 +0000" stop="20180321210000 +0000">
     <title>Food Safari: Earth</title>
     <desc>Vegetables have a sexy side! Food Safari returns with a brand-new series that explores the endless possibilities of fruits, vegetables, herbs, spices and more. </desc>
     <episode-num system="dd_progid">FSFRE01Ep1</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.37" start="20180321210000 +0000" stop="20180321213000 +0000">
+    <title>Cheese Slices</title>
+    <desc>Cheese Slices takes a delicious look at the world's best-loved cheeses and explores the passion and the skill of the cheese makers who create them.</desc>
+    <episode-num system="dd_progid">CHEE08Ep1</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -76549,17 +76573,17 @@
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180319055500 +0000" stop="20180319063000 +0000">
-    <title>Cold Justice</title>
-    <episode-num system="dd_progid">914053</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000301" start="20180319055500 +0000" stop="20180319063000 +0000">
     <title>Meeting Place</title>
     <episode-num system="dd_progid">850626</episode-num>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000301" start="20180319055500 +0000" stop="20180319063000 +0000">
+    <title>Cold Justice</title>
+    <episode-num system="dd_progid">914053</episode-num>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180319063000 +0000" stop="20180319070000 +0000">
