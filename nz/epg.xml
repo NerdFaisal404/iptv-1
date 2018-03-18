@@ -33066,18 +33066,18 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180323170000 +0000" stop="20180323173000 +0000">
-    <title>The Master's Brush</title>
-    <desc>Discover the stories behind the paintings of Christian artist Nathan Greene, and hear of the lives that have been touched as a result of his work</desc>
-    <episode-num system="dd_progid">MBRUSHx11</episode-num>
+  <programme channel="tv.56" start="20180323170000 +0000" stop="20180323180000 +0000">
+    <title>Cross Connection</title>
+    <desc>In the season opener of Cross Connection, Oleg Kostyuk and his guests do a little digging around the roots of the family tree of Jesus Christ (Matthew 1:1-17) to find some black sheep in the family</desc>
+    <episode-num system="dd_progid">CROSSCON01x101</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180323173000 +0000" stop="20180323183000 +0000">
-    <title>Cross Connection</title>
-    <desc>In the season opener of Cross Connection, Oleg Kostyuk and his guests do a little digging around the roots of the family tree of Jesus Christ (Matthew 1:1-17) to find some black sheep in the family</desc>
-    <episode-num system="dd_progid">CROSSCON01x101</episode-num>
+  <programme channel="tv.56" start="20180323180000 +0000" stop="20180323183000 +0000">
+    <title>The Master's Brush</title>
+    <desc>Discover the stories behind the paintings of Christian artist Nathan Greene, and hear of the lives that have been touched as a result of his work</desc>
+    <episode-num system="dd_progid">MBRUSHx11</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -33098,7 +33098,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180323192500 +0000" stop="20180323200000 +0000">
+  <programme channel="tv.56" start="20180323192500 +0000" stop="20180323195000 +0000">
     <title>Friends and Heroes</title>
     <desc>Macky finally decides he must leave Rome. Now Portia must decide what she wants her future to be.</desc>
     <episode-num system="dd_progid">FRHEROx339</episode-num>
@@ -33106,18 +33106,26 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.56" start="20180323195000 +0000" stop="20180323200000 +0000">
+    <title>Character Builders</title>
+    <desc>It takes snails a long time to get anywhere, so when they want to go to see the circus, they have to get up really early if they are going to be there on time</desc>
+    <episode-num system="dd_progid">CBUILD01x15</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.56" start="20180323200000 +0000" stop="20180323203000 +0000">
     <title>Chosen</title>
-    <desc></desc>
+    <desc>Discover from the story of Miriam, that even if you have really messed up in life, God can still use you, and your salvation is assured. So start celebrating victory in your life today.</desc>
     <episode-num system="dd_progid">JESUS101xC03</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.56" start="20180323203000 +0000" stop="20180323210000 +0000">
-    <title>Off the Grid</title>
-    <desc>Experience the challenges and rewards of working for Adventist World Aviation. The team see the need for medevac services as a patient must be carried down the rugged mountain side</desc>
-    <episode-num system="dd_progid">OFFGRIDx306</episode-num>
+    <title>Missions Today</title>
+    <desc>Altitude evangelism! Discover how God worked through our mission team to reach precious people high in the Andes Mountains in Cuzco, Peru near the stunning Inca ruins of Machu Picchu</desc>
+    <episode-num system="dd_progid">MISSIONST01x04</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -33130,28 +33138,28 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180323220000 +0000" stop="20180323223500 +0000">
+  <programme channel="tv.56" start="20180323220000 +0000" stop="20180323223000 +0000">
     <title>New Perceptions</title>
-    <desc>Dwight Nelson takes a look at the story of the fishing disciples, as Jesus teaches the disciples a new way to live.</desc>
-    <episode-num system="dd_progid">NEWP07x170401</episode-num>
+    <desc>It's one of the most beloved stories from the Bible: the story of Joseph. But what can this ancient story teach us about our own broken relationships?</desc>
+    <episode-num system="dd_progid">NEWP05x150328</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.56" start="20180323223000 +0000" stop="20180323231000 +0000">
+    <title>The Programming of Life</title>
+    <desc>A further examination of the theory of origins, and the chemical and biological theory of evolution, asking the difficult questions in order to reveal the truth about undirected natural processes</desc>
+    <episode-num system="dd_progid">CSPECIALx10</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180323223500 +0000" stop="20180323230500 +0000">
-    <title>Documentary</title>
-    <desc>A World Without Orphans brings together leading adoption advocates from around the world to discuss the need to move away from placing children in orphanages, and toward placement with families.</desc>
-    <episode-num system="dd_progid">HOPESPECIALx50</episode-num>
+  <programme channel="tv.56" start="20180323231000 +0000" stop="20180323234000 +0000">
+    <title>Beyond</title>
+    <desc>What's going on? Where are we headed? Is anyone in control? Beyond Disaster explores environmental, social and financial events to find the bigger picture that unites them all.</desc>
+    <episode-num system="dd_progid">BEYONDx01</episode-num>
     <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.56" start="20180323230500 +0000" stop="20180323234000 +0000">
-    <title>Creation Astronomy</title>
-    <desc>Spike Psarris examines our solar system, comparing evolutionary models with the reality of the planets and their moons in Earth's solar system.</desc>
-    <episode-num system="dd_progid">CAM02x101</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.56" start="20180323234000 +0000" stop="20180324001000 +0000">
@@ -33180,21 +33188,13 @@
   </programme>
   <programme channel="tv.56" start="20180324013000 +0000" stop="20180324024500 +0000">
     <title>The Master Designer</title>
-    <desc>...</desc>
+    <desc>Take a glimpse into the blueprint of creation that reveals a dramatic story. A story of purpose, meaning, significance and ultimately love, all crafted by the Master Designer.</desc>
     <episode-num system="dd_progid">CSPECIALx28</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.56" start="20180324024500 +0000" stop="20180324034000 +0000">
-    <title>Cross Connection</title>
-    <desc>In the season opener of Cross Connection, Oleg Kostyuk and his guests do a little digging around the roots of the family tree of Jesus Christ (Matthew 1:1-17) to find some black sheep in the family</desc>
-    <episode-num system="dd_progid">CROSSCON01x101</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.56" start="20180324034000 +0000" stop="20180324043500 +0000">
     <title>Creation Ministries</title>
     <desc>The surface of the earth presents many puzzles for evolutionary scientists, but can be explained by catastrophic runoff late in the Flood. Wonderful facts that make sense and present truth clearly</desc>
     <episode-num system="dd_progid">CREATIONMIx14</episode-num>
@@ -33202,10 +33202,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20180324043500 +0000" stop="20180324050000 +0000">
+  <programme channel="tv.56" start="20180324034000 +0000" stop="20180324040500 +0000">
     <title>The Master's Brush</title>
     <desc>Discover the stories behind the paintings of Christian artist Nathan Greene, and hear of the lives that have been touched as a result of his work</desc>
     <episode-num system="dd_progid">MBRUSHx11</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.56" start="20180324040500 +0000" stop="20180324050000 +0000">
+    <title>Cross Connection</title>
+    <desc>In the season opener of Cross Connection, Oleg Kostyuk and his guests do a little digging around the roots of the family tree of Jesus Christ (Matthew 1:1-17) to find some black sheep in the family</desc>
+    <episode-num system="dd_progid">CROSSCON01x101</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -33228,10 +33236,98 @@
   </programme>
   <programme channel="tv.56" start="20180324063000 +0000" stop="20180324070000 +0000">
     <title>It Is Written Oceania</title>
-    <desc></desc>
-    <episode-num system="dd_progid">IIWOCEANIAx702</episode-num>
+    <desc>This is the extraordinary story of the ANZAC clergyman, keen on evangelism but utterly against booze, brothels and bad language, who won the hearts of a nation and the nickname 'Fighting Mac'</desc>
+    <episode-num system="dd_progid">IIWOCEANIAx233</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.56" start="20180324070000 +0000" stop="20180324073000 +0000">
+    <title>A Closer Walk</title>
+    <desc>In a world where women comprise 70% of people living below the poverty line, the women of Peru are making a difference for the generations to come with the help of micro-loans and business training</desc>
+    <episode-num system="dd_progid">ADRAACW01x08</episode-num>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.56" start="20180324073000 +0000" stop="20180324090500 +0000">
+    <title>Matthew 2 - Movie</title>
+    <desc>A dramatic visual portrayal of the gospel of Matthew, showing Jesus' Miracles, and many of the people who believed in Him as the Son of God.</desc>
+    <episode-num system="dd_progid">MOVIESx51</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.56" start="20180324090500 +0000" stop="20180324093500 +0000">
+    <title>Who Is Jesus</title>
+    <desc>Actor Bruce Marchiano shares the insights he learned from playing Jesus in the movie of Matthew's gospel. Today, he looks at the healings of Jesus from Matthew's perspective</desc>
+    <episode-num system="dd_progid">WHOIJx02</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.56" start="20180324093500 +0000" stop="20180324100500 +0000">
+    <title>Beyond</title>
+    <desc>What's going on? Where are we headed? Is anyone in control? Beyond Disaster explores environmental, social and financial events to find the bigger picture that unites them all.</desc>
+    <episode-num system="dd_progid">BEYONDx01</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.56" start="20180324100500 +0000" stop="20180324103000 +0000">
+    <title>7th Street Theatre</title>
+    <desc>Gates writes a script for Travis to play the part of the richest man in the world, and Travis realises a few truths about what money really can and can't buy.</desc>
+    <episode-num system="dd_progid">7THSTREET02x18</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.56" start="20180324103000 +0000" stop="20180324110000 +0000">
+    <title>The Nutters' Club</title>
+    <desc>Brenda Cheyne's story is one of terrible injustice and overwhelming pain. Yet she overcame a life shattering experience to help others and start her life afresh.</desc>
+    <episode-num system="dd_progid">NUTCLUB03x09</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.56" start="20180324110000 +0000" stop="20180324113000 +0000">
+    <title>Lifestyle Magazine</title>
+    <desc>Today's special guest almost lost her life to post-partum depression. After a dramatic rescue, Tina Zahn now has hope, and a great life with her family.</desc>
+    <episode-num system="dd_progid">LIFEMAGx2221</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.56" start="20180324113000 +0000" stop="20180324120000 +0000">
+    <title>Cliff!</title>
+    <desc>How do we understand the world that we live in? How do we understand the things that happen to us, the things that are around us? Our interpretation is more compicated than most of us realise.</desc>
+    <episode-num system="dd_progid">CLIFF03x72</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.56" start="20180324120000 +0000" stop="20180324123000 +0000">
+    <title>Creation Astronomy</title>
+    <desc>Spike Psarris examines our solar system, comparing evolutionary models with the reality of the planets and their moons in Earth's solar system.</desc>
+    <episode-num system="dd_progid">CAM02x102</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.56" start="20180324123000 +0000" stop="20180324133000 +0000">
+    <title>Revelation Speaks Peace</title>
+    <desc>Shawn Boonstra takes a look at recent world events to see how they fit into Bible history and prophecy, and provides people with the tools to understand Revelation for themselves.</desc>
+    <episode-num system="dd_progid">REVSPPEACE01x03</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.56" start="20180324133000 +0000" stop="20180324143000 +0000">
+    <title>Celebrating Life In Recovery</title>
+    <desc>Their honesty may surprise you and their stories inspire you. Cheri Peters talks to a new set of guests who share their stories of addiction and healing, physically, emotionally, and spiritually.</desc>
+    <episode-num system="dd_progid">CLIFEIR06x10</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
     </rating>
   </programme>
   <programme channel="tv.21" start="20180317100000 +0000" stop="20180317110000 +0000">
