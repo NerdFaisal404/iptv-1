@@ -15944,6 +15944,9 @@
     <title>English Premier League</title>
     <desc>'Prime looks at the best bits of the week's English Premier League games, with highlights of England's top division football teams battling it out to be the champions. G'</desc>
     <episode-num system="dd_progid">SNZ10985625</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180324013000 +0000" stop="20180324020000 +0000">
     <title>Storage Hunters</title>
@@ -16031,11 +16034,17 @@
     <title>Music And The Spoken Word</title>
     <desc>Religious programme. G</desc>
     <episode-num system="dd_progid">SNZ11050110</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180324173000 +0000" stop="20180324180000 +0000">
     <title>Peter Popoff Ministries</title>
     <desc>Religious programme. G</desc>
-    <episode-num system="dd_progid">SNZ37453413</episode-num>
+    <episode-num system="dd_progid">SNZ11050023</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180324180000 +0000" stop="20180324183000 +0000">
     <title>Faith In Action</title>
@@ -16045,27 +16054,42 @@
   <programme channel="tv.28" start="20180324183000 +0000" stop="20180324193000 +0000">
     <title>Hour of Power</title>
     <desc>Religious programme. G</desc>
-    <episode-num system="dd_progid">SNZ37453423</episode-num>
+    <episode-num system="dd_progid">SNZ11098822</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180324193000 +0000" stop="20180324200000 +0000">
     <title>Beyond Today</title>
     <desc>Religious programme. G</desc>
-    <episode-num system="dd_progid">SNZ37453428</episode-num>
+    <episode-num system="dd_progid">SNZ11099093</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180324200000 +0000" stop="20180324203000 +0000">
     <title>Impact For Life</title>
     <desc>Religious programme. G</desc>
-    <episode-num system="dd_progid">SNZ37453433</episode-num>
+    <episode-num system="dd_progid">SNZ11098969</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180324203000 +0000" stop="20180324210000 +0000">
     <title>Life TV</title>
     <desc>Religious programme. G</desc>
-    <episode-num system="dd_progid">SNZ37453438</episode-num>
+    <episode-num system="dd_progid">SNZ11099041</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180324210000 +0000" stop="20180324213000 +0000">
     <title>Running With Fire</title>
     <desc>Religious programme. G</desc>
-    <episode-num system="dd_progid">SNZ37453443</episode-num>
+    <episode-num system="dd_progid">SNZ11099145</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180324213000 +0000" stop="20180324230000 +0000">
     <title>Sport Box</title>
@@ -16174,6 +16198,9 @@
     <title>English Premier League</title>
     <desc>'Prime looks at the best bits of the week's English Premier League games, with highlights of England's top division football teams battling it out to be the champions. G (R)'</desc>
     <episode-num system="dd_progid">SNZ10985625</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20180325113000 +0000" stop="20180325124500 +0000">
     <title>Game Of Thrones</title>
