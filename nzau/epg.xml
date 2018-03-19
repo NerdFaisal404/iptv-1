@@ -497,11 +497,17 @@
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Kendall Jenner and Portugal The Man.</desc>
     <episode-num system="dd_progid">10491805</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180319210000 +0000" stop="20180319213000 +0000">
     <title>Whanau Living</title>
     <desc>Rob Hope-Eade shows how his restaurant quality food can be made easy for any whanau. Nicola Kawana joins community leaders at Riverside Community Centre to help out with some big transformations.</desc>
     <episode-num system="dd_progid">10510498</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180319213000 +0000" stop="20180319220000 +0000">
     <title>Four In A Bed</title>
@@ -544,6 +550,9 @@
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Kendall Jenner and Portugal The Man.</desc>
     <episode-num system="dd_progid">10491805</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20180320020000 +0000" stop="20180320025500 +0000">
     <title>Tipping Point</title>
@@ -2230,6 +2239,9 @@
     <title>Fanimals</title>
     <desc>Today we meet Fergie the kitten on 'SPCA Diaries', catch up with an 'Aotearoa Superhero', and our Ask Me Anything Vet Stacey is here to answer all your questions!</desc>
     <episode-num system="dd_progid">10513032</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180320033000 +0000" stop="20180320040000 +0000">
     <title>Friends</title>
@@ -2309,6 +2321,9 @@
     <title>I'm A Celebrity Get Me Out Of Here Austr</title>
     <desc>Aussie celebrities are dumped in a harsh jungle climate, and left to fend for themselves. Mental and physical challenges test their resolve and abilities, as they compete to win $100,000 for charity.</desc>
     <episode-num system="dd_progid">10498897</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180320103000 +0000" stop="20180320110000 +0000">
     <title>Mom</title>
@@ -2544,6 +2559,9 @@
     <title>Fanimals</title>
     <desc>Today you could win with 'Call of Nature', we go behind the scenes and see what our teachers do after school in 'Teacher's Pet', and help Jess find out why cats eyes glow!</desc>
     <episode-num system="dd_progid">10513033</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180321033000 +0000" stop="20180321040000 +0000">
     <title>Friends</title>
@@ -3509,6 +3527,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180324023000 +0000" stop="20180324030000 +0000">
     <title>Dr. Ken</title>
@@ -3743,6 +3764,12 @@
     <title>Mike &amp; Molly</title>
     <desc>S6 E4 Mike turns into a super-vigilant cop after he gets caught napping, literally, by a thief who steals his wallet while he's asleep in the squad car.</desc>
     <episode-num system="dd_progid">10421583</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180325013000 +0000" stop="20180325040000 +0000">
     <title>Home And Away</title>
@@ -3786,6 +3813,9 @@
     <title>Australian Spartan</title>
     <desc>S1 E4 Tonight, this demanding obstacle course is impossible to conquer alone! The remaining teams test their endurance as they compete in the Semi Final of Australian Spartan. Who will triumph?</desc>
     <episode-num system="dd_progid">10508991</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180325074000 +0000" stop="20180325092500 +0000">
     <title>Unfinished Business</title>
@@ -3795,6 +3825,9 @@
       <stereo>dolby</stereo>
     </audio>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20180325092500 +0000" stop="20180325111500 +0000">
     <title>Underworld: Awakening</title>
@@ -4061,7 +4094,7 @@
   </programme>
   <programme channel="tv.10" start="20180326043000 +0000" stop="20180326050000 +0000">
     <title>Home And Away</title>
-    <desc>The water's warm and the drama's even hotter! Don't miss the latest from the guys and girls in Summer Bay.</desc>
+    <desc>The race is on to rescue Ash from beneath the car before it’s too late. Hunter wrestles with a guilty conscience after breaking up with Jennifer.</desc>
     <episode-num system="dd_progid">10487159</episode-num>
   </programme>
   <programme channel="tv.10" start="20180326050000 +0000" stop="20180326053000 +0000">
@@ -9076,11 +9109,17 @@
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Kendall Jenner and Portugal The Man.</desc>
     <episode-num system="dd_progid">10491805</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180319220000 +0000" stop="20180319223000 +0000">
     <title>Whanau Living</title>
     <desc>Rob Hope-Eade shows how his restaurant quality food can be made easy for any whanau. Nicola Kawana joins community leaders at Riverside Community Centre to help out with some big transformations.</desc>
     <episode-num system="dd_progid">10510498</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180319223000 +0000" stop="20180319230000 +0000">
     <title>Four In A Bed</title>
@@ -9123,6 +9162,9 @@
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Kendall Jenner and Portugal The Man.</desc>
     <episode-num system="dd_progid">10491805</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20180320030000 +0000" stop="20180320035500 +0000">
     <title>Tipping Point</title>
@@ -10731,6 +10773,9 @@
     <title>Fanimals</title>
     <desc>Today we meet Fergie the kitten on 'SPCA Diaries', catch up with an 'Aotearoa Superhero', and our Ask Me Anything Vet Stacey is here to answer all your questions!</desc>
     <episode-num system="dd_progid">10513032</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180320043000 +0000" stop="20180320050000 +0000">
     <title>Friends</title>
@@ -10801,6 +10846,9 @@
     <title>I'm A Celebrity Get Me Out Of Here Austr</title>
     <desc>Aussie celebrities are dumped in a harsh jungle climate, and left to fend for themselves. Mental and physical challenges test their resolve and abilities, as they compete to win $100,000 for charity.</desc>
     <episode-num system="dd_progid">10498897</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180320113000 +0000" stop="20180320120000 +0000">
     <title>Mom</title>
@@ -11009,6 +11057,9 @@
     <title>Fanimals</title>
     <desc>Today you could win with 'Call of Nature', we go behind the scenes and see what our teachers do after school in 'Teacher's Pet', and help Jess find out why cats eyes glow!</desc>
     <episode-num system="dd_progid">10513033</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180321043000 +0000" stop="20180321050000 +0000">
     <title>Friends</title>
@@ -11851,6 +11902,9 @@
     <title>Once Upon A Time</title>
     <desc>S7 E2 Henry calls on his family for help in finding Cinderella; Jacinda searches for a way to see Lucy; Victoria attempts to get rid of Henry.</desc>
     <episode-num system="dd_progid">10492424</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180324033000 +0000" stop="20180324040000 +0000">
     <title>Dr. Ken</title>
@@ -12052,6 +12106,9 @@
     <title>Mike &amp; Molly</title>
     <desc>S6 E4 Mike turns into a super-vigilant cop after he gets caught napping, literally, by a thief who steals his wallet while he's asleep in the squad car.</desc>
     <episode-num system="dd_progid">10421583</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180325023000 +0000" stop="20180325050000 +0000">
     <title>Home And Away</title>
@@ -12089,12 +12146,18 @@
     <title>Australian Spartan</title>
     <desc>S1 E4 Tonight, this demanding obstacle course is impossible to conquer alone! The remaining teams test their endurance as they compete in the Semi Final of Australian Spartan. Who will triumph?</desc>
     <episode-num system="dd_progid">10508991</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180325084000 +0000" stop="20180325102500 +0000">
     <title>Unfinished Business</title>
     <desc>Premiere: What began as a routine business trip goes off the rails in every way possible. Starring Vince Vaughn and Dave Franco.</desc>
     <episode-num system="dd_progid">10489113</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20180325102500 +0000" stop="20180325121500 +0000">
     <title>Underworld: Awakening</title>
@@ -12331,7 +12394,7 @@
   </programme>
   <programme channel="tv.14" start="20180326053000 +0000" stop="20180326060000 +0000">
     <title>Home And Away</title>
-    <desc>The water's warm and the drama's even hotter! Don't miss the latest from the guys and girls in Summer Bay.</desc>
+    <desc>The race is on to rescue Ash from beneath the car before it’s too late. Hunter wrestles with a guilty conscience after breaking up with Jennifer.</desc>
     <episode-num system="dd_progid">10487159</episode-num>
   </programme>
   <programme channel="tv.14" start="20180326060000 +0000" stop="20180326063000 +0000">
@@ -19484,6 +19547,9 @@
     <title>Fresh Prince Of Bel Air</title>
     <desc>Will proposes a black history class be instituted at Bel-Air Academy, and gets a surprise when his Aunt Viv arrives to teach it.</desc>
     <episode-num system="dd_progid">62512</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20180320042500 +0000" stop="20180320045500 +0000">
     <title>Black-Ish</title>
@@ -19566,7 +19632,7 @@
   </programme>
   <programme channel="tv.55" start="20180320204000 +0000" stop="20180320211000 +0000">
     <title>Comm Games Preview</title>
-    <desc>The final preview show to the Games which start early next month in the Gold Coast.</desc>
+    <desc>The final preview show to the Games which start on the 4th of April in the Gold Coast.</desc>
     <episode-num system="dd_progid">10502188</episode-num>
   </programme>
   <programme channel="tv.55" start="20180320211000 +0000" stop="20180320230000 +0000">
@@ -19970,7 +20036,7 @@
   </programme>
   <programme channel="tv.55" start="20180324020000 +0000" stop="20180324023000 +0000">
     <title>Comm Games Preview</title>
-    <desc>The final preview show to the Games which start early next month in the Gold Coast.</desc>
+    <desc>The final preview show to the Games which start on the 4th of April in the Gold Coast.</desc>
     <episode-num system="dd_progid">10502188</episode-num>
   </programme>
   <programme channel="tv.55" start="20180324023000 +0000" stop="20180324050000 +0000">
@@ -20055,7 +20121,7 @@
   </programme>
   <programme channel="tv.55" start="20180325003000 +0000" stop="20180325010000 +0000">
     <title>Comm Games Preview</title>
-    <desc>The final preview show to the Games which start early next month in the Gold Coast.</desc>
+    <desc>The final preview show to the Games which start on the 4th of April in the Gold Coast.</desc>
     <episode-num system="dd_progid">10502188</episode-num>
   </programme>
   <programme channel="tv.55" start="20180325010000 +0000" stop="20180325013000 +0000">
@@ -76602,17 +76668,17 @@
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180319055500 +0000" stop="20180319063000 +0000">
-    <title>Meeting Place</title>
-    <episode-num system="dd_progid">850626</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000301" start="20180319055500 +0000" stop="20180319063000 +0000">
     <title>Cold Justice</title>
     <episode-num system="dd_progid">914053</episode-num>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000301" start="20180319055500 +0000" stop="20180319063000 +0000">
+    <title>Meeting Place</title>
+    <episode-num system="dd_progid">850626</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20180319063000 +0000" stop="20180319070000 +0000">
