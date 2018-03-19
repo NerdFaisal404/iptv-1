@@ -15596,18 +15596,18 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300436" start="20180321104000 +0000" stop="20180321124000 +0000">
-    <title>Fatal Honeymoon</title>
-    <episode-num system="dd_progid">FAHO1__1</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204300436" start="20180321104000 +0000" stop="20180321125000 +0000">
     <title>Trial &amp; Retribution</title>
     <episode-num system="dd_progid">TRRE_1_1</episode-num>
     <rating system="Freeview">
       <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204300436" start="20180321104000 +0000" stop="20180321124000 +0000">
+    <title>Fatal Honeymoon</title>
+    <episode-num system="dd_progid">FAHO1__1</episode-num>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204300436" start="20180321124000 +0000" stop="20180321133500 +0000">
@@ -28991,11 +28991,11 @@
     </rating>
   </programme>
   <programme channel="tv.101406030631" start="20180325070000 +0000" stop="20180325073000 +0000">
-    <title>Formula One</title>
-    <episode-num system="dd_progid">60357E1526470</episode-num>
+    <title>Bondi Rescue</title>
+    <episode-num system="dd_progid">60306E1471245</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406030631" start="20180325073000 +0000" stop="20180325083000 +0000">
