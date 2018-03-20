@@ -195,8 +195,8 @@
         "url": "http://iptv.matthuisman.nz/nz/tv.redbull.tv.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "video": {
             "codec": "h264",
-            "width": 1920,
-            "height": 1080
+            "width": 1280,
+            "height": 720
         },
         "audio": {
             "codec": "aac",
