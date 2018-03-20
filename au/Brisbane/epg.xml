@@ -12532,6 +12532,7 @@
   <programme channel="tv.101204000401" start="20180324123000 +0000" stop="20180324133000 +0000">
     <title>Travel Guides</title>
     <episode-num system="dd_progid">TRGU_2_7</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
