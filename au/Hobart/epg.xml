@@ -12127,19 +12127,19 @@
     </rating>
   </programme>
   <programme channel="tv.101204300430" start="20180322020000 +0000" stop="20180322023000 +0000">
-    <title>Extra</title>
-    <episode-num system="dd_progid">EXTR_24_137</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204300430" start="20180322020000 +0000" stop="20180322023000 +0000">
     <title>Movie Juice</title>
     <episode-num system="dd_progid">MOJU_1_19</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204300430" start="20180322020000 +0000" stop="20180322023000 +0000">
+    <title>Extra</title>
+    <episode-num system="dd_progid">EXTR_24_137</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101204300430" start="20180322023000 +0000" stop="20180322040000 +0000">
