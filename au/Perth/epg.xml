@@ -10294,19 +10294,19 @@
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180322050000 +0000" stop="20180322053000 +0000">
-    <title>Luxury Homes Revealed</title>
-    <episode-num system="dd_progid">LUHO_2_5</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204600461" start="20180322050000 +0000" stop="20180322053000 +0000">
     <title>Movie Juice</title>
     <episode-num system="dd_progid">MOJU_1_19</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600461" start="20180322050000 +0000" stop="20180322053000 +0000">
+    <title>Luxury Homes Revealed</title>
+    <episode-num system="dd_progid">LUHO_2_5</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180322053000 +0000" stop="20180322070000 +0000">
