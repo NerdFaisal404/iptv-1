@@ -21001,17 +21001,17 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060562" start="20180323113000 +0000" stop="20180323123400 +0000">
-    <title>Air Crash Investigations</title>
-    <episode-num system="dd_progid">turbwtuSmdaPmdux</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305060562" start="20180323113000 +0000" stop="20180323120200 +0000">
     <title>Border Security: International</title>
     <episode-num system="dd_progid">q2CsqNLPmdaPoaxx</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305060562" start="20180323113000 +0000" stop="20180323123400 +0000">
+    <title>Air Crash Investigations</title>
+    <episode-num system="dd_progid">turbwtuSmdaPmdux</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -21398,16 +21398,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060562" start="20180325100000 +0000" stop="20180325110100 +0000">
-    <title>Mighty Ships</title>
-    <episode-num system="dd_progid">tvrzuMaOltaPmdaJ</episode-num>
+  <programme channel="tv.101305060562" start="20180325100000 +0000" stop="20180325103100 +0000">
+    <title>M*A*S*H</title>
+    <episode-num system="dd_progid">tuftscLPmdaOnqxx</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060562" start="20180325100000 +0000" stop="20180325103100 +0000">
-    <title>M*A*S*H</title>
-    <episode-num system="dd_progid">tuftscLPmdaOnqxx</episode-num>
+  <programme channel="tv.101305060562" start="20180325100000 +0000" stop="20180325110100 +0000">
+    <title>Mighty Ships</title>
+    <episode-num system="dd_progid">tvrzuMaOltaPmdaJ</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
