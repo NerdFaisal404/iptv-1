@@ -12810,7 +12810,6 @@
   <programme channel="tv.101204600464" start="20180325150000 +0000" stop="20180325153000 +0000">
     <title>Luxury Homes Revealed</title>
     <episode-num system="dd_progid">LUHO_2_12</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -12942,7 +12941,6 @@
   <programme channel="tv.101204600464" start="20180326040000 +0000" stop="20180326043000 +0000">
     <title>Luxury Homes Revealed</title>
     <episode-num system="dd_progid">LUHO_2_12</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -14667,7 +14665,6 @@
   <programme channel="tv.101204600467" start="20180327072500 +0000" stop="20180327082500 +0000">
     <title>Expedition Unknown</title>
     <episode-num system="dd_progid">EXUN_2_214</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -21845,16 +21842,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060562" start="20180325100000 +0000" stop="20180325110100 +0000">
-    <title>Mighty Ships</title>
-    <episode-num system="dd_progid">tvrzuMaOltaPmdaJ</episode-num>
+  <programme channel="tv.101305060562" start="20180325100000 +0000" stop="20180325103100 +0000">
+    <title>M*A*S*H</title>
+    <episode-num system="dd_progid">tuftscLPmdaOnqxx</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060562" start="20180325100000 +0000" stop="20180325103100 +0000">
-    <title>M*A*S*H</title>
-    <episode-num system="dd_progid">tuftscLPmdaOnqxx</episode-num>
+  <programme channel="tv.101305060562" start="20180325100000 +0000" stop="20180325110100 +0000">
+    <title>Mighty Ships</title>
+    <episode-num system="dd_progid">tvrzuMaOltaPmdaJ</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -23034,6 +23031,9 @@
     <title>Don't Believe In Never</title>
     <episode-num system="dd_progid">uKbtudeHltaPmdeG</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
   </programme>
   <programme channel="tv.101305060563" start="20180322120000 +0000" stop="20180322130000 +0000">
     <title>World's Most Amazing Videos</title>

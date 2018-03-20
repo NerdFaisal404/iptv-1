@@ -14440,7 +14440,6 @@
   <programme channel="tv.101204200424" start="20180325120000 +0000" stop="20180325123000 +0000">
     <title>Luxury Homes Revealed</title>
     <episode-num system="dd_progid">LUHO_2_12</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -14572,7 +14571,6 @@
   <programme channel="tv.101204200424" start="20180326010000 +0000" stop="20180326013000 +0000">
     <title>Luxury Homes Revealed</title>
     <episode-num system="dd_progid">LUHO_2_12</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -16352,7 +16350,6 @@
   <programme channel="tv.101204200427" start="20180327042500 +0000" stop="20180327052500 +0000">
     <title>Expedition Unknown</title>
     <episode-num system="dd_progid">EXUN_2_214</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -22584,6 +22581,9 @@
     <title>Don't Believe In Never</title>
     <episode-num system="dd_progid">uKbtudeHltaPmdeG</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180322120300 +0000" stop="20180322125900 +0000">
     <title>Ice Road Truckers</title>
@@ -23055,6 +23055,9 @@
     <title>AFL GWS v Western Bulldogs</title>
     <episode-num system="dd_progid">quzmrMeHltaPmdeI</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180325045900 +0000" stop="20180325060000 +0000">
     <title>United Stuff of America</title>
@@ -23082,6 +23085,9 @@
     <title>AFL West Coast v Sydney</title>
     <episode-num system="dd_progid">quzmrMeHltaPmdeG</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
   </programme>
   <programme channel="tv.101305020523" start="20180325110100 +0000" stop="20180325130200 +0000">
     <title>Ghost Rider: Spirit of Vengeance</title>
