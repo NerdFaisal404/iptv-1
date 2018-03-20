@@ -3483,6 +3483,9 @@
     <title>The Checkout</title>
     <episode-num system="dd_progid">LE1718H009S00</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.101002210221" start="20180327093100 +0000" stop="20180327103300 +0000">
     <title>The Human Body: Secrets of Your Life Revealed</title>
@@ -10457,7 +10460,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20180324164100 +0000" stop="20180324180000 +0000">
+  <programme channel="tv.101002210224" start="20180324163100 +0000" stop="20180324180000 +0000">
     <title>Station Close</title>
     <episode-num system="dd_progid">TX1701H001S00</episode-num>
     <rating system="Freeview">
@@ -21370,16 +21373,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180325070000 +0000" stop="20180325073100 +0000">
-    <title>M*A*S*H</title>
-    <episode-num system="dd_progid">tuftscLPmdaOnqxx</episode-num>
+  <programme channel="tv.101305020522" start="20180325070000 +0000" stop="20180325080100 +0000">
+    <title>Mighty Ships</title>
+    <episode-num system="dd_progid">tvrzuMaOltaPmdaJ</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180325070000 +0000" stop="20180325080100 +0000">
-    <title>Mighty Ships</title>
-    <episode-num system="dd_progid">tvrzuMaOltaPmdaJ</episode-num>
+  <programme channel="tv.101305020522" start="20180325070000 +0000" stop="20180325073100 +0000">
+    <title>M*A*S*H</title>
+    <episode-num system="dd_progid">tuftscLPmdaOnqxx</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
