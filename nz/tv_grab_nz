@@ -1,6 +1,6 @@
 #!/bin/sh
 
-URL="http://iptv.matthuisman.nz/nz/epg.xml"
+URL="http://iptv.matthuisman.nz/nz/epg.xml.gz"
 DESCRIPTION="tv_grab_nz (MattHuisman.nz)"
 VERSION="1.0"
 
