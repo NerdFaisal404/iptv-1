@@ -4471,7 +4471,7 @@
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
   <programme channel="tv.11" start="20180321223000 +0000" stop="20180321230000 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <episode-num system="dd_progid">T807938</episode-num>
     <rating system="Freeview">
@@ -4479,7 +4479,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180321230000 +0000" stop="20180321233000 +0000">
-    <title>Family Feud Australia</title>
+    <title>Family Feud Australia (Encore)</title>
     <desc>It's the Australian version of Family Feud. Watch Aussie families battle against each other, answering questions that have been put to 100 people to determine the most popular responses.</desc>
     <episode-num system="dd_progid">T804192</episode-num>
     <rating system="Freeview">
@@ -4495,7 +4495,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180322003000 +0000" stop="20180322020000 +0000">
-    <title>Married At First Sight Australia</title>
+    <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. At the final dinner party, our couples face their biggest challenge yet: The Honesty Box. S5 Ep28</desc>
     <episode-num system="dd_progid">T816154</episode-num>
     <rating system="Freeview">
@@ -4579,12 +4579,12 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180322092500 +0000" stop="20180322095500 +0000">
+  <programme channel="tv.11" start="20180322092500 +0000" stop="20180322100000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
     <episode-num system="dd_progid">T805544</episode-num>
   </programme>
-  <programme channel="tv.11" start="20180322095500 +0000" stop="20180322105500 +0000">
+  <programme channel="tv.11" start="20180322100000 +0000" stop="20180322110000 +0000">
     <title>Motive</title>
     <desc>The detectives' investigation into the murder of a high-end call girl is complicated by the revelation of her shocking double life. S3 Ep2</desc>
     <episode-num system="dd_progid">T723730</episode-num>
@@ -4595,7 +4595,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20180322105500 +0000" stop="20180322160000 +0000">
+  <programme channel="tv.11" start="20180322110000 +0000" stop="20180322160000 +0000">
     <title>Infomercials</title>
     <desc/>
     <episode-num system="dd_progid">T1</episode-num>
@@ -4631,7 +4631,7 @@
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
   <programme channel="tv.11" start="20180322223000 +0000" stop="20180322230000 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <episode-num system="dd_progid">T807939</episode-num>
     <rating system="Freeview">
@@ -4639,7 +4639,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20180322230000 +0000" stop="20180322233000 +0000">
-    <title>Family Feud Australia</title>
+    <title>Family Feud Australia (Encore)</title>
     <desc>It's the Australian version of Family Feud. Watch Aussie families battle against each other, answering questions that have been put to 100 people to determine the most popular responses.</desc>
     <episode-num system="dd_progid">T804193</episode-num>
     <rating system="Freeview">
@@ -4840,6 +4840,9 @@
     <title>The Goldbergs</title>
     <desc>New Episode. Beverly tries to combat an empty nest by nursing coach Mellor back to health after a fall off the rope climb, and Erica and her roommates get on each other's nerves. S5 Ep16</desc>
     <episode-num system="dd_progid">T785713</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -5037,6 +5040,9 @@
     <title>Married At First Sight Australia</title>
     <desc>New Episode. In an epic start to the Vow Renewal ceremonies, we see the first two couples make the life-changing decision; whether they have chosen to stay with their partner. S5 Ep29</desc>
     <episode-num system="dd_progid">T816155</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180325074000 +0000" stop="20180325091000 +0000">
     <title>Stan</title>
@@ -5136,6 +5142,9 @@
     <title>Married At First Sight Australia</title>
     <desc>New Episode. In an epic start to the Vow Renewal ceremonies, we see the first two couples make the life-changing decision; whether they have chosen to stay with their partner. S5 Ep29</desc>
     <episode-num system="dd_progid">T816155</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180326020000 +0000" stop="20180326023000 +0000">
     <title>Entertainment Tonight</title>
@@ -5488,6 +5497,9 @@
     <title>Swipe Right For Murder</title>
     <desc>Final. New Episode. Carly Ryan was an Australian teenager who thought she was falling for 18-year-old Brandon. But Brandon wasn't real; he was actually a violent 50-year-old online predator. S1 Ep8</desc>
     <episode-num system="dd_progid">T762894</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20180328090500 +0000" stop="20180328093500 +0000">
     <title>Towies</title>
@@ -5668,6 +5680,9 @@
     <title>The Real Housewives Of Beverly Hills</title>
     <desc>After her explosive encounter with Erika, Teddi worries about seeing her at Lisa Rinna's luncheon.</desc>
     <episode-num system="dd_progid">T790681</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180321083000 +0000" stop="20180321092800 +0000">
     <title>Vanderpump Rules</title>
@@ -5784,6 +5799,9 @@
     <title>The Real Housewives Of Beverly Hills</title>
     <desc>After her explosive encounter with Erika, Teddi worries about seeing her at Lisa Rinna's luncheon.</desc>
     <episode-num system="dd_progid">T790681</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180322023300 +0000" stop="20180322023500 +0000">
     <title>The Dish</title>
@@ -5996,6 +6014,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817018</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180323063000 +0000" stop="20180323070000 +0000">
     <title>Beverly Hills Pawn</title>
@@ -6025,6 +6046,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817018</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180323095000 +0000" stop="20180323104000 +0000">
     <title>Intervention Canada</title>
@@ -6077,6 +6101,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817018</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180323215500 +0000" stop="20180323222500 +0000">
     <title>Say Yes To The Dress Atlanta</title>
@@ -6114,6 +6141,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817018</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180323235000 +0000" stop="20180324004500 +0000">
     <title>World Of Dance</title>
@@ -6135,6 +6165,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817018</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180324014500 +0000" stop="20180324024000 +0000">
     <title>Million Dollar Decorators</title>
@@ -6196,6 +6229,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817018</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180324073000 +0000" stop="20180324083000 +0000">
     <title>Keeping Up With The Kardashians</title>
@@ -6286,6 +6322,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817018</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180324210000 +0000" stop="20180324214500 +0000">
     <title>How Do I Look?</title>
@@ -6315,6 +6354,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817018</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180324232000 +0000" stop="20180325001000 +0000">
     <title>60 Days In</title>
@@ -6368,6 +6410,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817018</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180325023500 +0000" stop="20180325033500 +0000">
     <title>How Do I Look?</title>
@@ -6429,6 +6474,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817018</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180325093500 +0000" stop="20180325100500 +0000">
     <title>Don't Be Tardy</title>
@@ -6489,6 +6537,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817018</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180325215500 +0000" stop="20180325225000 +0000">
     <title>David Tutera: Celebrations</title>
@@ -6510,6 +6561,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817018</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20180325234500 +0000" stop="20180326004000 +0000">
     <title>Real Housewives Of New York City</title>
@@ -12889,7 +12943,7 @@
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
   <programme channel="tv.27" start="20180321233000 +0000" stop="20180322000000 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <episode-num system="dd_progid">T807938</episode-num>
     <rating system="Freeview">
@@ -12897,7 +12951,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180322000000 +0000" stop="20180322003000 +0000">
-    <title>Family Feud Australia</title>
+    <title>Family Feud Australia (Encore)</title>
     <desc>It's the Australian version of Family Feud. Watch Aussie families battle against each other, answering questions that have been put to 100 people to determine the most popular responses.</desc>
     <episode-num system="dd_progid">T804192</episode-num>
     <rating system="Freeview">
@@ -12913,7 +12967,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180322013000 +0000" stop="20180322030000 +0000">
-    <title>Married At First Sight Australia</title>
+    <title>Married At First Sight Australia (Encore)</title>
     <desc>New Episode. At the final dinner party, our couples face their biggest challenge yet: The Honesty Box. S5 Ep28</desc>
     <episode-num system="dd_progid">T816154</episode-num>
     <rating system="Freeview">
@@ -12991,12 +13045,12 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180322102500 +0000" stop="20180322105500 +0000">
+  <programme channel="tv.27" start="20180322102500 +0000" stop="20180322110000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
     <episode-num system="dd_progid">T805544</episode-num>
   </programme>
-  <programme channel="tv.27" start="20180322105500 +0000" stop="20180322115500 +0000">
+  <programme channel="tv.27" start="20180322110000 +0000" stop="20180322120000 +0000">
     <title>Motive</title>
     <desc>The detectives' investigation into the murder of a high-end call girl is complicated by the revelation of her shocking double life. S3 Ep2</desc>
     <episode-num system="dd_progid">T723730</episode-num>
@@ -13004,7 +13058,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20180322115500 +0000" stop="20180322170000 +0000">
+  <programme channel="tv.27" start="20180322120000 +0000" stop="20180322170000 +0000">
     <title>Infomercials</title>
     <desc/>
     <episode-num system="dd_progid">T1</episode-num>
@@ -13040,7 +13094,7 @@
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
   <programme channel="tv.27" start="20180322233000 +0000" stop="20180323000000 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <episode-num system="dd_progid">T807939</episode-num>
     <rating system="Freeview">
@@ -13048,7 +13102,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20180323000000 +0000" stop="20180323003000 +0000">
-    <title>Family Feud Australia</title>
+    <title>Family Feud Australia (Encore)</title>
     <desc>It's the Australian version of Family Feud. Watch Aussie families battle against each other, answering questions that have been put to 100 people to determine the most popular responses.</desc>
     <episode-num system="dd_progid">T804193</episode-num>
     <rating system="Freeview">
@@ -13425,6 +13479,9 @@
     <title>Married At First Sight Australia</title>
     <desc>New Episode. In an epic start to the Vow Renewal ceremonies, we see the first two couples make the life-changing decision; whether they have chosen to stay with their partner. S5 Ep29</desc>
     <episode-num system="dd_progid">T816155</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180325084000 +0000" stop="20180325101000 +0000">
     <title>Stan</title>
@@ -13521,6 +13578,9 @@
     <title>Married At First Sight Australia</title>
     <desc>New Episode. In an epic start to the Vow Renewal ceremonies, we see the first two couples make the life-changing decision; whether they have chosen to stay with their partner. S5 Ep29</desc>
     <episode-num system="dd_progid">T816155</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180326030000 +0000" stop="20180326033000 +0000">
     <title>Entertainment Tonight</title>
@@ -13867,6 +13927,9 @@
     <title>Swipe Right For Murder</title>
     <desc>Final. New Episode. Carly Ryan was an Australian teenager who thought she was falling for 18-year-old Brandon. But Brandon wasn't real; he was actually a violent 50-year-old online predator. S1 Ep8</desc>
     <episode-num system="dd_progid">T762894</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20180328100500 +0000" stop="20180328103500 +0000">
     <title>Towies</title>
@@ -14044,6 +14107,9 @@
     <title>The Real Housewives Of Beverly Hills</title>
     <desc>After her explosive encounter with Erika, Teddi worries about seeing her at Lisa Rinna's luncheon.</desc>
     <episode-num system="dd_progid">T790681</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180321093000 +0000" stop="20180321102800 +0000">
     <title>Vanderpump Rules</title>
@@ -14160,6 +14226,9 @@
     <title>The Real Housewives Of Beverly Hills</title>
     <desc>After her explosive encounter with Erika, Teddi worries about seeing her at Lisa Rinna's luncheon.</desc>
     <episode-num system="dd_progid">T790681</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180322033300 +0000" stop="20180322033500 +0000">
     <title>The Dish</title>
@@ -14372,6 +14441,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817018</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180323073000 +0000" stop="20180323080000 +0000">
     <title>Beverly Hills Pawn</title>
@@ -14401,6 +14473,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817018</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180323105000 +0000" stop="20180323114000 +0000">
     <title>Intervention Canada</title>
@@ -14453,6 +14528,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817018</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180323225500 +0000" stop="20180323232500 +0000">
     <title>Say Yes To The Dress Atlanta</title>
@@ -14490,6 +14568,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817018</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180324005000 +0000" stop="20180324014500 +0000">
     <title>World Of Dance</title>
@@ -14511,6 +14592,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817018</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180324024500 +0000" stop="20180324034000 +0000">
     <title>Million Dollar Decorators</title>
@@ -14572,6 +14656,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817018</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180324083000 +0000" stop="20180324093000 +0000">
     <title>Keeping Up With The Kardashians</title>
@@ -14662,6 +14749,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817018</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180324220000 +0000" stop="20180324224500 +0000">
     <title>How Do I Look?</title>
@@ -14691,6 +14781,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817018</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180325002000 +0000" stop="20180325011000 +0000">
     <title>60 Days In</title>
@@ -14744,6 +14837,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817018</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180325033500 +0000" stop="20180325043500 +0000">
     <title>How Do I Look?</title>
@@ -14805,6 +14901,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817018</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180325103500 +0000" stop="20180325110500 +0000">
     <title>Don't Be Tardy</title>
@@ -14865,6 +14964,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817018</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180325225500 +0000" stop="20180325235000 +0000">
     <title>David Tutera: Celebrations</title>
@@ -14886,6 +14988,9 @@
     <title>The Dish</title>
     <desc>A fast paced wrap of all things entertainment, celebrity and Bravo hosted by Cassidy Morris</desc>
     <episode-num system="dd_progid">T817018</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20180326004500 +0000" stop="20180326014000 +0000">
     <title>Real Housewives Of New York City</title>
@@ -26127,50 +26232,50 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180321103000 +0000" stop="20180321113000 +0000">
-    <title>vbeaute Anti-Ageing Skincare</title>
-    <desc>Vbeaute products are Swiss formulated with the latest in beauty technology, visibly helping your skin fight the appearance of ageing.</desc>
+    <title>DELUXE Massage Chair</title>
+    <desc>Indulge in full body relaxation with your own massage chair! Choose from a variety of massage styles, pressures and areas to help loosen tight, knotted muscles and improve circulation.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180321113000 +0000" stop="20180321123000 +0000">
-    <title>Enjoy Decorative Lighting</title>
-    <desc>Soften your décor with mood lighting! Enjoy lighting is a range of LED -powered candles, with a super-realistic melted edge and flame-like flicker. Shop the huge range of colours and sizes today!</desc>
+    <title>Garmin Guides Your Journey</title>
+    <desc>Functional sleek and practical youll never get lost again with the Garmin range of GPS navigators. A Garmin GPS is easy to use with wide touch screens and also feature a long battery life.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180321123000 +0000" stop="20180321133000 +0000">
+    <title>Cordelia St Fashion</title>
+    <desc>Offering stylish apparel without an age barrier, Cordelia Street is an exciting and innovative label whose motto is fashion for bodies in the real world.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.45" start="20180321133000 +0000" stop="20180321143000 +0000">
     <title>Bella Bodies Shapewear</title>
     <desc>Feel like a new woman! Bella Bodies Shapewear introduces this revolutionary bodysuit. Sexy and comfortable, it compresses and flattens the tummy and midriff areas while remaining undetectable.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.45" start="20180321133000 +0000" stop="20180321143000 +0000">
-    <title>iRobot Robotic Vacuum</title>
-    <desc>Step into the future with iRobot! Be swept off your feet with innovative and effective cleaning from your iRobot robot vacuum.</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.45" start="20180321143000 +0000" stop="20180321153000 +0000">
-    <title>Electronic Solutions</title>
-    <desc>Upgrade your lifestyle with exciting Electronics Solutions. We?ve hand selected the best new gadgets from speakers to turntables, clothes dryers to laminators, all in one show!</desc>
+    <title>Vitamin C Cleansing Showers</title>
+    <desc>Chlorine in harsh tap water may irritate and dry out your skin. The Vitamin C Shower Infuser emits fine amounts of Vitamin C to help neutralise chlorine and improve the quality of your shower.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180321153000 +0000" stop="20180321163000 +0000">
-    <title>Les Nereides Jewellery</title>
-    <desc>The Les Nereides collection is a celebration of colour! Each piece is hand-made and hand-painted in France, with feminine styles and uplifting hues to refresh up your entire look!</desc>
+    <title>Berkshire Blankets</title>
+    <desc>Stumble into bed and slumber through the night with luxuriously soft and incredibly more-ish Berkshire Blankets. Nothing beats material you can feel yourself melting into.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180321163000 +0000" stop="20180321173000 +0000">
-    <title>Cordelia St Fashion</title>
-    <desc>Offering stylish apparel without an age barrier, Cordelia Street is an exciting and innovative label whose motto is fashion for bodies in the real world.</desc>
+    <title>Les Nereides Jewellery</title>
+    <desc>The Les Nereides collection is a celebration of colour! Each piece is hand-made and hand-painted in France, with feminine styles and uplifting hues to refresh up your entire look!</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -26190,15 +26295,15 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20180321193000 +0000" stop="20180321203000 +0000">
-    <title>Enjoy Decorative Lighting</title>
-    <desc>Soften your décor with mood lighting! Enjoy lighting is a range of LED -powered candles, with a super-realistic melted edge and flame-like flicker. Shop the huge range of colours and sizes today!</desc>
+    <title>HP Explore And Create</title>
+    <desc>Enjoy more shopping, more entertainment and more brands today on TVSN! Up next is iconic global brand HP with more ways for you to explore and create using the latest in their technological designs.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.45" start="20180321203000 +0000" stop="20180321213000 +0000">
-    <title>HP Explore And Create</title>
-    <desc>Enjoy more shopping, more entertainment and more brands today on TVSN! Up next is iconic global brand HP with more ways for you to explore and create using the latest in their technological designs.</desc>
+    <title>Vitamin C Cleansing Showers</title>
+    <desc>Chlorine in harsh tap water may irritate and dry out your skin. The Vitamin C Shower Infuser emits fine amounts of Vitamin C to help neutralise chlorine and improve the quality of your shower.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -63823,19 +63928,19 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20180323020000 +0000" stop="20180323023000 +0000">
-    <title>The Great Australian Doorstep</title>
-    <episode-num system="dd_progid">rKjbrdaGltaPmdaJ</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305020522" start="20180323020000 +0000" stop="20180323030000 +0000">
     <title>The Great Outdoors</title>
     <episode-num system="dd_progid">rLDOmNLPmdaNn6xx</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020522" start="20180323020000 +0000" stop="20180323023000 +0000">
+    <title>The Great Australian Doorstep</title>
+    <episode-num system="dd_progid">rKjbrdaGltaPmdaJ</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20180323023000 +0000" stop="20180323030000 +0000">

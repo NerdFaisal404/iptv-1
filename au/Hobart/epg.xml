@@ -12092,16 +12092,16 @@
     </rating>
   </programme>
   <programme channel="tv.101204300430" start="20180322123000 +0000" stop="20180322130000 +0000">
-    <title>The Footy Show</title>
-    <episode-num system="dd_progid">FOSH__3</episode-num>
+    <title>Movie Juice</title>
+    <episode-num system="dd_progid">MOJU_1_19</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204300430" start="20180322123000 +0000" stop="20180322130000 +0000">
-    <title>Movie Juice</title>
-    <episode-num system="dd_progid">MOJU_1_19</episode-num>
+    <title>The Footy Show</title>
+    <episode-num system="dd_progid">FOSH__3</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
@@ -22961,15 +22961,15 @@
     </rating>
   </programme>
   <programme channel="tv.101305030532" start="20180323223000 +0000" stop="20180323225900 +0000">
-    <title>The Garden Show</title>
-    <episode-num system="dd_progid">t2zgstyHltaPmdaO</episode-num>
+    <title>The Great Australian Doorstep</title>
+    <episode-num system="dd_progid">rKjbrdaGltaPmdaJ</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305030532" start="20180323223000 +0000" stop="20180323225900 +0000">
-    <title>The Great Australian Doorstep</title>
-    <episode-num system="dd_progid">rKjbrdaGltaPmdaJ</episode-num>
+    <title>The Garden Show</title>
+    <episode-num system="dd_progid">t2zgstyHltaPmdaO</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -23161,20 +23161,20 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20180325010000 +0000" stop="20180325015800 +0000">
-    <title>The Great Outdoors</title>
-    <episode-num system="dd_progid">rLDOn4LPmdaNmaxx</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305030532" start="20180325010000 +0000" stop="20180325030000 +0000">
     <title>2018 World Cup Gymnastics</title>
     <episode-num system="dd_progid">uKbtudeHltaPmdeI</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305030532" start="20180325010000 +0000" stop="20180325015800 +0000">
+    <title>The Great Outdoors</title>
+    <episode-num system="dd_progid">rLDOn4LPmdaNmaxx</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305030532" start="20180325030000 +0000" stop="20180325033000 +0000">
@@ -23206,16 +23206,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20180325070000 +0000" stop="20180325080100 +0000">
-    <title>Mighty Ships</title>
-    <episode-num system="dd_progid">tvrzuMaOltaPmdaJ</episode-num>
+  <programme channel="tv.101305030532" start="20180325070000 +0000" stop="20180325073100 +0000">
+    <title>M*A*S*H</title>
+    <episode-num system="dd_progid">tuftscLPmdaOnqxx</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20180325070000 +0000" stop="20180325073100 +0000">
-    <title>M*A*S*H</title>
-    <episode-num system="dd_progid">tuftscLPmdaOnqxx</episode-num>
+  <programme channel="tv.101305030532" start="20180325070000 +0000" stop="20180325080100 +0000">
+    <title>Mighty Ships</title>
+    <episode-num system="dd_progid">tvrzuMaOltaPmdaJ</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
