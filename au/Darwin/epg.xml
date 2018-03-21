@@ -22283,19 +22283,19 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20180323023000 +0000" stop="20180323030000 +0000">
-    <title>The Great Australian Doorstep</title>
-    <episode-num system="dd_progid">rKjbrdaGltaPmdaJ</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305050552" start="20180323023000 +0000" stop="20180323033000 +0000">
     <title>The Great Outdoors</title>
     <episode-num system="dd_progid">rLDOmNLPmdaNn6xx</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050552" start="20180323023000 +0000" stop="20180323030000 +0000">
+    <title>The Great Australian Doorstep</title>
+    <episode-num system="dd_progid">rKjbrdaGltaPmdaJ</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305050552" start="20180323030000 +0000" stop="20180323033000 +0000">
@@ -22681,20 +22681,20 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20180325013000 +0000" stop="20180325033000 +0000">
-    <title>2018 World Cup Gymnastics</title>
-    <episode-num system="dd_progid">uKbtudeHltaPmdeI</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305050552" start="20180325013000 +0000" stop="20180325022800 +0000">
     <title>The Great Outdoors</title>
     <episode-num system="dd_progid">rLDOn4LPmdaNmaxx</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050552" start="20180325013000 +0000" stop="20180325033000 +0000">
+    <title>2018 World Cup Gymnastics</title>
+    <episode-num system="dd_progid">uKbtudeHltaPmdeI</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305050552" start="20180325033000 +0000" stop="20180325040000 +0000">
