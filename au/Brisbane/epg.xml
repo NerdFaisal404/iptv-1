@@ -22699,17 +22699,17 @@
     </rating>
   </programme>
   <programme channel="tv.101305040542" start="20180323233000 +0000" stop="20180323235900 +0000">
-    <title>The Garden Show</title>
-    <episode-num system="dd_progid">t2zgstyHltaPmdaO</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305040542" start="20180323233000 +0000" stop="20180323235900 +0000">
     <title>The Great Australian Doorstep</title>
     <episode-num system="dd_progid">rKjbrdaGltaPmdaJ</episode-num>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305040542" start="20180323233000 +0000" stop="20180323235900 +0000">
+    <title>The Garden Show</title>
+    <episode-num system="dd_progid">t2zgstyHltaPmdaO</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305040542" start="20180323235900 +0000" stop="20180324020000 +0000">
