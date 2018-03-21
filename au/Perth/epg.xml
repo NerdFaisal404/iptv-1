@@ -10302,19 +10302,19 @@
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180322050000 +0000" stop="20180322053000 +0000">
-    <title>Luxury Homes Revealed</title>
-    <episode-num system="dd_progid">LUHO_2_5</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204600461" start="20180322050000 +0000" stop="20180322053000 +0000">
     <title>Movie Juice</title>
     <episode-num system="dd_progid">MOJU_1_19</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600461" start="20180322050000 +0000" stop="20180322053000 +0000">
+    <title>Luxury Homes Revealed</title>
+    <episode-num system="dd_progid">LUHO_2_5</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20180322053000 +0000" stop="20180322070000 +0000">
@@ -21510,20 +21510,20 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060562" start="20180325040000 +0000" stop="20180325060000 +0000">
-    <title>2018 World Cup Gymnastics</title>
-    <episode-num system="dd_progid">uKbtudeHltaPmdeI</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305060562" start="20180325040000 +0000" stop="20180325045800 +0000">
     <title>The Great Outdoors</title>
     <episode-num system="dd_progid">rLDOn4LPmdaNmaxx</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305060562" start="20180325040000 +0000" stop="20180325060000 +0000">
+    <title>2018 World Cup Gymnastics</title>
+    <episode-num system="dd_progid">uKbtudeHltaPmdeI</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305060562" start="20180325060000 +0000" stop="20180325063000 +0000">
@@ -21555,16 +21555,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060562" start="20180325100000 +0000" stop="20180325103100 +0000">
-    <title>M*A*S*H</title>
-    <episode-num system="dd_progid">tuftscLPmdaOnqxx</episode-num>
+  <programme channel="tv.101305060562" start="20180325100000 +0000" stop="20180325110100 +0000">
+    <title>Mighty Ships</title>
+    <episode-num system="dd_progid">tvrzuMaOltaPmdaJ</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060562" start="20180325100000 +0000" stop="20180325110100 +0000">
-    <title>Mighty Ships</title>
-    <episode-num system="dd_progid">tvrzuMaOltaPmdaJ</episode-num>
+  <programme channel="tv.101305060562" start="20180325100000 +0000" stop="20180325103100 +0000">
+    <title>M*A*S*H</title>
+    <episode-num system="dd_progid">tuftscLPmdaOnqxx</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
